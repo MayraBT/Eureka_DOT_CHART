@@ -1,0 +1,26 @@
+{"grade":3,"weeks":[
+{"q":1,"wk":1,"start":"2026-08-10","days":[
+ {"dow":"Mon","kind":"off","text":"Teacher Work Day"},
+ {"dow":"Tue","les":["M1.L1"],"teks":["3.4D","3.4E","3.4F"],"bundled":["3.4K"],"lo":"I will understand equal groups as multiplication by identifying the relationship between repeated addition sentences, unit form, and multiplication equations.","te":"1r-po3B0rvksKmlnKqPtP5gOLMEf1G3I2#AAAArhzbrjE"},
+ {"dow":"Wed","les":["M1.L2"],"teks":["3.4D","3.4E","3.4F"],"bundled":["3.4K"],"lo":"I am learning to relate multiplication facts to the array model by using rows and columns."},
+ {"dow":"Thu","les":["M1.L3"],"teks":["3.4D","3.4E","3.4F"],"bundled":["3.4K"],"lo":"I am learning to interpret the meaning of factors—the size of the group or the number of groups."},
+ {"dow":"Fri","les":["M1.L4"],"teks":["3.4H","3.4J","3.5D"],"bundled":["3.4K"],"lo":"I am learning to model and solve division problems by finding the size of each group."}]},
+{"q":1,"wk":2,"start":"2026-08-17","days":[
+ {"dow":"Mon","les":["M1.L5"],"teks":["3.4H","3.4J","3.5D"],"bundled":["3.4K"],"lo":"I will learn to model and solve division problems by finding the number of equal groups."},
+ {"dow":"Tue","kind":"assess","text":"i-Ready Inform BOY"},
+ {"dow":"Wed","kind":"assess","text":"i-Ready Inform BOY"},
+ {"dow":"Thu","kind":"assess","text":"i-Ready Inform BOY"},
+ {"dow":"Fri","les":["M1.L6"],"teks":["3.4H","3.4J","3.5D"],"bundled":["3.4K"],"lo":"I will interpret the unknown in division by using an array model to connect multiplication and division."}]},
+{"q":1,"wk":3,"start":"2026-08-24","days":[
+ {"dow":"Mon","les":["M1.L7","M1.L8"],"teks":["3.4E"],"bundled":["3.5D","3.4F","3.4D"],"lo":"I am learning to demonstrate the commutative property of multiplication by rotating arrays 90 degrees to practice related facts."},
+ {"dow":"Tue","les":["M1.L9"],"teks":["3.4E"],"bundled":["3.5D","3.4D","3.4F"],"lo":"I am learning to find related multiplication facts by adding or subtracting equal groups in array models to solve larger facts."},
+ {"dow":"Wed","les":["M1.L10"],"teks":["3.4E"],"bundled":["3.4D","3.5D","3.4F"],"lo":"I am learning to model the distributive property with arrays to decompose units as a strategy to multiply."},
+ {"dow":"Thu","les":["M1.L11"],"teks":["3.4E","3.4F","3.4H","3.4J","3.5D"],"bundled":["3.4K","3.5A","3.5B"],"lo":"I am learning to model division as the unknown factor in multiplication using arrays and strip diagrams."},
+ {"dow":"Fri","les":["M1.L12","M1.L13"],"teks":["3.4E","3.4F","3.4H","3.4J","3.5D"],"bundled":["3.4K","3.5A","3.5B"],"lo":"I am learning to interpret the quotient as the number of groups or the number of objects in each group using units of 2."}]},
+{"q":1,"wk":4,"start":"2026-08-31","days":[
+ {"dow":"Mon","les":["M1.L14"],"teks":["3.4E","3.4K"],"bundled":["3.4D","3.4H","3.4J","3.5D"],"lo":"I am learning to skip-count objects or model to build fluency with multiplication facts using units of 4."},
+ {"dow":"Tue","les":["M1.L15"],"teks":["3.4E","3.4K"],"bundled":["3.4D","3.4H","3.4J","3.5D"],"lo":"I am learning to represent arrays and strip diagrams to model the commutative property of multiplication."},
+ {"dow":"Wed","les":["M1.L16"],"teks":["3.4E","3.4K"],"bundled":["3.4D","3.4H","3.4J","3.5D"],"lo":"I am learning to use the distributive property as a strategy to find related multiplication facts."},
+ {"dow":"Thu","les":["M1.L18","M1.L19"],"teks":["3.4F","3.4K"],"bundled":["3.4D","3.4H","3.4J","3.5D","3.4E"],"lo":"I am learning to apply the distributive property as a strategy to multiply and divide with units of 4 with arrays and strip diagrams."},
+ {"dow":"Fri","kind":"assess","text":"Learning Check #1 (Module 1)"}]}
+]}

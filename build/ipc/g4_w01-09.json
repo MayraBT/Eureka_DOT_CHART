@@ -1,0 +1,921 @@
+{
+ "grade": 4,
+ "weeks": [
+  {
+   "q": 1,
+   "wk": 1,
+   "start": "2026-08-10",
+   "title": "Q1: W1 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L1"
+     ],
+     "teks": [
+      "4.2A"
+     ],
+     "bundled": [
+      "4.2B",
+      "4.2C"
+     ],
+     "lo": "I am learning to interpret a multiplication equation as a comparison using “ten times as many as.”",
+     "sc": [
+      "I can describe the relationship of “ten times as many as” for tens and ones.",
+      "I can describe the relationship of “ten times as many as” for hundreds and tens.",
+      "I can describe the relationship of “ten times as many as” for thousands and hundreds.",
+      "I can model each relationship of “ten times as many as” using a place value chart.",
+      "I can write an equation to represent the model on the place value chart."
+     ],
+     "te": {
+      "M1.L1": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAArjbcUfQ"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L2"
+     ],
+     "teks": [
+      "4.2A"
+     ],
+     "bundled": [
+      "4.2B",
+      "4.2C"
+     ],
+     "lo": "I am learning that a digit represents 10 times the value of the digit to its right.",
+     "sc": [
+      "I can multiply single units by 10 to build a place value chart to 1 million and divide by 10 to reverse the process.",
+      "I can multiply multiple copies of one unit by 10.",
+      "I can divide multiple copies of one unit by 10.",
+      "I can multiply and divide copies of two different units by 10"
+     ],
+     "te": {
+      "M1.L2": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAArjbcUf4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L3"
+     ],
+     "teks": [
+      "4.2B"
+     ],
+     "bundled": [
+      "4.2A",
+      "4.2C"
+     ],
+     "lo": "I am learning to name numbers within 1 billion by building an understanding of the place value chart and placement of commas.",
+     "sc": [
+      "I can recognize patterns in the base ten system.",
+      "I can place commas and name the numbers.",
+      "I can add to make 10 of a unit and bundle up to 1 billion.",
+      "I can multiply 10 times as many with multiple units."
+     ],
+     "te": {
+      "M1.L3": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAArjbcUgM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L4"
+     ],
+     "teks": [
+      "4.2B"
+     ],
+     "bundled": [
+      "4.2A",
+      "4.2C"
+     ],
+     "lo": "I am learning to read and write multi-digit numbers using base ten numerals, number names, and expanded form.",
+     "sc": [
+      "I can write a five-digit number in word form and expanded notation",
+      "I can write a number in standard and expanded notation when given a number in word form.",
+      "I can convert a number in expanded notation to word and standard form.",
+      "I can label to represent numbers on the place value chart."
+     ],
+     "te": {
+      "M1.L4": "https://drive.google.com/file/d/10bc_sMz7MoP-7B3ZAVSIzSifEtsjNL5R/view?usp=sharing"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 2,
+   "start": "2026-08-17",
+   "title": "Q1: W2 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L5"
+     ],
+     "teks": [
+      "4.2C"
+     ],
+     "bundled": [
+      "4.2A",
+      "4.2B"
+     ],
+     "lo": "I am learning to compare numbers based on meanings of the digits and using <, >, = to show the comparison.",
+     "sc": [
+      "I can compare two numbers.",
+      "I can compare two numbers with an equal amount of the largest unit.",
+      "I can compare the values of multiple numbers using a place value chart.",
+      "I can compare numbers in different number forms."
+     ],
+     "te": {
+      "M1.L5": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAArjbcUmw"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L6"
+     ],
+     "teks": [
+      "4.2C"
+     ],
+     "bundled": [
+      "4.4B"
+     ],
+     "lo": "I am learning to find 1, 10, and 100 thousand and 1, 10, and 100 million more and less than a given number.",
+     "sc": [
+      "I can find 1 thousand more and 1 thousand less than a given number.",
+      "I can find 10 thousand more and 10 thousand less than a given number.",
+      "I can find 100 thousand more and 10 thousand less than a given number.",
+      "I can find 10 million more and 10 million less than a given number.",
+      "I can find 100 million more and 100 million less than a given number."
+     ],
+     "te": {
+      "M1.L6": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydRO0"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 3,
+   "start": "2026-08-24",
+   "title": "Q1: W3 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L7"
+     ],
+     "teks": [
+      "4.2D"
+     ],
+     "bundled": [
+      "4.4G"
+     ],
+     "lo": "I am learning to round multi-digit numbers to the thousands place using the vertical number line.",
+     "sc": [
+      "I can use a vertical number line to round four-digit numbers to the nearest thousand.",
+      "I can use a vertical number line to round five- and six-digit numbers to the nearest thousand."
+     ],
+     "te": {
+      "M1.L7": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydRO4"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L8"
+     ],
+     "teks": [
+      "4.2D"
+     ],
+     "bundled": [
+      "4.4G"
+     ],
+     "lo": "I am learning to round multi-digit numbers to any place using the vertical number line.",
+     "sc": [
+      "I can use a vertical number line to round five- and six-digit numbers to the nearest ten thousand.",
+      "I can use a vertical number line to round six-digit numbers to the nearest hundred thousand.",
+      "I can use estimation with addition and subtraction."
+     ],
+     "te": {
+      "M1.L8": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydRO8"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L9"
+     ],
+     "teks": [
+      "4.2D"
+     ],
+     "bundled": [
+      "4.4G"
+     ],
+     "lo": "I am learning to use place value understanding to round multi-digit numbers to any place value.",
+     "sc": [
+      "I can round to the nearest thousand without using a number line.",
+      "I can round to the nearest ten thousand or hundred thousand without using a vertical line.",
+      "I can round to any value without using a number line."
+     ],
+     "te": {
+      "M1.L9": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydROk"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L10"
+     ],
+     "teks": [
+      "4.4G"
+     ],
+     "bundled": [
+      "4.2D"
+     ],
+     "lo": "I am learning to use place value understanding to round multi-digit numbers to any place value using real-world applications.",
+     "sc": [
+      "I can round one number to multiple units.",
+      "I can determine the best estimate to solve a word problem.",
+      "I can choose a unit of rounding to solve a word problem."
+     ],
+     "te": {
+      "M1.L10": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydROw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L11"
+     ],
+     "teks": [
+      "4.5A"
+     ],
+     "bundled": [
+      "4.4A",
+      "4.2B",
+      "4.2C"
+     ],
+     "lo": "I am learning to add multi-digit whole numbers and solve word problems using strip diagrams.",
+     "sc": [
+      "I can add, renaming once, using place value disks in a place value chart.",
+      "I can add, renaming in multiple units, using the standard algorithm and the place value chart.",
+      "I can add, renaming multiple units using the standard algorithm.",
+      "I can solve a one-step word problem using the standard algorithm modeled with a strip diagram."
+     ],
+     "te": {
+      "M1.L11": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydR0E"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 4,
+   "start": "2026-08-31",
+   "title": "Q1: W4 IPC Gr4 Eureka Math 26-27 2",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L12"
+     ],
+     "teks": [
+      "4.4G"
+     ],
+     "bundled": [
+      "4.4A",
+      "4.5A",
+      "4.2D"
+     ],
+     "lo": "I am learning to solve multi-step addition word problems modeled with strip diagrams, and assess the reasonableness of answers using rounding.",
+     "sc": [
+      "I can solve a multi-step word problem using a strip diagram.",
+      "I can solve a two-step word problem using a strip problem and assess the reasonableness of the answer.",
+      "I can solve a multi-step word problem using a strip diagram and determine reasonableness."
+     ],
+     "te": {
+      "M1.L12": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydR0M"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L13"
+     ],
+     "teks": [
+      "4.4A"
+     ],
+     "bundled": [
+      "4.2B",
+      "4.5A"
+     ],
+     "lo": "I am learning to use the standard algorithm to subtract, and solve word problems using strip diagrams.",
+     "sc": [
+      "I can use a place value chart and place value disks to model subtracting alongside the algorithm, regrouping 1 hundred into 10 tens.",
+      "I can regroup 1 thousand into 10 hundreds using the subtraction algorithm.",
+      "Solve a subtraction word problem, regrouping 1 ten thousand into 10 thousands."
+     ],
+     "te": {
+      "M1.L13": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydR0Q"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L14"
+     ],
+     "teks": [
+      "4.5A"
+     ],
+     "bundled": [
+      "4.2B",
+      "4.4A"
+     ],
+     "lo": "I am learning to subtract, using the standard algorithm, and solve word problems using strip diagrams.",
+     "sc": [
+      "I can subtract when I need to decompose twice.",
+      "I can subtract when I need to decompose three times.",
+      "I can use the subtraction algorithm to solve a word problem, modeled with a strip diagram, decomposing units 3 times."
+     ],
+     "te": {
+      "M1.L14": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAriydR0U"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "Learning Check #1"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L16"
+     ],
+     "teks": [
+      "4.4G"
+     ],
+     "bundled": [
+      "4.4A",
+      "4.5A"
+     ],
+     "lo": "I am learning to solve two-step subtraction word problems modeled with strip diagrams and use rounding to assess reasonableness.",
+     "sc": [
+      "I can solve a two-step word problem modeled with a strip diagram and assess the reasonableness of the answer using rounding.",
+      "I can solve a two-step problem, compared with smaller, unknown word problems"
+     ],
+     "te": {
+      "M1.L16": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAr9tvAL4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 5,
+   "start": "2026-09-07",
+   "title": "Q1: W5 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Student/Staff Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L18"
+     ],
+     "teks": [
+      "4.4A"
+     ],
+     "bundled": [
+      "4.5A",
+      "4.4G"
+     ],
+     "lo": "I am learning to solve multi-step addition and subtraction, modeled with strip diagrams, and rounding to assess reasonableness.",
+     "sc": [
+      "I can solve multi-step word problems requiring addition and/or subtraction, modeled with a strip diagram.",
+      "I can check the reasonableness of the answer using estimation."
+     ],
+     "te": {
+      "M1.L18": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAr9tvAL0"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L1"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning to model and solve metric length word problems using addition and subtraction.",
+     "sc": [
+      "I can understand 1 centimeter, 1 meter, and 1 kilometer in terms of concrete objects.",
+      "I can compare the sizes and note the relationships between meters and kilometers as conversion equivalencies.",
+      "I can add mixed units of length using the algorithm or simplifying strategies.",
+      "I can subtract mixed units of length using the algorithm or simplifying strategies."
+     ],
+     "te": {
+      "M2.L1": "https://drive.google.com/file/d/1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_/edit?disco=AAAAuYJTgBA"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L2"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning to model and solve metric mass word problems using addition and subtraction.",
+     "sc": [
+      "I can convert kilograms to grams.",
+      "I can add mixed units of mass using the algorithm or a simplifying strategy.",
+      "I can subtract mixed units of mass using the algorithm or a simplifying strategy.",
+      "I can solve a word problem involving mixed units of mass, modeled with a strip diagram."
+     ],
+     "te": {
+      "M2.L2": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAuYJTgOM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L3"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning to model and solve metric capacity word problems using addition and subtraction.",
+     "sc": [
+      "I can compare the sizes and note the relationship between 1 liter and 1 milliliter.",
+      "I can add mixed units of capacity using the algorithm or a simplifying strategy.",
+      "I can subtract mixed units of capacity using the algorithm or a simplifying strategy.",
+      "I can solve a word problem involving mixed units of capacity."
+     ],
+     "te": {
+      "M2.L3": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAuYJTgUo"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 6,
+   "start": "2026-09-14",
+   "title": "Q1: W6 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L4"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.2A",
+      "4.2C",
+      "4.8C"
+     ],
+     "lo": "I am learning to know and relate metric units to place value units in order to express measurements in different units.",
+     "sc": [
+      "I can note the patterns of “times as much as” among units of length, mass, capacity, and place value.",
+      "I can relate units of length, mass, and capacity to units of place value.",
+      "I can compare metric units using place value knowledge and a number line."
+     ],
+     "te": {
+      "M2.L4": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAuYJTgUw"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L5"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [
+      "4.8A",
+      "4.8B"
+     ],
+     "lo": "I am learning to solve multi-step word problems involving length, mass, and capacity.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution for reasonableness."
+     ],
+     "te": {
+      "M2.L5": "https://drive.google.com/open?id=1IRL6IdG0m07xfYqAD-FnGb9TmbMbP3s_&disco=AAAAuYJTgU0"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L1"
+     ],
+     "teks": [
+      "4.5C"
+     ],
+     "bundled": [
+      "4.5D"
+     ],
+     "lo": "I am learning to use the formulas for area and perimeter of rectangles.",
+     "sc": [
+      "I can use formulas to solve for missing sides and compare the perimeter and area of a rectangle.",
+      "I can find all possible side combinations for a given area and their perimeters of rectangles."
+     ],
+     "te": {
+      "M3.L1": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAsAQjUO0"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L2"
+     ],
+     "teks": [
+      "4.5D"
+     ],
+     "bundled": [
+      "4.5A",
+      "4.8C"
+     ],
+     "lo": "I am learning to solve multiplicative comparison word problems using the area and perimeter formulas.",
+     "sc": [
+      "I can model a rectangle when given one side and use the interpret statement “times as” to find the missing side.",
+      "I can solve a multiplicative comparison word problem using the area and perimeter formulas.",
+      "I can observe the relationship of area and perimeter while solving a multiplicative word problem using the area and perimeter formulas."
+     ],
+     "te": {
+      "M3.L2": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjURQ"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L3"
+     ],
+     "teks": [
+      "4.5D"
+     ],
+     "bundled": [
+      "4.8C",
+      "4.5A"
+     ],
+     "lo": "I am learning to demonstrate understanding of area and perimeter formulas by solving multi-step real-world problems.",
+     "sc": [
+      "I can find all possible side lengths of a rectangle for a given area and use them to find the perimeter.",
+      "I can write an algebraic equation using a variable to stand for an unknown number."
+     ],
+     "te": {
+      "M3.L3": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUSI"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 7,
+   "start": "2026-09-21",
+   "title": "Q1: W7 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L4"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4B"
+     ],
+     "lo": "I am learning to interpret and represent patterns when multiplying by 10, 100, and 1,000 in arrays and numerically.",
+     "sc": [
+      "I can draw place value disks to represent products when multiplying by a one-digit and two-digit number.",
+      "I can decompose multiples of 10 before multiplying."
+     ],
+     "te": {
+      "M3.L4": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUTE"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L5"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4B"
+     ],
+     "lo": "I am learning to interpret and represent patterns when multiplying by 10, 100, and 1,000 in arrays and numerically.",
+     "sc": [
+      "I can use place value disks to represent multiplication patterns.",
+      "I can numerically represent single-digit numbers times a multiple of 10.",
+      "I can solve a word problem by finding the sum of two different products of a single-digit number by a two- and three-digit multiple of 10 and involving 1,000 times as many."
+     ],
+     "te": {
+      "M3.L5": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAvXgF1Ck"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L6"
+     ],
+     "teks": [
+      "4.4C"
+     ],
+     "bundled": [
+      "4.4D",
+      "4.4B"
+     ],
+     "lo": "I am learning to multiply two-digit multiples of 10 by two-digit multiples of 10 with the area model.",
+     "sc": [
+      "I can use the place value chart to multiply a two-digit multiple of 10 by a two-digit multiple of 10.",
+      "I can create and use an area model to represent the multiplication of a two-digit multiple of 10 by a two-digit multiple of 10."
+     ],
+     "te": {
+      "M3.L6": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUTU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "Learning Check #2"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L7"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C"
+     ],
+     "lo": "I am learning how to use place value disks to represent two-digit by one-digit multiplication.",
+     "sc": [
+      "I can represent a multiplication problem with disks.",
+      "I can write a matching equation for the model.",
+      "I can record the partial products vertically."
+     ],
+     "te": {
+      "M3.L7": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUTk"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 8,
+   "start": "2026-09-28",
+   "title": "Q1: W8 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L8"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4B",
+      "4.4C",
+      "4.4H"
+     ],
+     "lo": "I am learning how to use place value disks to represent three- and four- digit by one-digit multiplication.",
+     "sc": [
+      "I can represent multiplication with disks, write a matching equation, and record the partial products vertically.",
+      "I can model and solve multiplication problems using a place value chart.",
+      "I can solve multiplication problems using a partial products drawing on a place value chart."
+     ],
+     "te": {
+      "M3.L8": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUUk"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L9"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4B",
+      "4.4C",
+      "4.4H"
+     ],
+     "lo": "I am learning how to multiply three- and four-digit numbers by one-digit numbers applying the standard algorithm.",
+     "sc": [
+      "I can represent and solve multiplication in the place value chart and relate the process to solving using the standard algorithm.",
+      "I can solve multiplication using the partial products algorithm, solve using the standard algorithm, and relate the two methods to each other.",
+      "I can multiply three- and four-digit numbers by one-digit numbers applying the standard algorithm."
+     ],
+     "te": {
+      "M3.L9": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUW0"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L11"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4B",
+      "4.4C",
+      "4.4H"
+     ],
+     "lo": "I am learning how to connect the area model and the partial products method to the standard algorithm.",
+     "sc": [
+      "I can multiply a three-digit number by a one-digit number using the area model.",
+      "I can multiply a three-digit number by a one-digit number, connecting the area model to the standard algorithm.",
+      "I can solve a word problem using the standard algorithm, area model, or partial products strategy."
+     ],
+     "te": {
+      "M3.L11": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUW4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L12"
+     ],
+     "teks": [
+      "4.5A"
+     ],
+     "bundled": [
+      "4.4D",
+      "4.4H"
+     ],
+     "lo": "I am learning how to solve two-step word problems, including multiplicative comparison.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution."
+     ],
+     "te": {
+      "M3.L12": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUW8"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L13"
+     ],
+     "teks": [
+      "4.5A"
+     ],
+     "bundled": [
+      "4.4D",
+      "4.4H"
+     ],
+     "lo": "I am learning how to use multiplication, addition, or subtraction to solve multi-step word problems.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution."
+     ],
+     "te": {
+      "M3.L13": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAsAQjUXE"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 9,
+   "start": "2026-10-05",
+   "title": "Q1: W9 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L14"
+     ],
+     "teks": [
+      "4.4H"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4G",
+      "4.4H",
+      "4.5A"
+     ],
+     "lo": "I am learning how to solve division word problems with remainders.",
+     "sc": [
+      "I can divide a two-digit number by a one-digit number modeled with an array.",
+      "I can divide a two-digit number by a one-digit number with a remainder modeled with an array.",
+      "I can divide a two-digit number by a one-digit number with a remainder modeled with a strip diagram.",
+      "I can divide a two-digit number by a one-digit number, interpreting the remainder."
+     ],
+     "te": {
+      "M3.L14": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAvbvKebg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "Standards Mastery Check #1 Math"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Standards Mastery Check #1 RLA"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    },
+    {
+     "dow": "Fri",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2668 @@
+{
+"3": {
+"en": [
+{
+"cluster": "Representation and Comparison of Whole Numbers",
+"sub": "Representation",
+"codes": [
+"3.2A",
+"3.2B"
+],
+"new": [
+"expanded notation*",
+"hundred thousands",
+"ten thousands*"
+],
+"prev": [
+"expanded form",
+"hundreds*",
+"ones",
+"place value",
+"standard form*",
+"tens*",
+"thousands*"
+]
+},
+{
+"cluster": "Representation and Comparison of Whole Numbers",
+"sub": "Comparison",
+"codes": [
+"3.2D"
+],
+"new": [],
+"prev": [
+"equal (=)*",
+"greater than (>)*",
+"greatest to least*",
+"least to greatest",
+"less than (<)*"
+]
+},
+{
+"cluster": "Representation and Comparison of Whole Numbers",
+"sub": "Rounding",
+"codes": [
+"3.2C"
+],
+"new": [
+"halfway*",
+"round"
+],
+"prev": [
+"nearest 10, 100"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Representation",
+"codes": [
+"3.3A",
+"3.3B",
+"3.3E",
+"3.7A"
+],
+"new": [
+"denominator",
+"numerator",
+"sixths",
+"thirds"
+],
+"prev": [
+"eighths",
+"equal parts",
+"equal shares*",
+"fourths",
+"fractional part",
+"halves",
+"part of a whole",
+"whole"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Unit Fractions",
+"codes": [
+"3.3C",
+"3.3D",
+"3.6E"
+],
+"new": [
+"denominator",
+"numerator",
+"unit fraction"
+],
+"prev": [
+"equal parts",
+"equal shares",
+"whole"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Equivalency",
+"codes": [
+"3.3F",
+"3.3G"
+],
+"new": [
+"area model",
+"denominator*",
+"equivalent fraction*",
+"numerator"
+],
+"prev": [
+"equal parts*",
+"equal shares",
+"part of a whole*",
+"whole"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Comparison",
+"codes": [
+"3.3H"
+],
+"new": [
+"denominator*",
+"numerator*"
+],
+"prev": [
+"greater than*",
+"less than*",
+"part of the whole",
+"size of the whole"
+]
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Estimation",
+"codes": [
+"3.4B"
+],
+"new": [
+"compatible number",
+"nearest 10 or 100",
+"round"
+],
+"prev": [
+"estimate*",
+"estimation language (about, a little more/less than,",
+"close to*, approximately)"
+]
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Addition/ Subtraction",
+"codes": [
+"3.4A",
+"3.5A"
+],
+"new": [],
+"prev": [
+"comparing",
+"difference*",
+"distance",
+"fact family",
+"joining",
+"separating",
+"sum",
+"unknown",
+"number/quantity"
+]
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Money",
+"codes": [
+"3.4C"
+],
+"new": [],
+"prev": [
+"bills*/dollar",
+"dime",
+"nickel",
+"penny",
+"quarter"
+]
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Numerical Patterns",
+"codes": [
+"3.5E"
+],
+"new": [
+"additive pattern",
+"input-output table",
+"number pairs",
+"rule"
+],
+"prev": []
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Multiplication",
+"codes": [
+"3.4D",
+"3.4E",
+"3.4F",
+"3.4G",
+"3.5C",
+"3.5D",
+"3.6C"
+],
+"new": [
+"area model",
+"array",
+"column",
+"factor",
+"multiplication",
+"partial product",
+"product",
+"row*"
+],
+"prev": [
+"equal groups/shares",
+"square unit*"
+]
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Division",
+"codes": [
+"3.4H",
+"3.4I",
+"3.4J"
+],
+"new": [
+"dividend",
+"divisible",
+"division",
+"divisor",
+"factor",
+"product",
+"quotient"
+],
+"prev": [
+"equal groups/shares",
+"even*",
+"odd*"
+]
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Numerical Patterns",
+"codes": [
+"3.5E"
+],
+"new": [
+"input-output table",
+"multiplicative pattern",
+"number pair",
+"rule"
+],
+"prev": []
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Multiplication and Division",
+"codes": [
+"3.4K",
+"3.5B"
+],
+"new": [
+"area model",
+"array*",
+"division",
+"multiplication",
+"set of equations*"
+],
+"prev": [
+"equal groups/shares"
+]
+},
+{
+"cluster": "Geometry",
+"sub": "Two-Dimensional/ Three-Dimensional",
+"codes": [
+"3.6A",
+"3.6B"
+],
+"new": [
+"quadrilateral*",
+"width"
+],
+"prev": [
+"base*",
+"prism*",
+"rectangle*",
+"rectangular prism*",
+"rhombus*",
+"solid",
+"sphere*",
+"square (as a special",
+"rectangle)*",
+"three-dimensional",
+"trapezoid*",
+"triangle*",
+"triangular prism*",
+"two-dimensional",
+"vertex/vertices*",
+"circle",
+"cone*",
+"congruent*",
+"cube (special type of",
+"rectangular prism)*",
+"cylinder*",
+"edge*",
+"face*",
+"hexagon*",
+"length",
+"octagon",
+"parallelogram*",
+"pentagon*",
+"polygon*"
+]
+},
+{
+"cluster": "Measurement",
+"sub": "Area",
+"codes": [
+"3.6C",
+"3.6D"
+],
+"new": [
+"area model",
+"array",
+"row*",
+"square feet*/yard*/",
+"centimeter*"
+],
+"prev": [
+"area*",
+"length",
+"rectangle*/rectangular",
+"square unit",
+"square*"
+]
+},
+{
+"cluster": "Measurement",
+"sub": "Perimeter",
+"codes": [
+"3.7B"
+],
+"new": [
+"dimensions*",
+"perimeter*"
+],
+"prev": [
+"length*",
+"side*"
+]
+},
+{
+"cluster": "Measurement",
+"sub": "Time",
+"codes": [
+"3.7C"
+],
+"new": [],
+"prev": [
+"half past",
+"hour",
+"minute*",
+"quarter after/quarter",
+"past",
+"quarter to/quarter ‘til"
+]
+},
+{
+"cluster": "Measurement",
+"sub": "Liquid Capacity/ Weight",
+"codes": [
+"3.7D",
+"3.7E"
+],
+"new": [
+"capacity:",
+"customary (gallon*,",
+"quart*, pint, cup,",
+"fluid ounce*)",
+"liquid capacity",
+"liquid volume",
+"metric (liter, milliliter*)",
+"weight*:",
+"customary (ton, pound*,",
+"ounce*)",
+"metric (kilogram, gram,",
+"milligram)"
+],
+"prev": []
+},
+{
+"cluster": "Data Analysis",
+"sub": "Representation",
+"codes": [
+"3.8A"
+],
+"new": [
+"data point",
+"dot plot*",
+"frequency table*"
+],
+"prev": [
+"bar graph*",
+"category",
+"data/information",
+"graph title",
+"label",
+"legend (key)",
+"pictograph*"
+]
+},
+{
+"cluster": "Data Analysis",
+"sub": "Interpretation",
+"codes": [
+"3.8B"
+],
+"new": [],
+"prev": [
+"comparative language (more than*/less than/equal to)",
+"joining/separating/comparing"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Earning, Spending, and Saving",
+"codes": [
+"3.9C",
+"3.9E",
+"3.9F"
+],
+"new": [
+"credit",
+"planned spending",
+"unplanned spending"
+],
+"prev": [
+"charity",
+"cost",
+"income",
+"save",
+"spending"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Borrowing",
+"codes": [
+"3.9D"
+],
+"new": [
+"borrower/borrowed*",
+"credit",
+"interest*",
+"lender"
+],
+"prev": [
+"needs",
+"wants"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Economics",
+"codes": [
+"3.9A",
+"3.9B"
+],
+"new": [
+"availability of resources",
+"human capital",
+"labor*",
+"scarcity of resources"
+],
+"prev": [
+"cost",
+"income*"
+]
+}
+],
+"sp": [
+{
+"cluster": "Representación y comparación de números enteros",
+"sub": "Representación",
+"codes": [
+"3.2A",
+"3.2B"
+],
+"new": [
+"notación desarrollada*",
+"centenas de millar",
+"decenas de millar*"
+],
+"prev": [
+"forma desarrollada",
+"centenas*",
+"unidades",
+"valor de posición*",
+"forma estándar*",
+"decenas*",
+"millares*"
+]
+},
+{
+"cluster": "Representación y comparación de números enteros",
+"sub": "Comparación",
+"codes": [
+"3.2D"
+],
+"new": [],
+"prev": [
+"igual a (=)*",
+"mayor que (>)*",
+"mayor a menor*",
+"menor a mayor",
+"menor que (<)*"
+]
+},
+{
+"cluster": "Representación y comparación de números enteros",
+"sub": "Redondear",
+"codes": [
+"3.2C"
+],
+"new": [
+"a la mitad*",
+"redondear"
+],
+"prev": [
+"decena, centena más cercana"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Representación",
+"codes": [
+"3.3A",
+"3.3B",
+"3.3E",
+"3.7A"
+],
+"new": [
+"denominador",
+"numerador",
+"sextos",
+"tercios"
+],
+"prev": [
+"octavos",
+"partes iguales",
+"repartir en partes",
+"iguales*",
+"cuartos",
+"parte fraccionaria",
+"mitades",
+"parte de un entero",
+"entero"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Fracciones unitarias",
+"codes": [
+"3.3C",
+"3.3D",
+"3.6E"
+],
+"new": [
+"denominador",
+"numerador",
+"unidad fraccionaria"
+],
+"prev": [
+"partes iguales",
+"repartir en partes iguales",
+"entero"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Equivalencia",
+"codes": [
+"3.3F",
+"3.3G"
+],
+"new": [
+"modelo de área",
+"denominador*",
+"fracción equivalente*",
+"numerador"
+],
+"prev": [
+"partes iguales*",
+"repartir en partes iguales",
+"parte de un entero*",
+"entero"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Comparación",
+"codes": [
+"3.3H"
+],
+"new": [
+"denominador*",
+"numerador*"
+],
+"prev": [
+"mayor que*",
+"menor que*",
+"parte de un entero",
+"tamaño de un entero"
+]
+},
+{
+"cluster": "Suma y resta de números enteros",
+"sub": "Estimación",
+"codes": [
+"3.4B"
+],
+"new": [
+"números compatibles",
+"decena o centena más cercana",
+"redondear",
+"estimar*",
+"lenguaje para estimación (alrededor de, un poco más",
+"de/menos que, cercano a, aproximadamente)"
+],
+"prev": []
+},
+{
+"cluster": "Suma y resta de números enteros",
+"sub": "Suma/resta",
+"codes": [
+"3.4A",
+"3.5A"
+],
+"new": [
+"comparar",
+"diferencia*",
+"distancia",
+"familia de operaciones",
+"juntar"
+],
+"prev": [
+"separar",
+"suma",
+"número desconocido/",
+"cantidad"
+]
+},
+{
+"cluster": "Suma y resta de números enteros",
+"sub": "Dinero",
+"codes": [
+"3.4C"
+],
+"new": [],
+"prev": [
+"billetes*/dólar",
+"diez centavos (dime)",
+"cinco centavos (nickel)",
+"un centavo (penny)",
+"veinticinco centavos",
+"(quarter)"
+]
+},
+{
+"cluster": "Suma y resta de números enteros",
+"sub": "Patrones numéricos",
+"codes": [
+"3.5E"
+],
+"new": [
+"patrones de suma",
+"tabla de entrada-salida",
+"pares de números",
+"regla"
+],
+"prev": []
+},
+{
+"cluster": "Multiplicación y división de números enteros",
+"sub": "Multiplicación",
+"codes": [
+"3.4D",
+"3.4E",
+"3.4F",
+"3.4G",
+"3.5C",
+"3.5D",
+"3.6C"
+],
+"new": [
+"modelo de área",
+"arreglo",
+"columna",
+"factor",
+"multiplicación",
+"producto parcial",
+"producto",
+"fila*"
+],
+"prev": [
+"grupos iguales/compartir",
+"unidad cuadrada*"
+]
+},
+{
+"cluster": "Multiplicación y división de números enteros",
+"sub": "División",
+"codes": [
+"3.4H",
+"3.4I",
+"3.4J"
+],
+"new": [
+"dividendo",
+"divisible",
+"división",
+"divisor",
+"factor",
+"producto",
+"cociente"
+],
+"prev": [
+"grupos iguales/compartir",
+"par*",
+"impar*"
+]
+},
+{
+"cluster": "Multiplicación y división de números enteros",
+"sub": "Patrones numéricos",
+"codes": [
+"3.5E"
+],
+"new": [
+"tabla de entrada-salida",
+"patrón de multiplicación",
+"pares de números",
+"regla"
+],
+"prev": []
+},
+{
+"cluster": "Multiplicación y división de números enteros",
+"sub": "Multiplicación y división",
+"codes": [
+"3.4K",
+"3.5B"
+],
+"new": [
+"modelo de área",
+"arreglo*",
+"división",
+"multiplicación",
+"conjunto de ecuaciones*"
+],
+"prev": [
+"grupos iguales/compartir"
+]
+},
+{
+"cluster": "Geometría",
+"sub": "Dos dimensiones/ tres dimensiones",
+"codes": [
+"3.6A",
+"3.6B"
+],
+"new": [
+"cuadrilátero*",
+"ancho"
+],
+"prev": [
+"base*",
+"prisma*",
+"rectángulo*",
+"prisma rectangular*",
+"rombo*",
+"sólido",
+"esfera*",
+"cuadrado (como un",
+"rectángulo especial)*",
+"tres dimensiones",
+"trapecio*",
+"triángulo*",
+"prisma triangular*",
+"dos dimensiones",
+"vértice/vértices*",
+"círculo",
+"cono*",
+"congruente*",
+"cubo (como un tipo",
+"especial de prisma",
+"rectangular)*",
+"cilindro*",
+"arista*",
+"cara*",
+"hexágono*",
+"longitud",
+"octágono",
+"paralelogramo*",
+"pentágono*",
+"polígono*"
+]
+},
+{
+"cluster": "Medición",
+"sub": "Área",
+"codes": [
+"3.6C",
+"3.6D"
+],
+"new": [
+"modelo de área",
+"arreglo",
+"fila*",
+"pies cuadrados*/yarda*/",
+"centímetro*"
+],
+"prev": [
+"área*",
+"longitud",
+"rectángulo*/rectangular",
+"unidad cuadrada",
+"cuadrado*"
+]
+},
+{
+"cluster": "Medición",
+"sub": "Perímetro",
+"codes": [
+"3.7B"
+],
+"new": [
+"dimensiones*",
+"perímetro*"
+],
+"prev": [
+"longitud*",
+"lado*"
+]
+},
+{
+"cluster": "Medición",
+"sub": "Tiempo",
+"codes": [
+"3.7C"
+],
+"new": [],
+"prev": [
+"media",
+"hora",
+"minuto*",
+"cuarto",
+"cuarto para"
+]
+},
+{
+"cluster": "Medición",
+"sub": "Capacidad líquida/peso",
+"codes": [
+"3.7D",
+"3.7E"
+],
+"new": [
+"capacidad:",
+"peso*:",
+"inglés (usual) (tonelada,",
+"libra*, onza*)",
+"métrico (kilogramo,",
+"gramo, miligramo)",
+"inglés (usual) (galón*,",
+"cuarto*, pinta, taza,",
+"onzas líquidas*)",
+"capacidad líquida",
+"volumen líquido",
+"(capacidad)",
+"métrico (litro, mililitro*)"
+],
+"prev": []
+},
+{
+"cluster": "Análisis de datos",
+"sub": "Representación",
+"codes": [
+"3.8A"
+],
+"new": [
+"punto con datos",
+"diagrama de puntos*",
+"tabla de frecuencia*"
+],
+"prev": [
+"gráfica de barras*",
+"categoría",
+"datos/información",
+"título de la gráfica",
+"rótulo",
+"leyenda (clave)",
+"pictografía*"
+]
+},
+{
+"cluster": "Análisis de datos",
+"sub": "Interpretación",
+"codes": [
+"3.8B"
+],
+"new": [],
+"prev": [
+"lenguaje para comparación (más que*/menos que/igual a)",
+"juntar/separar/comparar"
+]
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Ingresos, gastos y ahorros",
+"codes": [
+"3.9C",
+"3.9E",
+"3.9F"
+],
+"new": [
+"crédito",
+"gastos planificados",
+"gastos no planificados"
+],
+"prev": [
+"caridad",
+"costo",
+"ingreso",
+"ahorro",
+"gasto"
+]
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Préstamos",
+"codes": [
+"3.9D"
+],
+"new": [
+"prestamista/dinero",
+"pedido en préstamo*",
+"crédito",
+"interés*",
+"prestador/prestadora"
+],
+"prev": [
+"necesidad",
+"deseo"
+]
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Economía",
+"codes": [
+"3.9A",
+"3.9B"
+],
+"new": [
+"disponibilidad de recursos",
+"capital humano",
+"fuerza laboral*",
+"escasez de recursos"
+],
+"prev": [
+"costo",
+"ingreso*"
+]
+}
+]
+},
+"4": {
+"en": [
+{
+"cluster": "Decimals",
+"sub": "Representation",
+"codes": [
+"4.2A",
+"4.2B",
+"4.2E",
+"4.2H",
+"4.3G"
+],
+"new": [
+"billion",
+"decimal*",
+"hundredths*",
+"millions*",
+"one-tenth*",
+"tenths*"
+],
+"prev": [
+"expanded notation*",
+"hundreds",
+"place value*",
+"tens*",
+"ten-times*"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Comparison",
+"codes": [
+"4.2C",
+"4.2F"
+],
+"new": [],
+"prev": [
+"equal to (=)",
+"greater than (>)",
+"greatest to least*",
+"least to greatest*",
+"less than* (<)"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Addition/ Subtraction",
+"codes": [
+"4.4A"
+],
+"new": [],
+"prev": [
+"difference*",
+"sum"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Representation",
+"codes": [
+"4.3A",
+"4.3B"
+],
+"new": [],
+"prev": [
+"denominator",
+"numerator",
+"unit fraction"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Equivalency",
+"codes": [
+"4.2G",
+"4.3C",
+"4.3G"
+],
+"new": [
+"identity property",
+"hundredths*",
+"improper fraction",
+"mixed number*",
+"simplified form",
+"tenths"
+],
+"prev": [
+"denominator*",
+"equal parts/equal shares",
+"equivalent fraction*",
+"numerator*",
+"whole"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Comparison",
+"codes": [
+"4.3D"
+],
+"new": [
+"common denominator*"
+],
+"prev": [
+"< (less than)*",
+"> (greater than)*",
+"denominator",
+"numerator"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Addition/ Subtraction",
+"codes": [
+"4.3E",
+"4.3F"
+],
+"new": [
+"benchmark fraction"
+],
+"prev": [
+"denominator",
+"difference",
+"numerator",
+"sum"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Estimation",
+"codes": [
+"4.2D",
+"4.4G"
+],
+"new": [
+"nearest 1,000"
+],
+"prev": [
+"compatible number",
+"estimate*",
+"estimation language (about, a little more/less than,",
+"close to, approximately)",
+"nearest 10*; 100",
+"round*"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Multiplication",
+"codes": [
+"4.4B",
+"4.4C",
+"4.4D",
+"4.4H"
+],
+"new": [
+"perfect square"
+],
+"prev": [
+"area model",
+"factor",
+"array",
+"partial products",
+"equation*",
+"product"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Division",
+"codes": [
+"4.4E",
+"4.4F",
+"4.4H"
+],
+"new": [
+"partial quotient",
+"remainder"
+],
+"prev": [
+"area model",
+"array",
+"dividend",
+"divisor",
+"quotient"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Numerical Patterns",
+"codes": [
+"4.5B"
+],
+"new": [
+"position*"
+],
+"prev": [
+"input-output* table",
+"pattern*",
+"relationship*",
+"rule*"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "All Operations",
+"codes": [
+"4.5A"
+],
+"new": [
+"variable"
+],
+"prev": [
+"unknown quantity"
+]
+},
+{
+"cluster": "Geometry",
+"sub": "Two-Dimensional",
+"codes": [
+"4.6A",
+"4.6B",
+"4.6C",
+"4.6D"
+],
+"new": [
+"acute angle*",
+"angle*",
+"congruent",
+"intersecting lines*",
+"line of symmetry*",
+"line segment*",
+"obtuse angle*",
+"parallel*",
+"perpendicular*",
+"point*",
+"ray*",
+"right angle*",
+"symmetry*"
+],
+"prev": []
+},
+{
+"cluster": "Geometry",
+"sub": "Angle Measurements",
+"codes": [
+"4.7A",
+"4.7B",
+"4.7C",
+"4.7D",
+"4.7E"
+],
+"new": [
+"adjacent angle",
+"angle*",
+"angle vertex",
+"center mark",
+"degree*",
+"inner scale",
+"outer scale",
+"protractor*",
+"ray*",
+"vertex of an angle",
+"zero edge"
+],
+"prev": []
+},
+{
+"cluster": "Measurement",
+"sub": "Perimeter/Area",
+"codes": [
+"4.5C",
+"4.5D"
+],
+"new": [
+"formulas (perimeter):",
+"• P = l + l + w + w",
+"• P = 2l + 2w",
+"• P = 4s",
+"formulas (area):",
+"• A = l x w",
+"• A = s x s"
+],
+"prev": [
+"area*",
+"dimensions*",
+"length*",
+"perimeter*",
+"square unit (square inch*/square millimeter*)",
+"width*"
+]
+},
+{
+"cluster": "Measurement",
+"sub": "Related Measurement Concepts",
+"codes": [
+"4.8C"
+],
+"new": [
+"mass*"
+],
+"prev": [
+"length*",
+"liquid volume"
+]
+},
+{
+"cluster": "Measurement",
+"sub": "Conversions",
+"codes": [
+"4.8A",
+"4.8B"
+],
+"new": [
+"conversion*"
+],
+"prev": [
+"customary (mile/yard*/feet*/inch;",
+"gallon*/quart*/pint/cup/fluid ounce;",
+"ton/pound/ounce)",
+"equivalent*",
+"input-output table",
+"metric (kilometer/meter/centimeter*/millimeter;",
+"liter/milliliter; kilogram*/gram*/milligram)"
+]
+},
+{
+"cluster": "Data Analysis",
+"sub": "Representation",
+"codes": [
+"4.9A"
+],
+"new": [
+"stem-and-leaf plot*"
+],
+"prev": [
+"data*",
+"dot plot*",
+"frequency table*",
+"scaled intervals"
+]
+},
+{
+"cluster": "Data Analysis",
+"sub": "Interpretation",
+"codes": [
+"4.9B"
+],
+"new": [],
+"prev": [
+"comparative language (more than*/less than/",
+"equal to/difference*)",
+"joining/separating/comparing"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Budgets",
+"codes": [
+"4.10A",
+"4.10C",
+"4.10D",
+"4.10E"
+],
+"new": [
+"certificate of deposit",
+"fixed expense*",
+"money market fund",
+"savings bond",
+"variable expense*"
+],
+"prev": [
+"borrow*",
+"deposit",
+"interest*",
+"lending/loan*",
+"saving",
+"spending/spent*",
+"withdrawal*"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Economics",
+"codes": [
+"4.10B"
+],
+"new": [
+"cost*",
+"expense*",
+"profit*",
+"selling price*"
+],
+"prev": []
+}
+],
+"sp": [
+{
+"cluster": "Decimales",
+"sub": "Representación",
+"codes": [
+"4.2A",
+"4.2B",
+"4.2E",
+"4.2H",
+"4.3G"
+],
+"new": [
+"billón",
+"decimal*",
+"centésimos*",
+"millones*",
+"un décimo*",
+"décimos*"
+],
+"prev": [
+"notación desarrollada*",
+"centenas",
+"valor de posición*",
+"decenas*",
+"diez veces*"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Comparación",
+"codes": [
+"4.2C",
+"4.2F"
+],
+"new": [],
+"prev": [
+"igual a (=)",
+"mayor que (>)",
+"mayor a menor*",
+"menor a mayor*",
+"menos que* (<)"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Suma/resta",
+"codes": [
+"4.4A"
+],
+"new": [],
+"prev": [
+"diferencia*",
+"suma"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Representación",
+"codes": [
+"4.3A",
+"4.3B"
+],
+"new": [],
+"prev": [
+"denominador",
+"numerador",
+"fracción unitaria"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Equivalencia",
+"codes": [
+"4.2G",
+"4.3C",
+"4.3G"
+],
+"new": [
+"propiedad de la identidad",
+"centésimos*",
+"fracción impropia",
+"número mixto*",
+"forma simplificada",
+"décimos"
+],
+"prev": [
+"denominador*",
+"partes iguales/repartir en partes iguales",
+"fracción equivalente*",
+"numerador*",
+"entero"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Comparación",
+"codes": [
+"4.3D"
+],
+"new": [
+"común denominador*"
+],
+"prev": [
+"< (menor)*",
+"> (mayor que)*",
+"denominador",
+"numerador"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Sumas/restas",
+"codes": [
+"4.3E",
+"4.3F"
+],
+"new": [
+"fracción de referencia"
+],
+"prev": [
+"denominador",
+"diferencia",
+"numerador",
+"suma"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Estimación",
+"codes": [
+"4.2D",
+"4.4G"
+],
+"new": [
+"1,000 (millar) más cercano"
+],
+"prev": [
+"números compatibles",
+"estimar*",
+"lenguaje de estimación (alrededor de, un poco más/",
+"menos que, cercano a, aproximadamente)",
+"10 (decena)*; 100 (centena) más cercano",
+"redondear*"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Multiplicación",
+"codes": [
+"4.4B",
+"4.4C",
+"4.4D",
+"4.4H"
+],
+"new": [
+"cuadrado perfecto"
+],
+"prev": [
+"modelo de área",
+"factor",
+"arreglo",
+"producto parcial",
+"ecuación*",
+"producto"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "División",
+"codes": [
+"4.4E",
+"4.4F",
+"4.4H"
+],
+"new": [
+"cociente parcial",
+"residuo",
+"modelo de área",
+"arreglo",
+"dividendo"
+],
+"prev": [
+"divisor",
+"cociente"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Patrones numéricos",
+"codes": [
+"4.5B"
+],
+"new": [
+"posición*",
+"tabla de entrada-salida",
+"patrón *"
+],
+"prev": [
+"relación*",
+"regla*"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Todas las operaciones",
+"codes": [
+"4.5A"
+],
+"new": [
+"variable",
+"cantidad desconocida"
+],
+"prev": []
+},
+{
+"cluster": "Geometría",
+"sub": "Dos dimensiones",
+"codes": [
+"4.6A",
+"4.6B",
+"4.6C",
+"4.6D"
+],
+"new": [
+"ángulo agudo*",
+"ángulo*",
+"congruente",
+"líneas secantes *",
+"eje de simetría*",
+"segmento de recta*",
+"ángulo obtuso*",
+"paralelo*",
+"perpendicular*",
+"punto*",
+"rayo*",
+"ángulo recto*",
+"simetría*"
+],
+"prev": []
+},
+{
+"cluster": "Geometría",
+"sub": "Mediciones de ángulos",
+"codes": [
+"4.7A",
+"4.7B",
+"4.7C",
+"4.7D",
+"4.7E"
+],
+"new": [
+"ángulo adyacente",
+"ángulo*",
+"vértice del ángulo",
+"marca del centro",
+"grado*",
+"escala interna",
+"escala externa",
+"transportador*",
+"rayo*",
+"vértice de un ángulo",
+"borde cero"
+],
+"prev": []
+},
+{
+"cluster": "Medición",
+"sub": "Perímetro/área",
+"codes": [
+"4.5C",
+"4.5D"
+],
+"new": [
+"fórmula (perímetro):",
+"• P = l + l + w + w",
+"• P = 2l + 2w",
+"• P = 4s",
+"fórmula (área):",
+"• A = l x w",
+"• A = s x s"
+],
+"prev": [
+"área*",
+"dimensión*",
+"longitud*",
+"perímetro*",
+"unidad cuadrada (pulgada cuadrada*/milímetro",
+"cuadrado*)",
+"ancho*"
+]
+},
+{
+"cluster": "Medición",
+"sub": "Conceptos de medición relacionados",
+"codes": [
+"4.8C"
+],
+"new": [
+"masa*"
+],
+"prev": [
+"longitud*",
+"volumen líquido"
+]
+},
+{
+"cluster": "Medición",
+"sub": "Conversiones",
+"codes": [
+"4.8A",
+"4.8B"
+],
+"new": [
+"conversión*"
+],
+"prev": [
+"inglés (usual) (milla/yarda*/pie*/pulgada;",
+"galón*/cuarto*/pinta/taza/ onza líquida;",
+"tonelada/libra /onza)",
+"equivalente*",
+"tabla de entrada-salida",
+"métrico (kilometro/metro/centímetro*/milímetro;",
+"litro/mililitro; kilogramo*/gramo*/miligramos)"
+]
+},
+{
+"cluster": "Análisis de datos",
+"sub": "Representación",
+"codes": [
+"4.9A"
+],
+"new": [
+"diagrama de tallo y hojas*",
+"dato*",
+"diagrama de puntos*",
+"tabla de frecuencia*",
+"escala a intervalos"
+],
+"prev": []
+},
+{
+"cluster": "Análisis de datos",
+"sub": "Interpretación",
+"codes": [
+"4.9B"
+],
+"new": [
+"lenguaje para comparación (más que*/menos que/",
+"igual/diferencia*)",
+"juntar/separar/comparar"
+],
+"prev": []
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Presupuestos",
+"codes": [
+"4.10A",
+"4.10C",
+"4.10D",
+"4.10E"
+],
+"new": [
+"certificado de deposito",
+"gasto fijo*",
+"fondo del mercado monetario",
+"bonos de ahorro",
+"gasto variable*",
+"pedir prestado*",
+"deposito",
+"interés*",
+"prestar/préstamo*"
+],
+"prev": [
+"ahorro",
+"gasto/gastó*",
+"retiro*"
+]
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Economía",
+"codes": [
+"4.10B"
+],
+"new": [
+"costo*",
+"gasto*",
+"ganancia*",
+"precio de venta*"
+],
+"prev": []
+}
+]
+},
+"5": {
+"en": [
+{
+"cluster": "Whole Number Operations",
+"sub": "Estimation",
+"codes": [
+"5.3A"
+],
+"new": [],
+"prev": [
+"compatible number",
+"estimate*",
+"estimation language (about, a little more/less than,",
+"close to, approximately)",
+"round"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Addition/ Subtraction",
+"codes": [
+"5.3K"
+],
+"new": [],
+"prev": [
+"difference",
+"sum"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Multiplication/ Division",
+"codes": [
+"5.3B",
+"5.3C"
+],
+"new": [],
+"prev": [
+"dividend",
+"divisible*",
+"divisor",
+"factor",
+"product*",
+"quotient"
+]
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Numerical Expressions",
+"codes": [
+"5.4E",
+"5.4F"
+],
+"new": [
+"bracket",
+"equivalent expression*",
+"order of operations",
+"parentheses*"
+],
+"prev": []
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "All Operations",
+"codes": [
+"5.4B"
+],
+"new": [],
+"prev": [
+"equation*",
+"unknown quantity/variable"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Representation",
+"codes": [
+"5.2A"
+],
+"new": [
+"thousandths"
+],
+"prev": [
+"billion",
+"place value",
+"tens/tenths",
+"thousands",
+"expanded notation*",
+"hundreds/hundredths",
+"million"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Comparison",
+"codes": [
+"5.2B"
+],
+"new": [
+"inequality*",
+"thousandths"
+],
+"prev": [
+"< (less than)*",
+"greatest to least",
+"= (equal to)*",
+"least to greatest*",
+"> (greater than)*",
+"tenths*"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Estimation",
+"codes": [
+"5.2C",
+"5.3A"
+],
+"new": [],
+"prev": [
+"compatible number",
+"estimate*",
+"estimation language (about, a little more/less than,",
+"close to, approximately)",
+"round*",
+"difference",
+"sum"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Multiplication",
+"codes": [
+"5.3D",
+"5.3E"
+],
+"new": [],
+"prev": [
+"(area) model*",
+"factor",
+"product*"
+]
+},
+{
+"cluster": "Decimals",
+"sub": "Division",
+"codes": [
+"5.3F",
+"5.3G"
+],
+"new": [
+"bracket",
+"order of operations",
+"equivalent expression*",
+"parentheses*"
+],
+"prev": [
+"(area) model*",
+"divisor",
+"dividend*",
+"quotient*"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Estimation",
+"codes": [
+"5.3A"
+],
+"new": [],
+"prev": [
+"benchmark fraction",
+"estimate*",
+"estimation language (about, a little more/less than,",
+"close to, approximately)"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Addition/ Subtraction",
+"codes": [
+"5.3H",
+"5.3K",
+"5.4A"
+],
+"new": [
+"composite number*",
+"prime number*"
+],
+"prev": [
+"common denominator",
+"improper fraction",
+"difference",
+"mixed number",
+"equal parts/equal shares",
+"numerator",
+"equivalent fraction",
+"simplified form",
+"factor pairs*",
+"sum"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Multiplication",
+"codes": [
+"5.3I"
+],
+"new": [],
+"prev": [
+"(area) model*",
+"factor",
+"product"
+]
+},
+{
+"cluster": "Fractions",
+"sub": "Division",
+"codes": [
+"5.3J",
+"5.3L"
+],
+"new": [],
+"prev": [
+"(area) model*",
+"dividend",
+"division",
+"divisor",
+"equal parts*/equal",
+"shares",
+"quotient",
+"unit fraction"
+]
+},
+{
+"cluster": "Graphing on Coordinate Plane",
+"sub": "Coordinate Plane",
+"codes": [
+"5.8A",
+"5.8B",
+"5.8C"
+],
+"new": [
+"axis/axes",
+"coordinate*",
+"coordinate plane/",
+"grid*/graph*",
+"ordered pair*",
+"origin (0, 0)*",
+"point*",
+"quadrant",
+"to the right/up from",
+"(directional language/",
+"translation from given",
+"points)*",
+"x-axis*",
+"x-coordinate*",
+"y-axis*",
+"y-coordinate*"
+],
+"prev": [
+"input-output table",
+"north/east*/south*/west*",
+"vertex/vertices*"
+]
+},
+{
+"cluster": "Graphing on Coordinate Plane",
+"sub": "Graphing Numerical Patterns",
+"codes": [
+"5.4C",
+"5.4D"
+],
+"new": [
+"x-coordinate*",
+"x-values*",
+"y-coordinate*",
+"y-values*"
+],
+"prev": [
+"additive pattern*",
+"input-output table",
+"multiplicative pattern*",
+"numerical pattern*",
+"rule*",
+"table*"
+]
+},
+{
+"cluster": "Geometry and Measurement",
+"sub": "Two-Dimensional Relationships",
+"codes": [
+"5.5A"
+],
+"new": [
+"isosceles*, equilateral*,",
+"scalene* triangle"
+],
+"prev": [
+"congruent",
+"parallel/perpendicular lines",
+"polygon*/rhombus*/pentagon*/square*/quadrilateral*/",
+"parallelogram*/rectangle*/trapezoid*",
+"right*/obtuse*/acute* angle",
+"vertex/vertices"
+]
+},
+{
+"cluster": "Geometry and Measurement",
+"sub": "Perimeter/Area/ Volume",
+"codes": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+],
+"new": [
+"area of the base*",
+"cubic unit",
+"formulas (volume):",
+"• V= l x w x h",
+"• V = s x s x s (cube)",
+"• V = Bh",
+"height*",
+"number of layers",
+"volume*"
+],
+"prev": [
+"area*",
+"dimensions*",
+"edge*/side length",
+"length*",
+"perimeter*",
+"rectangular prism*",
+"square unit*",
+"width*"
+]
+},
+{
+"cluster": "Geometry and Measurement",
+"sub": "Conversions",
+"codes": [
+"5.7A"
+],
+"new": [],
+"prev": [
+"customary (mile/yard/feet/inch;",
+"gallon/quart/pint/cup/fluid ounce; ton/pound/ounce)",
+"input-output table",
+"metric (kilometer/meter/centimeter/millimeter;",
+"liter/milliliter; kilogram/gram/milligram)"
+]
+},
+{
+"cluster": "Data Analysis",
+"sub": "Representation",
+"codes": [
+"5.9A",
+"5.9B"
+],
+"new": [
+"line plot*",
+"scatterplot*"
+],
+"prev": [
+"bar graph*",
+"data*",
+"dot plot*",
+"frequency table",
+"scaled intervals",
+"stem-and-leaf plot*"
+]
+},
+{
+"cluster": "Data Analysis",
+"sub": "Interpretation",
+"codes": [
+"5.9C"
+],
+"new": [
+"scatterplot"
+],
+"prev": [
+"comparative language (more than*/less than/",
+"equal to, sum*/difference*, least*/most*,",
+"greatest*)",
+"joining/separating/comparing"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Budgets",
+"codes": [
+"5.10C",
+"5.10D",
+"5.10E",
+"5.10F"
+],
+"new": [
+"balanced budget*",
+"budget*",
+"check",
+"credit card",
+"debit card",
+"electronic payment",
+"financial records",
+"net income*"
+],
+"prev": [
+"expense*",
+"income*"
+]
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Taxes",
+"codes": [
+"5.10A",
+"5.10B"
+],
+"new": [
+"deduction*",
+"employer/employee",
+"gross income*",
+"income tax*",
+"net income*",
+"payroll tax*",
+"property tax*",
+"sales tax*",
+"taxes*",
+"wages*"
+],
+"prev": [
+"retail cost/product*"
+]
+}
+],
+"sp": [
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Estimación",
+"codes": [
+"5.3A"
+],
+"new": [],
+"prev": [
+"número compatible",
+"estimar*",
+"lenguaje de estimación (alrededor de, un poco más/",
+"menos que, cercano a, aproximadamente)",
+"redondear"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Suma/resta",
+"codes": [
+"5.3K"
+],
+"new": [],
+"prev": [
+"diferencia",
+"suma"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Multiplicación/ división",
+"codes": [
+"5.3B",
+"5.3C"
+],
+"new": [],
+"prev": [
+"dividendo",
+"divisible*",
+"divisor",
+"factor",
+"producto*",
+"cociente"
+]
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Expresiones numéricas",
+"codes": [
+"5.4E",
+"5.4F"
+],
+"new": [
+"corchetes",
+"expresión equivalente*",
+"orden de las operaciones",
+"paréntesis*"
+],
+"prev": []
+},
+{
+"cluster": "Operaciones de números enteros",
+"sub": "Todas las operaciones",
+"codes": [
+"5.4B"
+],
+"new": [],
+"prev": [
+"ecuación*",
+"cantidad desconocida (valor desconocido)/variable"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Representación",
+"codes": [
+"5.2A"
+],
+"new": [
+"milésimos"
+],
+"prev": [
+"billón",
+"valor de posición",
+"decenas/décimos",
+"millares",
+"notación desarrollada*",
+"centenas/centésimos",
+"millón"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Comparación",
+"codes": [
+"5.2B"
+],
+"new": [
+"desigualdad*",
+"milésimos"
+],
+"prev": [
+"< (menor que)*",
+"mayor a menor",
+"= (igual a)*",
+"menor a mayor*",
+"> (mayor que)*",
+"décimos*"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Estimación",
+"codes": [
+"5.2C",
+"5.3A"
+],
+"new": [],
+"prev": [
+"número compatible",
+"estimar*",
+"lenguaje de estimación (alrededor de, un poco más/",
+"menos que, cercano a, aproximadamente)",
+"redondear*"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Suma/resta",
+"codes": [
+"5.3K"
+],
+"new": [],
+"prev": [
+"diferencia",
+"suma"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "Multiplicación",
+"codes": [
+"5.3D",
+"5.3E"
+],
+"new": [],
+"prev": [
+"modelo (área)*",
+"factor",
+"producto*"
+]
+},
+{
+"cluster": "Decimales",
+"sub": "División",
+"codes": [
+"5.3F",
+"5.3G"
+],
+"new": [
+"corchetes",
+"orden de las operaciones",
+"expresión equivalente*",
+"paréntesis*"
+],
+"prev": [
+"modelo (área)*",
+"divisor",
+"dividendo*",
+"cociente*"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Estimación",
+"codes": [
+"5.3A"
+],
+"new": [],
+"prev": [
+"fracción de referencia",
+"estimar*",
+"lenguaje de estimación (alrededor de, un poco más/",
+"menos que, cercano a, aproximadamente)"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Suma/resta",
+"codes": [
+"5.3H",
+"5.3K",
+"5.4A"
+],
+"new": [
+"número compuesto*",
+"número primo*"
+],
+"prev": [
+"común denominador",
+"fracción impropia",
+"número mixto",
+"numerador",
+"forma simplificada",
+"suma",
+"diferencia",
+"partes iguales/repartir",
+"en partes iguales",
+"fracción equivalente",
+"pares de factores*"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "Multiplicación",
+"codes": [
+"5.3I"
+],
+"new": [],
+"prev": [
+"modelo (área)*",
+"factor",
+"producto"
+]
+},
+{
+"cluster": "Fracciones",
+"sub": "División",
+"codes": [
+"5.3J",
+"5.3L"
+],
+"new": [],
+"prev": [
+"modelo (área)*",
+"dividendo",
+"división",
+"divisor",
+"partes iguales*/repartir",
+"en partes iguales",
+"cociente",
+"fracción unitaria"
+]
+},
+{
+"cluster": "Representación gráfica de planos de coordenadas",
+"sub": "Plano de coordenadas",
+"codes": [
+"5.8A",
+"5.8B",
+"5.8C"
+],
+"new": [
+"eje/ejes",
+"coordenada*",
+"plano de coordenadas/",
+"cuadrícula*/gráfico*",
+"par ordenado*",
+"origen (0, 0)*",
+"punto*",
+"cuadrante",
+"a la derecha/desde arriba",
+"(lenguaje de dirección/",
+"translación desde",
+"puntos dados)*",
+"eje-x*",
+"coordenada-x*",
+"eje-y*",
+"coordenada-y*"
+],
+"prev": [
+"tabla de entrada-salida",
+"norte/este*/sur*/oeste*",
+"vértice/vértices*"
+]
+},
+{
+"cluster": "Representación gráfica de planos de coordenadas",
+"sub": "Graficar patrones numéricos",
+"codes": [
+"5.4C",
+"5.4D"
+],
+"new": [
+"coordenada-x*",
+"valores-x*",
+"coordenada-y*",
+"valores-y*"
+],
+"prev": [
+"patrón de adición*",
+"tabla de entrada-salida",
+"patrón de multiplicación*",
+"patrón numérico*",
+"regla*",
+"tabla*"
+]
+},
+{
+"cluster": "Geometría y medición",
+"sub": "Dos dimensiones",
+"codes": [
+"5.5A"
+],
+"new": [
+"isósceles*, equilátero*,",
+"escaleno* triangulo"
+],
+"prev": [
+"congruente",
+"paralelo/líneas perpendiculares",
+"polígono*/rombo*/pentágono*/cuadrado*/cuadrilátero*/",
+"paralelogramo*/rectángulo*/trapezoide*",
+"ángulo recto*/obtuso*/agudo*",
+"vértice/vértices"
+]
+},
+{
+"cluster": "Geometría y medición",
+"sub": "Perímetro/área/ volumen",
+"codes": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+],
+"new": [
+"área de la base*",
+"unidad cubica",
+"fórmulas (volumen):",
+"• V= l x w x h",
+"• V = s x s x s (cube)",
+"• V = Bh",
+"altura*",
+"número de capas",
+"volumen*"
+],
+"prev": [
+"área*",
+"dimensiones*",
+"arista*/longitud del lado",
+"longitud*",
+"perímetro*",
+"prisma rectangular *",
+"unidad cuadrada*",
+"ancho*"
+]
+},
+{
+"cluster": "Geometría y medición",
+"sub": "Conversiones",
+"codes": [
+"5.7A"
+],
+"new": [],
+"prev": [
+"inglés (usual) (milla/yarda/pies/pulgadas;",
+"galón/cuarto/pinta/taza/ onzas liquidas;",
+"tonelada/libra/onza)",
+"tabla de entrada-salida",
+"métrico (kilometro/metro/centímetro/milímetro;",
+"litro/mililitro; kilogramo/gramo/milígramo)"
+]
+},
+{
+"cluster": "Análisis de datos",
+"sub": "Representación",
+"codes": [
+"5.9A",
+"5.9B"
+],
+"new": [
+"diagrama de puntos*",
+"diagrama de dispersión*"
+],
+"prev": [
+"gráfica de barras*",
+"datos*",
+"tabla de frecuencia",
+"escala a intervalos",
+"diagrama de tallo y",
+"hojas*"
+]
+},
+{
+"cluster": "Análisis de datos",
+"sub": "Interpretación",
+"codes": [
+"5.9C"
+],
+"new": [
+"diagrama de dispersión"
+],
+"prev": [
+"lenguaje de comparación (más que*/menos que/",
+"igual a, suma*/diferencia*, menos*/más*,",
+"mayor*)",
+"juntar/separar/comparar"
+]
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Presupuestos",
+"codes": [
+"5.10C",
+"5.10D",
+"5.10E",
+"5.10F"
+],
+"new": [
+"presupuesto",
+"balanceado*",
+"presupuesto*",
+"cheque",
+"tarjeta de crédito",
+"tarjeta de débito",
+"pago electrónico",
+"registro financiero",
+"ingreso neto*"
+],
+"prev": [
+"gasto*",
+"ingreso*"
+]
+},
+{
+"cluster": "Comprensión de finanzas personales",
+"sub": "Impuestos",
+"codes": [
+"5.10A",
+"5.10B"
+],
+"new": [
+"deducción*",
+"empleador/empleado",
+"ingreso bruto*",
+"impuesto al ingreso*",
+"ingreso neto*",
+"impuesto a la nómina*",
+"impuesto a la propiedad*",
+"impuesto a las ventas*",
+"impuestos*",
+"salario*"
+],
+"prev": [
+"costo de venta/producto*"
+]
+}
+]
+}
+}

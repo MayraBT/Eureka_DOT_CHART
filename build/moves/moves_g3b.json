@@ -1,0 +1,1635 @@
+[
+ {
+  "code": "3.5A",
+  "mis": [
+   {
+    "m": "Adds every number in a two-step problem, such as adding 425 + 180 + 95 when the story says 95 were given away.",
+    "why": "Students grab numbers and look for a keyword instead of picturing what happens to the quantities.",
+    "fix": "Have students act out or sketch each step before writing anything, then ask, 'Did the amount get bigger or smaller here?'"
+   },
+   {
+    "m": "Draws a strip diagram with both parts the same length even when one number is much larger, then loses track of which bar is the total.",
+    "why": "Students treat the drawing as decoration rather than a model of the relationship between part and whole.",
+    "fix": "Ask students to label the whole with a bracket and a question mark first, then size the parts so the larger number gets the longer bar."
+   },
+   {
+    "m": "On an open number line, makes jumps of 100 and 10 that look the same size and lands on the wrong number.",
+    "why": "Students focus on counting jumps rather than tracking the value of each jump.",
+    "fix": "Have students write the value above every jump and the landing number under every tick, then check the final landing with an equation."
+   }
+  ],
+  "cra": {
+   "c": "Students use base-ten blocks or place value disks to build the starting amount of a story problem, then physically add or remove blocks for each step, regrouping when needed.",
+   "r": "Students draw a strip diagram for each step, labeling the whole and the parts, and show the same step as jumps on an open number line.",
+   "a": "Students write one equation per step with a letter for the unknown, such as 625 - 180 = n, then n + 95 = p, and check that the answer makes sense in the story.",
+   "look": "Students sketch a strip diagram before calculating, label the unknown with a letter, and point from the drawing to the matching equation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does the whole bar in your strip diagram stand for?",
+     "Which step did you solve first, and why that one?"
+    ],
+    "advance": [
+     "Could you write the two steps as one equation? Show me.",
+     "How would your diagram change if the story said 'fewer' instead of 'more'?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Tell me the story in your own words before you draw.",
+     "Where is the unknown in your diagram?"
+    ],
+    "advance": [
+     "How can you check your answer using the number line?",
+     "Is your answer reasonable? Round the numbers and estimate to see."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What did the person have at the start?",
+     "Did they get more or give some away?"
+    ],
+    "advance": [
+     "Can you show the first step with blocks?",
+     "Now, what happens next in the story?"
+    ],
+    "support": [
+     "Split the two-step problem into two cards and solve one card at a time.",
+     "Provide a partially drawn strip diagram with the whole already labeled."
+    ]
+   }
+  },
+  "stems": [
+   "First, I found ___ by ___.",
+   "The whole bar stands for ___.",
+   "My equation is ___ because ___.",
+   "I know my answer makes sense because ___.",
+   "I agree with ___ because their diagram shows ___."
+  ],
+  "t": "R",
+  "d": "Represent one‐ and two‐step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations."
+ },
+ {
+  "code": "3.5B",
+  "mis": [
+   {
+    "m": "Writes 6 x 4 for a problem about 24 stickers shared equally among 6 friends.",
+    "why": "Students see two numbers and a familiar fact without deciding whether the total or a group size is unknown.",
+    "fix": "Ask, 'Do we know the total or are we looking for it?' and have students mark the known total on a strip diagram before choosing an operation."
+   },
+   {
+    "m": "Builds an array with the wrong number of rows, such as 4 rows of 6 for '6 rows of 4 chairs,' and labels the answer incorrectly in a two-step problem.",
+    "why": "Students know the product is the same either way and do not attend to what rows and columns mean in the context.",
+    "fix": "Have students label each row with the item ('4 chairs') and count rows aloud before using the array to answer the question."
+   },
+   {
+    "m": "Solves only the first step of a two-step problem, such as finding the cost of 5 packs but not the change from 50 dollars.",
+    "why": "Students stop when they reach a numerical answer instead of rereading the question.",
+    "fix": "Have students underline the question and check their final answer against it: 'Does this number answer what was asked?'"
+   }
+  ],
+  "cra": {
+   "c": "Students use counters to build equal groups and arrays, and share counters equally into groups to model division situations.",
+   "r": "Students draw strip diagrams split into equal units, labeling the total, the number of units and the size of each unit, and sketch arrays on grid paper.",
+   "a": "Students write multiplication and division equations with a letter for the unknown and connect each number in the equation to a part of the strip diagram.",
+   "look": "Students build or draw equal groups, label the total and one unit, and write an equation that matches the drawing."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does each part of your strip diagram stand for?",
+     "How did you decide whether to multiply or divide?"
+    ],
+    "advance": [
+     "Write a related equation that also solves this problem.",
+     "Write a different story that matches the same equation."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which number is the total in this problem?",
+     "How many equal groups did you make?"
+    ],
+    "advance": [
+     "What would change if there were 2 more groups?",
+     "How can you check your quotient with multiplication?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many counters did you start with?",
+     "How many are in each group?"
+    ],
+    "advance": [
+     "Can you draw your groups as a strip diagram?",
+     "What equation matches your counters?"
+    ],
+    "support": [
+     "Give a strip diagram with the units already drawn and ask students to label the total and one unit.",
+     "Use smaller numbers within 30 with counters before moving to larger products."
+    ]
+   }
+  },
+  "stems": [
+   "There are ___ groups with ___ in each group.",
+   "I multiplied because ___.",
+   "I divided because ___.",
+   "Each unit in my strip diagram stands for ___.",
+   "My answer makes sense because ___."
+  ],
+  "t": "R",
+  "d": "Represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations."
+ },
+ {
+  "code": "3.5C",
+  "mis": [
+   {
+    "m": "Reads 3 x 24 as '3 plus 24' or says it means 24 is 3 more than something.",
+    "why": "Students confuse additive comparison ('more than') with multiplicative comparison ('times as much as').",
+    "fix": "Show both on strip diagrams side by side: one bar 3 longer, and one bar made of 3 copies of 24, and have students name each."
+   },
+   {
+    "m": "Says 3 x 24 means '24 times as much as 3' and draws 24 copies of 3.",
+    "why": "Students do not yet distinguish which factor is the size of the quantity and which tells how many copies.",
+    "fix": "Have students say 'The 24 is the size; the 3 tells how many copies,' and draw one bar of 24 then three bars of 24."
+   },
+   {
+    "m": "Can compute 3 x 24 = 72 but cannot describe what the expression represents in a comparison story.",
+    "why": "Instruction focused on the answer rather than the meaning of the expression.",
+    "fix": "Give a context, such as 'Ana has 24 cards; Ben has 3 times as many,' and ask students to point to the expression's parts in the story."
+   }
+  ],
+  "cra": {
+   "c": "Students build a train of 24 linking cubes, then build a second train that is 3 times as long using 3 copies, and compare them side by side.",
+   "r": "Students draw comparison strip diagrams: one bar for the original quantity and a second bar made of equal copies of it, labeled with the factors.",
+   "a": "Students write and read expressions in comparison language, such as '3 x 24 represents 3 times as much as 24,' and match expressions to stories.",
+   "look": "Students line up two strip diagrams and describe one as 'times as much as' the other using the expression."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which number tells the size, and which tells how many copies?",
+     "How does your strip diagram show 3 times as much?"
+    ],
+    "advance": [
+     "How would 4 x 24 compare to 3 x 24?",
+     "Write a story where 5 x 12 is the comparison."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Read 3 x 24 aloud as a comparison.",
+     "Which bar in your diagram is 24?"
+    ],
+    "advance": [
+     "What is the difference between '3 more than 24' and '3 times as much as 24'?",
+     "Can you draw both and compare them?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me one train of cubes.",
+     "How many copies did you make?"
+    ],
+    "advance": [
+     "Is the new train longer or shorter? How many times longer?",
+     "What expression matches your trains?"
+    ],
+    "support": [
+     "Use smaller numbers like 2 x 5 with linking cubes first.",
+     "Provide a sentence frame with the parts color-coded to match the diagram."
+    ]
+   }
+  },
+  "stems": [
+   "___ x ___ represents ___ times as much as ___.",
+   "The number ___ tells the size of the quantity.",
+   "The number ___ tells how many copies.",
+   "This is different from adding because ___.",
+   "My strip diagram shows ___."
+  ],
+  "t": "S",
+  "d": "Describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24."
+ },
+ {
+  "code": "3.5D",
+  "mis": [
+   {
+    "m": "For 4 x ? = 28, writes 112 because they multiplied the two numbers shown.",
+    "why": "Students operate on visible numbers without reading the equation as a relationship.",
+    "fix": "Have students read the equation as a question, '4 groups of what makes 28?', and model it with counters or an array."
+   },
+   {
+    "m": "For ? ÷ 6 = 7, writes 1 or 42 ÷ 6 incorrectly, believing division always makes the first number smaller than the others.",
+    "why": "Students struggle when the unknown is the dividend because they rarely see that format.",
+    "fix": "Rewrite the division as the related multiplication, 6 x 7 = ?, using a fact family triangle."
+   },
+   {
+    "m": "Thinks the equal sign means 'the answer comes next' and rejects 36 = 9 x ? as written backward.",
+    "why": "Most equations students have seen place the result on the right.",
+    "fix": "Show equations in both directions and use a balance model to show the equal sign means 'the same value as.'"
+   }
+  ],
+  "cra": {
+   "c": "Students use counters or arrays to model the equation, building known groups and counting to find the missing factor or product.",
+   "r": "Students use strip diagrams and fact family triangles to show how the three numbers relate, and mark the unknown with a letter.",
+   "a": "Students solve for the unknown using related facts and write the related multiplication or division equation as proof.",
+   "look": "Students circle the unknown, read the equation as a question and check by substituting their answer back in."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you find the missing number?",
+     "What related fact helped you?"
+    ],
+    "advance": [
+     "Write two other equations that use the same three numbers.",
+     "Could the unknown be in a different spot? Write one."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Read the equation as a question.",
+     "Is the unknown a factor or the product?"
+    ],
+    "advance": [
+     "How can you check your answer by putting it back in the equation?",
+     "Does the equation still work if we switch the sides of the equal sign?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many groups are there?",
+     "How many are in all?"
+    ],
+    "advance": [
+     "Can you build it with counters?",
+     "What number makes it true?"
+    ],
+    "support": [
+     "Provide a fact family triangle with the unknown shaded.",
+     "Start with equations where the unknown is the product before moving to missing factors."
+    ]
+   }
+  },
+  "stems": [
+   "The missing number is ___ because ___.",
+   "I used the related fact ___.",
+   "___ groups of ___ make ___.",
+   "I checked by ___.",
+   "The unknown is a factor because ___."
+  ],
+  "t": "S",
+  "d": "Determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product."
+ },
+ {
+  "code": "3.5E",
+  "mis": [
+   {
+    "m": "Fills in a table by adding the same number down the output column without checking how input and output relate.",
+    "why": "Students look only for patterns within one column instead of across each row.",
+    "fix": "Have students draw an arrow across each row and say the rule, such as 'each table has 4 legs,' before filling the next row."
+   },
+   {
+    "m": "Writes a verbal description that only describes one column, such as 'the numbers go up by 5.'",
+    "why": "Students describe the sequence, not the relationship between the two quantities.",
+    "fix": "Use the frame 'For every ___, there are ___' and require both quantities in the sentence."
+   },
+   {
+    "m": "Mixes up which quantity goes in which column, such as putting legs in the 'Tables' column.",
+    "why": "Students do not connect the column headings to the context.",
+    "fix": "Have students build a few rows with objects first, then label columns with pictures and units before writing numbers."
+   }
+  ],
+  "cra": {
+   "c": "Students build the situation with objects or counters, such as bags with 3 apples each, adding one bag at a time and recording each pair.",
+   "r": "Students record number pairs in an input-output table with labeled columns and show the repeated groups with a strip diagram.",
+   "a": "Students write a verbal description of the relationship and use it to find a pair not in the table, such as the 10th row.",
+   "look": "Students point across a row of the table and state the relationship between the two quantities in words."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How are the two numbers in each row related?",
+     "How did you know what goes in the next row?"
+    ],
+    "advance": [
+     "How many legs would 12 tables have? How do you know without extending the table?",
+     "Write a different situation that matches this table."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does the first column stand for?",
+     "Read me one number pair and tell what it means."
+    ],
+    "advance": [
+     "Can you describe the relationship with 'For every'?",
+     "What would the pair be for 0 tables?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many legs does one table have?",
+     "How many legs do two tables have?"
+    ],
+    "advance": [
+     "What happens each time we add one table?",
+     "What number goes in the next row?"
+    ],
+    "support": [
+     "Provide objects or pictures for the first three rows.",
+     "Give a partially completed table with column headings drawn as pictures."
+    ]
+   }
+  },
+  "stems": [
+   "For every ___, there are ___.",
+   "This number pair means ___.",
+   "The relationship is ___.",
+   "I know the next pair is ___ because ___.",
+   "I noticed that each row ___."
+  ],
+  "t": "R",
+  "d": "Represent real‐world relationships using number pairs in a table and verbal descriptions."
+ },
+ {
+  "code": "3.6A",
+  "mis": [
+   {
+    "m": "Calls a cube a square or a sphere a circle.",
+    "why": "Students use familiar two-dimensional names for three-dimensional objects they see from one side.",
+    "fix": "Hand students the solid and a flat shape together and ask them to trace one face of the solid to see which flat shape it makes."
+   },
+   {
+    "m": "Sorts a cylinder with prisms because 'it has two flat ends.'",
+    "why": "Students attend to one attribute and do not check whether all faces are flat polygons.",
+    "fix": "Build an attribute checklist (faces, edges, vertices, curved surfaces) and have students test every figure against all items."
+   },
+   {
+    "m": "Counts vertices or edges inconsistently, such as counting 6 edges on a cube by counting only the visible ones in a picture.",
+    "why": "Pictures hide edges and vertices, and students lose track of what they already counted.",
+    "fix": "Have students hold real solids and mark each counted edge with a small sticker or a dry-erase dot."
+   }
+  ],
+  "cra": {
+   "c": "Students handle real solids and flat shapes, counting faces, edges and vertices and sorting them into labeled hoops by attribute.",
+   "r": "Students sort picture cards of figures into a table or Venn diagram with attribute headings such as 'has a curved surface' and 'has 6 faces.'",
+   "a": "Students write a rule for a sort using formal geometric language and test whether a new figure fits the rule.",
+   "look": "Students hold solids, count faces, edges and vertices, and justify sorts using words like vertex, edge and face."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What attribute did you use to sort?",
+     "How many faces does this prism have?"
+    ],
+    "advance": [
+     "Can you sort the same figures a different way?",
+     "What is the same and different about a cube and a rectangular prism?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is the name of this figure?",
+     "Does it have a curved surface?"
+    ],
+    "advance": [
+     "Which figures have no vertices?",
+     "Where would a cone go in your sort, and why?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me a flat face.",
+     "Show me an edge."
+    ],
+    "advance": [
+     "How many vertices can you find?",
+     "Does this one belong with the others?"
+    ],
+    "support": [
+     "Limit the sort to two attributes and four solids.",
+     "Provide a picture word wall that labels a face, edge and vertex on a real solid."
+    ]
+   }
+  },
+  "stems": [
+   "I sorted these figures by ___.",
+   "A ___ has ___ faces, ___ edges and ___ vertices.",
+   "This figure belongs here because ___.",
+   "A ___ and a ___ are alike because ___.",
+   "This figure does not belong because ___."
+  ],
+  "t": "R",
+  "d": "Classify and sort two‐ and three‐dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language."
+ },
+ {
+  "code": "3.6B",
+  "mis": [
+   {
+    "m": "Says a square is not a rectangle because 'a rectangle has two long sides.'",
+    "why": "Students rely on a typical picture of the shape rather than its defining attributes.",
+    "fix": "List the attributes of a rectangle, then test a square against each one and conclude that it qualifies."
+   },
+   {
+    "m": "Does not recognize a quadrilateral when it is rotated, such as calling a square turned on its corner a 'diamond.'",
+    "why": "Most textbook drawings show shapes in one standard position.",
+    "fix": "Rotate shape cutouts and geoboard shapes during discussion and ask, 'Did any attributes change when I turned it?'"
+   },
+   {
+    "m": "Cannot draw a quadrilateral that is not a rhombus, parallelogram, trapezoid, rectangle or square.",
+    "why": "Students think all four-sided shapes must belong to a named category.",
+    "fix": "Have students draw a four-sided shape with no parallel sides and no equal sides on dot paper and test it against each category."
+   }
+  ],
+  "cra": {
+   "c": "Students build quadrilaterals on geoboards or with straws, then check side lengths and parallel sides with a ruler and square corners with an index card corner.",
+   "r": "Students draw quadrilaterals on dot paper and record attributes in a table, then sort them into a hierarchy diagram.",
+   "a": "Students write definitions using attributes and explain category membership, such as 'A square is a rhombus because all four sides are equal.'",
+   "look": "Students measure sides and test corners on drawn or built shapes and use attributes to name every category a shape belongs to."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which attributes make this shape a parallelogram?",
+     "How did you check for a square corner?"
+    ],
+    "advance": [
+     "Can a shape be a rhombus and a rectangle at the same time? Show me.",
+     "Draw a quadrilateral that is none of these, and prove it."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many pairs of parallel sides does this shape have?",
+     "Are all the sides equal?"
+    ],
+    "advance": [
+     "Is a square a rectangle? Use attributes to explain.",
+     "What would you change to make this trapezoid a parallelogram?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many sides does this shape have?",
+     "Is this a quadrilateral?"
+    ],
+    "advance": [
+     "Are any sides the same length?",
+     "Can you find a square corner?"
+    ],
+    "support": [
+     "Provide an attribute checklist with pictures beside each attribute.",
+     "Start with geoboard shapes that students can measure by counting pegs."
+    ]
+   }
+  },
+  "stems": [
+   "This shape is a ___ because ___.",
+   "A square is also a ___ because ___.",
+   "This quadrilateral does not belong to any category because ___.",
+   "The attributes I checked were ___.",
+   "I disagree with ___ because ___."
+  ],
+  "t": "S",
+  "d": "Use attributes to recognize rhombuses, parallelograms, trapezoids, rectangles, and squares as examples of quadrilaterals and draw examples of quadrilaterals that do not belong to any of these subcategories."
+ },
+ {
+  "code": "3.6C",
+  "mis": [
+   {
+    "m": "Finds area by adding the side lengths, such as 4 + 6 = 10 square units.",
+    "why": "Students confuse area with perimeter or simply operate on the two numbers given.",
+    "fix": "Have students tile the rectangle with square tiles and count, then compare the count to their sum."
+   },
+   {
+    "m": "Counts unit squares one by one even on large rectangles and loses count.",
+    "why": "Students have not connected rows of squares to equal groups.",
+    "fix": "Shade one row, ask how many squares are in it, then ask how many rows there are to connect counting to multiplication."
+   },
+   {
+    "m": "Labels the answer in units instead of square units, or multiplies the wrong two numbers on a figure with extra labels.",
+    "why": "Students do not connect the unit square to the measurement and pick numbers without checking dimensions.",
+    "fix": "Hold up one unit square and ask, 'What are we counting?' and have students trace the length and width before multiplying."
+   }
+  ],
+  "cra": {
+   "c": "Students cover rectangles with square tiles, building one row at a time and counting the rows.",
+   "r": "Students draw rectangles on grid paper, shade one row and write the area as rows times squares in each row; they then use area models without grid lines.",
+   "a": "Students write equations such as 5 x 7 = 35 square units for rectangles given only side lengths, including finding a missing side.",
+   "look": "Students tile or draw rows and say 'rows times squares in each row' as they write the multiplication."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you find the number of squares?",
+     "What does each number in your equation mean?"
+    ],
+    "advance": [
+     "If the area is 24 square units, what could the side lengths be?",
+     "How does the area change if you add one more row?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many squares are in one row?",
+     "How many rows are there?"
+    ],
+    "advance": [
+     "Can you find the area without counting each square?",
+     "Why do we say square units?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Can you cover the rectangle with tiles?",
+     "How many tiles did you use?"
+    ],
+    "advance": [
+     "Can you count the tiles by rows?",
+     "What multiplication matches the rows?"
+    ],
+    "support": [
+     "Provide grid paper with one row already shaded.",
+     "Begin with tiles on small rectangles before moving to drawings."
+    ]
+   }
+  },
+  "stems": [
+   "There are ___ rows with ___ squares in each row.",
+   "The area is ___ square units because ___.",
+   "I multiplied ___ by ___ because ___.",
+   "The side lengths could be ___ and ___.",
+   "Area is different from perimeter because ___."
+  ],
+  "t": "R",
+  "d": "Determine the area of rectangles with whole number side lengths in problems using multiplication related to the number of rows times the number of unit squares in each row."
+ },
+ {
+  "code": "3.6D",
+  "mis": [
+   {
+    "m": "Splits an L-shaped figure into rectangles but counts the overlapping section twice.",
+    "why": "Students draw decomposition lines that overlap or do not use the line to separate the shapes.",
+    "fix": "Have students color each rectangle a different color so every square is colored exactly once."
+   },
+   {
+    "m": "Uses the wrong side lengths for an inside rectangle because the length is not labeled.",
+    "why": "Students do not know how to find an unlabeled side from the other labeled sides.",
+    "fix": "Have students trace the full side with a finger and subtract the known part, writing the missing length on the drawing."
+   },
+   {
+    "m": "Multiplies the two longest sides of the whole figure as if it were one rectangle.",
+    "why": "Students apply the rectangle area method without noticing the missing corner.",
+    "fix": "Overlay grid paper and count the squares, then compare with their product to see the extra area they included."
+   }
+  ],
+  "cra": {
+   "c": "Students build composite figures with square tiles, then separate them into two or more rectangles and find each area.",
+   "r": "Students draw composite figures on grid paper, draw decomposition lines, shade each rectangle and label its dimensions.",
+   "a": "Students write an equation that adds the areas of the rectangles, such as (4 x 3) + (2 x 5) = 22 square units.",
+   "look": "Students draw lines to split figures into non-overlapping rectangles and label each rectangle's area before adding."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide where to split the figure?",
+     "How did you find the side length that was not labeled?"
+    ],
+    "advance": [
+     "Can you split it a different way and get the same area?",
+     "Could you find the area by subtracting instead?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many rectangles did you make?",
+     "What is the area of each rectangle?"
+    ],
+    "advance": [
+     "Did any part of your figure get counted twice?",
+     "Show me the equation that matches your drawing."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Can you find one rectangle in this shape?",
+     "What is the area of that rectangle?"
+    ],
+    "advance": [
+     "What part is left over?",
+     "Can you add the two areas?"
+    ],
+    "support": [
+     "Provide figures on grid paper with the decomposition line already drawn.",
+     "Use colored pencils to shade each rectangle."
+    ]
+   }
+  },
+  "stems": [
+   "I split the figure into ___ rectangles.",
+   "The area of this rectangle is ___ square units.",
+   "The total area is ___ because ___.",
+   "I found the missing side by ___.",
+   "Another way to split the figure is ___."
+  ],
+  "t": "S",
+  "d": "Decompose composite figures formed by rectangles into non‐overlapping rectangles to determine the area of the original figure using the additive property of area."
+ },
+ {
+  "code": "3.6E",
+  "mis": [
+   {
+    "m": "Believes that two pieces must be the same shape to be equal parts, so rejects a triangle half and a rectangle half of the same square.",
+    "why": "Students equate equal area with identical shape.",
+    "fix": "Cut two congruent squares in different ways and rearrange or tile the pieces to show they cover the same amount of space."
+   },
+   {
+    "m": "Calls any of 4 parts 'one-fourth' even when the parts are not equal in area.",
+    "why": "Students count pieces without checking whether the pieces are equal.",
+    "fix": "Ask, 'Are all the parts the same size?' and have students compare areas by tiling with squares or folding."
+   },
+   {
+    "m": "Names a part as one-fourth of a different-sized whole than the one being discussed.",
+    "why": "Students do not keep track of which whole the unit fraction refers to.",
+    "fix": "Keep both wholes the same size and outline the whole in bold before naming any part."
+   }
+  ],
+  "cra": {
+   "c": "Students fold and cut congruent paper squares or rectangles in different ways into equal parts and lay the parts over one another to compare.",
+   "r": "Students partition identical shapes on grid paper in different ways, count unit squares in each part and label each part with a unit fraction.",
+   "a": "Students explain that each part is one-fourth of the whole because the whole has 4 equal-area parts, even when the parts look different.",
+   "look": "Students compare differently shaped parts of identical wholes and use counting squares to prove the parts have equal area."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know these parts have equal area?",
+     "What unit fraction names one part?"
+    ],
+    "advance": [
+     "Find another way to cut the same square into fourths.",
+     "Is one-fourth of this square the same as one-fourth of a bigger square? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many equal parts are in the whole?",
+     "How many squares are in each part?"
+    ],
+    "advance": [
+     "The parts look different. Are they still fourths?",
+     "How can you prove it?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Are these two wholes the same size?",
+     "How many parts did you make?"
+    ],
+    "advance": [
+     "Are the parts equal? Count the squares.",
+     "What do we call one of 2 equal parts?"
+    ],
+    "support": [
+     "Use grid paper so students can count squares in each part.",
+     "Start with halves before moving to fourths and eighths."
+    ]
+   }
+  },
+  "stems": [
+   "Each part is ___ of the whole because ___.",
+   "These parts have equal area because ___.",
+   "The parts look different, but ___.",
+   "I divided the whole into ___ equal parts.",
+   "I can prove the parts are equal by ___."
+  ],
+  "t": "S",
+  "d": "Decompose two congruent two-dimensional figures into parts with equal areas and express the area of each part as a unit fraction of the whole and recognize that equal share of identical wholes need not have the same shape."
+ },
+ {
+  "code": "3.7A",
+  "mis": [
+   {
+    "m": "Places 3/4 at the third tick mark without checking whether the space from 0 to 1 is cut into fourths.",
+    "why": "Students count tick marks instead of equal intervals.",
+    "fix": "Have students first count the equal spaces between 0 and 1 and name that unit fraction before placing anything."
+   },
+   {
+    "m": "Starts counting at the first tick mark after 0 instead of at 0, placing 1/2 at the first mark of a number line marked in fourths.",
+    "why": "Students treat fractions as labels on ticks rather than as distances from zero.",
+    "fix": "Have students trace the distance from 0 with a finger or a fraction strip and say 'one-fourth, two-fourths' as they move."
+   },
+   {
+    "m": "Thinks 1/8 is greater than 1/4 because 8 is greater than 4.",
+    "why": "Students apply whole number reasoning to the denominator.",
+    "fix": "Lay fraction strips of eighths and fourths under a number line and compare the length of one part of each."
+   }
+  ],
+  "cra": {
+   "c": "Students lay fraction strips or fraction tiles end to end along a 0-to-1 number line to measure halves, fourths and eighths.",
+   "r": "Students draw number lines, partition 0 to 1 into equal intervals, and label each point as a distance from zero in halves, fourths or eighths.",
+   "a": "Students write and explain fraction locations using the unit fraction, such as 'five-eighths is 5 jumps of one-eighth from 0.'",
+   "look": "Students partition number lines into equal parts, place fractions by counting jumps from 0 and match strips to the line."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide where to put five-eighths?",
+     "How many equal parts are between 0 and 1?"
+    ],
+    "advance": [
+     "Where would two-fourths be? What do you notice?",
+     "Can you show a fraction greater than 1 on this number line?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What unit fraction is each jump?",
+     "Where do you start counting?"
+    ],
+    "advance": [
+     "How far from 0 is three-fourths?",
+     "Which is closer to 1, three-fourths or three-eighths?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me 0 and 1 on your number line.",
+     "Is the space cut into equal parts?"
+    ],
+    "advance": [
+     "Can you lay fraction strips on the line?",
+     "How many jumps did you make?"
+    ],
+    "support": [
+     "Provide number lines already partitioned with only 0 and 1 labeled.",
+     "Use fraction strips that match the length from 0 to 1."
+    ]
+   }
+  },
+  "stems": [
+   "The distance from 0 to ___ is ___.",
+   "Each jump on my number line is ___.",
+   "I placed ___ here because ___.",
+   "I know ___ is greater than ___ because ___.",
+   "Two-fourths and four-eighths are at the same point because ___."
+  ],
+  "t": "S",
+  "d": "Represent fractions of halves, fourths, and eighths as distances from zero on a number line."
+ },
+ {
+  "code": "3.7B",
+  "mis": [
+   {
+    "m": "Adds only the two labeled sides of a rectangle to find perimeter.",
+    "why": "Students do not realize that opposite sides of a rectangle are equal and must be included.",
+    "fix": "Have students trace every side with a finger and write a length on each side before adding."
+   },
+   {
+    "m": "Multiplies length times width to find perimeter.",
+    "why": "Students confuse perimeter with area, especially when both are taught close together.",
+    "fix": "Use string or pipe cleaners around the outside of a shape and contrast that with tiles covering the inside."
+   },
+   {
+    "m": "When given perimeter and some sides, adds all numbers including the perimeter to find the missing side.",
+    "why": "Students apply addition to every number without reasoning about part and whole.",
+    "fix": "Draw a strip diagram with the perimeter as the whole and the known sides as parts, then find the missing part."
+   }
+  ],
+  "cra": {
+   "c": "Students wrap string or pipe cleaners around real objects and polygon cutouts, then measure the string with a ruler.",
+   "r": "Students label every side of a polygon and use a strip diagram with the perimeter as the whole to find a missing side length.",
+   "a": "Students write equations such as 8 + 5 + 8 + n = 26 and solve for the missing length.",
+   "look": "Students label all sides, trace the outside of figures and use strip diagrams to find missing side lengths."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you find the length of the unlabeled sides?",
+     "Why did you add instead of multiply?"
+    ],
+    "advance": [
+     "Draw a different rectangle with the same perimeter.",
+     "If the perimeter is 30 and three sides are known, how do you find the fourth?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does perimeter measure?",
+     "Did you include every side?"
+    ],
+    "advance": [
+     "How does your strip diagram show the missing side?",
+     "How can you check your missing length?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Trace the outside of the shape with your finger.",
+     "How many sides does it have?"
+    ],
+    "advance": [
+     "Can you write a length on every side?",
+     "What do you get when you add them all?"
+    ],
+    "support": [
+     "Provide shapes on grid paper so side lengths can be counted.",
+     "Use string around the outside before working with numbers."
+    ]
+   }
+  },
+  "stems": [
+   "The perimeter is ___ because ___.",
+   "The missing side is ___ because ___.",
+   "I added ___ to find the distance around.",
+   "Perimeter is different from area because ___.",
+   "I checked by ___."
+  ],
+  "t": "R",
+  "d": "Determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems."
+ },
+ {
+  "code": "3.7C",
+  "mis": [
+   {
+    "m": "When adding 45 minutes and 30 minutes, writes 75 minutes and does not recognize it as 1 hour 15 minutes, or writes 1:75.",
+    "why": "Students treat time like base-ten numbers instead of 60 minutes in an hour.",
+    "fix": "Use a number line marked in 5- and 15-minute intervals with each hour labeled, and jump across the hour mark."
+   },
+   {
+    "m": "Subtracts start and end times like whole numbers, such as 3:10 - 2:50 = 60.",
+    "why": "Students apply base-ten subtraction to clock times.",
+    "fix": "Have students count up on a time number line from 2:50 to 3:00 and then to 3:10."
+   },
+   {
+    "m": "Confuses elapsed time with the time of day, giving 4:30 as the answer to 'How long did it take?'",
+    "why": "Students do not distinguish a duration from a point in time.",
+    "fix": "Ask, 'Is the question asking when or how long?' and label answers with 'minutes' or 'o'clock.'"
+   }
+  ],
+  "cra": {
+   "c": "Students use geared clocks to move the minute hand through each event, counting minutes as the hand moves.",
+   "r": "Students draw time number lines with jumps for each event and label the minutes above each jump, using strip diagrams to combine intervals.",
+   "a": "Students write equations such as 15 + 30 = 45 minutes and convert totals over 60 minutes into hours and minutes.",
+   "look": "Students mark jumps on time number lines and label each jump with minutes before writing an equation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you use the number line to find the total time?",
+     "How many minutes are in one hour?"
+    ],
+    "advance": [
+     "If the second event took 10 minutes longer, what would change?",
+     "Write your own story with two events that add up to 50 minutes."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Is this question asking when or how long?",
+     "Show me the jump for the first event."
+    ],
+    "advance": [
+     "How did you handle crossing the hour?",
+     "How can you check your answer on a clock?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Where does the minute hand start?",
+     "Move the hand 15 minutes. Where is it now?"
+    ],
+    "advance": [
+     "How many minutes did you count?",
+     "What happens when you add the next event?"
+    ],
+    "support": [
+     "Provide a time number line already marked in 5-minute intervals.",
+     "Use geared clocks and start with intervals that do not cross the hour."
+    ]
+   }
+  },
+  "stems": [
+   "The first event took ___ minutes.",
+   "Altogether, the events took ___ minutes because ___.",
+   "I jumped from ___ to ___ on my number line.",
+   "___ minutes is the same as ___ hour and ___ minutes.",
+   "This question asks how long, so ___."
+  ],
+  "t": "S",
+  "d": "Determine the solutions to problems involving addition and subtraction of time intervals in minutes using pictorial models or tools such as a 15‐minute event plus a 30‐minute event equals 45 minutes."
+ },
+ {
+  "code": "3.7D",
+  "mis": [
+   {
+    "m": "Chooses weight to describe how much juice fits in a pitcher.",
+    "why": "Students think of 'how much' as one idea and do not distinguish space a liquid fills from heaviness.",
+    "fix": "Pour water between containers and ask, 'Are we asking how heavy or how much it holds?'"
+   },
+   {
+    "m": "Believes a bigger object is always heavier, so chooses weight based on size.",
+    "why": "Students connect size and weight from everyday experiences.",
+    "fix": "Have students compare a large pillow and a small rock on a balance scale."
+   },
+   {
+    "m": "Uses capacity to describe solid objects, such as the capacity of a book.",
+    "why": "Students have not connected capacity to containers and liquids.",
+    "fix": "Sort situation cards into 'how much it holds' and 'how heavy it is' with real containers and objects nearby."
+   }
+  ],
+  "cra": {
+   "c": "Students pour water or rice between containers to explore capacity and compare objects on a balance scale to explore weight.",
+   "r": "Students sort picture and situation cards into a two-column table labeled 'liquid volume' and 'weight.'",
+   "a": "Students write a reason for each choice, such as 'We use liquid volume because we want to know how much the bathtub holds.'",
+   "look": "Students sort situations, pour and weigh real items, and explain why each needs liquid volume or weight."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you choose liquid volume for this one?",
+     "What question would we ask to measure weight?"
+    ],
+    "advance": [
+     "Can the same object need both measurements? When?",
+     "Write your own situation for each type of measurement."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Is this asking how much it holds or how heavy it is?",
+     "What tool would you use?"
+    ],
+    "advance": [
+     "Is a bigger object always heavier? Prove it with the balance.",
+     "Why would we not use weight for juice in a pitcher?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Does this hold a liquid?",
+     "Can you pour water into it?"
+    ],
+    "advance": [
+     "Which one is heavier on the balance?",
+     "Do we want to know how much it holds or how heavy it is?"
+    ],
+    "support": [
+     "Provide picture cards with a cup or a scale icon to guide the sort.",
+     "Let students handle real containers and objects before using pictures."
+    ]
+   }
+  },
+  "stems": [
+   "We should measure liquid volume because ___.",
+   "We should measure weight because ___.",
+   "This container holds ___.",
+   "This object is heavier than ___ because ___.",
+   "I would use a ___ to measure this."
+  ],
+  "t": "S",
+  "d": "Determine when it is appropriate to use measurements of liquid volume (capacity) or weight."
+ },
+ {
+  "code": "3.7E",
+  "mis": [
+   {
+    "m": "Reads a measuring cup or scale at the wrong mark because they count lines instead of reading the labeled scale.",
+    "why": "Students do not notice the interval each mark represents.",
+    "fix": "Have students identify the value of each mark between labeled numbers before reading a measurement."
+   },
+   {
+    "m": "Chooses unreasonable units, such as measuring a swimming pool in milliliters or a feather in kilograms.",
+    "why": "Students lack benchmarks for the size of each unit.",
+    "fix": "Build a benchmark wall: a paperclip about 1 gram, a textbook about 1 kilogram, a water bottle about 1 liter, and compare."
+   },
+   {
+    "m": "Mixes customary and metric units or thinks a quart is larger than a gallon.",
+    "why": "Students have limited experience with the sizes of customary units.",
+    "fix": "Fill a gallon jug with quart containers and record how many fit."
+   }
+  ],
+  "cra": {
+   "c": "Students use measuring cups, graduated beakers, balance scales and spring scales to measure real containers and objects in metric and customary units.",
+   "r": "Students draw and read scaled measuring tools on paper, marking the interval value and labeling each reading with units.",
+   "a": "Students record measurements with appropriate units and explain why the unit fits, such as 'liters because the bucket holds a lot.'",
+   "look": "Students measure real items with tools, read the scale carefully and label every measurement with the unit."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you read the scale on this tool?",
+     "Why did you pick that unit?"
+    ],
+    "advance": [
+     "About how many cups would fill this pitcher? Estimate, then measure.",
+     "What would be an unreasonable unit for this object? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does each mark on the tool stand for?",
+     "What unit is this tool measuring?"
+    ],
+    "advance": [
+     "Is your measurement reasonable? Compare it to a benchmark.",
+     "Would grams or kilograms be better for this object?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which tool would you use for water?",
+     "Which tool would you use for a rock?"
+    ],
+    "advance": [
+     "Show me where the liquid stops.",
+     "What number is closest to that mark?"
+    ],
+    "support": [
+     "Provide tools with labeled marks every interval.",
+     "Keep a benchmark object for each unit at the table."
+    ]
+   }
+  },
+  "stems": [
+   "The ___ holds about ___.",
+   "The ___ weighs about ___.",
+   "I used the ___ because ___.",
+   "This unit makes sense because ___.",
+   "My measurement is reasonable because ___."
+  ],
+  "t": "S",
+  "d": "Determine liquid volume (capacity) or weight using appropriate units and tools."
+ },
+ {
+  "code": "3.8A",
+  "mis": [
+   {
+    "m": "Makes bars or picture rows the wrong length on a scaled graph by treating each interval or picture as 1.",
+    "why": "Students ignore the scale and count marks or pictures as ones.",
+    "fix": "Have students write the scale value beside each interval or key before graphing, and skip count along the axis."
+   },
+   {
+    "m": "Draws half a picture incorrectly or rounds data to fit the pictograph.",
+    "why": "Students do not know how to show values between scale amounts.",
+    "fix": "Use a key of 2 and have students model the value 5 with two full pictures and half of one using cutouts."
+   },
+   {
+    "m": "Records tallies or dot plot dots inconsistently, such as unevenly spaced dots or missing categories.",
+    "why": "Students rush data collection without organizing it first.",
+    "fix": "Have students build a frequency table with tallies first and check that the total matches the number of data points."
+   }
+  ],
+  "cra": {
+   "c": "Students collect class data with sticky notes or linking cubes and build real graphs by stacking or lining up objects by category.",
+   "r": "Students organize data into a frequency table, then draw a dot plot, pictograph with a key or bar graph with scaled intervals.",
+   "a": "Students choose a scale for a data set and explain why it fits, and write summary statements using the graph.",
+   "look": "Students build and label graphs with titles, categories and scales, and skip count the scale to check bar heights."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you choose your scale?",
+     "How do you know this bar shows the right amount?"
+    ],
+    "advance": [
+     "How would your graph change with a scale of 5?",
+     "Which display best shows this data, and why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does one picture stand for?",
+     "How many votes are in this category?"
+    ],
+    "advance": [
+     "How did you show a number that is not on the scale?",
+     "Does your frequency table total match the class count?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Count the tallies in this row.",
+     "Where does this category go on the graph?"
+    ],
+    "advance": [
+     "Skip count by 2 up the side.",
+     "Where should the bar stop?"
+    ],
+    "support": [
+     "Provide a graph template with a scale already labeled.",
+     "Use linking cubes to build the bars before drawing."
+    ]
+   }
+  },
+  "stems": [
+   "My graph shows ___.",
+   "I chose a scale of ___ because ___.",
+   "Each picture stands for ___.",
+   "The category with the most is ___.",
+   "I organized the data by ___."
+  ],
+  "t": "R",
+  "d": "Summarize a data set with multiple categories using frequency table, dot plot, pictograph, or bar graph with scaled intervals."
+ },
+ {
+  "code": "3.8B",
+  "mis": [
+   {
+    "m": "Reads the number of pictures in a pictograph as the value, ignoring the key.",
+    "why": "Students skip the key and count pictures as ones.",
+    "fix": "Have students circle the key and write the value under each picture before answering."
+   },
+   {
+    "m": "For 'how many more,' adds the two categories instead of comparing them.",
+    "why": "Students react to the word 'more' as a signal to add.",
+    "fix": "Draw two bars side by side and shade the part that sticks out, then ask how much longer one bar is."
+   },
+   {
+    "m": "Estimates a bar's value incorrectly when it ends between grid lines.",
+    "why": "Students do not reason about the halfway point of a scaled interval.",
+    "fix": "Use a ruler or index card across the graph to line up the bar top with the scale and find the midpoint."
+   }
+  ],
+  "cra": {
+   "c": "Students use linking-cube towers to rebuild bars from a graph and compare towers to answer questions.",
+   "r": "Students mark up graphs, labeling bar values and drawing strip diagrams to model one- and two-step questions about the data.",
+   "a": "Students write equations that answer data questions, such as 18 - 12 = 6 more students chose soccer.",
+   "look": "Students annotate graphs with values, draw strip diagrams for comparisons and write equations from the data."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you find the value of this bar?",
+     "What operation did you use and why?"
+    ],
+    "advance": [
+     "Write a two-step question someone could answer with this graph.",
+     "How many students voted in all? How do you know?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is the scale on this graph?",
+     "What does one symbol stand for?"
+    ],
+    "advance": [
+     "How did you find how many more?",
+     "How can a strip diagram help you compare these two categories?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the bar for apples.",
+     "What number does it reach?"
+    ],
+    "advance": [
+     "Which bar is taller?",
+     "How much taller is it?"
+    ],
+    "support": [
+     "Provide graphs with values already labeled on each bar.",
+     "Break two-step questions into two separate questions."
+    ]
+   }
+  },
+  "stems": [
+   "The graph shows that ___.",
+   "___ more students chose ___ than ___.",
+   "I found the answer by ___.",
+   "Each symbol stands for ___.",
+   "In all, ___ because ___."
+  ],
+  "t": "S",
+  "d": "Solve one‐ and two‐step problems using categorical data represented with a frequency table, dot plot, pictograph, or bar graph with scaled intervals."
+ },
+ {
+  "code": "3.9A",
+  "mis": [
+   {
+    "m": "Thinks people earn money just by having a job title, without connecting income to skills or effort.",
+    "why": "Students have limited exposure to how work and pay connect.",
+    "fix": "Interview a school worker about the skills and training their job requires and link those to what they earn."
+   },
+   {
+    "m": "Believes all jobs pay the same amount or that pay depends only on hours worked.",
+    "why": "Students have not considered how skills, education and training affect income.",
+    "fix": "Compare two job cards that show skills, training and pay, and discuss why the pay may be different."
+   },
+   {
+    "m": "Confuses human capital with money or belongings.",
+    "why": "The term 'capital' sounds like money to students.",
+    "fix": "Explain human capital as 'skills and knowledge you carry with you,' and have students list their own skills."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play jobs in a class market, earning classroom bills or coins for completing tasks that need different skills.",
+   "r": "Students draw a strip diagram or table linking a skill, the job it leads to and the income earned.",
+   "a": "Students write and explain how gaining a new skill can lead to a different job and higher income.",
+   "look": "Students match jobs to the skills and training they need and explain how those skills connect to income."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does this job connect to the skills a person has?",
+     "Why might one job pay more than another?"
+    ],
+    "advance": [
+     "What skill could you learn now that might help you earn income later?",
+     "How can training change a person's income?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is human capital?",
+     "What skills does a teacher need?"
+    ],
+    "advance": [
+     "How is income connected to labor?",
+     "Why would someone go to school to learn a new skill?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What does this worker do?",
+     "Do they earn money for their work?"
+    ],
+    "advance": [
+     "What skill do they use?",
+     "How did they learn that skill?"
+    ],
+    "support": [
+     "Provide picture cards of jobs with skills listed.",
+     "Use the class job chart as a familiar example."
+    ]
+   }
+  },
+  "stems": [
+   "Human capital means ___.",
+   "A person earns income by ___.",
+   "This job needs the skill of ___.",
+   "Learning ___ could help a person ___.",
+   "One job may pay more because ___."
+  ],
+  "t": "S",
+  "d": "Explain the connection between human capital/labor and income."
+ },
+ {
+  "code": "3.9B",
+  "mis": [
+   {
+    "m": "Thinks prices are always the same no matter how many of an item are available.",
+    "why": "Students have not experienced how supply changes prices.",
+    "fix": "Run a class auction with few and many of the same item and compare the prices students offer."
+   },
+   {
+    "m": "Believes something scarce costs less because 'there isn't much of it.'",
+    "why": "Students reason that less of something means it is worth less.",
+    "fix": "Use a story about a rare trading card and discuss how many people want it compared to how many exist."
+   },
+   {
+    "m": "Confuses scarcity with something being completely gone.",
+    "why": "The word 'scarce' is unfamiliar and sounds like 'none.'",
+    "fix": "Show a jar with many counters and a jar with few counters and describe the second as scarce, not empty."
+   }
+  ],
+  "cra": {
+   "c": "Students take part in a class market simulation with classroom bills and coins where some items are plentiful and some are scarce.",
+   "r": "Students record items, their availability and their prices in a table and draw arrows showing how price changes as availability changes.",
+   "a": "Students write cause-and-effect statements, such as 'When strawberries are scarce, the cost goes up.'",
+   "look": "Students compare prices of plentiful and scarce items in a simulation and explain the cause-and-effect relationship."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did the price change when there were fewer items?",
+     "Why do you think that happened?"
+    ],
+    "advance": [
+     "Can you think of a real-life item that costs more when it is scarce?",
+     "What could make the price of an item go down?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does scarce mean?",
+     "Which item was scarce in our market?"
+    ],
+    "advance": [
+     "How does availability affect cost?",
+     "What would happen to the price of water if there were a drought?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Are there a lot or a few of these?",
+     "Which one costs more?"
+    ],
+    "advance": [
+     "What happens when many people want a few items?",
+     "Would the price go up or down?"
+    ],
+    "support": [
+     "Use picture cards showing many and few items with prices.",
+     "Start with a familiar classroom example, such as one special pencil."
+    ]
+   }
+  },
+  "stems": [
+   "When ___ is scarce, the cost ___.",
+   "The price went up because ___.",
+   "There is plenty of ___, so ___.",
+   "Availability affects cost because ___.",
+   "One example of a scarce resource is ___."
+  ],
+  "t": "S",
+  "d": "Describe the relationship between the availability or scarcity of resources and how that impacts cost."
+ },
+ {
+  "code": "3.9C",
+  "mis": [
+   {
+    "m": "Thinks unplanned spending is always bad, missing that some unplanned costs are emergencies.",
+    "why": "Students see spending choices as simply good or bad.",
+    "fix": "Sort cards of unplanned costs, such as a broken bike tire and a toy at checkout, and discuss which were needs."
+   },
+   {
+    "m": "Lists only benefits of a purchase and ignores costs such as giving up something else.",
+    "why": "Students focus on what they gain, not what they give up.",
+    "fix": "Use a two-column cost and benefit chart for each choice and require at least one entry in each column."
+   },
+   {
+    "m": "Confuses planned spending with saving.",
+    "why": "Both involve thinking ahead, so students blend them together.",
+    "fix": "Show a simple budget where planned spending and saving are separate rows."
+   }
+  ],
+  "cra": {
+   "c": "Students use classroom bills and coins with a set budget to make planned purchases from a class store, then face an unplanned spending card.",
+   "r": "Students fill in a cost and benefit chart or a strip diagram showing the budget split into planned spending and what is left.",
+   "a": "Students write a short explanation comparing a planned and an unplanned spending decision and its costs and benefits.",
+   "look": "Students weigh costs and benefits of purchases with a set budget and explain how unplanned spending changes their plan."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is one cost and one benefit of this choice?",
+     "Was this spending planned or unplanned?"
+    ],
+    "advance": [
+     "How could planning ahead help with unplanned costs?",
+     "What would you give up if you made this purchase?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does planned spending mean?",
+     "What is a benefit of this purchase?"
+    ],
+    "advance": [
+     "How did the unplanned cost change your budget?",
+     "Was it a need or a want?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Did you plan to buy this?",
+     "How much money do you have left?"
+    ],
+    "advance": [
+     "What did you get from buying it?",
+     "What could you not buy now?"
+    ],
+    "support": [
+     "Provide a picture-supported cost and benefit chart.",
+     "Use a small budget with only three item choices."
+    ]
+   }
+  },
+  "stems": [
+   "A cost of this choice is ___.",
+   "A benefit of this choice is ___.",
+   "This spending was planned because ___.",
+   "This spending was unplanned because ___.",
+   "If I plan ahead, I can ___."
+  ],
+  "t": "U",
+  "d": "Identify the costs and benefits of planned and unplanned spending decisions."
+ },
+ {
+  "code": "3.9D",
+  "mis": [
+   {
+    "m": "Thinks credit is free money that does not need to be paid back.",
+    "why": "Students see adults use cards without seeing the bills that follow.",
+    "fix": "Role-play a borrower and lender with classroom bills and record what is owed in a ledger."
+   },
+   {
+    "m": "Believes the borrower pays back exactly what was borrowed.",
+    "why": "Students have not learned about interest as a cost of borrowing.",
+    "fix": "Show a lender charging 1 extra classroom dollar to borrow 10 and compare what was borrowed and what was repaid."
+   },
+   {
+    "m": "Mixes up who the borrower and the lender are.",
+    "why": "The two words sound similar and the roles are new to students.",
+    "fix": "Use labeled role cards and the phrase 'The lender lends; the borrower borrows and pays back.'"
+   }
+  ],
+  "cra": {
+   "c": "Students role-play borrowing classroom bills from a lender to buy something they want but cannot afford, then pay it back with interest over time.",
+   "r": "Students track borrowing in a table or strip diagram showing the amount borrowed, the interest and the total paid back.",
+   "a": "Students explain in writing when credit is used and the borrower's responsibility to repay, usually with interest.",
+   "look": "Students act out borrowing and repaying with classroom bills and record the amount borrowed, interest and total repaid."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did the borrower need to use credit?",
+     "What does the borrower have to do?"
+    ],
+    "advance": [
+     "Why do lenders charge interest?",
+     "How could someone avoid paying a lot of interest?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Who is the lender in this story?",
+     "What is interest?"
+    ],
+    "advance": [
+     "How much did the borrower pay back in all?",
+     "Why is it more than what was borrowed?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Who has the money first?",
+     "Who needs to borrow?"
+    ],
+    "advance": [
+     "Does the borrower have to give the money back?",
+     "Is it the same amount or more?"
+    ],
+    "support": [
+     "Provide role cards with pictures for borrower and lender.",
+     "Use small whole-dollar amounts and a fixed interest amount."
+    ]
+   }
+  },
+  "stems": [
+   "Credit is used when ___.",
+   "The borrower must ___.",
+   "The lender is ___.",
+   "Interest means ___.",
+   "The borrower paid back ___ because ___."
+  ],
+  "t": "S",
+  "d": "Explain that credit is used when wants or needs exceed the ability to pay and that it is the borrower's responsibility to pay it back to the lender, usually with interest."
+ },
+ {
+  "code": "3.9E",
+  "mis": [
+   {
+    "m": "Thinks saving means keeping money with no goal.",
+    "why": "Students have not connected saving to a plan or future purchase.",
+    "fix": "Have students choose a goal and draw a savings thermometer showing how much they need."
+   },
+   {
+    "m": "Believes you can only save large amounts, so small savings do not matter.",
+    "why": "Students do not see how small amounts add up over time.",
+    "fix": "Model saving 2 dollars a week on a number line or table and show the total after 10 weeks."
+   },
+   {
+    "m": "Lists only short-term reasons to save and does not think of college or emergencies.",
+    "why": "Students focus on toys and treats they want soon.",
+    "fix": "Sort reasons to save into 'soon' and 'later' and include college, emergencies and big purchases."
+   }
+  ],
+  "cra": {
+   "c": "Students use classroom coins and bills in labeled jars to save toward a goal, adding money each week.",
+   "r": "Students record a savings plan in a table or strip diagram showing weekly savings and the total growing toward the goal.",
+   "a": "Students explain the benefit of a savings plan and list reasons to save, including for college.",
+   "look": "Students set savings goals, track savings in tables and explain why a plan helps them reach their goal."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is your savings goal and why?",
+     "How does your plan help you reach it?"
+    ],
+    "advance": [
+     "How would your plan change if you saved a little more each week?",
+     "Why might families save for college?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is one reason to save?",
+     "How much do you save each week?"
+    ],
+    "advance": [
+     "How many weeks until you reach your goal?",
+     "What is the benefit of having a plan?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What would you like to save for?",
+     "How much money do you need?"
+    ],
+    "advance": [
+     "If you save 2 dollars each week, how much do you have after 2 weeks?",
+     "Are you closer to your goal?"
+    ],
+    "support": [
+     "Provide a savings thermometer with the goal already marked.",
+     "Use small goals and amounts that students can count with coins."
+    ]
+   }
+  },
+  "stems": [
+   "One reason to save is ___.",
+   "My savings goal is ___.",
+   "A savings plan helps because ___.",
+   "If I save ___ each week, I will have ___.",
+   "People save for college because ___."
+  ],
+  "t": "S",
+  "d": "List reasons to save and explain the benefit of a savings plan, including for college."
+ },
+ {
+  "code": "3.9F",
+  "mis": [
+   {
+    "m": "Sees income, spending, saving, credit and charitable giving as separate topics instead of choices about the same money.",
+    "why": "Students learned each idea one at a time.",
+    "fix": "Use one classroom paycheck and have students split it into spending, saving and giving jars, discussing each decision."
+   },
+   {
+    "m": "Thinks charitable giving only means giving money.",
+    "why": "Students have not considered giving time, items or skills.",
+    "fix": "Brainstorm ways to give, such as donating food or volunteering, and add them to a class chart."
+   },
+   {
+    "m": "Cannot identify which type of decision a situation describes, such as calling a loan 'income.'",
+    "why": "The vocabulary is new and situations can sound similar.",
+    "fix": "Sort situation cards into five labeled columns and have students explain each placement with a partner."
+   }
+  ],
+  "cra": {
+   "c": "Students receive a classroom paycheck in bills and coins and make decisions about spending, saving, borrowing and giving.",
+   "r": "Students record their decisions in a table or strip diagram showing how their income was divided.",
+   "a": "Students identify the type of decision in short scenarios and explain how each one affects their money.",
+   "look": "Students divide a classroom paycheck into categories and sort scenarios by decision type, explaining their choices."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What type of decision is this?",
+     "How did you decide how much to save?"
+    ],
+    "advance": [
+     "How does using credit affect your future choices?",
+     "What would change if your income went up?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which choice is charitable giving?",
+     "What is income?"
+    ],
+    "advance": [
+     "How did your spending affect what you could save?",
+     "Can you sort these situations by decision type?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How much money do you have?",
+     "What will you buy?"
+    ],
+    "advance": [
+     "Will you save any money?",
+     "Is there a way to help someone else?"
+    ],
+    "support": [
+     "Provide picture cards for each decision type.",
+     "Use a small paycheck with only three choices: spend, save or give."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___ decision because ___.",
+   "I chose to save ___ because ___.",
+   "Charitable giving means ___.",
+   "My income was divided into ___.",
+   "Using credit means ___."
+  ],
+  "t": "U",
+  "d": "Identify decisions involving income, spending, saving credit and chartible giving."
+ }
+]

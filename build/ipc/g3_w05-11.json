@@ -1,0 +1,780 @@
+{
+ "grade": 3,
+ "weeks": [
+  {
+   "q": 1,
+   "wk": 5,
+   "start": "2026-09-07",
+   "title": "Q1:W5 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Labor Day"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L20"
+     ],
+     "teks": [
+      "3.4K"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H",
+      "3.5D",
+      "3.4E"
+     ],
+     "lo": "I am learning to solve two-step word problems involving multiplication and division, and assess the reasonableness of answers.",
+     "sc": [
+      "I can use the strip diagram to solve two-step problems.",
+      "I can write a related multiplication and division equation using a letter or symbol.",
+      "I can explain how finding the missing unknown number can help with related facts."
+     ],
+     "te": {
+      "M1.L20": "https://drive.google.com/file/d/1r-po3B0rvksKmlnKqPtP5gOLMEf1G3I2/edit?disco=AAABEycQTpY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L2"
+     ],
+     "teks": [
+      "3.4A",
+      "3.7C"
+     ],
+     "bundled": [],
+     "lo": "I am learning to solve word problems involving time intervals within 1 hour by counting backward and forward using the number line and clock.",
+     "sc": [
+      "I can count forward and backward using a number line to solve word problems involving time intervals within 1 hour.",
+      "I can count forward and backward using a clock to solve word problems involving time intervals within 1 hour."
+     ],
+     "te": {
+      "M2.L2": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAkrQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L3"
+     ],
+     "teks": [
+      "3.7C"
+     ],
+     "bundled": [
+      "3.4A"
+     ],
+     "lo": "I am learning to solve word problems involving time intervals within 1 hour by adding and subtracting on the number line.",
+     "sc": [
+      "I can identify the known start time, end time, or elapsed minutes in a word problem.",
+      "I can draw and label a number line to show time intervals precisely.",
+      "I can add or subtract intervals of minutes to solve for an unknown time."
+     ],
+     "te": {
+      "M2.L3": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAku4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.S3-1"
+     ],
+     "teks": [
+      "3.4A",
+      "3.7C"
+     ],
+     "bundled": [],
+     "lo": "I am learning to solve addition and subtraction word problems involving time intervals greater than 1 hour.",
+     "sc": [
+      "I can use a clock to find elapsed time.",
+      "I can use a number line to find elapsed time."
+     ],
+     "te": {
+      "M2.S3-1": "https://drive.google.com/open?id=1CfUSJTUFvfKm1w5RmWjXrJGiC9_T17P5&disco=AAABolpJA4o"
+     },
+     "note": "Supplemental Lesson 3-1"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 6,
+   "start": "2026-09-14",
+   "title": "Q1:W6 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L4"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.7D",
+      "3.7E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to build and decompose a kilogram with appropriate measurements about the same size and weight of 1 kilogram, 100 grams, 10 grams, and 1 gram.",
+     "sc": [
+      "I can use a pan balance and square units to build and evenly partition a 1-kilogram whole.",
+      "I can skip-count by hundreds to show that 1 kilogram is equal to 1,000 grams.",
+      "I can identify and label the abbreviations kg and g for different metric weights."
+     ],
+     "te": {
+      "M2.L4": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAk40"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L5"
+     ],
+     "teks": [
+      "3.7D"
+     ],
+     "bundled": [
+      "3.7E"
+     ],
+     "lo": "I am learning to determine when to use estimation strategies by reasoning about the weight in kilograms of a series of familiar objects to establish mental benchmark measures.",
+     "sc": [
+      "I can hold a 1-kilogram weight to build a mental benchmark of how heavy it feels.",
+      "I can use a spring scale or a digital scale to measure and compare my estimated weights.",
+      "I can choose the correct unit of metric weight (grams or kilograms) for different objects."
+     ],
+     "te": {
+      "M2.L5": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAk5o"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L6"
+     ],
+     "teks": [
+      "3.7D"
+     ],
+     "bundled": [
+      "3.7E",
+      "3.2A",
+      "3.4A"
+     ],
+     "lo": "I am learning to build and decompose a kilogram to reason about the relationship between the size and weight of kilograms and grams.",
+     "sc": [
+      "I can use unit weights to build up to a total of 1 kilogram.",
+      "I can mathematically decompose 1 kilogram into ten 100-gram segments.",
+      "I can visually explain how the physical size of an object does not always dictate its metric weight."
+     ],
+     "te": {
+      "M2.L6": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAk6k"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L7",
+      "M2.L8"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.7D",
+      "3.7E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to decompose a liter to determine the appropriate size of 1 liter, 100 milliliters, 10 milliliters, and 1 milliliter.",
+     "sc": [
+      "I can explain the relationship between a liter and a milliliter by decomposing units of capacity.",
+      "I can create and use a horizontal number line to represent intervals of liquid volume.",
+      "I can estimate and measure liquid volume to the nearest 100 milliliters."
+     ],
+     "te": {
+      "M2.L7": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAk6k"
+     },
+     "note": "Lessons combined (L8 Concept Development Problem, revised with horizontal number lines)"
+    },
+    {
+     "dow": "Fri",
+     "kind": "flex",
+     "les": [
+      "M2.L7",
+      "M2.L8"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.7D",
+      "3.7E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to decompose a liter to determine the appropriate size of 1 liter, 100 milliliters, 10 milliliters, and 1 milliliter.",
+     "sc": [
+      "I can explain the relationship between a liter and a milliliter by decomposing units of capacity.",
+      "I can create and use a horizontal number line to represent intervals of liquid volume.",
+      "I can estimate and measure liquid volume to the nearest 100 milliliters."
+     ],
+     "te": {
+      "M2.L7": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBRAk6k"
+     },
+     "note": "Reteach or Flex Day"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 7,
+   "start": "2026-09-21",
+   "title": "Q1:W7 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L9"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.7D",
+      "3.7E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to solve mixed word problems involving all four operations with grams, kilograms, liters, and milliliters given in the same units.",
+     "sc": [
+      "I can solve word problems involving addition and subtraction.",
+      "I can solve for the unknown in word problems involving multiplication and division."
+     ],
+     "te": {
+      "M2.L9": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsAvAH4Y"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L10"
+     ],
+     "teks": [
+      "3.2A",
+      "3.2B",
+      "3.2D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to name numbers up to 100,000 by building an understanding of the place value chart and placement of commas for naming base thousand units.",
+     "sc": [
+      "I can build the place value chart from ones to hundred thousands.",
+      "I can represent numbers to 100,000 on the place value chart using the chip model.",
+      "I can write and say numbers in standard form.",
+      "I  can add to make 10 of a unit and bundle up to 1 hundred thousand."
+     ],
+     "te": {
+      "M2.L10": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsAvAH7s"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L11"
+     ],
+     "teks": [
+      "3.2A",
+      "3.2B",
+      "3.2D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to read and write numbers up to 100,000 using base ten numerals, number names, expanded form, and expanded notation.",
+     "sc": [
+      "I can write up to a five-digit number in word form, expanded form, and expanded notation.",
+      "I can transcribe a number in word form to standard form, expanded form, and expanded notation.",
+      "I can convert a number in expanded form to expanded notation, word form, and standard form."
+     ],
+     "te": {
+      "M2.L11": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsAvAH8s"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L12"
+     ],
+     "teks": [
+      "3.2A",
+      "3.2B",
+      "3.2D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to compare numbers based on the meaning of the digits using <, >, or = to record the comparison.",
+     "sc": [
+      "I can compare two numbers with the same largest place value unit.",
+      "I can compare two numbers with equal amounts of the largest units.",
+      "I can compare values of multiple numbers using a place value chart.",
+      "I can compare numbers in different number representations."
+     ],
+     "te": {
+      "M2.L12": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsAvAH-A"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "M 1-2 Learning Check 2"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 8,
+   "start": "2026-09-28",
+   "title": "Q1:W8 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L14"
+     ],
+     "teks": [
+      "3.2A",
+      "3.2B",
+      "3.2C",
+      "3.4B"
+     ],
+     "bundled": [],
+     "lo": "I am learning to round two- and three-digit numbers to the nearest ten on the horizontal number line.",
+     "sc": [
+      "I can tell if a number is more or less than halfway, and use that to decide which ten it rounds to.",
+      "I can find the halfway points on a number line between two tens."
+     ],
+     "te": {
+      "M2.L14": "https://drive.google.com/open?id=1nxvtUODFkNr5_1vPKyaxWR3bUWgi5Ph5&disco=AAACDMFyxiY"
+     },
+     "note": "Revised for horizontal number lines"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L15"
+     ],
+     "teks": [
+      "3.4B"
+     ],
+     "bundled": [
+      "3.2A",
+      "3.2B",
+      "3.2C",
+      "3.2D"
+     ],
+     "lo": "I am learning to round to the nearest hundred on the horizontal number line.",
+     "sc": [
+      "I can use a horizontal number line to round three-digit numbers to the nearest hundred.",
+      "I can use a horizontal number line to  round four-digit numbers to the nearest hundred."
+     ],
+     "te": {
+      "M2.L15": "https://drive.google.com/open?id=14MdjWZ432ITk3RqgpmX0m1sPBgrB2pHV&disco=AAACDcdwcHg"
+     },
+     "note": "Revised for horizontal number lines"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L18"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.2D"
+     ],
+     "bundled": [
+      "3.2B",
+      "3.2C",
+      "3.7C",
+      "3.7D",
+      "3.7E"
+     ],
+     "lo": "I am learning to add measurements using the standard algorithm to compose numbers twice.",
+     "sc": [
+      "I can use place value to understand adding on a horizontal number line.",
+      "I can use place value charts, disks, and the standard algorithm to add measurements, composing larger units twice.",
+      "I can use multiple strategies and the standard algorithm to add measurements, composing larger units twice."
+     ],
+     "te": {
+      "M2.L18": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsAvAINg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L19"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.2D",
+      "3.4B"
+     ],
+     "bundled": [
+      "3.2B",
+      "3.2C",
+      "3.7C",
+      "3.7D",
+      "3.7E"
+     ],
+     "lo": "I am learning to estimate sums by rounding and to solve measurement word problems.",
+     "sc": [
+      "I can estimate the sums by rounding.",
+      "I can analyze the rounded sums of three expressions with addends close to the halfway point.",
+      "I can check the reasonableness of my precise answer by comparing it to my estimated sum."
+     ],
+     "te": {
+      "M2.L19": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsAvAINs"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L20"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.4B"
+     ],
+     "bundled": [
+      "3.2B",
+      "3.2C",
+      "3.7C",
+      "3.7D",
+      "3.7E"
+     ],
+     "lo": "I am learning to decompose once to subtract measurements including three-digit minuends with zeros in the tens or ones place.",
+     "sc": [
+      "I can use the place value chart to model decomposing once to subtract with three-digit minuends.",
+      "I can subtract using the standard algorithm."
+     ],
+     "te": {
+      "M2.L20": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAABEynqAYQ"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 9,
+   "start": "2026-10-05",
+   "title": "Q1:W9 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L21"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.4B"
+     ],
+     "bundled": [
+      "3.2B",
+      "3.2C",
+      "3.7C",
+      "3.7D",
+      "3.7E"
+     ],
+     "lo": "I am learning to decompose twice to subtract measurements including three-digit minuends with zeros in the tens and ones places.",
+     "sc": [
+      "I can decompose twice using the standard algorithm for subtraction.",
+      "I can use the standard algorithm to subtract three-digit numbers with zeros in various positions."
+     ],
+     "te": {
+      "M2.L21": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAAAsBmRIPY"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "Q1 SMC Math"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Q1 SMC RLA"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "Fair Day"
+    },
+    {
+     "dow": "Fri",
+     "kind": "off",
+     "text": "Fair Day"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 10,
+   "start": "2026-10-12",
+   "title": "Q2:W1 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L22"
+     ],
+     "teks": [
+      "3.2A",
+      "3.4A",
+      "3.4B"
+     ],
+     "bundled": [
+      "3.2B",
+      "3.2C",
+      "3.7C",
+      "3.7D",
+      "3.7E"
+     ],
+     "lo": "I will estimate solutions to addition and subtraction problems using rounding.",
+     "sc": [
+      "I can round measurements to the nearest ten or hundred to estimate a difference.",
+      "I can calculate the exact difference and evaluate the reasonableness of my estimate."
+     ],
+     "te": {
+      "M2.L22": "https://drive.google.com/file/d/10hIqhecpTXlbgbiOZRQf9STc5cffhPy9/edit?disco=AAABEzaa_lA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L1",
+      "M3.L2"
+     ],
+     "teks": [
+      "3.5C",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to use multiplication to compare quantities.",
+     "sc": [
+      "I can draw and label strip diagrams to represent multiplicative comparison problems.",
+      "I can write a matching multiplication or division equation to solve for the unknown quantity.",
+      "I can describe relationships between quantities using the phrase \"times as much\" or \"times as long\"."
+     ],
+     "te": {
+      "M3.L1": "https://drive.google.com/open?id=1rdsaChLMjmCGaGK02_EySil6T3bPv4g_&disco=AAAAs9NP4Uc",
+      "M3.L2": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAAs9NP4Vg"
+     },
+     "note": "Lessons combined"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L3"
+     ],
+     "teks": [
+      "3.5C",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to use tables to record multiplicative relationships.",
+     "sc": [
+      "I can find the rule of an additive table.",
+      "I can find the rule of a multiplicative table.",
+      "I can determine the input or output of a table using “times as many as”."
+     ],
+     "te": {
+      "M3.L3": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5f-e71U"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L4"
+     ],
+     "teks": [
+      "3.5C",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to solve multiplicative comparison word problems.",
+     "sc": [
+      "I can solve multiplicative problems using a strip diagram.",
+      "I can write multiplication or division equations using a symbol or box for the unknown.",
+      "I can write a solution sentence that directly answers the word problem."
+     ],
+     "te": {
+      "M3.L4": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5f-e72I"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 11,
+   "start": "2026-10-19",
+   "title": "Q2:W2 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L5"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4K",
+      "3.5D",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H"
+     ],
+     "lo": "I am learning to study properties of commutativity to find unknown facts of 6, 7, 8, and 9.",
+     "sc": [
+      "I can explore commutativity as it relates to multiplication.",
+      "I can use the multiplication chart to find unknown facts through commutativity.",
+      "I can explain how switching the order of factors does not change the product."
+     ],
+     "te": {
+      "M3.L5": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5f-e73M"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L6"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4K",
+      "3.5D",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H"
+     ],
+     "lo": "I am learning to apply the distributive and commutative properties to relate multiplication facts 5 x n + n to 6 x n and n x 6 where n is the size of the unit.",
+     "sc": [
+      "I can use pictures to understand distributive property.",
+      "I can add one more group to a known 5s fact to solve an unknown 6s fact.",
+      "I can use commutativity to write the related multiplication fact."
+     ],
+     "te": {
+      "M3.L6": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5f-e8II"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L7"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4K",
+      "3.5D",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H"
+     ],
+     "lo": "I am learning to multiply and divide with familiar facts using a box to represent the unknown.",
+     "sc": [
+      "I can use a box to represent the unknown in multiplication.",
+      "I can use a box to represent the unknown in division."
+     ],
+     "te": {
+      "M3.L7": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5f-e8MM"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L8",
+      "M3.L9"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4K",
+      "3.5D"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H"
+     ],
+     "lo": "I am learning to represent skip counting  by units of 6 and 7 to multiply and divide using number bondsto decompose.",
+     "sc": [
+      "I can use number bonds to decompose and make ten as a strategy for skip-counting units of 6 and 7.",
+      "I can write skip-counting sequences for 6s and 7s to solve multiplication and division problems.",
+      "I can use skip-count by seven to solve multiplication and division problems."
+     ],
+     "te": {
+      "M3.L8": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5eY19qY",
+      "M3.L9": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5eY19rk"
+     },
+     "note": "Lessons combined"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L10"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4K",
+      "3.5D"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H"
+     ],
+     "lo": "I am learning to interpret the unknown in multiplication and division to model and solve problems using units of 6 and 7.",
+     "sc": [
+      "I can draw and label strip diagrams to represent word problems with units of 6 and 7.",
+      "I can write multiplication and division equations using a box to represent the unknown."
+     ],
+     "te": {
+      "M3.L10": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA4c2NPJ0"
+     }
+    }
+   ]
+  }
+ ]
+}

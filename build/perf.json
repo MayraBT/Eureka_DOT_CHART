@@ -1,0 +1,5524 @@
+{
+"3.2A": [
+{
+"year": 2026,
+"q": 25,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Representation of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 52,
+"img": "items/g3_2026_Q25.jpg"
+},
+{
+"year": 2025,
+"q": 1,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "2nd option; 5th option",
+"hot": null,
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Representation of Whole Numbers",
+"credit": {
+"full": 73,
+"no": 5,
+"partial": 22
+},
+"pct": 73,
+"img": "items/g3_2025_Q1.jpg"
+},
+{
+"year": 2025,
+"q": 24,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Representation of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 39,
+"img": "items/g3_2025_Q24.jpg"
+}
+],
+"3.2B": [
+{
+"year": 2025,
+"q": 27,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "100; 10,000",
+"hot": null,
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Representation of Whole Numbers",
+"credit": {
+"full": 11,
+"no": 60,
+"partial": 29
+},
+"pct": 11,
+"img": "items/g3_2025_Q27.jpg"
+}
+],
+"3.2D": [
+{
+"year": 2026,
+"q": 17,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "< , <) Representation and Comparison of Whole Numbers: Comparison of Whole Numbers 3.2(D) compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or = (Readiness",
+"hot": null,
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Comparison of Whole Numbers",
+"credit": {
+"full": 77,
+"no": 6,
+"partial": 17
+},
+"pct": 77,
+"img": "items/g3_2026_Q17.jpg"
+},
+{
+"year": 2025,
+"q": 9,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "Stadium X; Stadium Y",
+"hot": null,
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Comparison of Whole Numbers",
+"credit": {
+"full": 72,
+"no": 14,
+"partial": 14
+},
+"pct": 72,
+"img": "items/g3_2025_Q9.jpg"
+},
+{
+"year": 2025,
+"q": 30,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 1,
+"cluster": "Representation and Comparison of Whole Numbers: Comparison of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 60,
+"img": "items/g3_2025_Q30.jpg"
+}
+],
+"3.3B": [
+{
+"year": 2025,
+"q": 3,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 1,
+"cluster": "Fractions: Representation of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 71,
+"img": "items/g3_2025_Q3.jpg"
+}
+],
+"3.3E": [
+{
+"year": 2025,
+"q": 19,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 1,
+"cluster": "Fractions: Representation of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 50,
+"img": "items/g3_2025_Q19.jpg"
+}
+],
+"3.7A": [
+{
+"year": 2026,
+"q": 28,
+"itemType": "Hot Spot",
+"points": 1,
+"correct": "Fourth point from the left",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Representation of Fractions",
+"credit": {
+"full": 59,
+"no": 41
+},
+"pct": 59,
+"img": "items/g3_2026_Q28.jpg"
+}
+],
+"3.3C": [
+{
+"year": 2026,
+"q": 13,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "incorrect, shaded part, total parts",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Unit Fractions",
+"credit": {
+"full": 29,
+"no": 36,
+"partial": 36
+},
+"pct": 29,
+"img": "items/g3_2026_Q13.jpg"
+}
+],
+"3.3F": [
+{
+"year": 2026,
+"q": 20,
+"itemType": "Fraction Model",
+"points": 1,
+"correct": "⅓",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"credit": {
+"full": 36,
+"no": 64
+},
+"pct": 36,
+"img": "items/g3_2026_Q20.jpg"
+},
+{
+"year": 2025,
+"q": 18,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 50,
+"img": "items/g3_2025_Q18.jpg"
+}
+],
+"3.3G": [
+{
+"year": 2026,
+"q": 9,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 48,
+"img": "items/g3_2026_Q9.jpg"
+}
+],
+"3.3H": [
+{
+"year": 2026,
+"q": 3,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 1,
+"cluster": "Fractions: Comparison of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 62,
+"img": "items/g3_2026_Q3.jpg"
+},
+{
+"year": 2025,
+"q": 15,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "D",
+"rc": 1,
+"cluster": "Fractions: Comparison of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 60,
+"img": "items/g3_2025_Q15.jpg"
+}
+],
+"3.4A": [
+{
+"year": 2026,
+"q": 1,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "A",
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Addition/Subtraction of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 71,
+"img": "items/g3_2026_Q1.jpg"
+},
+{
+"year": 2026,
+"q": 12,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Addition/Subtraction of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 57,
+"img": "items/g3_2026_Q12.jpg"
+},
+{
+"year": 2025,
+"q": 6,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Addition/Subtraction of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 52,
+"img": "items/g3_2025_Q6.jpg"
+},
+{
+"year": 2025,
+"q": 16,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "614",
+"hot": null,
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Addition/Subtraction of Whole Numbers",
+"credit": {
+"full": 39,
+"no": 61
+},
+"pct": 39,
+"img": "items/g3_2025_Q16.jpg"
+}
+],
+"3.5A": [
+{
+"year": 2026,
+"q": 11,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Addition/Subtraction of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 65,
+"img": "items/g3_2026_Q11.jpg"
+},
+{
+"year": 2025,
+"q": 14,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Addition/Subtraction of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 38,
+"img": "items/g3_2025_Q14.jpg"
+}
+],
+"3.4B": [
+{
+"year": 2026,
+"q": 19,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Estimation of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 43,
+"img": "items/g3_2026_Q19.jpg"
+},
+{
+"year": 2025,
+"q": 29,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "70; 50; 120",
+"hot": null,
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Estimation of Whole Numbers",
+"credit": {
+"full": 53,
+"no": 36,
+"partial": 11
+},
+"pct": 53,
+"img": "items/g3_2025_Q29.jpg"
+}
+],
+"3.5E": [
+{
+"year": 2026,
+"q": 22,
+"itemType": "Inline Choice",
+"points": 1,
+"correct": "minus , 10",
+"hot": null,
+"rc": 2,
+"cluster": "Addition and Subtraction of Whole Numbers: Numerical Patterns",
+"credit": {
+"full": 33,
+"no": 67
+},
+"pct": 33,
+"img": "items/g3_2026_Q22.jpg"
+},
+{
+"year": 2026,
+"q": 14,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Numerical Patterns",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 57,
+"img": "items/g3_2026_Q14.jpg"
+},
+{
+"year": 2025,
+"q": 4,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "times; 5",
+"hot": null,
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Numerical Patterns",
+"credit": {
+"full": 51,
+"no": 24,
+"partial": 26
+},
+"pct": 51,
+"img": "items/g3_2025_Q4.jpg"
+},
+{
+"year": 2025,
+"q": 17,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Numerical Patterns",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 51,
+"img": "items/g3_2025_Q17.jpg"
+}
+],
+"3.4F": [
+{
+"year": 2026,
+"q": 29,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 56,
+"img": "items/g3_2026_Q29.jpg"
+}
+],
+"3.4G": [
+{
+"year": 2026,
+"q": 5,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 63,
+"img": "items/g3_2026_Q5.jpg"
+}
+],
+"3.5C": [
+{
+"year": 2026,
+"q": 18,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 50,
+"img": "items/g3_2026_Q18.jpg"
+},
+{
+"year": 2025,
+"q": 23,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 40,
+"img": "items/g3_2025_Q23.jpg"
+}
+],
+"3.4H": [
+{
+"year": 2026,
+"q": 24,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "3rd option, 5th option",
+"hot": null,
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Division of Whole Numbers",
+"credit": {
+"full": 43,
+"no": 16,
+"partial": 41
+},
+"pct": 43,
+"img": "items/g3_2026_Q24.jpg"
+},
+{
+"year": 2025,
+"q": 25,
+"itemType": "Hot Spot",
+"points": 1,
+"correct": "Any 8 marbles",
+"hot": null,
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Division of Whole Numbers",
+"credit": {
+"full": 48,
+"no": 52
+},
+"pct": 48,
+"img": "items/g3_2025_Q25.jpg"
+}
+],
+"3.4I": [
+{
+"year": 2026,
+"q": 7,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 1,
+"cluster": "Multiplication and Division of Whole Numbers: Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 46,
+"img": "items/g3_2026_Q7.jpg"
+}
+],
+"3.4J": [
+{
+"year": 2025,
+"q": 2,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 68,
+"img": "items/g3_2025_Q2.jpg"
+}
+],
+"3.5B": [
+{
+"year": 2026,
+"q": 8,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "× , ×",
+"hot": null,
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication and Division of Whole Numbers",
+"credit": {
+"full": 29,
+"no": 71
+},
+"pct": 29,
+"img": "items/g3_2026_Q8.jpg"
+},
+{
+"year": 2025,
+"q": 8,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B,C",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication and Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 38,
+"img": "items/g3_2025_Q8.jpg"
+}
+],
+"3.4K": [
+{
+"year": 2026,
+"q": 26,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "2 or any equivalent value",
+"hot": null,
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication and Division of Whole Numbers",
+"credit": {
+"full": 20,
+"no": 80
+},
+"pct": 20,
+"img": "items/g3_2026_Q26.jpg"
+},
+{
+"year": 2025,
+"q": 10,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication and Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 21,
+"img": "items/g3_2025_Q10.jpg"
+},
+{
+"year": 2025,
+"q": 21,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "15",
+"hot": null,
+"rc": 2,
+"cluster": "Multiplication and Division of Whole Numbers: Multiplication and Division of Whole Numbers",
+"credit": {
+"full": 35,
+"no": 65
+},
+"pct": 35,
+"img": "items/g3_2025_Q21.jpg"
+}
+],
+"3.6A": [
+{
+"year": 2026,
+"q": 4,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "cone, cylinder, rectangular pyramid, triangular prism",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional/Three-Dimensional",
+"credit": {
+"full": 17,
+"no": 38,
+"partial": 44
+},
+"pct": 17,
+"img": "items/g3_2026_Q4.jpg"
+},
+{
+"year": 2026,
+"q": 23,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional/Three-Dimensional",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 55,
+"img": "items/g3_2026_Q23.jpg"
+},
+{
+"year": 2025,
+"q": 13,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "1st option; 5th option",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional/Three-Dimensional",
+"credit": {
+"full": 36,
+"no": 7,
+"partial": 57
+},
+"pct": 36,
+"img": "items/g3_2025_Q13.jpg"
+}
+],
+"3.6B": [
+{
+"year": 2025,
+"q": 7,
+"itemType": "Hot Spot",
+"points": 2,
+"correct": "square (bottom left); parallelogram (top right)",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional/Three-Dimensional",
+"credit": {
+"full": 79,
+"no": 8,
+"partial": 13
+},
+"pct": 79,
+"img": "items/g3_2025_Q7.jpg"
+}
+],
+"3.6C": [
+{
+"year": 2026,
+"q": 27,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 3,
+"cluster": "Measurement: Area",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 63,
+"img": "items/g3_2026_Q27.jpg"
+},
+{
+"year": 2025,
+"q": 20,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Area",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 50,
+"img": "items/g3_2025_Q20.jpg"
+}
+],
+"3.7B": [
+{
+"year": 2026,
+"q": 10,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "8 or any equivalent value",
+"hot": null,
+"rc": 3,
+"cluster": "Measurement: Perimeter",
+"credit": {
+"full": 20,
+"no": 80
+},
+"pct": 20,
+"img": "items/g3_2026_Q10.jpg"
+},
+{
+"year": 2026,
+"q": 21,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Perimeter",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 31,
+"img": "items/g3_2026_Q21.jpg"
+},
+{
+"year": 2025,
+"q": 11,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Perimeter",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 47,
+"img": "items/g3_2025_Q11.jpg"
+}
+],
+"3.7C": [
+{
+"year": 2025,
+"q": 26,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "A",
+"rc": 3,
+"cluster": "Measurement: Time",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 41,
+"img": "items/g3_2025_Q26.jpg"
+}
+],
+"3.7D": [
+{
+"year": 2026,
+"q": 15,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "fluid ounces, milliliters, pounds, ounces",
+"hot": null,
+"rc": 3,
+"cluster": "Measurement: Liquid Capacity/Weight",
+"credit": {
+"full": 33,
+"no": 22,
+"partial": 46
+},
+"pct": 33,
+"img": "items/g3_2026_Q15.jpg"
+}
+],
+"3.7E": [
+{
+"year": 2026,
+"q": 2,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "top left option, bottom left option",
+"hot": null,
+"rc": 3,
+"cluster": "Measurement: Liquid Capacity/Weight",
+"credit": {
+"full": 55,
+"no": 11,
+"partial": 34
+},
+"pct": 55,
+"img": "items/g3_2026_Q2.jpg"
+}
+],
+"3.8A": [
+{
+"year": 2026,
+"q": 30,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 62,
+"img": "items/g3_2026_Q30.jpg"
+},
+{
+"year": 2026,
+"q": 6,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "5 , 2 , 3 , 4) Data Analysis: Representation of Data 3.8(A) summarize a data set with multiple categories using a frequency table, dot plot, pictograph, or bar graph with scaled intervals (Readiness",
+"hot": null,
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"credit": {
+"full": 79,
+"no": 10,
+"partial": 11
+},
+"pct": 79,
+"img": "items/g3_2026_Q6.jpg"
+},
+{
+"year": 2025,
+"q": 5,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 77,
+"img": "items/g3_2025_Q5.jpg"
+},
+{
+"year": 2025,
+"q": 12,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 52,
+"img": "items/g3_2025_Q12.jpg"
+}
+],
+"3.8B": [
+{
+"year": 2025,
+"q": 28,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 33,
+"img": "items/g3_2025_Q28.jpg"
+}
+],
+"3.9D": [
+{
+"year": 2026,
+"q": 16,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 4,
+"cluster": "Personal Financial Literacy: Borrowing",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 41,
+"img": "items/g3_2026_Q16.jpg"
+},
+{
+"year": 2025,
+"q": 22,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 4,
+"cluster": "Personal Financial Literacy: Borrowing",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 29,
+"img": "items/g3_2025_Q22.jpg"
+}
+],
+"4.2A": [
+{
+"year": 2025,
+"q": 19,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 1,
+"cluster": "Decimals: Representation of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 44,
+"img": "items/g4_2025_Q19.jpg"
+}
+],
+"4.2B": [
+{
+"year": 2026,
+"q": 2,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "1,000,000, 10,000, 1,000, 0.01",
+"hot": null,
+"rc": 1,
+"cluster": "Decimals: Representation of Whole Numbers and Decimals",
+"credit": {
+"full": 53,
+"no": 17,
+"partial": 30
+},
+"pct": 53,
+"img": "items/g4_2026_Q2.jpg"
+},
+{
+"year": 2026,
+"q": 32,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "D",
+"rc": 1,
+"cluster": "Decimals: Representation of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 84,
+"img": "items/g4_2026_Q32.jpg"
+},
+{
+"year": 2025,
+"q": 5,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 1,
+"cluster": "Decimals: Representation of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 70,
+"img": "items/g4_2025_Q5.jpg"
+},
+{
+"year": 2025,
+"q": 17,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "9,507.41",
+"hot": null,
+"rc": 1,
+"cluster": "Decimals: Representation of Whole Numbers and Decimals",
+"credit": {
+"full": 51,
+"no": 49
+},
+"pct": 51,
+"img": "items/g4_2025_Q17.jpg"
+}
+],
+"4.3G": [
+{
+"year": 2025,
+"q": 15,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 1,
+"cluster": "Decimals: Representation of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 75,
+"img": "items/g4_2025_Q15.jpg"
+}
+],
+"4.2F": [
+{
+"year": 2026,
+"q": 13,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 1,
+"cluster": "Decimals: Comparison of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 51,
+"img": "items/g4_2026_Q13.jpg"
+}
+],
+"4.4A": [
+{
+"year": 2026,
+"q": 25,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 2,
+"cluster": "Decimals: Addition/Subtraction of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 48,
+"img": "items/g4_2026_Q25.jpg"
+},
+{
+"year": 2025,
+"q": 18,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Decimals: Addition/Subtraction of Whole Numbers and Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 54,
+"img": "items/g4_2025_Q18.jpg"
+}
+],
+"4.2G": [
+{
+"year": 2026,
+"q": 7,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 70,
+"img": "items/g4_2026_Q7.jpg"
+},
+{
+"year": 2026,
+"q": 19,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "21, 5",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"credit": {
+"full": 45,
+"no": 55
+},
+"pct": 45,
+"img": "items/g4_2026_Q19.jpg"
+},
+{
+"year": 2025,
+"q": 12,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 47,
+"img": "items/g4_2025_Q12.jpg"
+},
+{
+"year": 2025,
+"q": 30,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "84, 9, 10 or 84, 90, 100 or 849, 10",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"credit": {
+"full": 50,
+"no": 50
+},
+"pct": 50,
+"img": "items/g4_2025_Q30.jpg"
+}
+],
+"4.3C": [
+{
+"year": 2025,
+"q": 10,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "1st option; 4th option",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Equivalency of Fractions",
+"credit": {
+"full": 60,
+"no": 13,
+"partial": 27
+},
+"pct": 60,
+"img": "items/g4_2025_Q10.jpg"
+}
+],
+"4.3D": [
+{
+"year": 2026,
+"q": 5,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 1,
+"cluster": "Fractions: Comparison of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 54,
+"img": "items/g4_2026_Q5.jpg"
+},
+{
+"year": 2026,
+"q": 22,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "2/3 or 4/6, 5/9",
+"hot": null,
+"rc": 1,
+"cluster": "Fractions: Comparison of Fractions",
+"credit": {
+"full": 67,
+"no": 33
+},
+"pct": 67,
+"img": "items/g4_2026_Q22.jpg"
+},
+{
+"year": 2025,
+"q": 13,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 1,
+"cluster": "Fractions: Comparison of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 44,
+"img": "items/g4_2025_Q13.jpg"
+},
+{
+"year": 2025,
+"q": 22,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 1,
+"cluster": "Fractions: Comparison of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 54,
+"img": "items/g4_2025_Q22.jpg"
+}
+],
+"4.3E": [
+{
+"year": 2026,
+"q": 15,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 53,
+"img": "items/g4_2026_Q15.jpg"
+},
+{
+"year": 2025,
+"q": 27,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 63,
+"img": "items/g4_2025_Q27.jpg"
+}
+],
+"4.3F": [
+{
+"year": 2026,
+"q": 8,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "first option, fourth option",
+"hot": null,
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"credit": {
+"full": 25,
+"no": 19,
+"partial": 56
+},
+"pct": 25,
+"img": "items/g4_2026_Q8.jpg"
+},
+{
+"year": 2025,
+"q": 25,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 34,
+"img": "items/g4_2025_Q25.jpg"
+}
+],
+"4.2D": [
+{
+"year": 2026,
+"q": 9,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 1,
+"cluster": "Whole Number Operations: Estimation of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 61,
+"img": "items/g4_2026_Q9.jpg"
+}
+],
+"4.4G": [
+{
+"year": 2026,
+"q": 31,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "300, 400, 700 or other values that result in a sum of 700",
+"hot": null,
+"rc": 2,
+"cluster": "Whole Number Operations: Estimation of Whole Numbers",
+"credit": {
+"full": 63,
+"no": 27,
+"partial": 10
+},
+"pct": 63,
+"img": "items/g4_2026_Q31.jpg"
+}
+],
+"4.4B": [
+{
+"year": 2025,
+"q": 3,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 53,
+"img": "items/g4_2025_Q3.jpg"
+}
+],
+"4.4C": [
+{
+"year": 2026,
+"q": 21,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "A",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 63,
+"img": "items/g4_2026_Q21.jpg"
+}
+],
+"4.4D": [
+{
+"year": 2025,
+"q": 31,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B,C",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 59,
+"img": "items/g4_2025_Q31.jpg"
+}
+],
+"4.4H": [
+{
+"year": 2026,
+"q": 12,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 62,
+"img": "items/g4_2026_Q12.jpg"
+},
+{
+"year": 2025,
+"q": 7,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C,D",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 41,
+"img": "items/g4_2025_Q7.jpg"
+},
+{
+"year": 2026,
+"q": 12,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 2,
+"cluster": "Whole Number Operations: Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 62,
+"img": "items/g4_2026_Q12.jpg"
+},
+{
+"year": 2026,
+"q": 29,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Whole Number Operations: Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 40,
+"img": "items/g4_2026_Q29.jpg"
+},
+{
+"year": 2025,
+"q": 7,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C,D",
+"rc": 2,
+"cluster": "Whole Number Operations: Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 41,
+"img": "items/g4_2025_Q7.jpg"
+}
+],
+"4.4E": [
+{
+"year": 2025,
+"q": 29,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Whole Number Operations: Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 42,
+"img": "items/g4_2025_Q29.jpg"
+}
+],
+"4.5B": [
+{
+"year": 2026,
+"q": 18,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "A",
+"rc": 2,
+"cluster": "Whole Number Operations: Numerical Patterns",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 44,
+"img": "items/g4_2026_Q18.jpg"
+},
+{
+"year": 2026,
+"q": 27,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 2,
+"cluster": "Whole Number Operations: Numerical Patterns",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 59,
+"img": "items/g4_2026_Q27.jpg"
+},
+{
+"year": 2025,
+"q": 14,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "+; 20",
+"hot": null,
+"rc": 2,
+"cluster": "Whole Number Operations: Numerical Patterns",
+"credit": {
+"full": 65,
+"no": 23,
+"partial": 13
+},
+"pct": 65,
+"img": "items/g4_2025_Q14.jpg"
+}
+],
+"4.5A": [
+{
+"year": 2026,
+"q": 10,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "second option, third option",
+"hot": null,
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"credit": {
+"full": 48,
+"no": 12,
+"partial": 39
+},
+"pct": 48,
+"img": "items/g4_2026_Q10.jpg"
+},
+{
+"year": 2026,
+"q": 23,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 46,
+"img": "items/g4_2026_Q23.jpg"
+},
+{
+"year": 2025,
+"q": 11,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A,B",
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 47,
+"img": "items/g4_2025_Q11.jpg"
+},
+{
+"year": 2025,
+"q": 23,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "2nd option; 4th option",
+"hot": null,
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"credit": {
+"full": 45,
+"no": 16,
+"partial": 39
+},
+"pct": 45,
+"img": "items/g4_2025_Q23.jpg"
+}
+],
+"4.6A": [
+{
+"year": 2026,
+"q": 28,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "r, s, p, s or r, s, p, r",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional",
+"credit": {
+"full": 40,
+"no": 18,
+"partial": 42
+},
+"pct": 40,
+"img": "items/g4_2026_Q28.jpg"
+}
+],
+"4.6B": [
+{
+"year": 2026,
+"q": 20,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 35,
+"img": "items/g4_2026_Q20.jpg"
+},
+{
+"year": 2025,
+"q": 8,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "2nd option; 5th option",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional",
+"credit": {
+"full": 19,
+"no": 9,
+"partial": 72
+},
+"pct": 19,
+"img": "items/g4_2025_Q8.jpg"
+}
+],
+"4.6C": [
+{
+"year": 2026,
+"q": 6,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "Acute, Obtuse, Right, Acute",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional",
+"credit": {
+"full": 50,
+"no": 19,
+"partial": 31
+},
+"pct": 50,
+"img": "items/g4_2026_Q6.jpg"
+}
+],
+"4.6D": [
+{
+"year": 2026,
+"q": 14,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "rectangle, kite, trapezoid, pentagon",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional",
+"credit": {
+"full": 34,
+"no": 35,
+"partial": 31
+},
+"pct": 34,
+"img": "items/g4_2026_Q14.jpg"
+},
+{
+"year": 2025,
+"q": 6,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "2 pairs; 1 pair",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Two-Dimensional",
+"credit": {
+"full": 38,
+"no": 23,
+"partial": 39
+},
+"pct": 38,
+"img": "items/g4_2025_Q6.jpg"
+}
+],
+"4.7C": [
+{
+"year": 2026,
+"q": 16,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "65°, 145°, 80° or 65°, 100°, 35°",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Angle Measurements",
+"credit": {
+"full": 33,
+"no": 67
+},
+"pct": 33,
+"img": "items/g4_2026_Q16.jpg"
+},
+{
+"year": 2025,
+"q": 4,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "1st option; 3rd option",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Angle Measurements",
+"credit": {
+"full": 49,
+"no": 13,
+"partial": 37
+},
+"pct": 49,
+"img": "items/g4_2025_Q4.jpg"
+}
+],
+"4.7D": [
+{
+"year": 2026,
+"q": 24,
+"itemType": "Hot Spot",
+"points": 1,
+"correct": "point Z",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry: Angle Measurements",
+"credit": {
+"full": 46,
+"no": 54
+},
+"pct": 46,
+"img": "items/g4_2026_Q24.jpg"
+}
+],
+"4.5D": [
+{
+"year": 2026,
+"q": 3,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Perimeter/Area",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 68,
+"img": "items/g4_2026_Q3.jpg"
+},
+{
+"year": 2026,
+"q": 30,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "A",
+"rc": 3,
+"cluster": "Measurement: Perimeter/Area",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 22,
+"img": "items/g4_2026_Q30.jpg"
+},
+{
+"year": 2025,
+"q": 16,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 3,
+"cluster": "Measurement: Perimeter/Area",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 34,
+"img": "items/g4_2025_Q16.jpg"
+},
+{
+"year": 2025,
+"q": 26,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "17; 46",
+"hot": null,
+"rc": 3,
+"cluster": "Measurement: Perimeter/Area",
+"credit": {
+"full": 35,
+"no": 38,
+"partial": 27
+},
+"pct": 35,
+"img": "items/g4_2025_Q26.jpg"
+}
+],
+"4.8C": [
+{
+"year": 2026,
+"q": 1,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Related Measurement Concepts",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 58,
+"img": "items/g4_2026_Q1.jpg"
+},
+{
+"year": 2026,
+"q": 26,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Related Measurement Concepts",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 31,
+"img": "items/g4_2026_Q26.jpg"
+},
+{
+"year": 2025,
+"q": 1,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 3,
+"cluster": "Measurement: Related Measurement Concepts",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 65,
+"img": "items/g4_2025_Q1.jpg"
+},
+{
+"year": 2025,
+"q": 32,
+"itemType": "Inline Choice",
+"points": 1,
+"correct": "3; 20",
+"hot": null,
+"rc": 3,
+"cluster": "Measurement: Related Measurement Concepts",
+"credit": {
+"full": 35,
+"no": 65
+},
+"pct": 35,
+"img": "items/g4_2025_Q32.jpg"
+}
+],
+"4.8A": [
+{
+"year": 2025,
+"q": 21,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 3,
+"cluster": "Measurement: Conversions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 47,
+"img": "items/g4_2025_Q21.jpg"
+}
+],
+"4.8B": [
+{
+"year": 2025,
+"q": 20,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 3,
+"cluster": "Measurement: Conversions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 34,
+"img": "items/g4_2025_Q20.jpg"
+}
+],
+"4.9A": [
+{
+"year": 2026,
+"q": 4,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "second option, fifth option",
+"hot": null,
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"credit": {
+"full": 62,
+"no": 9,
+"partial": 29
+},
+"pct": 62,
+"img": "items/g4_2026_Q4.jpg"
+},
+{
+"year": 2026,
+"q": 17,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 70,
+"img": "items/g4_2026_Q17.jpg"
+},
+{
+"year": 2025,
+"q": 2,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "2; 4; 5",
+"hot": null,
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"credit": {
+"full": 80,
+"no": 12,
+"partial": 7
+},
+"pct": 80,
+"img": "items/g4_2025_Q2.jpg"
+},
+{
+"year": 2025,
+"q": 24,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 48,
+"img": "items/g4_2025_Q24.jpg"
+}
+],
+"4.9B": [
+{
+"year": 2026,
+"q": 11,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 58,
+"img": "items/g4_2026_Q11.jpg"
+},
+{
+"year": 2025,
+"q": 9,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "D",
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 59,
+"img": "items/g4_2025_Q9.jpg"
+}
+],
+"4.10A": [
+{
+"year": 2025,
+"q": 28,
+"itemType": "Inline Choice",
+"points": 1,
+"correct": "movies, groceries, changed OR groceries, movies changed",
+"hot": null,
+"rc": 4,
+"cluster": "Personal Financial Literacy: Budgets",
+"credit": {
+"full": 48,
+"no": 52
+},
+"pct": 48,
+"img": "items/g4_2025_Q28.jpg"
+}
+],
+"5.3B": [
+{
+"year": 2026,
+"q": 2,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication/Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 69,
+"img": "items/g5_2026_Q2.jpg"
+},
+{
+"year": 2025,
+"q": 32,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C,D",
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication/Division of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 56,
+"img": "items/g5_2025_Q32.jpg"
+}
+],
+"5.3C": [
+{
+"year": 2025,
+"q": 34,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "13; left over",
+"hot": null,
+"rc": 2,
+"cluster": "Whole Number Operations: Multiplication/Division of Whole Numbers",
+"credit": {
+"full": 56,
+"no": 17,
+"partial": 27
+},
+"pct": 56,
+"img": "items/g5_2025_Q34.jpg"
+}
+],
+"5.4E": [
+{
+"year": 2025,
+"q": 12,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 1,
+"cluster": "Whole Number Operations: Numerical Expressions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 61,
+"img": "items/g5_2025_Q12.jpg"
+}
+],
+"5.4F": [
+{
+"year": 2025,
+"q": 15,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "2nd option; 4th option",
+"hot": null,
+"rc": 1,
+"cluster": "Whole Number Operations: Numerical Expressions",
+"credit": {
+"full": 49,
+"no": 13,
+"partial": 38
+},
+"pct": 49,
+"img": "items/g5_2025_Q15.jpg"
+},
+{
+"year": 2025,
+"q": 33,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B,D",
+"rc": 1,
+"cluster": "Whole Number Operations: Numerical Expressions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 76,
+"img": "items/g5_2025_Q33.jpg"
+},
+{
+"year": 2026,
+"q": 3,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 1,
+"cluster": "Decimals: Numerical Expressions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 73,
+"img": "items/g5_2026_Q3.jpg"
+},
+{
+"year": 2026,
+"q": 28,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "9 or any equivalent value",
+"hot": null,
+"rc": 1,
+"cluster": "Decimals: Numerical Expressions",
+"credit": {
+"full": 29,
+"no": 71
+},
+"pct": 29,
+"img": "items/g5_2026_Q28.jpg"
+}
+],
+"5.4B": [
+{
+"year": 2026,
+"q": 31,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 34,
+"img": "items/g5_2026_Q31.jpg"
+},
+{
+"year": 2025,
+"q": 6,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "×; +",
+"hot": null,
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"credit": {
+"full": 39,
+"no": 61
+},
+"pct": 39,
+"img": "items/g5_2025_Q6.jpg"
+},
+{
+"year": 2025,
+"q": 20,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 2,
+"cluster": "Whole Number Operations: All Operations of Whole Numbers",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 40,
+"img": "items/g5_2025_Q20.jpg"
+}
+],
+"5.2A": [
+{
+"year": 2025,
+"q": 10,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 1,
+"cluster": "Decimals: Representation of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 52,
+"img": "items/g5_2025_Q10.jpg"
+}
+],
+"5.2B": [
+{
+"year": 2026,
+"q": 12,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "first option, second option",
+"hot": null,
+"rc": 1,
+"cluster": "Decimals: Comparison of Decimals",
+"credit": {
+"full": 40,
+"no": 20,
+"partial": 40
+},
+"pct": 40,
+"img": "items/g5_2026_Q12.jpg"
+},
+{
+"year": 2026,
+"q": 19,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 1,
+"cluster": "Decimals: Comparison of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 77,
+"img": "items/g5_2026_Q19.jpg"
+},
+{
+"year": 2025,
+"q": 5,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 1,
+"cluster": "Decimals: Comparison of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 65,
+"img": "items/g5_2025_Q5.jpg"
+},
+{
+"year": 2025,
+"q": 28,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 1,
+"cluster": "Decimals: Comparison of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 62,
+"img": "items/g5_2025_Q28.jpg"
+}
+],
+"5.2C": [
+{
+"year": 2026,
+"q": 33,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "C",
+"rc": 1,
+"cluster": "Decimals: Estimation of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 54,
+"img": "items/g5_2026_Q33.jpg"
+},
+{
+"year": 2025,
+"q": 31,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "257.7; 257.68",
+"hot": null,
+"rc": 1,
+"cluster": "Decimals: Estimation of Decimals",
+"credit": {
+"full": 50,
+"no": 21,
+"partial": 29
+},
+"pct": 50,
+"img": "items/g5_2025_Q31.jpg"
+}
+],
+"5.3A": [
+{
+"year": 2026,
+"q": 27,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 2,
+"cluster": "Decimals: Estimation of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 33,
+"img": "items/g5_2026_Q27.jpg"
+}
+],
+"5.3K": [
+{
+"year": 2026,
+"q": 22,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Decimals: Addition/Subtraction of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 66,
+"img": "items/g5_2026_Q22.jpg"
+},
+{
+"year": 2025,
+"q": 30,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 2,
+"cluster": "Decimals: Addition/Subtraction of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 41,
+"img": "items/g5_2025_Q30.jpg"
+},
+{
+"year": 2026,
+"q": 16,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 55,
+"img": "items/g5_2026_Q16.jpg"
+},
+{
+"year": 2025,
+"q": 13,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "55/16 and any equivalent values are correct",
+"hot": null,
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"credit": {
+"full": 21,
+"no": 79
+},
+"pct": 21,
+"img": "items/g5_2025_Q13.jpg"
+}
+],
+"5.3D": [
+{
+"year": 2025,
+"q": 18,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "Top left option; bottom right option",
+"hot": null,
+"rc": 2,
+"cluster": "Decimals: Multiplication of Decimals",
+"credit": {
+"full": 67,
+"no": 8,
+"partial": 25
+},
+"pct": 67,
+"img": "items/g5_2025_Q18.jpg"
+}
+],
+"5.3E": [
+{
+"year": 2026,
+"q": 6,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 2,
+"cluster": "Decimals: Multiplication of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 79,
+"img": "items/g5_2026_Q6.jpg"
+},
+{
+"year": 2026,
+"q": 17,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A,B",
+"rc": 2,
+"cluster": "Decimals: Multiplication of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 48,
+"img": "items/g5_2026_Q17.jpg"
+},
+{
+"year": 2025,
+"q": 16,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 2,
+"cluster": "Decimals: Multiplication of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 51,
+"img": "items/g5_2025_Q16.jpg"
+}
+],
+"5.3F": [
+{
+"year": 2025,
+"q": 11,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "3.2; 2; 1.6",
+"hot": null,
+"rc": 2,
+"cluster": "Decimals: Division of Decimals",
+"credit": {
+"full": 32,
+"no": 68
+},
+"pct": 32,
+"img": "items/g5_2025_Q11.jpg"
+}
+],
+"5.3G": [
+{
+"year": 2026,
+"q": 8,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 2,
+"cluster": "Decimals: Division of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 74,
+"img": "items/g5_2026_Q8.jpg"
+},
+{
+"year": 2026,
+"q": 25,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 2,
+"cluster": "Decimals: Division of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 53,
+"img": "items/g5_2026_Q25.jpg"
+},
+{
+"year": 2025,
+"q": 23,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C,D",
+"rc": 2,
+"cluster": "Decimals: Division of Decimals",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 54,
+"img": "items/g5_2025_Q23.jpg"
+}
+],
+"5.3H": [
+{
+"year": 2025,
+"q": 3,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A,B",
+"rc": 2,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 55,
+"img": "items/g5_2025_Q3.jpg"
+}
+],
+"5.4A": [
+{
+"year": 2026,
+"q": 24,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "C",
+"rc": 1,
+"cluster": "Fractions: Addition/Subtraction of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 48,
+"img": "items/g5_2026_Q24.jpg"
+}
+],
+"5.3I": [
+{
+"year": 2026,
+"q": 20,
+"itemType": "Hot Spot",
+"points": 1,
+"correct": "Any 8 circles selected",
+"hot": null,
+"rc": 2,
+"cluster": "Fractions: Multiplication of Fractions",
+"credit": {
+"full": 36,
+"no": 64
+},
+"pct": 36,
+"img": "items/g5_2026_Q20.jpg"
+}
+],
+"5.3J": [
+{
+"year": 2026,
+"q": 4,
+"itemType": "Multiselect",
+"points": 2,
+"correct": "first option, fifth option",
+"hot": null,
+"rc": 2,
+"cluster": "Fractions: Division of Fractions",
+"credit": {
+"full": 23,
+"no": 20,
+"partial": 58
+},
+"pct": 23,
+"img": "items/g5_2026_Q4.jpg"
+}
+],
+"5.3L": [
+{
+"year": 2026,
+"q": 10,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "1/2, 5, 1/10) Fractions: Division of Fractions 5.3(L) divide whole numbers by unit fractions and unit fractions by whole numbers (Readiness",
+"hot": null,
+"rc": 2,
+"cluster": "Fractions: Division of Fractions",
+"credit": {
+"full": 61,
+"no": 39
+},
+"pct": 61,
+"img": "items/g5_2026_Q10.jpg"
+},
+{
+"year": 2026,
+"q": 23,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 2,
+"cluster": "Fractions: Division of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 46,
+"img": "items/g5_2026_Q23.jpg"
+},
+{
+"year": 2025,
+"q": 8,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "1/162",
+"hot": null,
+"rc": 2,
+"cluster": "Fractions: Division of Fractions",
+"credit": {
+"full": 55,
+"no": 45
+},
+"pct": 55,
+"img": "items/g5_2025_Q8.jpg"
+},
+{
+"year": 2025,
+"q": 22,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "B",
+"hot": "D",
+"rc": 2,
+"cluster": "Fractions: Division of Fractions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": true,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 72,
+"img": "items/g5_2025_Q22.jpg"
+}
+],
+"5.8A": [
+{
+"year": 2026,
+"q": 13,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 3,
+"cluster": "Graphing on Coordinate Plane: Coordinate Plane",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 42,
+"img": "items/g5_2026_Q13.jpg"
+},
+{
+"year": 2025,
+"q": 29,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "x-coordinate; horizontal",
+"hot": null,
+"rc": 3,
+"cluster": "Graphing on Coordinate Plane: Coordinate Plane",
+"credit": {
+"full": 43,
+"no": 17,
+"partial": 40
+},
+"pct": 43,
+"img": "items/g5_2025_Q29.jpg"
+}
+],
+"5.8C": [
+{
+"year": 2026,
+"q": 1,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 3,
+"cluster": "Graphing on Coordinate Plane: Coordinate Plane",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 61,
+"img": "items/g5_2026_Q1.jpg"
+},
+{
+"year": 2026,
+"q": 32,
+"itemType": "Graphing",
+"points": 2,
+"correct": "Points graphed at (1, 3.5) and (4.5, 2)",
+"hot": null,
+"rc": 3,
+"cluster": "Graphing on Coordinate Plane: Coordinate Plane",
+"credit": {
+"full": 68,
+"no": 17,
+"partial": 15
+},
+"pct": 68,
+"img": "items/g5_2026_Q32.jpg"
+},
+{
+"year": 2025,
+"q": 17,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "B",
+"rc": 3,
+"cluster": "Graphing on Coordinate Plane: Coordinate Plane",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 52,
+"img": "items/g5_2025_Q17.jpg"
+}
+],
+"5.4C": [
+{
+"year": 2026,
+"q": 14,
+"itemType": "Graphing",
+"points": 2,
+"correct": "(1, 7), (2, 8), (3,9) or any three points that are on the line y = x + 6",
+"hot": null,
+"rc": 2,
+"cluster": "Graphing on Coordinate Plane: Graphing Numerical Patterns",
+"credit": {
+"full": 42,
+"no": 54,
+"partial": 4
+},
+"pct": 42,
+"img": "items/g5_2026_Q14.jpg"
+},
+{
+"year": 2025,
+"q": 1,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 2,
+"cluster": "Graphing on Coordinate Plane: Graphing Numerical Patterns",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 65,
+"img": "items/g5_2025_Q1.jpg"
+},
+{
+"year": 2025,
+"q": 25,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "11; 13",
+"hot": null,
+"rc": 2,
+"cluster": "Graphing on Coordinate Plane: Graphing Numerical Patterns",
+"credit": {
+"full": 62,
+"no": 21,
+"partial": 17
+},
+"pct": 62,
+"img": "items/g5_2025_Q25.jpg"
+}
+],
+"5.4D": [
+{
+"year": 2026,
+"q": 34,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "10, 80, 18) Graphing on Coordinate Plane: Graphing Numerical Patterns 5.4(D) recognize the difference between additive and multiplicative numerical patterns given in a table or graph (Supporting",
+"hot": null,
+"rc": 2,
+"cluster": "Graphing on Coordinate Plane: Graphing Numerical Patterns",
+"credit": {
+"full": 55,
+"no": 35,
+"partial": 10
+},
+"pct": 55,
+"img": "items/g5_2026_Q34.jpg"
+},
+{
+"year": 2025,
+"q": 27,
+"itemType": "Inline Choice",
+"points": 2,
+"correct": "multiplicative; product; 14",
+"hot": null,
+"rc": 2,
+"cluster": "Graphing on Coordinate Plane: Graphing Numerical Patterns",
+"credit": {
+"full": 49,
+"no": 21,
+"partial": 30
+},
+"pct": 49,
+"img": "items/g5_2025_Q27.jpg"
+}
+],
+"5.5A": [
+{
+"year": 2026,
+"q": 7,
+"itemType": "Hot Spot",
+"points": 2,
+"correct": "4 sides and angles, 2 acute angles, 2 obtuse angles",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry and Measurement: Two-Dimensional",
+"credit": {
+"full": 22,
+"no": 38,
+"partial": 40
+},
+"pct": 22,
+"img": "items/g5_2026_Q7.jpg"
+},
+{
+"year": 2025,
+"q": 4,
+"itemType": "Hot Spot",
+"points": 2,
+"correct": "rectangle (top, center) and trapezoid (bottom, right)",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry and Measurement: Two-Dimensional",
+"credit": {
+"full": 56,
+"no": 11,
+"partial": 33
+},
+"pct": 56,
+"img": "items/g5_2025_Q4.jpg"
+},
+{
+"year": 2025,
+"q": 19,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 3,
+"cluster": "Geometry and Measurement: Two-Dimensional",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 36,
+"img": "items/g5_2025_Q19.jpg"
+}
+],
+"5.4H": [
+{
+"year": 2026,
+"q": 5,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 3,
+"cluster": "Geometry and Measurement: Perimeter/Area/Volume",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 51,
+"img": "items/g5_2026_Q5.jpg"
+},
+{
+"year": 2026,
+"q": 26,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "38, 84) Geometry and Measurement: Perimeter/Area/Volume 5.4(H) represent and solve problems related to perimeter and/or area and related to volume (Readiness",
+"hot": null,
+"rc": 3,
+"cluster": "Geometry and Measurement: Perimeter/Area/Volume",
+"credit": {
+"full": 56,
+"no": 22,
+"partial": 21
+},
+"pct": 56,
+"img": "items/g5_2026_Q26.jpg"
+},
+{
+"year": 2025,
+"q": 7,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "D",
+"rc": 3,
+"cluster": "Geometry and Measurement: Perimeter/Area/Volume",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 55,
+"img": "items/g5_2025_Q7.jpg"
+},
+{
+"year": 2025,
+"q": 24,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "A",
+"rc": 3,
+"cluster": "Geometry and Measurement: Perimeter/Area/Volume",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 37,
+"img": "items/g5_2025_Q24.jpg"
+}
+],
+"5.6B": [
+{
+"year": 2026,
+"q": 29,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "A",
+"rc": 3,
+"cluster": "Geometry and Measurement: Perimeter/Area/Volume",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": true
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 70,
+"img": "items/g5_2026_Q29.jpg"
+}
+],
+"5.7A": [
+{
+"year": 2026,
+"q": 15,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": "B",
+"rc": 3,
+"cluster": "Geometry and Measurement: Conversions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 39,
+"img": "items/g5_2026_Q15.jpg"
+},
+{
+"year": 2025,
+"q": 26,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 3,
+"cluster": "Geometry and Measurement: Conversions",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 30,
+"img": "items/g5_2025_Q26.jpg"
+}
+],
+"5.9A": [
+{
+"year": 2026,
+"q": 21,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 58,
+"img": "items/g5_2026_Q21.jpg"
+}
+],
+"5.9B": [
+{
+"year": 2025,
+"q": 9,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "B",
+"rc": 4,
+"cluster": "Data Analysis: Representation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": true
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 57,
+"img": "items/g5_2025_Q9.jpg"
+}
+],
+"5.9C": [
+{
+"year": 2026,
+"q": 9,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "C",
+"hot": null,
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": true,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": false
+}
+],
+"pct": 87,
+"img": "items/g5_2026_Q9.jpg"
+},
+{
+"year": 2026,
+"q": 18,
+"itemType": "Drag and Drop",
+"points": 1,
+"correct": "5) Data Analysis: Interpretation of Data 5.9(C) solve one- and two-step problems using data from a frequency table, dot plot, bar graph, stem-and-leaf plot, or scatterplot (Readiness",
+"hot": null,
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"credit": {
+"full": 53,
+"no": 47
+},
+"pct": 53,
+"img": "items/g5_2026_Q18.jpg"
+},
+{
+"year": 2025,
+"q": 2,
+"itemType": "Inline Choice",
+"points": 1,
+"correct": "3 times, mugs OR 4 times, bottles",
+"hot": null,
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"credit": {
+"full": 63,
+"no": 37
+},
+"pct": 63,
+"img": "items/g5_2025_Q2.jpg"
+},
+{
+"year": 2025,
+"q": 14,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "A",
+"hot": "D",
+"rc": 4,
+"cluster": "Data Analysis: Interpretation of Data",
+"choices": [
+{
+"c": "A",
+"ok": true,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": false
+},
+{
+"c": "D",
+"ok": false,
+"hot": true
+}
+],
+"pct": 47,
+"img": "items/g5_2025_Q14.jpg"
+}
+],
+"5.10E": [
+{
+"year": 2026,
+"q": 11,
+"itemType": "Multiple Choice",
+"points": 1,
+"correct": "D",
+"hot": "C",
+"rc": 4,
+"cluster": "Personal Financial Literacy: Budgets",
+"choices": [
+{
+"c": "A",
+"ok": false,
+"hot": false
+},
+{
+"c": "B",
+"ok": false,
+"hot": false
+},
+{
+"c": "C",
+"ok": false,
+"hot": true
+},
+{
+"c": "D",
+"ok": true,
+"hot": false
+}
+],
+"pct": 50,
+"img": "items/g5_2026_Q11.jpg"
+}
+],
+"5.10F": [
+{
+"year": 2025,
+"q": 21,
+"itemType": "Equation Editor",
+"points": 1,
+"correct": "300",
+"hot": null,
+"rc": 4,
+"cluster": "Personal Financial Literacy: Budgets",
+"credit": {
+"full": 50,
+"no": 50
+},
+"pct": 50,
+"img": "items/g5_2025_Q21.jpg"
+}
+],
+"5.10B": [
+{
+"year": 2026,
+"q": 30,
+"itemType": "Drag and Drop",
+"points": 2,
+"correct": "subtracted from, less than",
+"hot": null,
+"rc": 4,
+"cluster": "Personal Financial Literacy: Taxes",
+"credit": {
+"full": 53,
+"no": 24,
+"partial": 24
+},
+"pct": 53,
+"img": "items/g5_2026_Q30.jpg"
+}
+]
+}

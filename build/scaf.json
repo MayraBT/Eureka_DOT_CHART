@@ -1,0 +1,4380 @@
+{
+"SCAF": [
+{
+"cluster": "Representation and Comparison of Whole Numbers",
+"sub": "Representation of Whole Numbers",
+"ses": [
+{
+"code": "4.2B",
+"text": "represent the value of the digit in whole numbers through 1,000,000,000 and decimals to the hundredths using expanded notation and numerals",
+"type": "R"
+},
+{
+"code": "4.2A",
+"text": "interpret the value of each place-value position as 10 times the position to the right and as one-tenth of the value of the place to its left",
+"type": "S"
+},
+{
+"code": "3.2A",
+"text": "compose and decompose numbers up to 100,000 as a sum of so many ten thousands, so many thousands, so many hundreds, so many tens, and so many ones using objects, pictorial models, and numbers, including expanded notation as appropriate",
+"type": "R"
+},
+{
+"code": "3.2B",
+"text": "describe the mathematical relationships found in the base-10 place value system through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "2.2B",
+"text": "use standard, word, and expanded forms to represent numbers up to 1,200",
+"type": "R"
+},
+{
+"code": "2.2A",
+"text": "use concrete and pictorial models to compose and decompose numbers up to 1,200 in more than one way as a sum of so many thousands, hundreds, tens, and ones",
+"type": "S"
+},
+{
+"code": "1.2C",
+"text": "use objects, pictures, and expanded and standard forms to represent numbers up to 120",
+"type": "R"
+},
+{
+"code": "1.2B",
+"text": "use concrete and pictorial models to compose and decompose numbers up to 120 in more than one way as so many hundreds, so many tens, and so many ones",
+"type": "S"
+},
+{
+"code": "K.2I",
+"text": "compose and decompose numbers up to 10 with objects and pictures",
+"type": "R"
+}
+],
+"src": 3
+},
+{
+"cluster": "Representation and Comparison of Whole Numbers",
+"sub": "Comparison of Whole Numbers",
+"ses": [
+{
+"code": "4.2C",
+"text": "compare and order whole numbers to 1,000,000,000 and represent comparisons using the symbols >, <, or =",
+"type": "S"
+},
+{
+"code": "3.2D",
+"text": "compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "2.2D",
+"text": "use place value to compare and order whole numbers up to 1,200 using comparative language, numbers, and symbols (>, <, or =)",
+"type": "R"
+},
+{
+"code": "2.7B",
+"text": "use an understanding of place value to determine the number that is 10 or 100 more or less than a given number up to 1,200",
+"type": "S"
+},
+{
+"code": "2.2C",
+"text": "generate a number that is greater than or less than a given whole number up to 1,200",
+"type": "S"
+},
+{
+"code": "2.2F",
+"text": "name the whole number that corresponds to a specific point on a number line",
+"type": "S"
+},
+{
+"code": "2.2E",
+"text": "locate the position of a given whole number on an open number line",
+"type": "S"
+},
+{
+"code": "1.2G",
+"text": "represent the comparison of two numbers to 100 using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "1.2F",
+"text": "order whole numbers up to 120 using place value and open number lines",
+"type": "S"
+},
+{
+"code": "1.2E",
+"text": "use place value to compare whole numbers up to 120 using comparative language",
+"type": "S"
+},
+{
+"code": "1.2D",
+"text": "generate a number that is greater than or less than a given whole number up to 120",
+"type": "S"
+},
+{
+"code": "1.5C",
+"text": "use relationships to determine the number that is 10 more and 10 less than a given number up to 120",
+"type": "S"
+},
+{
+"code": "K.2H",
+"text": "use comparative language to describe two numbers up to 20 presented as written numerals",
+"type": "R"
+},
+{
+"code": "K.2G",
+"text": "compare sets of objects up to at least 20 in each set using comparative language",
+"type": "S"
+},
+{
+"code": "K.2F",
+"text": "generate a number that is one more than or one less than another number up to at least 20",
+"type": "S"
+},
+{
+"code": "K.2E",
+"text": "generate a set using concrete an pictorial models that represents a number that is more than, less than, and equal to a given number to 20",
+"type": "S"
+},
+{
+"code": "K.2A",
+"text": "count forward and backward to at least 20 presented as written numerals",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Representation and Comparison of Whole Numbers",
+"sub": "Rounding of Whole Numbers",
+"ses": [
+{
+"code": "4.4G",
+"text": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"type": "S"
+},
+{
+"code": "4.2D",
+"text": "round whole numbers to a given place value through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Fractions",
+"sub": "Representation of Fractions",
+"ses": [
+{
+"code": "4.3B",
+"text": "decompose a fraction in more than one way into a sum of fractions with the same denominator using concrete and pictorial models and recording results with symbolic representations",
+"type": "S"
+},
+{
+"code": "4.3A",
+"text": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers ad b>0, including a>b",
+"type": "S"
+},
+{
+"code": "4.3G",
+"text": "represent fractions and decimals to the tenths and hundredths as distances from zero on a number line",
+"type": "S"
+},
+{
+"code": "3.3E",
+"text": "solve problems involving partitioning an object or a set of objects among two or more recipients using pictorial representations of fractions with denominators of 2, 3, 4, 6, and 8",
+"type": "S"
+},
+{
+"code": "3.3B",
+"text": "determine the corresponding fraction greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 given a specified point on a number line",
+"type": "S"
+},
+{
+"code": "3.7A",
+"text": "represent fractions of halves, fourths, and eighths as distances from zero on a number line",
+"type": "S"
+},
+{
+"code": "3.3A",
+"text": "represent fractions greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 using concrete objects and pictorial models, including strip diagrams and number lines",
+"type": "S"
+},
+{
+"code": "2.3D",
+"text": "identify examples and non-examples of halves, fourths, and eighths",
+"type": "S"
+},
+{
+"code": "2.3A",
+"text": "partition objects into equal parts and name the parts, including halves, fourths, and eighths, using words",
+"type": "S"
+},
+{
+"code": "2.3C",
+"text": "use concrete models to count fractional parts beyond one whole using words and recognize how many parts it takes to equal one whole",
+"type": "S"
+},
+{
+"code": "1.6H",
+"text": "identify examples and non-examples of halves and fourths",
+"type": "S"
+},
+{
+"code": "1.6G",
+"text": "partition two‐dimensional figures into two and four fair shares or equal parts and describe the parts using words",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Fractions",
+"sub": "Unit Fractions",
+"ses": [
+{
+"code": "4.3B",
+"text": "decompose a fraction in more than one way into a sum of fractions with the same denominator using concrete and pictorial models and recording results with symbolic representations",
+"type": "S"
+},
+{
+"code": "4.3A",
+"text": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers and b > 0, including when a > b",
+"type": "S"
+},
+{
+"code": "3.6E",
+"text": "decompose two congruent two-dimensional figures into parts with equal areas and express the area of each part as a unit fraction of the whole and recognize that equal share of identical wholes need not have the same shape",
+"type": "S"
+},
+{
+"code": "3.3D",
+"text": "compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of part 1/b",
+"type": "S"
+},
+{
+"code": "3.3C",
+"text": "explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number",
+"type": "S"
+},
+{
+"code": "2.3C",
+"text": "use concrete models to count fractional parts beyond one whole using words and recognize howmany parts it takes to equal one whole",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Fractions",
+"sub": "Equivalency of Fractions",
+"ses": [
+{
+"code": "6.5C",
+"text": "use equivalent fractions, decimals, and percents to show equal parts of the same whole",
+"type": "S"
+},
+{
+"code": "4.3C",
+"text": "determine if two given fractions are equivalent using a variety of methods",
+"type": "S"
+},
+{
+"code": "4.2G",
+"text": "relate decimals to fractions that name tenths and hundredths",
+"type": "R"
+},
+{
+"code": "4.3G",
+"text": "represent fractions and decimals to the tenths or hundredths as distances from zero on a number line",
+"type": "S"
+},
+{
+"code": "3.3G",
+"text": "explain that two fractions are equivalent if and only if they are both represented by the same point on the number line or represent the same portion of a same size whole for an area model",
+"type": "S"
+},
+{
+"code": "3.3F",
+"text": "represent equivalent fractions with denominators of 2, 3, 4, 6, 8 using a variety of objects and pictorial models including number lines",
+"type": "R"
+},
+{
+"code": "2.3A",
+"text": "partition objects into equal parts and name the parts, including halves, fourths, and eighths, using words",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Fractions",
+"sub": "Comparison of Fractions",
+"ses": [
+{
+"code": "4.3D",
+"text": "compare two fractions with different numerators and different denominators and represent the comparison using the symbols >, =, <",
+"type": "R"
+},
+{
+"code": "3.3H",
+"text": "compare two fractions having the same numerator or denominator in problems by reasoning about their sizes and justifying the conclusion using symbols, words, objects, and pictorial models",
+"type": "R"
+},
+{
+"code": "2.3B",
+"text": "explain that the more fractional parts used to made a whole, the smaller the part; and the fewer the fractional parts, the larger the part",
+"type": "R"
+},
+{
+"code": "1.6G",
+"text": "partition two-dimensional figures into two and four fair shares or equal parts and describe the parts using words",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Estimation of Whole Numbers",
+"ses": [
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication, or division",
+"type": "S"
+},
+{
+"code": "4.4G",
+"text": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"type": "S"
+},
+{
+"code": "4.2D",
+"text": "round whole numbers to a given place value through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "3.4B",
+"text": "round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems",
+"type": "S"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"type": "S"
+},
+{
+"code": "2.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "1.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "K.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+}
+],
+"src": 3
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Addition/Subtraction of Whole Numbers",
+"ses": [
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "4.4A",
+"text": "add and subtract whole numbers and decimals to the hundredths place using the standard algorithm",
+"type": "R"
+},
+{
+"code": "3.4A",
+"text": "solve with fluency one‐step and two‐step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+"type": "R"
+},
+{
+"code": "3.5A",
+"text": "represent one‐ and two‐step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations",
+"type": "R"
+},
+{
+"code": "2.4D",
+"text": "generate and solve problem situations for a given mathematical number sentence involving addition and subtraction of whole numbers within 1,000",
+"type": "R"
+},
+{
+"code": "2.4C",
+"text": "solve one‐step and multi‐step word problems involving addition and subtraction within 1,000 using a variety of strategies based on place value, including algorithms",
+"type": "R"
+},
+{
+"code": "2.7C",
+"text": "represent and solve addition and subtraction word problems where unknowns may be any one of the terms in the problem",
+"type": "S"
+},
+{
+"code": "2.4B",
+"text": "add up to four two-digit numbers and subtract two-digit numbers using mental strategies and algorithms based o knowledge of place value and properties of operations",
+"type": "S"
+},
+{
+"code": "2.4A",
+"text": "recall basic facts to add and subtract within 20 with automaticity",
+"type": "S"
+},
+{
+"code": "1.3F",
+"text": "generate and solve problem situations when given a number sentence involving addition or subtraction of numbers within 20",
+"type": "R"
+},
+{
+"code": "1.5D",
+"text": "represent word problems involving addition and subtraction of whole numbers up to 20 using concrete and pictorial models and number sentences",
+"type": "R"
+},
+{
+"code": "1.3B",
+"text": "use objects and pictorial models to solve word problems involving joining, separating, and comparing sets within 20 and unknowns as any one of the terms in the problem such as 2 + 4 = ___; 3 + ___ = 7; and 5 = ___ - 3",
+"type": "S"
+},
+{
+"code": "1.5F",
+"text": "determine the unknown whole number in an addition or subtraction equation when the unknown may be any one of the three of four terms in the equation",
+"type": "S"
+},
+{
+"code": "1.5E",
+"text": "understand that the equal sign represents a relationship where expressions on each side of the equal sign represent the same value(s)",
+"type": "S"
+},
+{
+"code": "1.5G",
+"text": "apply properties of operations to add and subtract two and three numbers",
+"type": "R"
+},
+{
+"code": "1.3A",
+"text": "use concrete and pictorial models to determine the sum of a multiple of ten and a one digit number in problems up to 99",
+"type": "S"
+},
+{
+"code": "1.3E",
+"text": "explain strategies used to solve addition and subtraction problems up to 20 using spoken words, objects, pictorial models, and number sentences",
+"type": "S"
+},
+{
+"code": "1.3D",
+"text": "apply basic fact strategies to add and subtract within 20, including making 10 and decomposing a number leading to a 10",
+"type": "S"
+},
+{
+"code": "1.3C",
+"text": "compose 10 with two or more addends with and without concrete objects",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+},
+{
+"code": "K.3B",
+"text": "solve word problems using objects and drawings to find sums up to 10 and differences within 10",
+"type": "R"
+},
+{
+"code": "K.3C",
+"text": "explain the strategies used to solve problems involving adding and subtracting within 10 using spoken words, concrete and pictorial models, and number sentences",
+"type": "S"
+},
+{
+"code": "K.3A",
+"text": "model the action of joining to represent addition and the action of separating to represent subtraction",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Money",
+"ses": [
+{
+"code": "4.8C",
+"text": "solve problems that deal with measurements of length, intervals of time, liquid volumes, mass, and money using addition, subtraction, multiplication, or division as appropriate",
+"type": "R"
+},
+{
+"code": "3.4C",
+"text": "determine the value of a collection of coins and bills",
+"type": "S"
+},
+{
+"code": "2.5A",
+"text": "determine the value of a collection of coins up to one dollar",
+"type": "S"
+},
+{
+"code": "2.5B",
+"text": "use the cent symbol, dollar sign, and the decimal point to name the value of a collection of coins",
+"type": "S"
+},
+{
+"code": "1.4C",
+"text": "use relationships to count by twos, fives, and tens to determine the value of a collection of pennies, nickels, and/or dimes",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+},
+{
+"code": "1.4A",
+"text": "identify U.S. coins including pennies, nickels, dimes, and quarters by value and describe the relationships between them",
+"type": "S"
+},
+{
+"code": "K.4A",
+"text": "identify U.S. coins by name, including pennies, nickels, dimes, and quarters",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Addition and Subtraction of Whole Numbers",
+"sub": "Numerical Patterns",
+"ses": [
+{
+"code": "6.4A",
+"text": "compare two rules verbally, graphically, and symbolically in the form of y = ax or y = x + b in order to differentiate between additive and multiplicative relationships",
+"type": "S"
+},
+{
+"code": "6.6C",
+"text": "represent a given situation using verbal descriptions, tables, graphs, and equations in the form y = kx or y = x + b",
+"type": "S"
+},
+{
+"code": "5.4D",
+"text": "recognize the difference between additive and multiplicative numerical patterns given in a table or graph",
+"type": "S"
+},
+{
+"code": "5.4C",
+"text": "generate a numerical pattern when given a rule in the form y = ax or y = x + a and graph",
+"type": "R"
+},
+{
+"code": "4.5B",
+"text": "represent problems using an input‐output table and numerical expressions to generate a number pattern that follows a given rule representing the relationship of the values in the resulting sequence and their position in the sequence",
+"type": "R"
+},
+{
+"code": "3.5E",
+"text": "represent real‐world relationships using number pairs in a table and verbal descriptions",
+"type": "R"
+}
+],
+"src": 3
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Multiplication of Whole Numbers",
+"ses": [
+{
+"code": "5.3B",
+"text": "multiply with fluency a three-digit number by a two-digit number using the standard algorithm",
+"type": "S"
+},
+{
+"code": "4.4D",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply up to a four-digit number by a one‐digit number and to multiply a two‐digit number by a two‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "4.4C",
+"text": "represent the product of 2 two-digit numbers using arrays, area models, or equations, including perfect squares through 15 by 15",
+"type": "S"
+},
+{
+"code": "4.4B",
+"text": "determine products of a number and 10 or 100 using properties of operations and place value understandings",
+"type": "S"
+},
+{
+"code": "3.4G",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply a two‐digit number by a one‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "3.5C",
+"text": "describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24",
+"type": "S"
+},
+{
+"code": "3.5D",
+"text": "determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product",
+"type": "S"
+},
+{
+"code": "3.4F",
+"text": "recall facts to multiply up to 10 by 10 with automaticity and recall the corresponding division facts",
+"type": "S"
+},
+{
+"code": "3.6C",
+"text": "determine the area of rectangles with whole number sides lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"type": "R"
+},
+{
+"code": "3.4E",
+"text": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"type": "S"
+},
+{
+"code": "3.4D",
+"text": "determine the total number of objects when equally sized groups of objects are combined or arranged in arrays up to 10 by 10",
+"type": "S"
+},
+{
+"code": "2.6A",
+"text": "model, create, and describe contextual multiplication situations in which equivalent sets of concrete objects are joined",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Division of Whole Numbers",
+"ses": [
+{
+"code": "5.3C",
+"text": "solve with proficiency for quotients of up to a four-digit by two-digit divisor using strategies and the standard algorithm",
+"type": "S"
+},
+{
+"code": "4.4F",
+"text": "use strategies and algorithms, including the standard algorithm, to divide jump to a four-digit dividend by a one-digit divisor",
+"type": "S"
+},
+{
+"code": "4.4E",
+"text": "represent the quotient of up to four-digit whole number divided by a one-digit whole number using arrays, area models, and equations",
+"type": "S"
+},
+{
+"code": "3.5D",
+"text": "determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product",
+"type": "S"
+},
+{
+"code": "3.4J",
+"text": "determine a quotient using the relationship between multiplication and division",
+"type": "S"
+},
+{
+"code": "3.4I",
+"text": "determine if a number is even or odd using divisibility rules",
+"type": "S"
+},
+{
+"code": "3.4H",
+"text": "determine the number of objects in each group when set of objects is partitioned into equal shares or a set of objects is shared equally",
+"type": "S"
+},
+{
+"code": "2.7A",
+"text": "determine whether a number up to 40 is even or odd using pairings of objects to represent the number",
+"type": "S"
+},
+{
+"code": "2.6B",
+"text": "model, create, and describe contextual division situations in which a set of concrete objects is separated into equivalent sets",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Numerical Patterns",
+"ses": [
+{
+"code": "6.4A",
+"text": "compare two rules verbally, graphically, and symbolically in the form of y = ax or y = x + b in order to differentiate between additive and multiplicative relationships",
+"type": "S"
+},
+{
+"code": "6.6C",
+"text": "represent a given situation using verbal descriptions, tables, graphs, and equations in the form y = kx or y = x + b",
+"type": "S"
+},
+{
+"code": "5.4D",
+"text": "recognize the difference between additive and multiplicative numerical patterns given in a table or graph",
+"type": "S"
+},
+{
+"code": "5.4C",
+"text": "generate a numerical pattern when given a rule in the form y = ax or y = x + a and graph",
+"type": "R"
+},
+{
+"code": "4.5B",
+"text": "represent problems using an input‐output table and numerical expressions to generate a number pattern that follows a given rule representing the relationship of the values in the resulting sequence and their position in the sequence",
+"type": "R"
+},
+{
+"code": "3.5E",
+"text": "represent real‐world relationships using number pairs in a table and verbal descriptions",
+"type": "R"
+}
+],
+"src": 3
+},
+{
+"cluster": "Multiplication and Division of Whole Numbers",
+"sub": "Multiplication and Division of Whole Numbers",
+"ses": [
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.4B",
+"text": "represent and solve multi-step problems involving the four operations with whole numbers using equations with a letter standing for the unknown quantity",
+"type": "R"
+},
+{
+"code": "4.4H",
+"text": "solve with fluency one‐ and two‐step problems involving multiplication and division, including interpreting remainders",
+"type": "R"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+}
+],
+"src": 3
+},
+{
+"cluster": "Geometry",
+"sub": "Two-Dimensional/Three-Dimensional",
+"ses": [
+{
+"code": "5.5A",
+"text": "classify two-dimensional figures in a hierarchy of sets and subsets using graphic organizers based on their attributes and properties",
+"type": "R"
+},
+{
+"code": "4.6D",
+"text": "classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size",
+"type": "R"
+},
+{
+"code": "4.6C",
+"text": "apply knowledge of right angles to identify acute, right, and obtuse triangles",
+"type": "S"
+},
+{
+"code": "4.6B",
+"text": "identify and draw one or more lines of symmetry, if they exist, for a two-dimensional figure",
+"type": "S"
+},
+{
+"code": "4.6A",
+"text": "identify points, lines, line segments, rays, angles, and perpendicular and parallel lines",
+"type": "S"
+},
+{
+"code": "3.6A",
+"text": "classify and sort two‐ and three‐dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "3.6B",
+"text": "use attributes to recognize rhombuses, parallelograms, trapezoids, rectangles, and squares as examples of quadrilaterals and draw examples of quadrilaterals that do not belong to any of these subcategories",
+"type": "S"
+},
+{
+"code": "2.8D",
+"text": "compose two-dimensional shapes and three-dimensional solids with given properties or attributes",
+"type": "S"
+},
+{
+"code": "2.8C",
+"text": "classify and sort polygons with 12 or fewer sides according to attributes, including identifying the number of sides and number of vertices",
+"type": "R"
+},
+{
+"code": "2.8B",
+"text": "classify and sort three‐dimensional solids, including spheres, cones, cylinders, rectangular prisms (including cubes as special rectangular prisms), and triangular prisms, based on attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "2.8A",
+"text": "create two-dimensional shapes based on given attributes, including number of sides and vertices",
+"type": "S"
+},
+{
+"code": "1.6E",
+"text": "identify three-dimensional solids, including spheres, cones, cylinder, rectangular prisms (included cubes), and triangular prisms and describe the attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "1.6A",
+"text": "classify and sort regular and irregular two‐dimensional shapes based on attributes using informal geometric language",
+"type": "R"
+},
+{
+"code": "1.6D",
+"text": "identify two‐dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles, rhombuses, and hexagons, and describe their attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "1.6C",
+"text": "create two-dimensional figures, including circles, triangles, rectangles, and squares as special rectangles, rhombuses, and hexagons",
+"type": "S"
+},
+{
+"code": "1.6B",
+"text": "distinguish between attributes that define a two‐dimensional or three‐dimensional figure and attributes that do not define the shape",
+"type": "S"
+},
+{
+"code": "K.6E",
+"text": "classify and sort a variety of regular and irregular two- and three‐dimensional figures regardless of orientation or size",
+"type": "R"
+},
+{
+"code": "K.6F",
+"text": "create two-dimensional shapes using a variety of materials and drawings",
+"type": "S"
+},
+{
+"code": "K.6A",
+"text": "identify two‐dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles",
+"type": "S"
+},
+{
+"code": "K.6D",
+"text": "identify attributes of two‐dimensional shapes using informal and formal geometric language interchangeable",
+"type": "S"
+},
+{
+"code": "K.6C",
+"text": "identify two-dimensional components of three-dimensional objects",
+"type": "S"
+},
+{
+"code": "K.6B",
+"text": "identify three-dimensional solids, including cylinders, cones, spheres, and cubes in the real world",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Measurement",
+"sub": "Area",
+"ses": [
+{
+"code": "5.4H",
+"text": "represent and solve problems related to perimeter and/or area and related to volume",
+"type": "R"
+},
+{
+"code": "4.5D",
+"text": "solve problems related to perimeter and area of rectangles where dimensions are whole numbers",
+"type": "R"
+},
+{
+"code": "4.5C",
+"text": "use models to determine the formulas for the perimeter of a rectangle (l+w+l+w or 2l+2w), including the special form for perimeter of a square (4s) and the area of a rectangle (l x w)",
+"type": "U"
+},
+{
+"code": "3.6D",
+"text": "decompose composite figures formed by rectangles into non‐overlapping rectangles to determine the area of the original figure using the additive property of area",
+"type": "S"
+},
+{
+"code": "3.6C",
+"text": "determine the area of rectangles with whole number side lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"type": "R"
+},
+{
+"code": "2.9F",
+"text": "use concrete models of square units to find the area of a rectangle by covering it with no gaps or overlaps, counting to find the total number of square units, and describing the measurement using a number and the unit",
+"type": "S"
+},
+{
+"code": "1.6F",
+"text": "compose two‐dimensional shapes by joining two, three, or four figures to produce a target shape in more than one way if possible",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Measurement",
+"sub": "Perimeter",
+"ses": [
+{
+"code": "5.4H",
+"text": "represent and solve problems related to perimeter and/or area and related to volume",
+"type": "R"
+},
+{
+"code": "4.5D",
+"text": "solve problems related to perimeter and area of rectangles where dimensions are whole numbers",
+"type": "R"
+},
+{
+"code": "4.5C",
+"text": "use models to determine the formulas for the perimeter of a rectangle (l+w+l+w or 2l+2w), including the special form for perimeter of a square (4s) and the area of a rectangle (l x w)",
+"type": "U"
+},
+{
+"code": "3.7B",
+"text": "determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems",
+"type": "R"
+},
+{
+"code": "2.9E",
+"text": "determine a solution to a problem involving length, including estimating lengths",
+"type": "R"
+},
+{
+"code": "2.9D",
+"text": "determine the length of an object to the nearest marked unit using rulers, yardsticks, meter sticks, or measuring tapes",
+"type": "S"
+},
+{
+"code": "2.9A",
+"text": "find the length of objects using concrete models for standard units of length",
+"type": "S"
+},
+{
+"code": "1.7D",
+"text": "describe a length to the nearest whole unit using a number and a unit",
+"type": "R"
+},
+{
+"code": "1.7C",
+"text": "measure the same object/distance with units of two different lengths and describe how and why the measurement differ",
+"type": "S"
+},
+{
+"code": "1.7B",
+"text": "illustrate that the length of an object is the number of same-size units of length that, when laid end-to-end with no gaps or overlaps, reach from one end of the object to the other",
+"type": "S"
+},
+{
+"code": "1.7A",
+"text": "use measuring tools to measure the length of objects to reinforce the continuous nature of linear measurement",
+"type": "S"
+},
+{
+"code": "K.7B",
+"text": "compare two objects with a common measurable attribute to see which object has more of/less of the attribute and describe the difference",
+"type": "R"
+},
+{
+"code": "K.7A",
+"text": "give an example of a measurable attribute of a given object, including length, capacity, and weight",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Measurement",
+"sub": "Time",
+"ses": [
+{
+"code": "4.8C",
+"text": "solve problems that deal with measurements of length, intervals of time, liquid volumes, mass, and money using addition, subtraction, multiplication, or division as appropriate",
+"type": "R"
+},
+{
+"code": "3.7C",
+"text": "determine the solutions to problems involving addition and subtraction of time intervals in minutes using pictorial models or tools such as a 15‐minute event plus a 30‐minute event equals 45 minutes",
+"type": "S"
+},
+{
+"code": "2.9G",
+"text": "read and write time to the nearest one‐minute increment using analog and digital clocks and distinguish between a.m. and p.m.",
+"type": "R"
+},
+{
+"code": "1.7E",
+"text": "tell time to the hour and half hour using analog and digital clocks",
+"type": "R"
+}
+],
+"src": 3
+},
+{
+"cluster": "Measurement",
+"sub": "Liquid Capacity/Weight",
+"ses": [
+{
+"code": "4.8C",
+"text": "solve problems that deal with measurements of length, intervals of time, liquid volumes, mass, and money using addition, subtraction, multiplication, or division as appropriate",
+"type": "R"
+},
+{
+"code": "3.7E",
+"text": "determine liquid volume (capacity) or weight using appropriate units and tools",
+"type": "S"
+},
+{
+"code": "3.7D",
+"text": "determine when it is appropriate to use measurements of liquid volume (capacity) or weight",
+"type": "S"
+},
+{
+"code": "K.7A",
+"text": "give an example of a measurable attribute of a given object, including length, capacity, and weight",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Data Analysis",
+"sub": "Representation of Data",
+"ses": [
+{
+"code": "6.12A",
+"text": "represent numeric data graphically, including dot plots, stem-and-leaf plots, histograms and box plots",
+"type": "S"
+},
+{
+"code": "5.9B",
+"text": "represent discrete paired data on a scatterplot",
+"type": "S"
+},
+{
+"code": "5.9A",
+"text": "represent categorical data with bar graphs or frequency tables and numerical data, including data sets of measurements in fractions or decimals, with dot plots or stem-and-leaf plots",
+"type": "S"
+},
+{
+"code": "4.9A",
+"text": "represent data on a frequency table, dot plot, or stem-and-leaf plot marked with whole numbers and fractions",
+"type": "R"
+},
+{
+"code": "3.8A",
+"text": "summarize a data set with multiple categories using frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"type": "R"
+},
+{
+"code": "2.10A",
+"text": "explain that the length of a bar in a bar graph or the number of pictures in a pictograph represents the number of data points for a given category",
+"type": "S"
+},
+{
+"code": "2.10B",
+"text": "organize a collection of data with up to four categories using pictographs and bar graphs with intervals of one or more",
+"type": "S"
+},
+{
+"code": "1.8B",
+"text": "use data to create picture and bar-type graphs",
+"type": "S"
+},
+{
+"code": "1.8A",
+"text": "collect, sort, and organize data in up to three categories using models/representations such as tally marks or T-charts",
+"type": "S"
+},
+{
+"code": "K.8B",
+"text": "use data to create real-object and picture graphs",
+"type": "R"
+},
+{
+"code": "K.8A",
+"text": "collect, sort, and organize data into two or three categories",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Data Analysis",
+"sub": "Interpretation of Data",
+"ses": [
+{
+"code": "6.13A",
+"text": "interpret numeric data summarized in dot plots, stem‐and‐leaf plots, histograms, and box plots",
+"type": "R"
+},
+{
+"code": "5.9C",
+"text": "solve one‐ and two‐step problems using data from a frequency table, dot plot, bar graph, stem‐and‐leaf plot, or scatterplot",
+"type": "R"
+},
+{
+"code": "4.9B",
+"text": "solve one‐ and two‐step problems using data in whole number, decimal, and fraction form in a frequency table, dot plot, or stem‐and‐leaf plot",
+"type": "S"
+},
+{
+"code": "3.8B",
+"text": "solve one‐ and two‐step problems using categorical data represented with a frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"type": "S"
+},
+{
+"code": "2.10D",
+"text": "draw conclusions and make predictions from information in a graph",
+"type": "S"
+},
+{
+"code": "2.10C",
+"text": "write and solve one‐step word problems involving addition or subtraction using data represented within pictographs and bar graphs with intervals of one",
+"type": "R"
+},
+{
+"code": "1.8C",
+"text": "draw conclusions and generate and answer questions using information from picture and bar‐type graphs",
+"type": "R"
+},
+{
+"code": "K.8C",
+"text": "draw conclusions from real‐object and picture graphs",
+"type": "R"
+}
+],
+"src": 3
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Earning, Spending, and Saving",
+"ses": [
+{
+"code": "4.10C",
+"text": "compare the advantages and disadvantages of various savings options",
+"type": "U"
+},
+{
+"code": "4.10D",
+"text": "describe how to allocate weekly allowance among spending, saving, including for college; and sharing lending",
+"type": "U"
+},
+{
+"code": "3.9F",
+"text": "identify decisions involving income, spending, saving credit and chartible giving",
+"type": "U"
+},
+{
+"code": "3.9C",
+"text": "identify the costs and benefits of planned and unplanned spending decisions",
+"type": "U"
+},
+{
+"code": "3.9E",
+"text": "list reasons to save and explain the benefit of a savings plan, including for college",
+"type": "S"
+},
+{
+"code": "2.11C",
+"text": "distinguish between a deposit and a withdrawal",
+"type": "S"
+},
+{
+"code": "2.11B",
+"text": "explain that saving is an alternative to spending",
+"type": "S"
+},
+{
+"code": "2.11A",
+"text": "calculate how money saved can accumulate into a larger amount over time",
+"type": "S"
+},
+{
+"code": "1.9C",
+"text": "distinguish between spending and saving",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Borrowing",
+"ses": [
+{
+"code": "4.10E",
+"text": "describe the basic purpose of financial institutions, including keeping money safe, borrowing money, and lending",
+"type": "S"
+},
+{
+"code": "3.9D",
+"text": "explain that credit is used when wants or needs exceed the ability to pay and that it is the borrower's responsibility to pay it back to the lender, usually with interest",
+"type": "S"
+},
+{
+"code": "2.11E",
+"text": "identify examples of lending and use concepts of benefits and costs to evaluate lending decisions",
+"type": "S"
+},
+{
+"code": "2.11D",
+"text": "identify examples of borrowing and distinguish between responsible and irresponsible borrowing",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Economics",
+"ses": [
+{
+"code": "4.10B",
+"text": "calculate profit in a given situation",
+"type": "S"
+},
+{
+"code": "3.9A",
+"text": "explain the connection between human capital/labor and income",
+"type": "S"
+},
+{
+"code": "3.9B",
+"text": "describe the relationship between the availability or scarcity of resources and how that impacts cost",
+"type": "S"
+},
+{
+"code": "2.11F",
+"text": "differentiate between producers and consumers and calculate the cost to produce a simple item",
+"type": "S"
+}
+],
+"src": 3
+},
+{
+"cluster": "Decimals",
+"sub": "Representation of Whole Numbers and Decimals",
+"ses": [
+{
+"code": "5.2A",
+"text": "represent the value of digit in decimals through the thousandths using expanded notation and numerals",
+"type": "S"
+},
+{
+"code": "4.2H",
+"text": "determine the corresponding decimal to the tenths or hundredths place of a specified point on a number line",
+"type": "S"
+},
+{
+"code": "4.3G",
+"text": "represent fractions and decimals to the tenths or hundredths, using concrete and visual models and money",
+"type": "S"
+},
+{
+"code": "4.2E",
+"text": "represent decimals, including tenths and hundredths, using concrete and visual models and money",
+"type": "S"
+},
+{
+"code": "4.2B",
+"text": "represent the value of the digit in whole numbers through 1,000,000,000 and decimals to the hundredths using expanded notation and numerals",
+"type": "R"
+},
+{
+"code": "4.2A",
+"text": "interpret the value of each place-value position as 10 times the position to the right and as one-tenth of the value of the place to its left",
+"type": "S"
+},
+{
+"code": "3.2A",
+"text": "compose and decompose numbers up to 100,000 as a sum of so many ten thousands, so many thousands, so many hundreds, so many tens, and so many ones using objects, pictorial models, and numbers, including expanded notation as appropriate",
+"type": "R"
+},
+{
+"code": "3.2B",
+"text": "describe the mathematical relationships found in the base-10 place value system through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "2.2B",
+"text": "use standard, word, and expanded forms to represent numbers up to 1,200",
+"type": "R"
+},
+{
+"code": "2.2A",
+"text": "use concrete and pictorial models to compose and decompose numbers up to 1,200 in more than one way as a sum of so many thousands, hundreds, tens, and ones",
+"type": "S"
+},
+{
+"code": "1.2C",
+"text": "use objects, pictures, and expanded and standard forms to represent numbers up to 120",
+"type": "R"
+},
+{
+"code": "1.2B",
+"text": "use concrete and pictorial models to compose and decompose numbers up to 120 in more than one way as so many hundreds, so many tens, and so many ones",
+"type": "S"
+},
+{
+"code": "1.2A",
+"text": "recognize instantly the quantity of structured arrangements",
+"type": "S"
+},
+{
+"code": "1.5A",
+"text": "recite numbers forward and backward from any given number between 1 and 120",
+"type": "S"
+},
+{
+"code": "K.2I",
+"text": "compose and decompose numbers up to 10 with objects and pictures",
+"type": "R"
+},
+{
+"code": "K.2B",
+"text": "read, write, and represent whole numbers from 0 to at least 20 with and without objects or pictures",
+"type": "R"
+},
+{
+"code": "K.2C",
+"text": "count a set of objects up to at least 20 and demonstrate that the last number said tells the number of objects in the set regardless of their arrangement or order",
+"type": "S"
+},
+{
+"code": "K.2D",
+"text": "recognize instantly the quantity of small group of objects in organized and random arrangements",
+"type": "S"
+},
+{
+"code": "K.5A",
+"text": "recite numbers up to at least 100 by ones and tens beginning with any given number",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Decimals",
+"sub": "Comparison of Whole Numbers and Decimals",
+"ses": [
+{
+"code": "8.2D",
+"text": "order a set of real numbers arising from mathematical and real-world context",
+"type": "R"
+},
+{
+"code": "6.2D",
+"text": "order a set of rational numbers arising from mathematical and real-world context",
+"type": "R"
+},
+{
+"code": "5.2B",
+"text": "compare and order two decimals to thousandths and represent comparisons using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "4.2C",
+"text": "compare and order whole numbers to 1,000,000,000 and represent comparisons using the symbols >, <, or =",
+"type": "S"
+},
+{
+"code": "4.2F",
+"text": "compare and order decimals using concrete and visual models to the hundredths",
+"type": "S"
+},
+{
+"code": "3.2D",
+"text": "compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; or 10,000 and use words to describe the relative size of numbers in order to round whole numbers",
+"type": "S"
+},
+{
+"code": "2.2D",
+"text": "use place value to compare and order whole numbers up to 1,200 using comparative language, numbers, and symbols (>, <, or =)",
+"type": "R"
+},
+{
+"code": "2.7B",
+"text": "use an understanding of place value to determine the number that is 10 or 100 more or less than a given number up to 1,200",
+"type": "S"
+},
+{
+"code": "2.2C",
+"text": "generate a number that is greater than or less than a given whole number up to 1,200",
+"type": "S"
+},
+{
+"code": "2.2F",
+"text": "name the whole number that corresponds to a specific point on a number line",
+"type": "S"
+},
+{
+"code": "2.2E",
+"text": "locate the position of a given whole number on an open number line",
+"type": "S"
+},
+{
+"code": "1.2G",
+"text": "represent the comparison of two numbers to 100 using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "1.2F",
+"text": "order whole numbers up to 120 using place value and open number lines",
+"type": "S"
+},
+{
+"code": "1.2E",
+"text": "use place value to compare whole numbers up to 120 using comparative language",
+"type": "S"
+},
+{
+"code": "1.2D",
+"text": "generate a number that is greater than or less than a given whole number up to 120",
+"type": "S"
+},
+{
+"code": "1.5C",
+"text": "use relationships to determine the number that is 10 more and 10 less than a given number up to 120",
+"type": "S"
+},
+{
+"code": "K.2H",
+"text": "use comparative language to describe two numbers up to 20 presented as written numerals",
+"type": "R"
+},
+{
+"code": "K.2G",
+"text": "compare sets of objects up to at least 20 in each set using comparative language",
+"type": "S"
+},
+{
+"code": "K.2F",
+"text": "generate a number that is one more than or one less than another number up to at least 20",
+"type": "S"
+},
+{
+"code": "K.2E",
+"text": "generate a set using concrete an pictorial models that represents a number that is more than, less than, and equal to a given number to 20",
+"type": "S"
+},
+{
+"code": "K.2A",
+"text": "count forward and backward to at least 20 presented as written numerals",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Decimals",
+"sub": "Addition/Subtraction of Whole Numbers and Decimals",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "4.4A",
+"text": "add and subtract whole numbers and decimals to the hundredths place value using the standard algorithm",
+"type": "R"
+},
+{
+"code": "3.4A",
+"text": "solve with fluency one‐step and two‐step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+"type": "R"
+},
+{
+"code": "2.5A",
+"text": "determine the value of a collection of coins up to one dollar",
+"type": "S"
+},
+{
+"code": "2.5B",
+"text": "use the cent symbol, dollar sign, and the decimal point to name the value of a collection of coins",
+"type": "S"
+},
+{
+"code": "2.4C",
+"text": "solve one‐step and multi‐step word problems involving addition and subtraction within 1,000 using a variety of strategies based on place value, including algorithms",
+"type": "R"
+},
+{
+"code": "2.4B",
+"text": "add up to four two-digit numbers and subtract two-digit numbers using mental strategies and algorithms based o knowledge of place value and properties of operations",
+"type": "S"
+},
+{
+"code": "1.4C",
+"text": "use relationships to count by twos, fives, and tens to determine the value of a collection of pennies, nickels, and/or dimes",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+},
+{
+"code": "1.4A",
+"text": "identify U.S. coins including pennies, nickels, dimes, and quarters by value and describe the relationships between them",
+"type": "S"
+},
+{
+"code": "K.4A",
+"text": "identify U.S. coins by name, including pennies, nickels, dimes, and quarters",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Fractions",
+"sub": "Representation of Fractions",
+"ses": [
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3H",
+"text": "represent and solve addition and subtraction of fractions with unequal denominators referring to the same whole using objects and pictorial models and properties of operations",
+"type": "S"
+},
+{
+"code": "4.3B",
+"text": "decompose a fraction in more than one way into a sum of fractions with the same denominator using concrete and pictorial models and recording results with symbolic representations",
+"type": "S"
+},
+{
+"code": "4.3A",
+"text": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers and b > 0, including when a > b",
+"type": "S"
+},
+{
+"code": "3.3D",
+"text": "compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of parts 1/b",
+"type": "S"
+},
+{
+"code": "3.3C",
+"text": "explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Fractions",
+"sub": "Equivalency of Fractions",
+"ses": [
+{
+"code": "6.5C",
+"text": "use equivalent fractions, decimals, and percents to show equal parts of the same whole",
+"type": "S"
+},
+{
+"code": "4.3C",
+"text": "determine if two given fractions are equivalent using a variety of methods",
+"type": "S"
+},
+{
+"code": "4.2G",
+"text": "relate decimals to fractions that name tenths and hundredths",
+"type": "R"
+},
+{
+"code": "4.3G",
+"text": "represent fractions and decimals to the tenths or hundredths as distances from zero on a number line",
+"type": "S"
+},
+{
+"code": "3.3G",
+"text": "explain that two fractions are equivalent if and only if they are both represented by the same point on the number line or represent the same portion of a same size whole for an area model",
+"type": "S"
+},
+{
+"code": "3.3F",
+"text": "represent equivalent fractions with denominators of 2, 3, 4, 6, 8 using a variety of objects and pictorial models including number lines",
+"type": "R"
+}
+],
+"src": 4
+},
+{
+"cluster": "Fractions",
+"sub": "Comparison of Fractions",
+"ses": [
+{
+"code": "6.2D",
+"text": "order a set of rational numbers arising from mathematical and real-world context",
+"type": "R"
+},
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication and division",
+"type": "S"
+},
+{
+"code": "4.3D",
+"text": "compare two fractions with different numerators and different denominators and represent the comparison using the symbols >, =, <",
+"type": "R"
+},
+{
+"code": "3.3H",
+"text": "compare two fractions having the same numerator or denominator in problems by reasoning about their sizes and justifying the conclusion using symbols, words, objects, and pictorial models",
+"type": "R"
+},
+{
+"code": "2.3B",
+"text": "explain that the more fractional parts used to made a whole, the smaller the part; and the fewer the fractional parts, the larger the part",
+"type": "R"
+},
+{
+"code": "1.6G",
+"text": "partition two-dimensional figures into two and four fair shares or equal parts and describe the parts using words",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Fractions",
+"sub": "Addition/Subtraction of Fractions",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3H",
+"text": "represent and solve addition and subtraction of fractions with unequal denominators referring to the same whole using objects and pictorial models and properties of operations",
+"type": "S"
+},
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication and division",
+"type": "S"
+},
+{
+"code": "4.3E",
+"text": "represent and solve addition and subtraction of fractions with equal denominators using objects and pictorial models that build to the number line and properties of operations",
+"type": "R"
+},
+{
+"code": "4.3F",
+"text": "evaluate the reasonableness of sums and differences of fractions using benchmark fractions 0, 1/4, 1/2, 3/4, 1",
+"type": "S"
+},
+{
+"code": "3.3D",
+"text": "compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of parts 1/b",
+"type": "S"
+},
+{
+"code": "3.3C",
+"text": "explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Estimation of Whole Numbers",
+"ses": [
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication, or division",
+"type": "S"
+},
+{
+"code": "5.2C",
+"text": "round decimals to tenths or hundredths",
+"type": "S"
+},
+{
+"code": "4.4G",
+"text": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"type": "S"
+},
+{
+"code": "4.2D",
+"text": "round whole numbers to a given place value through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "3.4B",
+"text": "round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems",
+"type": "S"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"type": "S"
+},
+{
+"code": "2.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "1.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "K.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+}
+],
+"src": 4
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Multiplication of Whole Numbers",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3B",
+"text": "multiply with fluency a three-digit number by a two-digit number using the standard algorithm",
+"type": "S"
+},
+{
+"code": "4.4H",
+"text": "solve with fluency one‐ and two‐step problems involving multiplication and division, including interpreting remainders",
+"type": "R"
+},
+{
+"code": "4.4D",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply up to a four-digit number by a one‐digit number and to multiply a two‐digit number by a two‐digit number. Strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "4.4C",
+"text": "represent the product of 2 two-digit numbers using arrays, area models, or equations, including perfect squares through 15 by 15",
+"type": "S"
+},
+{
+"code": "4.4B",
+"text": "determine products of a number and 10 or 100 using properties of operations and place value understandings",
+"type": "S"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.4G",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply a two‐digit number by a one‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "3.5C",
+"text": "describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24",
+"type": "S"
+},
+{
+"code": "3.5D",
+"text": "determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product",
+"type": "S"
+},
+{
+"code": "3.4F",
+"text": "recall facts to multiply up to 10 by 10 with automaticity and recall the corresponding division facts",
+"type": "S"
+},
+{
+"code": "3.6C",
+"text": "determine the area of rectangles with whole number sides lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"type": "R"
+},
+{
+"code": "3.4E",
+"text": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"type": "S"
+},
+{
+"code": "3.4D",
+"text": "determine the total number of objects when equally sized groups of objects are combined or arranged in arrays up to 10 by 10",
+"type": "S"
+},
+{
+"code": "2.6A",
+"text": "model, create, and describe contextual multiplication situations in which equivalent sets of concrete objects are joined",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Division of Whole Numbers",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3C",
+"text": "solve with proficiency for quotients of up to a four-digit by two-digit divisor using strategies and the standard algorithm",
+"type": "S"
+},
+{
+"code": "4.4H",
+"text": "solve with fluency one‐ and two‐step problems involving multiplication and division, including interpreting remainders",
+"type": "R"
+},
+{
+"code": "4.4F",
+"text": "use strategies and algorithms, including the standard algorithm, to divide jump to a four-digit dividend by a one-digit divisor",
+"type": "S"
+},
+{
+"code": "4.4E",
+"text": "represent the quotient of up to four-digit whole number divided by a one-digit whole number using arrays, area models, and equations",
+"type": "S"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.5D",
+"text": "determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product",
+"type": "S"
+},
+{
+"code": "3.4J",
+"text": "determine a quotient using the relationship between multiplication and division",
+"type": "S"
+},
+{
+"code": "3.4I",
+"text": "determine if a number is even or odd using divisibility rules",
+"type": "S"
+},
+{
+"code": "3.4H",
+"text": "determine the number of objects in each group when set of objects is partitioned into equal shares or a set of objects is shared equally",
+"type": "S"
+},
+{
+"code": "2.7A",
+"text": "determine whether a number up to 40 is even or odd using pairings of objects to represent the number",
+"type": "S"
+},
+{
+"code": "2.6B",
+"text": "model, create, and describe contextual division situations in which equivalent sets of objects are joined",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Numerical Patterns",
+"ses": [
+{
+"code": "6.4A",
+"text": "compare two rules verbally, graphically, and symbolically in the form of y = ax or y = x + b in order to differentiate between additive and multiplicative relationships",
+"type": "S"
+},
+{
+"code": "6.6C",
+"text": "represent a given situation using verbal descriptions, tables, graphs, and equations in the form y = kx or y = x + b",
+"type": "S"
+},
+{
+"code": "5.4D",
+"text": "recognize the difference between additive and multiplicative numerical patterns given in a table or graph",
+"type": "S"
+},
+{
+"code": "5.4C",
+"text": "generate a numerical pattern when given a rule in the form y = ax or y = x + a and graph",
+"type": "R"
+},
+{
+"code": "4.5B",
+"text": "represent problems using an input‐output table and numerical expressions to generate a number pattern that follows a given rule representing the relationship of the values in the resulting sequence and their position in the sequence",
+"type": "R"
+},
+{
+"code": "3.5E",
+"text": "represent real‐world relationships using number pairs in a table and verbal descriptions",
+"type": "R"
+}
+],
+"src": 4
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "All Operations of Whole Numbers",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "5.4B",
+"text": "represent and solve multi-step problems involving the four operations with whole numbers using equations with a letter standing for the unknown quantity",
+"type": "R"
+},
+{
+"code": "4.5A",
+"text": "represent multi-step problems involving the four operations with whole numbers using strip diagrams and equations with a letter standing for the unknown quantity",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.5A",
+"text": "represent one‐ and two‐step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations",
+"type": "R"
+}
+],
+"src": 4
+},
+{
+"cluster": "Geometry",
+"sub": "Two-Dimensional",
+"ses": [
+{
+"code": "5.5A",
+"text": "classify two-dimensional figures in a hierarchy of sets and subsets using graphic organizers based on their attributes and properties",
+"type": "R"
+},
+{
+"code": "4.6D",
+"text": "classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size",
+"type": "R"
+},
+{
+"code": "4.6C",
+"text": "apply knowledge of right angles to identify acute, right, and obtuse triangles",
+"type": "S"
+},
+{
+"code": "4.6B",
+"text": "identify and draw one or more lines of symmetry, if they exist, for a two-dimensional figure",
+"type": "S"
+},
+{
+"code": "4.6A",
+"text": "identify points, lines, line segments, rays, angles, and perpendicular and parallel lines",
+"type": "S"
+},
+{
+"code": "3.6A",
+"text": "classify and sort two‐ and three‐dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "3.6B",
+"text": "use attributes to recognize rhombuses, parallelograms, trapezoids, rectangles, and squares as examples of quadrilaterals and draw examples of quadrilaterals that do not belong to any of these subcategories",
+"type": "S"
+},
+{
+"code": "2.8D",
+"text": "compose two-dimensional shapes and three-dimensional solids with given properties or attributes",
+"type": "S"
+},
+{
+"code": "2.8C",
+"text": "classify and sort polygons with 12 or fewer sides according to attributes, including identifying the number of sides and number of vertices",
+"type": "R"
+},
+{
+"code": "2.8A",
+"text": "create two-dimensional shapes based on given attributes, including number of sides and vertices",
+"type": "S"
+},
+{
+"code": "1.6A",
+"text": "classify and sort regular and irregular two‐dimensional shapes based on attributes using informal geometric language",
+"type": "R"
+},
+{
+"code": "1.6D",
+"text": "identify two‐dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles, rhombuses, and hexagons, and describe their attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "1.6C",
+"text": "create two-dimensional figures, including circles, triangles, rectangles, and squares as special rectangles, rhombuses, and hexagons",
+"type": "S"
+},
+{
+"code": "1.6B",
+"text": "distinguish between attributes that define a two‐dimensional or three‐dimensional figure and attributes that do not define the shape",
+"type": "S"
+},
+{
+"code": "K.6E",
+"text": "classify and sort a variety of regular and irregular two- and three‐dimensional figures regardless of orientation or size",
+"type": "R"
+},
+{
+"code": "K.6F",
+"text": "create two-dimensional shapes using a variety of materials and drawings",
+"type": "S"
+},
+{
+"code": "K.6A",
+"text": "identify two‐dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles",
+"type": "S"
+},
+{
+"code": "K.6D",
+"text": "identify attributes of two‐dimensional shapes using informal and formal geometric language interchangeable",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Geometry",
+"sub": "Angle Measurements",
+"ses": [
+{
+"code": "4.7E",
+"text": "determine the measure of an unknown angle formed by two non-overlapping adjacent angles given one or both angle measures",
+"type": "S"
+},
+{
+"code": "4.7D",
+"text": "draw an angle with a given measure",
+"type": "S"
+},
+{
+"code": "4.7C",
+"text": "determine the approximate measures of angles in degrees to the nearest whole number using a protractor",
+"type": "R"
+},
+{
+"code": "4.7B",
+"text": "illustrate degrees as the units used to measure an angle, where 1/360 of any circle is 1 degree and an angle that “cuts” n/360 out of any circle whose center is at the angle’s vertex has a measure of n degrees; angle measures are limited to whole numbers",
+"type": "U"
+},
+{
+"code": "4.7A",
+"text": "illustrate the measure of an angle as the part of a circle whose center is at the vertex of the angle that is “cut out” by the rays of the angle; angle measures are limited to whole numbers",
+"type": "U"
+}
+],
+"src": 4
+},
+{
+"cluster": "Measurement",
+"sub": "Perimeter/Area",
+"ses": [
+{
+"code": "5.4H",
+"text": "represent and solve problems related to perimeter and/or area and related to volume",
+"type": "R"
+},
+{
+"code": "4.5D",
+"text": "solve problems related to perimeter and area of rectangles where dimensions are whole numbers",
+"type": "R"
+},
+{
+"code": "4.5C",
+"text": "use models to determine the formulas for the perimeter of a rectangle (l+w+l+w or 2l+2w), including the special form for perimeter of a square (4s) and the area of a rectangle (lxw)",
+"type": "U"
+},
+{
+"code": "3.7B",
+"text": "determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems",
+"type": "R"
+},
+{
+"code": "3.6C",
+"text": "determine the area of rectangles with whole number side lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"type": "R"
+},
+{
+"code": "3.4E",
+"text": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"type": "S"
+},
+{
+"code": "3.6D",
+"text": "decompose composite figures formed by rectangles into non‐overlapping rectangles to determine the area of the original figure using the additive property of area",
+"type": "S"
+},
+{
+"code": "2.9F",
+"text": "use concrete models of square units to find the area of a rectangle by covering it with no gaps or overlaps, counting to find the total number of square units, and describing the measurement using a number and the unit",
+"type": "S"
+},
+{
+"code": "2.9E",
+"text": "determine a solution to a problem involving length, including estimating lengths",
+"type": "R"
+},
+{
+"code": "2.9D",
+"text": "determine the length of an object to the nearest marked unit using rulers, yardsticks, meter sticks, or measuring tapes",
+"type": "S"
+},
+{
+"code": "2.9A",
+"text": "find the length of objects using concrete models for standard units of length",
+"type": "S"
+},
+{
+"code": "1.7D",
+"text": "describe a length to the nearest whole unit using a number and a unit",
+"type": "R"
+},
+{
+"code": "1.7C",
+"text": "measure the same object/distance with units of two different lengths and describe how and why the measurement differ",
+"type": "S"
+},
+{
+"code": "1.7B",
+"text": "illustrate that the length of an object is the number of same-size units of length that, when laid end-to-end with no gaps or overlaps, reach from one end of the object to the other",
+"type": "S"
+},
+{
+"code": "1.7A",
+"text": "use measuring tools to measure the length of objects to reinforce the continuous nature of linear measurement",
+"type": "S"
+},
+{
+"code": "1.6F",
+"text": "compose two‐dimensional shapes by joining two, three, or four figures to produce a target shape in more than one way if possible",
+"type": "S"
+},
+{
+"code": "K.7B",
+"text": "compare two objects with a common measurable attribute to see which object has more of/less of the attribute and describe the difference",
+"type": "R"
+},
+{
+"code": "K.7A",
+"text": "give an example of a measurable attribute of a given object, including length, capacity, and weight",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Measurement",
+"sub": "Related Measurement Concepts",
+"ses": [
+{
+"code": "4.8C",
+"text": "solve problems that deal with measurements of length, intervals of time, liquid volumes, mass, and money using addition, subtraction, multiplication, or division as appropriate",
+"type": "R"
+},
+{
+"code": "3.7E",
+"text": "determine liquid volume (capacity) or weight using appropriate units and tools",
+"type": "S"
+},
+{
+"code": "3.7D",
+"text": "determine when it is appropriate to use measurements of liquid volume (capacity) or weight",
+"type": "S"
+},
+{
+"code": "3.7C",
+"text": "determine the solutions to problems involving addition and subtraction of time intervals in minutes using pictorial models or tools such as a 15‐minute event plus a 30‐minute event equals 45 minutes",
+"type": "S"
+},
+{
+"code": "3.4C",
+"text": "determine the value of a collection of coins and bills",
+"type": "S"
+},
+{
+"code": "2.9E",
+"text": "determine a solution to a problem involving length, including estimating lengths",
+"type": "R"
+},
+{
+"code": "2.9D",
+"text": "determine the length of an object to the nearest marked unit using rulers, yardsticks, meter sticks, or measuring tapes",
+"type": "S"
+},
+{
+"code": "2.9A",
+"text": "find the length of objects using concrete models for standard units of length",
+"type": "S"
+},
+{
+"code": "2.9G",
+"text": "read and write time to the nearest one‐minute increment using analog and digital clocks and distinguish between a.m. and p.m.",
+"type": "R"
+},
+{
+"code": "2.5A",
+"text": "determine the value of a collection of coins up to one dollar",
+"type": "R"
+},
+{
+"code": "1.7D",
+"text": "describe a length to the nearest whole unit using a number and a unit",
+"type": "R"
+},
+{
+"code": "1.7C",
+"text": "measure the same object/distance with units of two different lengths and describe how and why the measurement differ",
+"type": "S"
+},
+{
+"code": "1.7B",
+"text": "illustrate that the length of an object is the number of same-size units of length that, when laid end-to-end with no gaps or overlaps, reach from one end of the object to the other",
+"type": "S"
+},
+{
+"code": "1.7A",
+"text": "use measuring tools to measure the length of objects to reinforce the continuous nature of linear measurement",
+"type": "S"
+},
+{
+"code": "1.7E",
+"text": "tell time to the hour and half hour using analog and digital clocks",
+"type": "R"
+},
+{
+"code": "1.4C",
+"text": "use relationships to count by twos, fives, and tens to determine the value of a collection of pennies, nickels, and/or dimes",
+"type": "R"
+},
+{
+"code": "K.7B",
+"text": "compare two objects with a common measurable attribute to see which object has more of/less of the attribute and describe the difference",
+"type": "R"
+},
+{
+"code": "K.7A",
+"text": "give an example of a measurable attribute of a given object, including length, capacity, and weight",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Measurement",
+"sub": "Conversions",
+"ses": [
+{
+"code": "6.4H",
+"text": "convert units within a measurement system, including the use of proportions and unit rates",
+"type": "R"
+},
+{
+"code": "5.7A",
+"text": "solve problems by calculating conversions within a measurement system, customary or metric",
+"type": "S"
+},
+{
+"code": "4.8B",
+"text": "convert measurements within the same measurement system, customary or metric, from a smaller unit into a larger unit or a larger unit into a smaller unit when given other equivalent measures represented in a table",
+"type": "S"
+},
+{
+"code": "4.8A",
+"text": "identify relative sizes of measurement units within the customary and metric system",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Data Analysis",
+"sub": "Representation of Data",
+"ses": [
+{
+"code": "6.12A",
+"text": "represent numeric data graphically, including dot plots, stem-and-leaf plots, histograms and box plots",
+"type": "S"
+},
+{
+"code": "5.9B",
+"text": "represent discrete paired data on a scatterplot",
+"type": "S"
+},
+{
+"code": "5.9A",
+"text": "represent categorical data with bar graphs or frequency tables and numerical data, including data sets of measurements in fractions or decimals, with dot plots or stem-and-leaf plots",
+"type": "S"
+},
+{
+"code": "4.9A",
+"text": "represent data on a frequency table, dot plot, or stem-and-leaf plot marked with whole numbers and fractions",
+"type": "R"
+},
+{
+"code": "3.8A",
+"text": "summarize a data set with multiple categories using frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"type": "R"
+},
+{
+"code": "2.10A",
+"text": "explain that the length of a bar in a bar graph or the number of pictures in a pictograph represents the number of data points for a given category",
+"type": "S"
+},
+{
+"code": "2.10B",
+"text": "organize a collection of data with up to four categories using pictographs and bar graphs with intervals of one or more",
+"type": "S"
+},
+{
+"code": "1.8B",
+"text": "use data to create picture and bar-type graphs",
+"type": "S"
+},
+{
+"code": "1.8A",
+"text": "collect, sort, and organize data in up to three categories using models/representations such as tally marks or T-charts",
+"type": "S"
+},
+{
+"code": "K.8B",
+"text": "use data to create real-object and picture graphs",
+"type": "R"
+},
+{
+"code": "K.8A",
+"text": "collect, sort, and organize data into two or three categories",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Data Analysis",
+"sub": "Interpretation of Data",
+"ses": [
+{
+"code": "6.13A",
+"text": "interpret numeric data summarized in dot plots, stem‐and‐leaf plots, histograms, and box plots",
+"type": "R"
+},
+{
+"code": "5.9C",
+"text": "solve one‐ and two‐step problems using data from a frequency table, dot plot, bar graph, stem‐and‐leaf plot, or scatterplot",
+"type": "R"
+},
+{
+"code": "4.9B",
+"text": "solve one‐ and two‐step problems using data in whole number, decimal, and fraction form in a frequency table, dot plot, or stem‐and‐leaf plot",
+"type": "S"
+},
+{
+"code": "3.8B",
+"text": "solve one‐ and two‐step problems using categorical data represented with a frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"type": "S"
+},
+{
+"code": "2.10D",
+"text": "draw conclusions and make predictions from information in a graph",
+"type": "S"
+},
+{
+"code": "2.10C",
+"text": "write and solve one‐step word problems involving addition or subtraction using data represented within pictographs and bar graphs with intervals of one",
+"type": "R"
+},
+{
+"code": "1.8C",
+"text": "draw conclusions and generate and answer questions using information from picture and bar‐type graphs",
+"type": "R"
+},
+{
+"code": "K.8C",
+"text": "draw conclusions from real‐object and picture graphs",
+"type": "R"
+}
+],
+"src": 4
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Budgets",
+"ses": [
+{
+"code": "5.10E",
+"text": "describe actions that might be taken to balance a budget when expenses exceed income",
+"type": "S"
+},
+{
+"code": "5.10F",
+"text": "balance a simple budget",
+"type": "S"
+},
+{
+"code": "5.10D",
+"text": "develop a system for keeping and using financial records",
+"type": "U"
+},
+{
+"code": "5.10C",
+"text": "identify the advantages and disadvantages of different methods of payment, including check, credit card, debit card, and electronic payments",
+"type": "U"
+},
+{
+"code": "4.10C",
+"text": "compare the advantages and disadvantages of various savings options",
+"type": "U"
+},
+{
+"code": "4.10D",
+"text": "describe how to allocate weekly allowance among spending, saving, including for college; and sharing lending",
+"type": "U"
+},
+{
+"code": "4.10E",
+"text": "describe the basic purpose of financial institutions, including keeping money safe, borrowing money, and lending",
+"type": "S"
+},
+{
+"code": "4.10A",
+"text": "distinguish between fixed and variable expenses",
+"type": "S"
+},
+{
+"code": "3.9D",
+"text": "explain that credit is used when wants or needs exceed the ability to pay and that it is the borrower's responsibility to pay it back to the lender, usually with interest",
+"type": "S"
+},
+{
+"code": "3.9E",
+"text": "list reasons to save and explain the benefit of a savings plan, including for college",
+"type": "S"
+},
+{
+"code": "3.9F",
+"text": "identify decisions involving income, spending, saving credit and chartible giving",
+"type": "U"
+}
+],
+"src": 4
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Economics",
+"ses": [
+{
+"code": "4.10B",
+"text": "calculate profit in a given situation",
+"type": "S"
+},
+{
+"code": "3.9A",
+"text": "explain the connection between human capital/labor and income",
+"type": "S"
+},
+{
+"code": "3.9B",
+"text": "describe the relationship between the availability or scarcity of resources and how that impacts cost",
+"type": "S"
+},
+{
+"code": "2.11F",
+"text": "differentiate between producers and consumers and calculate the cost to produce a simple item",
+"type": "S"
+}
+],
+"src": 4
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Estimation of Whole Numbers",
+"ses": [
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication, or division",
+"type": "S"
+},
+{
+"code": "4.4G",
+"text": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"type": "S"
+},
+{
+"code": "4.2D",
+"text": "round whole numbers to a given place value through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "3.4B",
+"text": "round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems",
+"type": "S"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"type": "S"
+},
+{
+"code": "2.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "1.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "K.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+}
+],
+"src": 5
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Addition/Subtraction of Whole Numbers",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "4.4A",
+"text": "add and subtract whole numbers and decimals to the hundredths place using the standard algorithm",
+"type": "R"
+},
+{
+"code": "3.4A",
+"text": "solve with fluency one‐step and two‐step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+"type": "R"
+},
+{
+"code": "3.5A",
+"text": "represent one‐ and two‐step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations",
+"type": "R"
+},
+{
+"code": "2.4D",
+"text": "generate and solve problem situations for a given mathematical number sentence involving addition and subtraction of whole numbers within 1,000",
+"type": "R"
+},
+{
+"code": "2.4C",
+"text": "solve one‐step and multi‐step word problems involving addition and subtraction within 1,000 using a variety of strategies based on place value, including algorithms",
+"type": "R"
+},
+{
+"code": "2.7C",
+"text": "represent and solve addition and subtraction word problems where unknowns may be any one of the terms in the problem",
+"type": "S"
+},
+{
+"code": "2.4B",
+"text": "add up to four two-digit numbers and subtract two-digit numbers using mental strategies and algorithms based o knowledge of place value and properties of operations",
+"type": "S"
+},
+{
+"code": "2.4A",
+"text": "recall basic facts to add and subtract within 20 with automaticity",
+"type": "S"
+},
+{
+"code": "1.3F",
+"text": "generate and solve problem situations when given a number sentence involving addition or subtraction of numbers within 20",
+"type": "R"
+},
+{
+"code": "1.5D",
+"text": "represent word problems involving addition and subtraction of whole numbers up to 20 using concrete and pictorial models and number sentences",
+"type": "R"
+},
+{
+"code": "1.3B",
+"text": "use objects and pictorial models to solve word problems involving joining, separating, and comparing sets within 20 and unknowns as any one of the terms in the problem such as 2 + 4 = ___; 3 + ___ = 7; and 5 = ___ - 3",
+"type": "S"
+},
+{
+"code": "1.5F",
+"text": "determine the unknown whole number in an addition or subtraction equation when the unknown may be any one of the three of four terms in the equation",
+"type": "S"
+},
+{
+"code": "1.5E",
+"text": "understand that the equal sign represents a relationship where expressions on each side of the equal sign represent the same value(s)",
+"type": "S"
+},
+{
+"code": "1.5G",
+"text": "apply properties of operations to add and subtract two and three numbers",
+"type": "R"
+},
+{
+"code": "1.3A",
+"text": "use concrete and pictorial models to determine the sum of a multiple of ten and a one digit number in problems up to 99",
+"type": "S"
+},
+{
+"code": "1.3E",
+"text": "explain strategies used to solve addition and subtraction problems up to 20 using spoken words, objects, pictorial models, and number sentences",
+"type": "S"
+},
+{
+"code": "1.3D",
+"text": "apply basic fact strategies to add and subtract within 20, including making 10 and decomposing a number leading to a 10",
+"type": "S"
+},
+{
+"code": "1.3C",
+"text": "compose 10 with two or more addends with and without concrete objects",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+},
+{
+"code": "K.3B",
+"text": "solve word problems using objects and drawings to find sums up to 10 and differences within 10",
+"type": "R"
+},
+{
+"code": "K.3C",
+"text": "explain the strategies used to solve problems involving adding and subtracting within 10 using spoken words, concrete and pictorial models, and number sentences",
+"type": "S"
+},
+{
+"code": "K.3A",
+"text": "model the action of joining to represent addition and the action of separating to represent subtraction",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Multiplication/Division of Whole Numbers",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3C",
+"text": "solve with proficiency for quotients of up to a four-digit by two-digit divisor using strategies and the standard algorithm",
+"type": "S"
+},
+{
+"code": "5.3B",
+"text": "multiply with fluency a three-digit number by a two-digit number using the standard algorithm",
+"type": "S"
+},
+{
+"code": "4.4H",
+"text": "solve with fluency one‐ and two‐step problems involving multiplication and division, including interpreting remainders",
+"type": "R"
+},
+{
+"code": "4.4F",
+"text": "use strategies and algorithms, including the standard algorithm, to divide up to a four-digit dividend by a one-digit divisor",
+"type": "S"
+},
+{
+"code": "4.4E",
+"text": "represent the quotient of up to four-digit whole number divided by a one-digit whole number using arrays, area models, and equations",
+"type": "S"
+},
+{
+"code": "4.4D",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply up to a four-digit number by a one‐digit number and to multiply a two‐digit number by a two‐digit number. Strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "4.4C",
+"text": "represent the product of 2 two-digit numbers using arrays, area models, or equations, including perfect squares through 15 by 15",
+"type": "S"
+},
+{
+"code": "4.4B",
+"text": "determine products of a number and 10 or 100 using properties of operations and place value understandings",
+"type": "S"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.4J",
+"text": "determine a quotient using the relationship between multiplication and division",
+"type": "S"
+},
+{
+"code": "3.4I",
+"text": "determine if a number is even or odd using divisibility rules",
+"type": "S"
+},
+{
+"code": "3.4H",
+"text": "determine the number of objects in each group when set of objects is partitioned into equal shares or a set of objects is shared equally",
+"type": "S"
+},
+{
+"code": "3.4G",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply a two‐digit number by a one‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "3.5C",
+"text": "describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24",
+"type": "S"
+},
+{
+"code": "3.5D",
+"text": "determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product",
+"type": "S"
+},
+{
+"code": "3.4F",
+"text": "recall facts to multiply up to 10 by 10 with automaticity and recall the corresponding division facts",
+"type": "S"
+},
+{
+"code": "3.6C",
+"text": "determine the area of rectangles with whole number sides lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"type": "R"
+},
+{
+"code": "3.4E",
+"text": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"type": "S"
+},
+{
+"code": "3.4D",
+"text": "determine the total number of objects when equally sized groups of objects are combined or arranged in arrays up to 10 by 10",
+"type": "S"
+},
+{
+"code": "2.7A",
+"text": "determine whether a number up to 40 is even or odd using pairings of objects to represent the number",
+"type": "S"
+},
+{
+"code": "2.6B",
+"text": "model, create, and describe contextual division situations in which equivalent sets of objects are joined",
+"type": "S"
+},
+{
+"code": "2.6A",
+"text": "model, create, and describe contextual multiplication situations in which equivalent sets of concrete objects are joined",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "Numerical Expressions",
+"ses": [
+{
+"code": "6.7A",
+"text": "generate equivalent numerical expressions using order of operations, including whole number exponents, and prime factorization",
+"type": "R"
+},
+{
+"code": "5.4F",
+"text": "simplify numerical expressions that do not involve exponents, including up to two levels of grouping",
+"type": "R"
+},
+{
+"code": "5.4E",
+"text": "describe the meaning of parentheses and brackets in a numeric expression",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Whole Number Operations",
+"sub": "All Operations of Whole Numbers",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3D",
+"text": "add, subtract, multiply, and divide integers fluently",
+"type": "R"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.4B",
+"text": "represent and solve multi-step problems involving the four operations with whole numbers using equations with a letter standing for the unknown quantity",
+"type": "R"
+},
+{
+"code": "4.5A",
+"text": "represent multi-step problems involving the four operations with whole numbers using strip diagrams and equations with a letter standing for the unknown quantity",
+"type": "R"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.4A",
+"text": "solve with fluency one‐step and two‐step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+"type": "R"
+},
+{
+"code": "3.5A",
+"text": "represent one‐ and two‐step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations",
+"type": "R"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Representation of Decimals",
+"ses": [
+{
+"code": "5.2A",
+"text": "represent the value of digit in decimals through the thousandths using expanded notation and numerals",
+"type": "S"
+},
+{
+"code": "4.2B",
+"text": "represent the value of the digit in whole numbers through 1,000,000,000 and decimals to the hundredths using expanded notation and numerals",
+"type": "R"
+},
+{
+"code": "3.2A",
+"text": "compose and decompose numbers up to 100,000 as a sum of so many ten thousands, so many thousands, so many hundreds, so many tens, and so many ones using objects, pictorial models, and numbers, including expanded notation as appropriate",
+"type": "R"
+},
+{
+"code": "3.2B",
+"text": "describe the mathematical relationships found in the base-10 place value system through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "2.2B",
+"text": "use standard, word, and expanded forms to represent numbers up to 1,200",
+"type": "R"
+},
+{
+"code": "2.2A",
+"text": "use concrete and pictorial models to compose and decompose numbers up to 1,200 in more than one way as a sum of so many thousands, hundreds, tens, and ones",
+"type": "S"
+},
+{
+"code": "1.2C",
+"text": "use objects, pictures, and expanded and standard forms to represent numbers up to 120",
+"type": "R"
+},
+{
+"code": "1.2B",
+"text": "use concrete and pictorial models to compose and decompose numbers up to 120 in more than one way as so many hundreds, so many tens, and so many ones",
+"type": "S"
+},
+{
+"code": "K.2I",
+"text": "compose and decompose numbers up to 10 with objects and pictures",
+"type": "R"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Comparison of Decimals",
+"ses": [
+{
+"code": "8.2D",
+"text": "order a set of real numbers arising from mathematical and real-world context",
+"type": "R"
+},
+{
+"code": "6.2D",
+"text": "order a set of rational numbers arising from mathematical and real-world context",
+"type": "R"
+},
+{
+"code": "5.2B",
+"text": "compare and order two decimals to thousandths and represent comparisons using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "4.2C",
+"text": "compare and order whole numbers to 1,000,000,000 and represent comparisons using the symbols >, <, or =",
+"type": "S"
+},
+{
+"code": "4.2F",
+"text": "compare and order decimals using concrete and visual models to the hundredths",
+"type": "S"
+},
+{
+"code": "3.2D",
+"text": "compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "2.2D",
+"text": "use place value to compare and order whole numbers up to 1,200 using comparative language, numbers, and symbols (>, <, or =)",
+"type": "R"
+},
+{
+"code": "1.2G",
+"text": "represent the comparison of two numbers to 100 using the symbols >, <, or =",
+"type": "R"
+},
+{
+"code": "K.2H",
+"text": "use comparative language to describe two numbers up to 20 presented as written numerals",
+"type": "R"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Estimation of Decimals",
+"ses": [
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication, or division",
+"type": "S"
+},
+{
+"code": "5.2C",
+"text": "round decimals to tenths or hundredths",
+"type": "S"
+},
+{
+"code": "4.4G",
+"text": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"type": "S"
+},
+{
+"code": "4.2D",
+"text": "round whole numbers to a given place value through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "3.4B",
+"text": "round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems",
+"type": "S"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"type": "S"
+},
+{
+"code": "2.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "1.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "K.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Addition/Subtraction of Decimals",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3D",
+"text": "add, subtract, multiply, and divide integers fluently",
+"type": "R"
+},
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "4.4A",
+"text": "add and subtract whole numbers and decimals to the hundredths place value using the standard algorithm",
+"type": "R"
+},
+{
+"code": "3.4C",
+"text": "determine the value of a collection of coins and bills",
+"type": "S"
+},
+{
+"code": "2.5A",
+"text": "determine the value of a collection of coins up to one dollar",
+"type": "S"
+},
+{
+"code": "1.4C",
+"text": "use relationships to count by twos, fives, and tens to determine the value of a collection of pennies, nickels, and/or dimes",
+"type": "S"
+},
+{
+"code": "1.5B",
+"text": "skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set",
+"type": "S"
+},
+{
+"code": "1.4A",
+"text": "identify U.S. coins including pennies, nickels, dimes, and quarters by value and describe the relationships between them",
+"type": "S"
+},
+{
+"code": "K.4A",
+"text": "identify U.S. coins by name, including pennies, nickels, dimes, and quarters",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Multiplication of Decimals",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3E",
+"text": "solve for products of decimals to the hundredths, including situations involving money, using strategies based on place-value understandings, properties of operations, and the relationship to the multiplication of whole numbers",
+"type": "R"
+},
+{
+"code": "5.3D",
+"text": "represent multiplication of decimals with products to the hundredths using objects and pictorial models, including area models",
+"type": "S"
+},
+{
+"code": "4.4D",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply up to a four-digit number by a one‐digit number and to multiply a two‐digit number by a two‐digit number. Strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "4.4C",
+"text": "represent the product of 2 two-digit numbers using arrays, area models, or equations, including perfect squares through 15 by 15",
+"type": "S"
+},
+{
+"code": "4.4B",
+"text": "determine products of a number and 10 or 100 using properties of operations and place value understandings",
+"type": "S"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.4G",
+"text": "use strategies and algorithms, including the standard algorithm, to multiply a two‐digit number by a one‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"type": "S"
+},
+{
+"code": "3.5C",
+"text": "describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24",
+"type": "S"
+},
+{
+"code": "3.4E",
+"text": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"type": "S"
+},
+{
+"code": "3.4D",
+"text": "determine the total number of objects when equally sized groups of objects are combined or arranged in arrays up to 10 by 10",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Division of Decimals",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3G",
+"text": "solve for quotients of decimals to the hundredths, up to four-digit dividends and two-digit whole number divisions, using strategies and algorithms, including the standard algorithm",
+"type": "R"
+},
+{
+"code": "5.3F",
+"text": "represent quotients of decimals to the hundredths, up to four-digit dividends and two-digit whole number divisors, using objects and pictorial models, including area models",
+"type": "S"
+},
+{
+"code": "4.4E",
+"text": "represent the quotient of up to four-digit whole number divided by a one-digit whole number using arrays, area models, and equations",
+"type": "S"
+},
+{
+"code": "3.4K",
+"text": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"type": "R"
+},
+{
+"code": "3.5B",
+"text": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"type": "R"
+},
+{
+"code": "3.4J",
+"text": "determine a quotient using the relationship between multiplication and division",
+"type": "S"
+},
+{
+"code": "3.4H",
+"text": "determine the number of objects in each group when set of objects is partitioned into equal shares or a set of objects is shared equally",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Decimals",
+"sub": "Numerical Expressions",
+"ses": [
+{
+"code": "6.7A",
+"text": "generate equivalent numerical expressions using order of operations, including whole number exponents, and prime factorization",
+"type": "R"
+},
+{
+"code": "5.4F",
+"text": "simplify numerical expressions that do not involve exponents, including up to two levels of grouping",
+"type": "R"
+},
+{
+"code": "5.4E",
+"text": "describe the meaning of parentheses and brackets in a numeric expression",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Fractions",
+"sub": "Estimation of Fractions",
+"ses": [
+{
+"code": "5.3A",
+"text": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication, or division",
+"type": "S"
+},
+{
+"code": "4.3F",
+"text": "evaluate the reasonableness of sums and differences of fractions using benchmark fractions 0, 1/4, 1/2, 3/4, 1",
+"type": "S"
+},
+{
+"code": "4.4G",
+"text": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"type": "S"
+},
+{
+"code": "4.2D",
+"text": "round whole numbers to a given place value through the hundred thousands place",
+"type": "S"
+},
+{
+"code": "3.2C",
+"text": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"type": "S"
+},
+{
+"code": "2.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "1.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+},
+{
+"code": "K.1C",
+"text": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems",
+"type": "P"
+}
+],
+"src": 5
+},
+{
+"cluster": "Fractions",
+"sub": "Addition/Subtraction of Fractions",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3D",
+"text": "add, subtract, multiply, and divide integers fluently",
+"type": "R"
+},
+{
+"code": "5.3K",
+"text": "add and subtract positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "5.3H",
+"text": "represent and solve addition and subtraction of fractions with unequal denominators referring to the same whole using objects and pictorial models and properties of operations",
+"type": "S"
+},
+{
+"code": "5.4A",
+"text": "identify prime and composite numbers",
+"type": "S"
+},
+{
+"code": "4.3C",
+"text": "determine if two given fractions are equivalent using a variety of methods",
+"type": "S"
+},
+{
+"code": "4.3E",
+"text": "represent and solve addition and subtraction of fractions with equal denominators using objects and pictorial models that build to the number line and properties of operations",
+"type": "R"
+},
+{
+"code": "4.3F",
+"text": "evaluate the reasonableness of sums and differences of fractions using benchmark fractions 0, 1/4, 1/2, 3/4, 1",
+"type": "S"
+},
+{
+"code": "4.3B",
+"text": "decompose a fraction in more than one way into a sum of fractions with the same denominator using concrete and pictorial models and recording results with symbolic representations",
+"type": "S"
+},
+{
+"code": "4.3A",
+"text": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers and b > 0, including when a > b",
+"type": "S"
+},
+{
+"code": "3.3D",
+"text": "compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of parts 1/b",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Fractions",
+"sub": "Multiplication of Fractions",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "6.3B",
+"text": "determine, with and without computation, whether a quantity is increased or decreased when multiplied by a fraction, including values greater than or less than one",
+"type": "S"
+},
+{
+"code": "5.3I",
+"text": "represent and solve multiplication of a whole number and a fraction that refers to the same whole using objects and pictorial models, including area models",
+"type": "S"
+},
+{
+"code": "4.3A",
+"text": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers ad b>0, including a>b",
+"type": "S"
+},
+{
+"code": "3.3D",
+"text": "compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of parts 1/b",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Fractions",
+"sub": "Division of Fractions",
+"ses": [
+{
+"code": "7.3B",
+"text": "apply and extend previous understanding of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+"type": "R"
+},
+{
+"code": "7.3A",
+"text": "add, subtract, multiply, and divide rational numbers fluently",
+"type": "S"
+},
+{
+"code": "6.3E",
+"text": "multiply and divide positive rational numbers fluently",
+"type": "R"
+},
+{
+"code": "6.3A",
+"text": "recognize that dividing by a rational number and multiplying by its reciprocal result in equivalent values",
+"type": "S"
+},
+{
+"code": "5.3L",
+"text": "divide whole numbers by unit fractions and unit fractions by whole numbers",
+"type": "S"
+},
+{
+"code": "5.3J",
+"text": "represent division of a unit fraction by a whole number and the division of a whole n umber by a unit fraction such as 1/3 ÷ 7 and 7 ÷ 1/3 using objects and pictorial models, including area models",
+"type": "S"
+},
+{
+"code": "4.3A",
+"text": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers ad b>0, including a>b",
+"type": "S"
+},
+{
+"code": "3.3C",
+"text": "explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Graphing on Coordinate Plane",
+"sub": "Coordinate Plane",
+"ses": [
+{
+"code": "6.11A",
+"text": "graph points in all four quadrants using ordered pairs of rational numbers",
+"type": "R"
+},
+{
+"code": "5.8C",
+"text": "graph in the first quadrant of the coordinate plane ordered pairs of numbers arising from mathematical and real‐world problems, including those generated by number patterns or found in an input‐output table",
+"type": "R"
+},
+{
+"code": "5.8B",
+"text": "describe the process for graphing ordered pairs of numbers in the first quadrant of the coordinate plane",
+"type": "S"
+},
+{
+"code": "5.8A",
+"text": "describe the key attributes of the coordinate plane, including perpendicular number lines (axes) where the intersection (origin) of the two lines coincides with zero on each number line and the given point (0, 0); the x‐coordinate, the first number in an ordered pair, indicates movement parallel to the x‐axis starting at the origin; and the y-coordinate, the second number, indicates movement parallel to the y‐axis starting at the origin",
+"type": "S"
+},
+{
+"code": "4.3G",
+"text": "represent fractions and decimals to the tenths or hundredths as distances from zero on a number line",
+"type": "S"
+},
+{
+"code": "3.7A",
+"text": "represent fractions of halves, fourths, and eighths as distances from zero on a number line",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Graphing on Coordinate Plane",
+"sub": "Graphing Numerical Patterns",
+"ses": [
+{
+"code": "6.4A",
+"text": "compare two rules verbally, graphically, and symbolically in the form of y = ax or y = x + b in order to differentiate between additive and multiplicative relationships",
+"type": "S"
+},
+{
+"code": "6.6C",
+"text": "represent a given situation using verbal descriptions, tables, graphs, and equations in the form y = kx or y = x + b",
+"type": "S"
+},
+{
+"code": "5.4D",
+"text": "recognize the difference between additive and multiplicative numerical patterns given in a table or graph",
+"type": "S"
+},
+{
+"code": "5.4C",
+"text": "generate a numerical pattern when given a rule in the form y = ax or y = x + a and graph",
+"type": "R"
+},
+{
+"code": "4.5B",
+"text": "represent problems using an input‐output table and numerical expressions to generate a number pattern that follows a given rule representing the relationship of the values in the resulting sequence and their position in the sequence",
+"type": "R"
+},
+{
+"code": "3.5E",
+"text": "represent real‐world relationships using number pairs in a table and verbal descriptions",
+"type": "R"
+}
+],
+"src": 5
+},
+{
+"cluster": "Geometry and Measurement",
+"sub": "Two-Dimensional",
+"ses": [
+{
+"code": "5.5A",
+"text": "classify two-dimensional figures in a hierarchy of sets and subsets using graphic organizers based on their attributes and properties",
+"type": "R"
+},
+{
+"code": "4.6D",
+"text": "classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size",
+"type": "R"
+},
+{
+"code": "4.6C",
+"text": "apply knowledge of right angles to identify acute, right, and obtuse triangles",
+"type": "S"
+},
+{
+"code": "4.6B",
+"text": "identify and draw one or more lines of symmetry, if they exist, for a two-dimensional figure",
+"type": "S"
+},
+{
+"code": "4.6A",
+"text": "identify points, lines, line segments, rays, angles, and perpendicular and parallel lines",
+"type": "S"
+},
+{
+"code": "3.6B",
+"text": "use attributes to recognize rhombuses, parallelograms, trapezoids, rectangles, and squares as examples of quadrilaterals and draw examples of quadrilaterals that do not belong to any of these subcategories",
+"type": "S"
+},
+{
+"code": "3.6A",
+"text": "classify and sort two‐ and three‐dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "2.8D",
+"text": "compose two-dimensional shapes and three-dimensional solids with given properties or attributes",
+"type": "S"
+},
+{
+"code": "2.8C",
+"text": "classify and sort polygons with 12 or fewer sides according to attributes, including identifying the number of sides and number of vertices",
+"type": "R"
+},
+{
+"code": "2.8A",
+"text": "create two-dimensional shapes based on given attributes, including number of sides and vertices",
+"type": "S"
+},
+{
+"code": "1.6A",
+"text": "classify and sort regular and irregular two‐dimensional shapes based on attributes using informal geometric language",
+"type": "R"
+},
+{
+"code": "1.6D",
+"text": "identify two‐dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles, rhombuses, and hexagons, and describe their attributes using formal geometric language",
+"type": "R"
+},
+{
+"code": "1.6C",
+"text": "create two-dimensional figures, including circles, triangles, rectangles, and squares as special rectangles, rhombuses, and hexagons",
+"type": "S"
+},
+{
+"code": "1.6B",
+"text": "distinguish between attributes that define a two‐dimensional or three‐dimensional figure and attributes that do not define the shape",
+"type": "S"
+},
+{
+"code": "K.6E",
+"text": "classify and sort a variety of regular and irregular two- and three‐dimensional figures regardless of orientation or size",
+"type": "R"
+},
+{
+"code": "K.6F",
+"text": "create two-dimensional shapes using a variety of materials and drawings",
+"type": "S"
+},
+{
+"code": "K.6A",
+"text": "identify two‐dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles",
+"type": "S"
+},
+{
+"code": "K.6D",
+"text": "identify attributes of two‐dimensional shapes using informal and formal geometric language interchangeable",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Geometry and Measurement",
+"sub": "Perimeter/Area/Volume",
+"ses": [
+{
+"code": "6.8D",
+"text": "determine solutions for problems involving the area of rectangles, parallelograms, trapezoids, and triangles and volume of right rectangular prisms where dimensions are positive rational numbers",
+"type": "R"
+},
+{
+"code": "6.8C",
+"text": "write equations that represent problems related to the area of rectangles, parallelograms, trapezoids, and triangles and volume of right rectangular prisms where dimensions are positive rational numbers",
+"type": "S"
+},
+{
+"code": "5.4H",
+"text": "represent and solve problems related to perimeter and/or area and related to volume",
+"type": "R"
+},
+{
+"code": "5.4G",
+"text": "use concrete objects and pictorial models to develop the formulas for the volume of a rectangular prism, including the special form for a cube (V = l x w x h, V = s x s x s, and V = Bh)",
+"type": "U"
+},
+{
+"code": "5.6B",
+"text": "determine the volume of a rectangular prism with whole number side lengths in problems related to the number of layers times the number of unit cubes in the area of the base",
+"type": "S"
+},
+{
+"code": "5.6A",
+"text": "recognize a cube with side length of one unit as a unit cube having one cubic unit of volume and the volume of a three‐dimensional figure as the number of unit cubes (n cubic units) needed to fill it with no gaps or overlaps if possible",
+"type": "S"
+},
+{
+"code": "4.5D",
+"text": "solve problems related to perimeter and area of rectangles where dimensions are whole numbers",
+"type": "R"
+},
+{
+"code": "4.5C",
+"text": "use models to determine the formulas for the perimeter of a rectangle (l+w+l+w or 2l+2w), including the special form for perimeter of a square (4s) and the area of a rectangle (l x w)",
+"type": "U"
+},
+{
+"code": "3.7B",
+"text": "determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems",
+"type": "R"
+},
+{
+"code": "3.6C",
+"text": "determine the area of rectangles with whole number side lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"type": "R"
+},
+{
+"code": "3.4E",
+"text": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"type": "S"
+},
+{
+"code": "3.6D",
+"text": "decompose composite figures formed by rectangles into non‐overlapping rectangles to determine the area of the original figure using the additive property of area",
+"type": "S"
+},
+{
+"code": "2.9F",
+"text": "use concrete models of square units to find the area of a rectangle by covering it with no gaps or overlaps, counting to find the total number of square units, and describing the measurement using a number and the unit",
+"type": "S"
+},
+{
+"code": "2.9E",
+"text": "determine a solution to a problem involving length, including estimating lengths",
+"type": "R"
+},
+{
+"code": "2.9D",
+"text": "determine the length of an object to the nearest marked unit using rulers, yardsticks, meter sticks, or measuring tapes",
+"type": "S"
+},
+{
+"code": "2.9A",
+"text": "find the length of objects using concrete models for standard units of length",
+"type": "S"
+},
+{
+"code": "1.7D",
+"text": "describe a length to the nearest whole unit using a number and a unit",
+"type": "R"
+},
+{
+"code": "1.7C",
+"text": "measure the same object/distance with units of two different lengths and describe how and why the measurement differ",
+"type": "S"
+},
+{
+"code": "1.7B",
+"text": "illustrate that the length of an object is the number of same-size units of length that, when laid end-to-end with no gaps or overlaps, reach from one end of the object to the other",
+"type": "S"
+},
+{
+"code": "1.7A",
+"text": "use measuring tools to measure the length of objects to reinforce the continuous nature of linear measurement",
+"type": "S"
+},
+{
+"code": "1.6F",
+"text": "compose two‐dimensional shapes by joining two, three, or four figures to produce a target shape in more than one way if possible",
+"type": "S"
+},
+{
+"code": "K.7B",
+"text": "compare two objects with a common measurable attribute to see which object has more of/less of the attribute and describe the difference",
+"type": "R"
+},
+{
+"code": "K.7A",
+"text": "give an example of a measurable attribute of a given object, including length, capacity, and weight",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Geometry and Measurement",
+"sub": "Conversions",
+"ses": [
+{
+"code": "7.4E",
+"text": "convert between measurement systems, including the use of proportions and use of unit rates",
+"type": "S"
+},
+{
+"code": "6.4H",
+"text": "convert units within a measurement system, including the use of proportions and unit rates",
+"type": "R"
+},
+{
+"code": "5.7A",
+"text": "solve problems by calculating conversions within a measurement system, customary or metric",
+"type": "S"
+},
+{
+"code": "4.8B",
+"text": "convert measurements within the same measurement system, customary or metric, from a smaller unit into a larger unit or a larger unit into a smaller unit when given other equivalent measures represented in a table",
+"type": "S"
+},
+{
+"code": "4.8A",
+"text": "identify relative sizes of measurement units within the customary and metric system",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Data Analysis",
+"sub": "Representation of Data",
+"ses": [
+{
+"code": "6.12A",
+"text": "represent numeric data graphically, including dot plots, stem-and-leaf plots, histograms, and box plots",
+"type": "S"
+},
+{
+"code": "5.9B",
+"text": "represent discrete paired data on a scatterplot",
+"type": "S"
+},
+{
+"code": "5.9A",
+"text": "represent categorical data with bar graphs or frequency tables and numerical data, including data sets of measurements in fractions or decimals, with dot plots or stem-and-leaf plots",
+"type": "S"
+},
+{
+"code": "4.9A",
+"text": "represent data on a frequency table, dot plot, or stem-and-leaf plot marked with whole numbers and fractions",
+"type": "R"
+},
+{
+"code": "3.8A",
+"text": "summarize a data set with multiple categories using frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"type": "R"
+},
+{
+"code": "2.10A",
+"text": "explain that the length of a bar in a bar graph or the number of pictures in a pictograph represents the number of data points for a given category",
+"type": "S"
+},
+{
+"code": "2.10B",
+"text": "organize a collection of data with up to four categories using pictographs and bar graphs with intervals of one or more",
+"type": "S"
+},
+{
+"code": "1.8B",
+"text": "use data to create picture and bar-type graphs",
+"type": "S"
+},
+{
+"code": "1.8A",
+"text": "collect, sort, and organize data in up to three categories using models/representations such as tally marks or T-charts",
+"type": "S"
+},
+{
+"code": "K.8B",
+"text": "use data to create real-object and picture graphs",
+"type": "R"
+},
+{
+"code": "K.8A",
+"text": "collect, sort, and organize data into two or three categories",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Data Analysis",
+"sub": "Interpretation of Data",
+"ses": [
+{
+"code": "6.13A",
+"text": "interpret numeric data summarized in dot plots, stem‐and‐leaf plots, histograms, and box plots",
+"type": "R"
+},
+{
+"code": "5.9C",
+"text": "solve one‐ and two‐step problems using data from a frequency table, dot plot, bar graph, stem‐and‐leaf plot, or scatterplot",
+"type": "R"
+},
+{
+"code": "4.9B",
+"text": "solve one‐ and two‐step problems using data in whole number, decimal, and fraction form in a frequency table, dot plot, or stem‐and‐leaf plot",
+"type": "S"
+},
+{
+"code": "3.8B",
+"text": "solve one‐ and two‐step problems using categorical data represented with a frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"type": "S"
+},
+{
+"code": "2.10D",
+"text": "draw conclusions and make predictions from information in a graph",
+"type": "S"
+},
+{
+"code": "2.10C",
+"text": "write and solve one‐step word problems involving addition or subtraction using data represented within pictographs and bar graphs with intervals of one",
+"type": "R"
+},
+{
+"code": "1.8C",
+"text": "draw conclusions and generate and answer questions using information from picture and bar‐type graphs",
+"type": "R"
+},
+{
+"code": "K.8C",
+"text": "draw conclusions from real‐object and picture graphs",
+"type": "R"
+}
+],
+"src": 5
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Budgets",
+"ses": [
+{
+"code": "6.14C",
+"text": "balance a check register that includes deposits, withdrawals, and transfers",
+"type": "S"
+},
+{
+"code": "6.14B",
+"text": "distinguish between debit cards and credit cards",
+"type": "S"
+},
+{
+"code": "5.10E",
+"text": "describe actions that might be taken to balance a budget when expenses exceed income",
+"type": "S"
+},
+{
+"code": "5.10F",
+"text": "balance a simple budget",
+"type": "S"
+},
+{
+"code": "5.10D",
+"text": "develop a system for keeping and using financial records",
+"type": "U"
+},
+{
+"code": "5.10C",
+"text": "identify the advantages and disadvantages of different methods of payment, including check, credit card, debit card, and electronic payments",
+"type": "U"
+},
+{
+"code": "4.10C",
+"text": "compare the advantages and disadvantages of various savings options",
+"type": "U"
+},
+{
+"code": "4.10D",
+"text": "describe how to allocate weekly allowance among spending, saving, including for college; and sharing lending",
+"type": "U"
+},
+{
+"code": "4.10A",
+"text": "distinguish between fixed and variable expenses",
+"type": "S"
+}
+],
+"src": 5
+},
+{
+"cluster": "Personal Financial Literacy",
+"sub": "Taxes",
+"ses": [
+{
+"code": "5.10B",
+"text": "explain the difference between gross income and net income",
+"type": "S"
+},
+{
+"code": "5.10A",
+"text": "define income tax, sales tax, and property tax",
+"type": "S"
+}
+],
+"src": 5
+}
+],
+"TEKS": {
+"3.2A": "compose and decompose numbers up to 100,000 as a sum of so many ten thousands, so many thousands, so many hundreds, so many tens, and so many ones using objects, pictorial models, and numbers, including expanded notation as appropriate",
+"3.2B": "describe the mathematical relationships found in the base-10 place value system through the hundred thousands place",
+"3.2D": "compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or =",
+"3.2C": "represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers",
+"3.3E": "solve problems involving partitioning an object or a set of objects among two or more recipients using pictorial representations of fractions with denominators of 2, 3, 4, 6, and 8",
+"3.3B": "determine the corresponding fraction greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 given a specified point on a number line",
+"3.7A": "represent fractions of halves, fourths, and eighths as distances from zero on a number line",
+"3.3A": "represent fractions greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 using concrete objects and pictorial models, including strip diagrams and number lines",
+"3.6E": "decompose two congruent two-dimensional figures into parts with equal areas and express the area of each part as a unit fraction of the whole and recognize that equal share of identical wholes need not have the same shape",
+"3.3D": "compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of part 1/b",
+"3.3C": "explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number",
+"3.3G": "explain that two fractions are equivalent if and only if they are both represented by the same point on the number line or represent the same portion of a same size whole for an area model",
+"3.3F": "represent equivalent fractions with denominators of 2, 3, 4, 6, 8 using a variety of objects and pictorial models including number lines",
+"3.3H": "compare two fractions having the same numerator or denominator in problems by reasoning about their sizes and justifying the conclusion using symbols, words, objects, and pictorial models",
+"3.4B": "round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems",
+"3.4A": "solve with fluency one‐step and two‐step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+"3.5A": "represent one‐ and two‐step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations",
+"3.4C": "determine the value of a collection of coins and bills",
+"3.5E": "represent real‐world relationships using number pairs in a table and verbal descriptions",
+"3.4G": "use strategies and algorithms, including the standard algorithm, to multiply a two‐digit number by a one‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"3.5C": "describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24",
+"3.5D": "determine the unknown whole number in a multiplication or division equation relating three whole numbers when the unknown is either a missing factor or product",
+"3.4F": "recall facts to multiply up to 10 by 10 with automaticity and recall the corresponding division facts",
+"3.6C": "determine the area of rectangles with whole number side lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+"3.4E": "represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting",
+"3.4D": "determine the total number of objects when equally sized groups of objects are combined or arranged in arrays up to 10 by 10",
+"3.4J": "determine a quotient using the relationship between multiplication and division",
+"3.4I": "determine if a number is even or odd using divisibility rules",
+"3.4H": "determine the number of objects in each group when set of objects is partitioned into equal shares or a set of objects is shared equally",
+"3.4K": "solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+"3.5B": "represent and solve one‐ and two‐step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+"3.6A": "classify and sort two‐ and three‐dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language",
+"3.6B": "use attributes to recognize rhombuses, parallelograms, trapezoids, rectangles, and squares as examples of quadrilaterals and draw examples of quadrilaterals that do not belong to any of these subcategories",
+"3.6D": "decompose composite figures formed by rectangles into non‐overlapping rectangles to determine the area of the original figure using the additive property of area",
+"3.7B": "determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems",
+"3.7C": "determine the solutions to problems involving addition and subtraction of time intervals in minutes using pictorial models or tools such as a 15‐minute event plus a 30‐minute event equals 45 minutes",
+"3.7E": "determine liquid volume (capacity) or weight using appropriate units and tools",
+"3.7D": "determine when it is appropriate to use measurements of liquid volume (capacity) or weight",
+"3.8A": "summarize a data set with multiple categories using frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"3.8B": "solve one‐ and two‐step problems using categorical data represented with a frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+"3.9F": "identify decisions involving income, spending, saving credit and chartible giving",
+"3.9C": "identify the costs and benefits of planned and unplanned spending decisions",
+"3.9E": "list reasons to save and explain the benefit of a savings plan, including for college",
+"3.9D": "explain that credit is used when wants or needs exceed the ability to pay and that it is the borrower's responsibility to pay it back to the lender, usually with interest",
+"3.9A": "explain the connection between human capital/labor and income",
+"3.9B": "describe the relationship between the availability or scarcity of resources and how that impacts cost",
+"4.2H": "determine the corresponding decimal to the tenths or hundredths place of a specified point on a number line",
+"4.3G": "represent fractions and decimals to the tenths or hundredths as distances from zero on a number line",
+"4.2E": "represent decimals, including tenths and hundredths, using concrete and visual models and money",
+"4.2B": "represent the value of the digit in whole numbers through 1,000,000,000 and decimals to the hundredths using expanded notation and numerals",
+"4.2A": "interpret the value of each place-value position as 10 times the position to the right and as one-tenth of the value of the place to its left",
+"4.2C": "compare and order whole numbers to 1,000,000,000 and represent comparisons using the symbols >, <, or =",
+"4.2F": "compare and order decimals using concrete and visual models to the hundredths",
+"4.4A": "add and subtract whole numbers and decimals to the hundredths place value using the standard algorithm",
+"4.3B": "decompose a fraction in more than one way into a sum of fractions with the same denominator using concrete and pictorial models and recording results with symbolic representations",
+"4.3A": "represent a fraction a/b as a sum of fractions 1/b, where a and b are whole numbers and b > 0, including when a > b",
+"4.3C": "determine if two given fractions are equivalent using a variety of methods",
+"4.2G": "relate decimals to fractions that name tenths and hundredths",
+"4.3D": "compare two fractions with different numerators and different denominators and represent the comparison using the symbols >, =, <",
+"4.3E": "represent and solve addition and subtraction of fractions with equal denominators using objects and pictorial models that build to the number line and properties of operations",
+"4.3F": "evaluate the reasonableness of sums and differences of fractions using benchmark fractions 0, 1/4, 1/2, 3/4, 1",
+"4.4G": "round to the nearest 10, 100, or 1,000 or use compatible numbers to estimate solutions involving whole numbers",
+"4.2D": "round whole numbers to a given place value through the hundred thousands place",
+"4.4H": "solve with fluency one‐ and two‐step problems involving multiplication and division, including interpreting remainders",
+"4.4D": "use strategies and algorithms, including the standard algorithm, to multiply up to a four-digit number by a one‐digit number and to multiply a two‐digit number by a two‐digit number. Strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+"4.4C": "represent the product of 2 two-digit numbers using arrays, area models, or equations, including perfect squares through 15 by 15",
+"4.4B": "determine products of a number and 10 or 100 using properties of operations and place value understandings",
+"4.4F": "use strategies and algorithms, including the standard algorithm, to divide jump to a four-digit dividend by a one-digit divisor",
+"4.4E": "represent the quotient of up to four-digit whole number divided by a one-digit whole number using arrays, area models, and equations",
+"4.5B": "represent problems using an input‐output table and numerical expressions to generate a number pattern that follows a given rule representing the relationship of the values in the resulting sequence and their position in the sequence",
+"4.5A": "represent multi-step problems involving the four operations with whole numbers using strip diagrams and equations with a letter standing for the unknown quantity",
+"4.6D": "classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size",
+"4.6C": "apply knowledge of right angles to identify acute, right, and obtuse triangles",
+"4.6B": "identify and draw one or more lines of symmetry, if they exist, for a two-dimensional figure",
+"4.6A": "identify points, lines, line segments, rays, angles, and perpendicular and parallel lines",
+"4.7E": "determine the measure of an unknown angle formed by two non-overlapping adjacent angles given one or both angle measures",
+"4.7D": "draw an angle with a given measure",
+"4.7C": "determine the approximate measures of angles in degrees to the nearest whole number using a protractor",
+"4.7B": "illustrate degrees as the units used to measure an angle, where 1/360 of any circle is 1 degree and an angle that “cuts” n/360 out of any circle whose center is at the angle’s vertex has a measure of n degrees; angle measures are limited to whole numbers",
+"4.7A": "illustrate the measure of an angle as the part of a circle whose center is at the vertex of the angle that is “cut out” by the rays of the angle; angle measures are limited to whole numbers",
+"4.5D": "solve problems related to perimeter and area of rectangles where dimensions are whole numbers",
+"4.5C": "use models to determine the formulas for the perimeter of a rectangle (l+w+l+w or 2l+2w), including the special form for perimeter of a square (4s) and the area of a rectangle (lxw)",
+"4.8C": "solve problems that deal with measurements of length, intervals of time, liquid volumes, mass, and money using addition, subtraction, multiplication, or division as appropriate",
+"4.8B": "convert measurements within the same measurement system, customary or metric, from a smaller unit into a larger unit or a larger unit into a smaller unit when given other equivalent measures represented in a table",
+"4.8A": "identify relative sizes of measurement units within the customary and metric system",
+"4.9A": "represent data on a frequency table, dot plot, or stem-and-leaf plot marked with whole numbers and fractions",
+"4.9B": "solve one‐ and two‐step problems using data in whole number, decimal, and fraction form in a frequency table, dot plot, or stem‐and‐leaf plot",
+"4.10C": "compare the advantages and disadvantages of various savings options",
+"4.10D": "describe how to allocate weekly allowance among spending, saving, including for college; and sharing lending",
+"4.10E": "describe the basic purpose of financial institutions, including keeping money safe, borrowing money, and lending",
+"4.10A": "distinguish between fixed and variable expenses",
+"4.10B": "calculate profit in a given situation",
+"5.3A": "estimate to determine solutions to mathematical and real-world problems involving addition, subtraction, multiplication, or division",
+"5.3K": "add and subtract positive rational numbers fluently",
+"5.3C": "solve with proficiency for quotients of up to a four-digit by two-digit divisor using strategies and the standard algorithm",
+"5.3B": "multiply with fluency a three-digit number by a two-digit number using the standard algorithm",
+"5.4F": "simplify numerical expressions that do not involve exponents, including up to two levels of grouping",
+"5.4E": "describe the meaning of parentheses and brackets in a numeric expression",
+"5.4B": "represent and solve multi-step problems involving the four operations with whole numbers using equations with a letter standing for the unknown quantity",
+"5.2A": "represent the value of digit in decimals through the thousandths using expanded notation and numerals",
+"5.2B": "compare and order two decimals to thousandths and represent comparisons using the symbols >, <, or =",
+"5.2C": "round decimals to tenths or hundredths",
+"5.3E": "solve for products of decimals to the hundredths, including situations involving money, using strategies based on place-value understandings, properties of operations, and the relationship to the multiplication of whole numbers",
+"5.3D": "represent multiplication of decimals with products to the hundredths using objects and pictorial models, including area models",
+"5.3G": "solve for quotients of decimals to the hundredths, up to four-digit dividends and two-digit whole number divisions, using strategies and algorithms, including the standard algorithm",
+"5.3F": "represent quotients of decimals to the hundredths, up to four-digit dividends and two-digit whole number divisors, using objects and pictorial models, including area models",
+"5.3H": "represent and solve addition and subtraction of fractions with unequal denominators referring to the same whole using objects and pictorial models and properties of operations",
+"5.4A": "identify prime and composite numbers",
+"5.3I": "represent and solve multiplication of a whole number and a fraction that refers to the same whole using objects and pictorial models, including area models",
+"5.3L": "divide whole numbers by unit fractions and unit fractions by whole numbers",
+"5.3J": "represent division of a unit fraction by a whole number and the division of a whole n umber by a unit fraction such as 1/3 ÷ 7 and 7 ÷ 1/3 using objects and pictorial models, including area models",
+"5.8C": "graph in the first quadrant of the coordinate plane ordered pairs of numbers arising from mathematical and real‐world problems, including those generated by number patterns or found in an input‐output table",
+"5.8B": "describe the process for graphing ordered pairs of numbers in the first quadrant of the coordinate plane",
+"5.8A": "describe the key attributes of the coordinate plane, including perpendicular number lines (axes) where the intersection (origin) of the two lines coincides with zero on each number line and the given point (0, 0); the x‐coordinate, the first number in an ordered pair, indicates movement parallel to the x‐axis starting at the origin; and the y-coordinate, the second number, indicates movement parallel to the y‐axis starting at the origin",
+"5.4D": "recognize the difference between additive and multiplicative numerical patterns given in a table or graph",
+"5.4C": "generate a numerical pattern when given a rule in the form y = ax or y = x + a and graph",
+"5.5A": "classify two-dimensional figures in a hierarchy of sets and subsets using graphic organizers based on their attributes and properties",
+"5.4H": "represent and solve problems related to perimeter and/or area and related to volume",
+"5.4G": "use concrete objects and pictorial models to develop the formulas for the volume of a rectangular prism, including the special form for a cube (V = l x w x h, V = s x s x s, and V = Bh)",
+"5.6B": "determine the volume of a rectangular prism with whole number side lengths in problems related to the number of layers times the number of unit cubes in the area of the base",
+"5.6A": "recognize a cube with side length of one unit as a unit cube having one cubic unit of volume and the volume of a three‐dimensional figure as the number of unit cubes (n cubic units) needed to fill it with no gaps or overlaps if possible",
+"5.7A": "solve problems by calculating conversions within a measurement system, customary or metric",
+"5.9B": "represent discrete paired data on a scatterplot",
+"5.9A": "represent categorical data with bar graphs or frequency tables and numerical data, including data sets of measurements in fractions or decimals, with dot plots or stem-and-leaf plots",
+"5.9C": "solve one‐ and two‐step problems using data from a frequency table, dot plot, bar graph, stem‐and‐leaf plot, or scatterplot",
+"5.10E": "describe actions that might be taken to balance a budget when expenses exceed income",
+"5.10F": "balance a simple budget",
+"5.10D": "develop a system for keeping and using financial records",
+"5.10C": "identify the advantages and disadvantages of different methods of payment, including check, credit card, debit card, and electronic payments",
+"5.10B": "explain the difference between gross income and net income",
+"5.10A": "define income tax, sales tax, and property tax"
+},
+"TYPE": {
+"3.2A": "R",
+"3.2B": "S",
+"3.2D": "R",
+"3.2C": "S",
+"3.3E": "S",
+"3.3B": "S",
+"3.7A": "S",
+"3.3A": "S",
+"3.6E": "S",
+"3.3D": "S",
+"3.3C": "S",
+"3.3G": "S",
+"3.3F": "R",
+"3.3H": "R",
+"3.4B": "S",
+"3.4A": "R",
+"3.5A": "R",
+"3.4C": "S",
+"3.5E": "R",
+"3.4G": "S",
+"3.5C": "S",
+"3.5D": "S",
+"3.4F": "S",
+"3.6C": "R",
+"3.4E": "S",
+"3.4D": "S",
+"3.4J": "S",
+"3.4I": "S",
+"3.4H": "S",
+"3.4K": "R",
+"3.5B": "R",
+"3.6A": "R",
+"3.6B": "S",
+"3.6D": "S",
+"3.7B": "R",
+"3.7C": "S",
+"3.7E": "S",
+"3.7D": "S",
+"3.8A": "R",
+"3.8B": "S",
+"3.9F": "U",
+"3.9C": "U",
+"3.9E": "S",
+"3.9D": "S",
+"3.9A": "S",
+"3.9B": "S",
+"4.2H": "S",
+"4.3G": "S",
+"4.2E": "S",
+"4.2B": "R",
+"4.2A": "S",
+"4.2C": "S",
+"4.2F": "S",
+"4.4A": "R",
+"4.3B": "S",
+"4.3A": "S",
+"4.3C": "S",
+"4.2G": "R",
+"4.3D": "R",
+"4.3E": "R",
+"4.3F": "S",
+"4.4G": "S",
+"4.2D": "S",
+"4.4H": "R",
+"4.4D": "S",
+"4.4C": "S",
+"4.4B": "S",
+"4.4F": "S",
+"4.4E": "S",
+"4.5B": "R",
+"4.5A": "R",
+"4.6D": "R",
+"4.6C": "S",
+"4.6B": "S",
+"4.6A": "S",
+"4.7E": "S",
+"4.7D": "S",
+"4.7C": "R",
+"4.7B": "U",
+"4.7A": "U",
+"4.5D": "R",
+"4.5C": "U",
+"4.8C": "R",
+"4.8B": "S",
+"4.8A": "S",
+"4.9A": "R",
+"4.9B": "S",
+"4.10C": "U",
+"4.10D": "U",
+"4.10E": "S",
+"4.10A": "S",
+"4.10B": "S",
+"5.3A": "S",
+"5.3K": "R",
+"5.3C": "S",
+"5.3B": "S",
+"5.4F": "R",
+"5.4E": "S",
+"5.4B": "R",
+"5.2A": "S",
+"5.2B": "R",
+"5.2C": "S",
+"5.3E": "R",
+"5.3D": "S",
+"5.3G": "R",
+"5.3F": "S",
+"5.3H": "S",
+"5.4A": "S",
+"5.3I": "S",
+"5.3L": "S",
+"5.3J": "S",
+"5.8C": "R",
+"5.8B": "S",
+"5.8A": "S",
+"5.4D": "S",
+"5.4C": "R",
+"5.5A": "R",
+"5.4H": "R",
+"5.4G": "U",
+"5.6B": "S",
+"5.6A": "S",
+"5.7A": "S",
+"5.9B": "S",
+"5.9A": "S",
+"5.9C": "R",
+"5.10E": "S",
+"5.10F": "S",
+"5.10D": "U",
+"5.10C": "U",
+"5.10B": "S",
+"5.10A": "S"
+},
+"STRAND": {
+"3.2": "Number and operations. The student applies mathematical process standards to represent and compare whole numbers and understand relationships related to place value.",
+"3.3": "Number and operations. The student applies mathematical process standards to represent and explain fractional units.",
+"3.4": "Number and operations. The student applies mathematical process standards to develop and use strategies and methods for whole number computations in order to solve problems with efficiency and accuracy.",
+"3.5": "Algebraic reasoning. The student applies mathematical process standards to analyze and create patterns and relationships.",
+"3.6": "Geometry and measurement. The student applies mathematical process standards to analyze attributes of two-dimensional geometric figures to develop generalizations about their properties.",
+"3.7": "Geometry and measurement. The student applies mathematical process standards to select appropriate units, strategies, and tools to solve problems involving customary and metric measurement.",
+"3.8": "Data analysis. The student applies mathematical process standards to solve problems by collecting, organizing, displaying, and interpreting data.",
+"3.9": "Personal financial literacy. The student applies mathematical process standards to manage one’s financial resources effectively for lifetime financial security.",
+"4.2": "Number and operations. The student applies mathematical process standards to represent, compare, and order whole numbers and decimals and understand relationships related to place value.",
+"4.3": "Number and operations. The student applies mathematical process standards to represent and generate fractions to solve problems.",
+"4.4": "Number and operations. The student applies mathematical process standards to develop and use strategies and methods for whole number computations and decimal sums and differences in order to solve problems with efficiency and accuracy.",
+"4.5": "Algebraic reasoning. The student applies mathematical process standards to develop concepts of expressions and equations.",
+"4.6": "Geometry and measurement. The student applies mathematical process standards to analyze geometric attributes in order to develop generalizations about their properties.",
+"4.7": "Geometry and measurement. The student applies mathematical process standards to solve problems involving angles less than or equal to 180 degrees.",
+"4.8": "Geometry and measurement. The student applies mathematical process standards to select appropriate customary and metric units, strategies, and tools to solve problems involving measurement.",
+"4.9": "Data analysis. The student applies mathematical process standards to solve problems by collecting, organizing, displaying, and interpreting data.",
+"4.10": "Personal financial literacy. The student applies mathematical process standards to manage one's financial resources effectively for lifetime financial security.",
+"5.3": "Number and operations. The student applies mathematical process standards to develop and use strategies and methods for positive rational number computations in order to solve problems with efficiency and accuracy.",
+"5.4": "Algebraic reasoning. The student applies mathematical process standards to develop concepts of expressions and equations.",
+"5.2": "Number and operations. The student applies mathematical process standards to represent, compare, and order positive rational numbers and understand relationships as related to place value.",
+"5.8": "Geometry and measurement. The student applies mathematical process standards to identify locations on a coordinate plane.",
+"5.5": "Geometry and measurement. The student applies mathematical process standards to classify two-dimensional figures by attributes and properties.",
+"5.6": "Geometry and measurement. The student applies mathematical process standards to understand, recognize, and quantify volume.",
+"5.7": "Geometry and measurement. The student applies mathematical process standards to select appropriate units, strategies, and tools to solve problems involving measurement.",
+"5.9": "Data analysis. The student applies mathematical process standards to solve problems by collecting, organizing, displaying, and interpreting data.",
+"5.10": "Personal financial literacy. The student applies mathematical process standards to manage one's financial resources effectively for lifetime financial security."
+}
+}

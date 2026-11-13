@@ -1,0 +1,799 @@
+{
+ "grade": 3,
+ "weeks": [
+  {
+   "q": 2,
+   "wk": 12,
+   "start": "2026-10-26",
+   "title": "Q2:W3 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L12"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4K",
+      "3.5D"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H",
+      "3.5A",
+      "3.5B"
+     ],
+     "lo": "I am learning to model the associative property as a strategy to multiply.",
+     "sc": [
+      "I can use pictures to solve the associative property of multiplication problems.",
+      "I can solve expressions using associative property."
+     ],
+     "te": {
+      "M3.L12": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA4c2NPLY"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L13"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4I",
+      "3.4K"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H"
+     ],
+     "lo": "I am learning to apply the distributive property and the fact 9 = 10 – 1 as a strategy to multiply.",
+     "sc": [
+      "I can determine the units and number of units in a multiplication expression.",
+      "I can represent units and the number of units using strip diagrams.",
+      "I can use the distributive property and a 10 fact with subtraction to solve a 9 fact."
+     ],
+     "te": {
+      "M3.L13": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA4aSC24I"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L14"
+     ],
+     "teks": [
+      "3.4K",
+      "3.4E",
+      "3.4I",
+      "3.5D",
+      "3.5E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to interpret the unknown in multiplication and division to model and solve problems.",
+     "sc": [
+      "I can model multi-step word problems using strip diagrams and label the unknown quantities.",
+      "I can write multiplication and division equations using a question mark or box for the unknown.",
+      "I can solve multi-step word problems by finding the unknown values in order."
+     ],
+     "te": {
+      "M3.L14": "https://drive.google.com/open?id=1rdsaChLMjmCGaGK02_EySil6T3bPv4g_&disco=AAAA4aSC24g"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L15"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4I",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E",
+      "3.4F",
+      "3.5D"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H",
+      "3.5D"
+     ],
+     "lo": "I am learning to reason about and explain arithmetic patterns using units of 0 and 1 as they relate to multiplication and division to solve the unknown.",
+     "sc": [
+      "I can multiply and divide using units of 1 to find the unknown.",
+      "I can multiply and divide using units of 0 to find the unknown."
+     ],
+     "te": {
+      "M3.L15": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA5j_jGX4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "M2 - 3 Learning Check #3"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 13,
+   "start": "2026-11-02",
+   "title": "Q2:W4 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L17"
+     ],
+     "teks": [
+      "3.4E",
+      "3.4I",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4H",
+      "3.5D"
+     ],
+     "lo": "I am learning to solve two-step word problems involving all four operations and assess the reasonableness of solutions with a model.",
+     "sc": [
+      "I can use the Read, Draw, Write (RDW) process to model and break down two-step word problems.",
+      "I can write and solve equations representing both steps of a word problem."
+     ],
+     "te": {
+      "M3.L17": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdNzc"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L18"
+     ],
+     "teks": [
+      "3.4F",
+      "3.4G",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4E"
+     ],
+     "lo": "I am learning to represent multiply by multiples of 10 by using the place value chart and arrays.",
+     "sc": [
+      "I can represent multiplying single-digit numbers by tens using place value disks on a chart.",
+      "I can explain how multiplying by a multiple of 10 shifts digits one place value to the left.",
+      "I can write multiplication equations in unit form (e.g., 2 x 3 tens = 6 tens and standard form (2 x 30 = 60)."
+     ],
+     "te": {
+      "M3.L18": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdN0Y"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L19"
+     ],
+     "teks": [
+      "3.4F",
+      "3.4G",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4E"
+     ],
+     "lo": "I am learning to use place value strategies and the associative property n × (m × 10) = (n × m) × 10 (where n and m are less than 10) to multiply by multiples of 10.",
+     "sc": [
+      "I can use a chart to find an equation.",
+      "I can use parentheses in the equations to find the related fact."
+     ],
+     "te": {
+      "M3.L19": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdN0s"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L20",
+      "M3.L21"
+     ],
+     "teks": [
+      "3.4F",
+      "3.4G",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4E"
+     ],
+     "lo": "I am learning to use strategies and to represent two-digit by one-digit multiplication with concrete objects.",
+     "sc": [
+      "I can represent expressions with place value disks and place value chart.",
+      "I can record the partial products vertically."
+     ],
+     "te": {
+      "M3.L20": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdOCI",
+      "M3.L21": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdOI8"
+     },
+     "note": "lessons combined"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 14,
+   "start": "2026-11-09",
+   "title": "Q2:W5 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L22"
+     ],
+     "teks": [
+      "3.4F",
+      "3.4G",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4E"
+     ],
+     "lo": "I will multiply two-digit numbers by one-digit numbers using strategies and algorithms, including the standard algorithm.",
+     "sc": [
+      "I can represent two-digit by one-digit multiplication using place value disks or partial products.",
+      "I can use the standard algorithm to record regrouping and calculate the final product.",
+      "I can explain how partial products relate to the standard multiplication algorithm."
+     ],
+     "te": {
+      "M3.L22": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdOCQ"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L23"
+     ],
+     "teks": [
+      "3.4F",
+      "3.4G",
+      "3.4K"
+     ],
+     "bundled": [
+      "3.4F",
+      "3.4E"
+     ],
+     "lo": "I will use strategies and algorithms, including the distributive property, to multiply a two-digit number by a one-digit number.",
+     "sc": [
+      "I can use a ruler to measure the length of the sides.",
+      "I can find the area of a rectangle."
+     ],
+     "te": {
+      "M3.L23": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdOJU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L1"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to understand area as a two-dimensional surface attribute that can be covered by tiling with non-overlapping shape units without gaps.",
+     "sc": [
+      "I can completely cover a 2D surface using pattern block units without leaving gaps or overlapping shapes.",
+      "I can trace or draw unit boundaries to show how pattern blocks tile a shape.",
+      "I can count and record the total number of pattern block units required to cover a shape."
+     ],
+     "te": {
+      "M4.L1": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5h-eQNE"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L2",
+      "M4.L3"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to measure and compare the area of rectangles by tiling with standard square units (square inches and square centimeters) and decomposing shapes to form rectangular arrays.",
+     "sc": [
+      "I can estimate how to draw the missing square units inside an array.",
+      "I can draw rows and columns to determine the area."
+     ],
+     "te": {
+      "M4.L2": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5h-eQNo",
+      "M4.L3": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5h-eQN0"
+     },
+     "note": "lessons combined"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to relate the side lengths of a rectangle to the number of tiles along its sides to distinguish between side length and total area.",
+     "sc": [
+      "I can explore the relationship between units and area.",
+      "I can relate area to multiplication to draw rectangular arrays.",
+      "I can tile a rectangle completely using square inch or square centimeter unit tiles without gaps or overlaps."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5ecjIOw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 15,
+   "start": "2026-11-16",
+   "title": "Q2:W6 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L5"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to find the area of a rectangle through multiplication of the side lengths.",
+     "sc": [
+      "I can arrange unit square tiles into arrays without gaps or overlaps to form rectangles.",
+      "I can label the side lengths (number of rows and columns) of my tiled rectangle.",
+      "I can use area and side length to find unknown side length."
+     ],
+     "te": {
+      "M4.L5": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5ecjIO8"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L7"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4E"
+     ],
+     "lo": "I am learning to apply the distributive property as a strategy to find the total area of a larger rectangle by adding two products.",
+     "sc": [
+      "I can use centimeter tiles to find the area of rectangle.",
+      "I can write the expression to represent a tiled area."
+     ],
+     "te": {
+      "M4.L7": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5ecjIPc"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L9"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to solve word problems to determine an area.",
+     "sc": [
+      "I can solve area word problems with 1 side length unknown.",
+      "I can choose a strategy to find the area of a larger rectangle."
+     ],
+     "te": {
+      "M4.L9": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA4bSzlOM"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L10"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to find the area of composite shapes by decomposing into rectangles.",
+     "sc": [
+      "I can use the break apart and add strategy to find the area of a composite shape."
+     ],
+     "te": {
+      "M4.L10": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA4bSzlOU"
+     },
+     "note": "two further SC bullets (subtracting to find area) are struck through in the IPC and omitted"
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "M 3-4 Learning Check #4"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 16,
+   "start": "2026-11-30",
+   "title": "Q2:W7 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L11"
+     ],
+     "teks": [
+      "3.6C",
+      "3.6D"
+     ],
+     "bundled": [
+      "3.4F"
+     ],
+     "lo": "I am learning to find areas by decomposing into rectangles or completing composite figures to form rectangles.",
+     "sc": [
+      "I can choose an appropriate method for finding the area of a composite shape.",
+      "I can solve a word problem involving the area of non-rectangular shapes."
+     ],
+     "te": {
+      "M4.L11": "https://drive.google.com/open?id=17VITeDEgrAsE3zOKWQuKuppITutPnxvU&disco=AAAA5ecjIN4"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "iReady Inform MOY"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "iReady Inform MOY"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L1"
+     ],
+     "teks": [
+      "3.3C"
+     ],
+     "bundled": [
+      "3.3D",
+      "3.3E",
+      "3.6E"
+     ],
+     "lo": "I am learning how to partition a whole into equal parts, identifying and counting unit fractions using concrete models.",
+     "sc": [
+      "I can partition fraction strips into equal parts.",
+      "I can partition a whole amount of liquid into equal parts.",
+      "I can count unit fractional parts of a whole."
+     ],
+     "te": {
+      "M5.L1": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA987zdSE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L2"
+     ],
+     "teks": [
+      "3.3C"
+     ],
+     "bundled": [
+      "3.3D",
+      "3.3E",
+      "3.6E"
+     ],
+     "lo": "I am learning how to partition a whole into equal parts, identifying and counting unit fractions by folding fraction strips.",
+     "sc": [
+      "I can fold fraction strips into equal parts.",
+      "I can name and label unit fractional parts of a whole."
+     ],
+     "te": {
+      "M5.L2": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA987zdS4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 17,
+   "start": "2026-12-07",
+   "title": "Q2:W8 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L5"
+     ],
+     "teks": [
+      "3.6E"
+     ],
+     "bundled": [
+      "3.3C",
+      "3.3D",
+      "3.3E"
+     ],
+     "lo": "I am learning how to recognize that equal parts of an identical rectangle can havedifferent shapes.",
+     "sc": [
+      "I can divide a shape into equal parts in more than one way.",
+      "I can prove halves are equal with different shapes.",
+      "I can create multiple shapes using equal squares."
+     ],
+     "te": {
+      "M5.L5": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA987zdTM"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "SMC RLA"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "SMC Math"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L6"
+     ],
+     "teks": [
+      "3.3C"
+     ],
+     "bundled": [
+      "3.3D",
+      "3.3E"
+     ],
+     "lo": "I am learning how to partition a whole into equal parts and define the equal parts to identify the unit fraction numerically.",
+     "sc": [
+      "I can divide a shape or model into a specified number of equal parts.",
+      "I can name each unit or part.",
+      "I can explain that the bottom number (denominator) represents the total number of equal parts in a whole and the top number (numerator) represents one part."
+     ],
+     "te": {
+      "M5.L6": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA987zdTY"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L7"
+     ],
+     "teks": [
+      "3.3D"
+     ],
+     "bundled": [
+      "3.3C",
+      "3.3E",
+      "3.3G",
+      "3.6E"
+     ],
+     "lo": "I am learning how to build non-unit fractions less than one whole from unit fractions.",
+     "sc": [
+      "I can use fraction form to draw a shape partitioned into equal parts.",
+      "I can represent a unit fraction with shading.",
+      "I can represent non-unit fractions pictorially."
+     ],
+     "te": {
+      "M5.L7": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA987zdao"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 18,
+   "start": "2026-12-14",
+   "title": "Q2:W9 Math IPC Grade 3 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L8"
+     ],
+     "teks": [
+      "3.3D"
+     ],
+     "bundled": [
+      "3.3C",
+      "3.3E",
+      "3.3G",
+      "3.6E"
+     ],
+     "lo": "I am learning how to identify and represent shaded and non-shaded parts of onewhole as fractions.",
+     "sc": [
+      "I can identify the shaded fractional part of a whole.",
+      "I can identify the empty/unshaded fractional part of a whole."
+     ],
+     "te": {
+      "M5.L8": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqpk4"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L11",
+      "M5.L12"
+     ],
+     "teks": [
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3C",
+      "3.3D",
+      "3.3E",
+      "3.3F",
+      "3.6E"
+     ],
+     "lo": "I will compare two unit fractions by reasoning about their sizes and justifying conclusions using symbols, words, objects, and pictorial models.",
+     "sc": [
+      "I can use fraction strips and pictorial models to compare two unit fractions with different denominators.",
+      "I can explain that as the denominator increases, the size of each fractional unit decreases when comparing the same whole.",
+      "I can write a correct comparison sentence using the <, >, or = symbols."
+     ],
+     "te": {
+      "M5.L11": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqplI",
+      "M5.L12": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqplI"
+     },
+     "note": "lessons combined; continues Wed"
+    },
+    {
+     "dow": "Wed",
+     "kind": "flex",
+     "les": [
+      "M5.L11",
+      "M5.L12"
+     ],
+     "teks": [
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3C",
+      "3.3D",
+      "3.3E",
+      "3.3F",
+      "3.6E"
+     ],
+     "lo": "I will compare two unit fractions by reasoning about their sizes and justifying conclusions using symbols, words, objects, and pictorial models.",
+     "sc": [
+      "I can use fraction strips and pictorial models to compare two unit fractions with different denominators.",
+      "I can explain that as the denominator increases, the size of each fractional unit decreases when comparing the same whole.",
+      "I can write a correct comparison sentence using the <, >, or = symbols."
+     ],
+     "te": {
+      "M5.L11": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqplI",
+      "M5.L12": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqplI"
+     },
+     "note": "Flex Day (lessons combined, same cell as Tue)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L15",
+      "M5.L16"
+     ],
+     "teks": [
+      "3.3B"
+     ],
+     "bundled": [
+      "3.7A"
+     ],
+     "lo": "I will represent fractions greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 using number lines.",
+     "sc": [
+      "I can partition a number line between 0 and 1 into equal fractional parts.",
+      "I can locate and label unit and non-unit fractions on a number line.",
+      "I can use a number bond or fraction strip to prove my fraction placement on the number line."
+     ],
+     "te": {
+      "M5.L15": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqppE",
+      "M5.L16": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqppU"
+     },
+     "note": "lessons combined; continues Fri"
+    },
+    {
+     "dow": "Fri",
+     "kind": "flex",
+     "les": [
+      "M5.L15",
+      "M5.L16"
+     ],
+     "teks": [
+      "3.3B"
+     ],
+     "bundled": [
+      "3.7A"
+     ],
+     "lo": "I will represent fractions greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 using number lines.",
+     "sc": [
+      "I can partition a number line between 0 and 1 into equal fractional parts.",
+      "I can locate and label unit and non-unit fractions on a number line.",
+      "I can use a number bond or fraction strip to prove my fraction placement on the number line."
+     ],
+     "te": {
+      "M5.L15": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqppE",
+      "M5.L16": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UVqppU"
+     },
+     "note": "Flex Day (lessons combined, same cell as Thu)"
+    }
+   ]
+  }
+ ]
+}

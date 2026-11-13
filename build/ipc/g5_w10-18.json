@@ -1,0 +1,955 @@
+{
+ "grade": 5,
+ "weeks": [
+  {
+   "q": 2,
+   "wk": 10,
+   "start": "2026-10-12",
+   "title": "Q2: W10 IPC Gr5 Eureka Math 2026-2027",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L18"
+     ],
+     "teks": [
+      "5.7A"
+     ],
+     "bundled": [
+      "5.3B",
+      "5.3D",
+      "5.3E"
+     ],
+     "lo": "I am learning how to use decimal multiplication to express equivalent measurements.",
+     "sc": [
+      "I can use unit statements to show the relationship between metric units.",
+      "I can set up measurements as equivalent expressions with the unit as a factor.",
+      "I can convert between measurements."
+     ],
+     "te": {
+      "M2.L18": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAArG9Z3ho"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L20"
+     ],
+     "teks": [
+      "5.3C"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to  divide by 10 patterns for multi-digit whole number division.",
+     "sc": [
+      "I can represent division expressions with place value disks.",
+      "I can describe the division expression in unit form.",
+      "I can explain the movement on the place value chart when I divide by multiples of 10."
+     ],
+     "te": {
+      "M2.L20": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAtDZPRaM"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L23"
+     ],
+     "teks": [
+      "5.3C"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3A"
+     ],
+     "lo": "I am learning how to divide two- and three-digit dividends by multiples of 10 with single-digit quotients, and make connections to a written method.",
+     "sc": [
+      "I can estimate  and use basic facts to find the quotient.",
+      "I can use the estimated quotient to find the actual quotient using the standard algorithm.",
+      "I can use multiplication and addition to check my answers."
+     ],
+     "te": {
+      "M2.L23": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAxWjSVQ0"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L24"
+     ],
+     "teks": [
+      "5.3C"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3A"
+     ],
+     "lo": "I am learning how to divide two- and three-digit dividends by two-digit divisors withsingle-digit quotients, and make connections to a written method.",
+     "sc": [
+      "I can estimate  and use basic facts to find the quotient.",
+      "I can use the estimated quotient to find the actual quotient using the standard algorithm.",
+      "I can use multiplication and addition to check my answers."
+     ],
+     "te": {
+      "M2.L24": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAxWjSVqM"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 11,
+   "start": "2026-10-19",
+   "title": "Q2: W11 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L25"
+     ],
+     "teks": [
+      "5.3C"
+     ],
+     "bundled": [
+      "5.4B"
+     ],
+     "lo": "I am learning how to divide two- and three-digit dividends by two-digit divisors with single-digit quotients, and make connections to a written method.",
+     "sc": [
+      "I can estimate the quotient.",
+      "I can use the estimate to help solve using the standard algorithm.",
+      "I can explain what the remainder represents.",
+      "I can check the quotient using multiplication and addition."
+     ],
+     "te": {
+      "M2.L25": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nLg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L26"
+     ],
+     "teks": [
+      "5.3C"
+     ],
+     "bundled": [
+      "5.4B"
+     ],
+     "lo": "I am learning how to divide three- and four-digit dividends by two-digit divisorsresulting in two- and three-digit quotients, reasoning about thedecomposition of successive remainders in each place value.",
+     "sc": [
+      "I can decompose (regroup) within the dividend",
+      "I can  estimate the quotient.",
+      "I can use the estimate to help solve using the standard algorithm.",
+      "I can explain what the remainder represents.",
+      "I can check the quotient using multiplication and addition."
+     ],
+     "te": {
+      "M2.L26": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nLo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L27"
+     ],
+     "teks": [
+      "5.3C"
+     ],
+     "bundled": [
+      "5.4B"
+     ],
+     "lo": "I am learning how to divide three- and four-digit dividends by two-digit divisorsresulting in two- and three-digit quotients, reasoning about thedecomposition of successive remainders in each place value.",
+     "sc": [
+      "I can decompose (regroup) twice so the dividend is larger than the divisor.",
+      "I can estimate the quotient.",
+      "I can use the estimated quotient to apply the standard algorithm.",
+      "I can check the quotient."
+     ],
+     "te": {
+      "M2.L27": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nLw"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L28"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3F",
+      "5.4B"
+     ],
+     "lo": "I am learning how to divide decimal dividends by multiples of 10, reasoning aboutthe placement of the decimal point and making connections to a writtenMethod.",
+     "sc": [
+      "I can represent the expression using place value disks.",
+      "I can express the values in unit form.",
+      "I can model division with place value disks.",
+      "I can decompose the divisor with 10 as a factor.",
+      "I can divide decimals dividends by multiples of 10."
+     ],
+     "te": {
+      "M2.L28": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nL4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L29"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3F",
+      "5.4B"
+     ],
+     "lo": "I am learning how to use basic facts to approximate decimal quotients with two-digitdivisors, reasoning about the placement of the decimal point.",
+     "sc": [
+      "I can round my divisor.",
+      "I can round the dividend to a number that is easily divided by the rounded divisor",
+      "I can decompose the divisor with 10 as a factor.",
+      "I can use mental math to estimate the quotient."
+     ],
+     "te": {
+      "M2.L29": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nL8"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 12,
+   "start": "2026-10-26",
+   "title": "Q2: W12 IPC Gr5 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L30"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3A",
+      "5.4B"
+     ],
+     "lo": "I am learning how to divide decimal dividends by two-digit divisors, estimatingquotients, reasoning about the placement of the decimal point, and making connections to a written method.",
+     "sc": [
+      "I can estimate and apply the estimate to the written method.",
+      "I can continue to decompose values less than one.",
+      "I can check my work with multiplication."
+     ],
+     "te": {
+      "M2.L30": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nMo"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L31"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3A",
+      "5.4B"
+     ],
+     "lo": "I am learning how to divide decimal dividends by two-digit divisors, estimatingquotients, reasoning about the placement of the decimal point, and making connections to a written method.",
+     "sc": [
+      "I can estimate and apply the estimate to the written method.",
+      "I can continue to decompose values less than one.",
+      "I can check my work with multiplication."
+     ],
+     "te": {
+      "M2.L31": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nNI"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L32",
+      "M2.L33"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [
+      "5.2A",
+      "5.3A",
+      "5.4B"
+     ],
+     "lo": "I am learning how to solve division word problems involving multi-digit division with group size unknown and the number of groups unknown.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve, and write a statement.",
+      "I can assess the solution for reasonability."
+     ],
+     "te": {
+      "M2.L32": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nNQ",
+      "M2.L33": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAAyfk8nXU"
+     },
+     "note": "Lessons 32 & 33 combined: L32 Fluency (Sprint) and Concept Development #1 and #3; L33 Application Problem, Concept Development #3-4, Problem Set, and Exit Ticket/Student Debrief"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L1"
+     ],
+     "teks": [
+      "5.3H"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to add fractions with unlike units using the strategy of creating equivalent fractions.",
+     "sc": [
+      "I can represent fractions with unlike  units (different denominators) using a model .",
+      "I can partition both wholes into units of the same size.",
+      "I can use the unit or common denominator to create equivalent fractions then add."
+     ],
+     "te": {
+      "M3.L1": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAAxacvho4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 13,
+   "start": "2026-11-02",
+   "title": "Q2: W13 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L2"
+     ],
+     "teks": [
+      "5.3H"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to add fractions with sums between 1 and 2.",
+     "sc": [
+      "I can estimate the sum as less than or greater than 1.",
+      "I can represent fractions with unequal denominators using models.",
+      "I can partition both wholes into units of the same size.",
+      "I can use the unit or common denominator to create equivalent fractions then add.",
+      "I can write fractions greater than 1 as a mixed number."
+     ],
+     "te": {
+      "M3.L2": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAAyR9mLYY"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L3"
+     ],
+     "teks": [
+      "5.3H"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to subtract fractions with unlike units using the strategy of creating equivalent fractions.",
+     "sc": [
+      "I can represent fractions with different units using a model.",
+      "I can use the model to generate equivalent fractions with like units.",
+      "I can explain how to use the models to subtract fractions with unlike units."
+     ],
+     "te": {
+      "M3.L3": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOSg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L4"
+     ],
+     "teks": [
+      "5.3H"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to subtract fractions from numbers between 1 and 2.",
+     "sc": [
+      "I can represent fractions between 1 and 2 with different units using a model.",
+      "I can use the model to generate equivalent fractions with like units.",
+      "I can explain how to use the models to subtract fractions with unlike units."
+     ],
+     "te": {
+      "M3.L4": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOSc"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L5"
+     ],
+     "teks": [
+      "5.3H",
+      "5.3K"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to solve two-step word problems.",
+     "sc": [
+      "I can represent two-step problems using a model",
+      "I can use the model to generate an addition or subtraction expression.",
+      "I can explain how to use models to solve two-step problems."
+     ],
+     "te": {
+      "M3.L5": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOTA"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 14,
+   "start": "2026-11-09",
+   "title": "Q2: W14 IPC Gr5 Eureka Math 26-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L6"
+     ],
+     "teks": [
+      "5.3H"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to add fractions to and subtract fractions from whole numbersusing equivalence and the number line as strategies.",
+     "sc": [
+      "I can represent and locate whole numbers and fractions on a numberline.",
+      "I can represent movement on the number line for addition and subtraction of whole numbers and fractions",
+      "I can explain how to add and subtract fractions from whole numbers on a number line."
+     ],
+     "te": {
+      "M3.L6": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOT0"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L7"
+     ],
+     "teks": [
+      "5.3K"
+     ],
+     "bundled": [
+      "5.3H"
+     ],
+     "lo": "I am learning how to add fractions making like units numerically.",
+     "sc": [
+      "I can relate the models used to find fractions with like units to a multiplication equation.",
+      "I can multiply to generate fractions with like units.",
+      "I can explain how to find like units for fractions and then determine the sum."
+     ],
+     "te": {
+      "M3.L7": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOVE"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L8"
+     ],
+     "teks": [
+      "5.3K"
+     ],
+     "bundled": [
+      "5.3H"
+     ],
+     "lo": "I am learning how to add fractions with sums greater than 2.",
+     "sc": [
+      "I can rewrite addition expressions using the associative or commutative properties.",
+      "I can multiply to generate fractions with like units.",
+      "I can solve for sums of fractions greater than 2."
+     ],
+     "te": {
+      "M3.L8": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOXw"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L9"
+     ],
+     "teks": [
+      "5.3K"
+     ],
+     "bundled": [
+      "5.3H"
+     ],
+     "lo": "I am learning how to subtract fractions making like units numerically.",
+     "sc": [
+      "I can relate the models used to find fractions with like units to a multiplication equation.",
+      "I can multiply to generate fractions with like units.",
+      "I can explain how to find like units for fractions and then determine the difference."
+     ],
+     "te": {
+      "M3.L9": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3HqQOYU"
+     },
+     "note": "Make sure to do Homework"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L11"
+     ],
+     "teks": [
+      "5.3K"
+     ],
+     "bundled": [
+      "5.3H"
+     ],
+     "lo": "I am learning how to use fraction benchmark numbers to assess reasonableness ofaddition and subtraction equations.",
+     "sc": [
+      "I can reason if a fraction is more or less than the benchmark fraction of one half",
+      "I can determine if the sum or difference is more or less than one half or one.",
+      "I can explain how to use benchmark fractions to determine the reasonableness of sums and differences."
+     ],
+     "te": {
+      "M3.L11": "https://drive.google.com/open?id=1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t&disco=AAAA3K7CdUk"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 15,
+   "start": "2026-11-16",
+   "title": "Q2: W15 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L13"
+     ],
+     "teks": [
+      "5.3H",
+      "5.3K"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to solve multi-step word problems.",
+     "sc": [
+      "I can  represent multi-step word problems with a strip diagram.",
+      "I can use the strip diagram to create an equation(s).",
+      "I can generate equivalent fractions.",
+      "I can regroup a fraction from a whole to subtract.",
+      "I can solve multi-step word problems."
+     ],
+     "te": {
+      "M3.L13": "https://drive.google.com/file/d/1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t/edit?disco=AAAA3OYVFLc"
+     },
+     "note": "Make sure to do the homework"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L14"
+     ],
+     "teks": [
+      "5.3H",
+      "5.3K"
+     ],
+     "bundled": [],
+     "lo": "I am learning to explore part-to-whole relationships.",
+     "sc": [
+      "I can draw a whole given the size of a unit fraction/one equal part.",
+      "I can complete the whole when given a fractional part (equal parts).",
+      "I can determine a whole as twice or half a given size.",
+      "I can explain how to reason part-to-whole relationships."
+     ],
+     "te": {
+      "M3.L14": "https://drive.google.com/file/d/1iVzdF6zdqCfZP0lyzLPLHHMXqHXOeC8t/edit?disco=AAAA3PnKSQA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L1"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to decompose non-unit fractions and represent them as a wholenumber times a unit fraction using strip diagrams.",
+     "sc": [
+      "I can express a non-unit fraction less than 1 as a whole number times a unit fraction using a strip diagram.",
+      "I can determine the non-unit fraction greater than 1 that is represented by a strip diagram, and then write the fraction as a whole number times a unit fraction.",
+      "I can express a non-unit fraction greater than 1 as a whole number times a unit fraction using a strip diagram."
+     ],
+     "te": {
+      "M4.L1": "https://drive.google.com/file/d/1OUBQDe0JFa64QzFWb38_paWSntA4LH2e/edit?disco=AAAA3O3jLCI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L2"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to represent the multiplication of n times a/b as (n × a)/b usingthe associative property and visual models.",
+     "sc": [
+      "I can use the associative property to solve n × a/b in unit form and model using a strip diagram.",
+      "I can use the associative property to solve n × a/b numerically."
+     ],
+     "te": {
+      "M4.L2": "https://drive.google.com/file/d/1OUBQDe0JFa64QzFWb38_paWSntA4LH2e/edit?disco=AAAA3O3jLCQ"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #4"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 16,
+   "start": "2026-11-30",
+   "title": "Q2: W16 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L3"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to represent the multiplication of n times a/b as (n × a)/b usingthe associative property and visual models.",
+     "sc": [
+      "I can use the associative property to solve n × a/b in unit form and model using a strip diagram.",
+      "I can use the associative property to solve n × a/b numerically."
+     ],
+     "te": {
+      "M4.L3": "https://drive.google.com/file/d/1OUBQDe0JFa64QzFWb38_paWSntA4LH2e/edit?disco=AAAA3O3jLCk"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready MOY"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready MOY"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to find the product of a whole number and a mixed number usingthe distributive property.",
+     "sc": [
+      "I can draw a strip diagram to show the product of a whole number and a mixed number.",
+      "I can identify the distributive property to multiply a whole number and a mixed number.",
+      "I can solve a word problem involving the multiplication of a whole number by a mixed number."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/file/d/1OUBQDe0JFa64QzFWb38_paWSntA4LH2e/edit?disco=AAAA3O3jLCo"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to find the product of a whole number and a mixed number usingthe distributive property.",
+     "sc": [
+      "I can draw a strip diagram to show the product of a whole number and a mixed number.",
+      "I can identify the distributive property to multiply a whole number and a mixed number.",
+      "I can solve a word problem involving the multiplication of a whole number by a mixed number."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/file/d/1OUBQDe0JFa64QzFWb38_paWSntA4LH2e/edit?disco=AAAA3O3jLCo"
+     },
+     "note": "Lesson 4 continued; potential Flex/Re-teach day if finished with the lesson (IPC says 'if finished with lesson 14')"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 17,
+   "start": "2026-12-07",
+   "title": "Q2: W17 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L6"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to solve multiplicative comparison word problems involvingFractions.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution for reasonableness."
+     ],
+     "te": {
+      "M4.L6": "https://drive.google.com/file/d/1OUBQDe0JFa64QzFWb38_paWSntA4LH2e/edit?disco=AAAA3gQV6P4"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "SMC RLA"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "SMC Math"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L7"
+     ],
+     "teks": [
+      "5.9C"
+     ],
+     "bundled": [
+      "5.3I",
+      "5.9A"
+     ],
+     "lo": "I am learning how to solve word problems involving the multiplication of a wholenumber and a fraction including those involving dot plots.",
+     "sc": [
+      "I can model the problem",
+      "I can calculate to solve and write an equation.",
+      "I can assess the solution for reasonableness."
+     ],
+     "te": {
+      "M4.L7": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXQw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L8"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to find a fraction of a set concretely and pictorially.",
+     "sc": [
+      "I can model the set with an array.",
+      "I can divide the set into equal groups to represent the denominator.",
+      "I can determine how many counters are in a fractional part of a set."
+     ],
+     "te": {
+      "M4.L8": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXR0"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 18,
+   "start": "2026-12-14",
+   "title": "Q2: W18 IPC Gr5 Eureka Math 2026-2027",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L9"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to multiply any whole number by a fraction using strip diagrams.",
+     "sc": [
+      "I can represent the whole with a strip diagram.",
+      "I can partition the whole to represent the denominator.",
+      "I can find the value of one unit on the strip diagram.",
+      "I can find the product of  a whole number and a fraction."
+     ],
+     "te": {
+      "M4.L9": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXSM"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L10"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [
+      "5.3K"
+     ],
+     "lo": "I am learning how to relate a fraction of a set to the repeated addition interpretationof fraction multiplication.",
+     "sc": [
+      "I can interpret the meaning of a given multiplication expression.",
+      "I can represent the multiplication express using repeated addition.",
+      "I can divide numerator and denominator by a common factor.",
+      "I can solve for products of whole numbers and fractions."
+     ],
+     "te": {
+      "M4.L10": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXv4"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L12"
+     ],
+     "teks": [
+      "5.4F"
+     ],
+     "bundled": [
+      "5.4E"
+     ],
+     "lo": "I am learning how to compare and evaluate expressions with parentheses and brackets.",
+     "sc": [
+      "I can write an expression to match a strip diagram. Then, evaluate.",
+      "I can write and evaluate an expression from word form.",
+      "I can evaluate and compare equivalent expressions.",
+      "I can compare expressions in word and numerical forms."
+     ],
+     "te": {
+      "M4.L12": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXyU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L14"
+     ],
+     "teks": [
+      "5.3I"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to solve and create fraction word problems involving addition, subtraction, and multiplication.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution for reasonableness."
+     ],
+     "te": {
+      "M4.L14": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXy4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L15"
+     ],
+     "teks": [
+      "5.7A"
+     ],
+     "bundled": [
+      "5.3I"
+     ],
+     "lo": "I am learning how to convert measures involving whole numbers, and solve multi-step word problems.",
+     "sc": [
+      "I can convert units to the same unit of measurement.",
+      "I can find the product of whole numbers and fractions.",
+      "I can convert measures involving whole numbers."
+     ],
+     "te": {
+      "M4.L15": "https://drive.google.com/open?id=1OUBQDe0JFa64QzFWb38_paWSntA4LH2e&disco=AAAA977WXzQ"
+     },
+     "note": "IPC lists TEKS as '5.7' (no letter); link matches 5.7A"
+    }
+   ]
+  }
+ ]
+}

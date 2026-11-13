@@ -1,0 +1,866 @@
+{
+ "grade": 5,
+ "weeks": [
+  {
+   "q": 1,
+   "wk": 1,
+   "start": "2026-08-10",
+   "title": "Q1: W1 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Teacher Workday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L1"
+     ],
+     "teks": [
+      "5.2A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to use place value patterns to understand the thousandths place.",
+     "sc": [
+      "I can divide single units by 10 to build the place value chart to introduce thousandths.",
+      "I can multiply copies of one unit by 10, 100, and 1,000.",
+      "I can divide copies of one unit by 10, 100, and 1,000.",
+      "I can multiply mixed units by 10, 100, and 1,000."
+     ],
+     "te": {
+      "M1.L1": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCg1tqw"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L2"
+     ],
+     "teks": [
+      "5.2A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to use place value understanding to reason abstractly about values of digits in decimal fractions.",
+     "sc": [
+      "I can describe a pattern for multiplying decimal fractions by 10, 100, or 1,000",
+      "I can describe a pattern for dividing decimal fractions by 10, 100, and 1,000",
+      "I can visualize a place place chart to multiply and divide decimal fractions by 10,  100, and 1,000"
+     ],
+     "te": {
+      "M1.L2": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCg1tr0"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L3"
+     ],
+     "teks": [
+      "5.7A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to use place value understanding to convert metric units.",
+     "sc": [
+      "I can rename or convert large units as smaller units using multiplication equations.",
+      "I can rename millimeters and centimeters as meters using division equations.",
+      "I can convert from both large units to smaller units and small to larger units."
+     ],
+     "te": {
+      "M1.L3": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCg1tsg"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L4"
+     ],
+     "teks": [
+      "5.2A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to name decimal fractions in expanded notation, unit form, and word form.",
+     "sc": [
+      "I can represent decimal fractions in expanded notation.",
+      "I can represent decimal fractions in standard form.",
+      "I can represent decimal fractions in unit form.",
+      "I can represent decimal fractions in word form."
+     ],
+     "te": {
+      "M1.L4": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCg1ttg"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 2,
+   "start": "2026-08-17",
+   "title": "Q1: W2 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L5"
+     ],
+     "teks": [
+      "5.2B"
+     ],
+     "bundled": [],
+     "lo": "I am learning to compare decimal fractions to the thousandths using like units, and express comparisons with >, <, =.",
+     "sc": [
+      "I can compare whole numbers using a place value chart.",
+      "I can compare decimal fractions to the thousandths using a place value chart.",
+      "I can order decimal fractions to the thousandths using a place value chart."
+     ],
+     "te": {
+      "M1.L5": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCg1t6Q"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L6",
+      "M1.L7"
+     ],
+     "teks": [
+      "5.2C"
+     ],
+     "bundled": [],
+     "lo": "I am learning to round a given decimal to any place.",
+     "sc": [
+      "I can decompose numbers using multiple units to round to the nearest ten and nearest hundred.",
+      "I can decompose numbers to round to the nearest whole and nearest tenth.",
+      "I can decompose to round numbers to the nearest ten, one, tenth, and hundredths."
+     ],
+     "te": {
+      "M1.L6": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOMo",
+      "M1.L7": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOMs"
+     },
+     "note": "Combine Lessons 6 & 7: L6 Fluency, Application Problem, Concept Development Problem 1; L7 Concept Development Problems 2 & 3, Problem Set, Debrief/Exit Ticket"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 3,
+   "start": "2026-08-24",
+   "title": "Q1: W3 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L8"
+     ],
+     "teks": [
+      "5.3K"
+     ],
+     "bundled": [
+      "5.2A"
+     ],
+     "lo": "I am learning to add decimals.",
+     "sc": [
+      "I can identify and add like units and write the sum in standard form.",
+      "I can add using the standard algorithm."
+     ],
+     "te": {
+      "M1.L8": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOV0"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L9"
+     ],
+     "teks": [
+      "5.3K"
+     ],
+     "bundled": [
+      "5.3D"
+     ],
+     "lo": "I am learning to subtract decimals.",
+     "sc": [
+      "I can identify and subtract like units and write the difference in standard form.",
+      "I can subtract using the standard algorithm."
+     ],
+     "te": {
+      "M1.L9": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOV4"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L10"
+     ],
+     "teks": [
+      "5.3D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to multiply a decimal fraction by single-digitwhole numbers.",
+     "sc": [
+      "I can multiply decimal fractions by a single digit whole number using a place value chart and disks.",
+      "I can multiply decimal fractions by a single digit whole number using partial products.",
+      "I can multiply decimal fractions by a single digit whole number using an area model."
+     ],
+     "te": {
+      "M1.L10": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOWY"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L11"
+     ],
+     "teks": [
+      "5.3A"
+     ],
+     "bundled": [
+      "5.3D",
+      "5.3E"
+     ],
+     "lo": "I am learning to Multiply a decimal fraction and estimate to confirm the placement of the decimal.",
+     "sc": [
+      "I can multiply decimal fractions by a single digit whole number and use the units to help place the decimal.",
+      "I can multiply decimal fractions by a single digit whole number and estimate to confirm the placement of the decimal."
+     ],
+     "te": {
+      "M1.L11": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOls"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.S11-1"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to divide decimals by single-digit whole numbers using hundredth grid area models.",
+     "sc": [
+      "I divide decimals using unit form.",
+      "I can strategically decompose the decimal and divide.",
+      "I can use hundredth grid area models to divide decimals."
+     ],
+     "te": {
+      "M1.S11-1": "https://drive.google.com/file/d/1QFF7LH5V2o7HvdKWcKEd_PQDbm29tw-J/view?usp=sharing"
+     },
+     "note": "Supplemental Lesson 11-1"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 4,
+   "start": "2026-08-31",
+   "title": "Q1: W4 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L12"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to divide decimals by single-digit whole numbers",
+     "sc": [
+      "I divide decimals using unit form.",
+      "I can strategically decompose the decimal and divide.",
+      "I can use basic facts to divide decimals."
+     ],
+     "te": {
+      "M1.L12": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOnk"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L14"
+     ],
+     "teks": [
+      "5.3F"
+     ],
+     "bundled": [
+      "5.3G"
+     ],
+     "lo": "I am learning to divide decimals using place value understanding, including remainders in the smallest unit.",
+     "sc": [
+      "I can use place value disks to represent division of decimals",
+      "I can relate division with place value disks to the standard algorithm."
+     ],
+     "te": {
+      "M1.L14": "https://drive.google.com/file/d/19pGJrf_-648skMmQRr7CihgjIFAoPKlZ/edit?disco=AAAAsCsWOnw"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L14"
+     ],
+     "teks": [
+      "5.3F"
+     ],
+     "bundled": [
+      "5.3G"
+     ],
+     "lo": "I am learning to divide decimals using place value understanding, including remainders in the smallest unit.",
+     "sc": [
+      "I can use place value disks to represent division of decimals",
+      "I can relate division with place value disks to the standard algorithm."
+     ],
+     "te": {
+      "M1.L14": "https://drive.google.com/file/d/19pGJrf_-648skMmQRr7CihgjIFAoPKlZ/edit?disco=AAAAsCsWOnw"
+     },
+     "note": "Lesson 14 continued; could be a potential Flex/ Re-teach day, if finished with lesson 14"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L15"
+     ],
+     "teks": [
+      "5.3G"
+     ],
+     "bundled": [
+      "5.3F"
+     ],
+     "lo": "I am learning to solve word problems using decimal operations.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution."
+     ],
+     "te": {
+      "M1.L15": "https://drive.google.com/open?id=19pGJrf_-648skMmQRr7CihgjIFAoPKlZ&disco=AAAAsCsWOn0"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 5,
+   "start": "2026-09-07",
+   "title": "Q1: W5 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Labor Day"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L1"
+     ],
+     "teks": [
+      "5.4A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to find factor pairs and define prime and composite.",
+     "sc": [
+      "I can identify the factors and the product represented in an array.",
+      "I can identify factors to define prime and composite numbers",
+      "I can identify factors of numbers and determine if they are prime or composite."
+     ],
+     "te": {
+      "M2.L1": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAsCKU-r0"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L2"
+     ],
+     "teks": [
+      "5.4A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to test for factors of larger numbers.",
+     "sc": [
+      "I can use division to find factors of larger numbers.",
+      "I can use the associative property to find additional factors of larger numbers.",
+      "I can use division or the associative property to find factors of larger numbers."
+     ],
+     "te": {
+      "M2.L2": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAySi_N_8"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L3"
+     ],
+     "teks": [
+      "5.4A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to determine if a whole number is a multiple of another number.",
+     "sc": [
+      "I can determine the meaning of the word multiple.",
+      "I can determine if one number is a multiple of another number, and list multiples of given numbers.",
+      "I can use the associative property to see that any multiple of 6 is also a multiple of 3 and 2."
+     ],
+     "te": {
+      "M2.L3": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAySi_OCI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L4"
+     ],
+     "teks": [
+      "5.4A"
+     ],
+     "bundled": [],
+     "lo": "I am learning the properties of prime and composite numbers to 100.",
+     "sc": [
+      "I can define and identify prime and composite numbers to 100.",
+      "I can describe the properties of prime and composite numbers to 100.",
+      "I can use multiples to determine prime and composite numbers."
+     ],
+     "te": {
+      "M2.L4": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAua-6kRo"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 6,
+   "start": "2026-09-14",
+   "title": "Q1: W6 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L5"
+     ],
+     "teks": [
+      "5.3B"
+     ],
+     "bundled": [
+      "5.4F"
+     ],
+     "lo": "I am learning to multiply multi-digit whole numbers and multiples of 10.",
+     "sc": [
+      "I can use my knowledge of place value units and basic facts to multiply multi-digit whole numbers and multiples of 10.",
+      "I can apply the distributive property to multiply multi-digit whole numbers and multiples of 10.",
+      "I can apply the associative property to multiply multi-digit whole numbers and multiples of 10."
+     ],
+     "te": {
+      "M2.L5": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAua-6kRw"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L6"
+     ],
+     "teks": [
+      "5.3A"
+     ],
+     "bundled": [
+      "5.3B",
+      "5.4F"
+     ],
+     "lo": "I am learning to estimate multi-digit products.",
+     "sc": [
+      "I can estimate multi-digit products by rounding factors to a basic fact.",
+      "I can estimate multi-digit products by using place value knowledge and rounding.",
+      "I can reason if the estimate will be higher or lower than the actual amount."
+     ],
+     "te": {
+      "M2.L6": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAsDgKypQ"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L7"
+     ],
+     "teks": [
+      "5.4E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to write and interpret numerical expressions.",
+     "sc": [
+      "I can rewrite math statements from word form to numerical expressions and represent them with diagrams.",
+      "I can rewrite numerical expressions in word form.",
+      "I can compare expressions in word form and numerical form."
+     ],
+     "te": {
+      "M2.L7": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAsDgKysg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.S7-1"
+     ],
+     "teks": [
+      "5.4E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to describe the meaning of parentheses in a numeric expression and evaluate it.",
+     "sc": [
+      "I can match a story problem to both a strip diagram and a numeric expression.",
+      "II can identify which part of a numeric expression should be evaluated first based on grouping symbols.",
+      "I can evaluate numerical expressions containing parentheses to find the correct answer."
+     ],
+     "te": {
+      "M2.S7-1": "https://drive.google.com/file/d/12EaZKYJSwxRZT_1Av_of5I_y6NvWoHGL/view?usp=sharing"
+     },
+     "note": "Supplemental Lesson 7-1"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.S7-2"
+     ],
+     "teks": [
+      "5.4E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to describe the meaning of brackets and find the value of numeric expressions with up to two levels of grouping.",
+     "sc": [
+      "I can describe the meaning of brackets.",
+      "I can find the value of numeric expressions with up to two levels of grouping."
+     ],
+     "te": {
+      "M2.S7-2": "https://drive.google.com/file/d/1FHc5OPNTxn31mKfalSkPt2QO6uwvWeTs/view?usp=sharing"
+     },
+     "note": "Supplemental Lesson 7-2"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 7,
+   "start": "2026-09-21",
+   "title": "Q1: W7 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L8"
+     ],
+     "teks": [
+      "5.3B"
+     ],
+     "bundled": [
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to convert numerical expressions into unit form.",
+     "sc": [
+      "I can designate the unit and relate the unit to the expression.",
+      "I can use the commutative property when designating units.",
+      "I can draw a diagram to represent expressions in unit form",
+      "I can use place value understanding to decompose factors and solve for products mentally.",
+      "I can solve for products using the unit form strategy to support mental math."
+     ],
+     "te": {
+      "M2.L8": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDZPRZI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L9"
+     ],
+     "teks": [
+      "5.3B"
+     ],
+     "bundled": [
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to connect visual models and the distributive property to partial products of the standard algorithm without renaming.",
+     "sc": [
+      "I can represent units using first the strip diagram and then the area model.",
+      "I can solve for products of two-digit and two-digit numbers using the area model and the standard algorithm.",
+      "I can solve for products of two-digit and three-digit numbers."
+     ],
+     "te": {
+      "M2.L9": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDZPRaA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L10"
+     ],
+     "teks": [
+      "5.3B"
+     ],
+     "bundled": [
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to connect area models and the distributive property to partial products of the standard algorithm with renaming.",
+     "sc": [
+      "I can connect area models with the standard algorithm for multiplication.",
+      "I can solve for products using the standard algorithm."
+     ],
+     "te": {
+      "M2.L10": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDZPRaE"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L13"
+     ],
+     "teks": [
+      "5.3A"
+     ],
+     "bundled": [
+      "5.3B",
+      "5.4B",
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to fluently multiply multi-digit whole numbers using the standard algorithm to solve multi-step word problems.",
+     "sc": [
+      "I can solve multiplication multi-digit word problems using the standard algorithm."
+     ],
+     "te": {
+      "M2.L13": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDZPRiM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 8,
+   "start": "2026-09-28",
+   "title": "Q1: W8 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L14"
+     ],
+     "teks": [
+      "5.3A",
+      "5.3D",
+      "5.3E"
+     ],
+     "bundled": [
+      "5.4B",
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to multiply decimal fractions with tenths by multi-digit wholenumbers using place value understanding to record partial products.",
+     "sc": [
+      "I can estimate the product",
+      "I can multiply the decimal factor with tens and multiply as if both factors are whole numbers.",
+      "I can divide the product by tens to find the original answer when a factor was a decimal."
+     ],
+     "te": {
+      "M2.L14": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDZPRkY"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L15"
+     ],
+     "teks": [
+      "5.3A",
+      "5.3D",
+      "5.3E"
+     ],
+     "bundled": [
+      "5.4B",
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to multiply decimal fractions by multi-digit whole numbersthrough conversion to a whole number problem and reasoning about the placement of the decimal.",
+     "sc": [
+      "I estimate the product.",
+      "I can solve, using the standard algorithm.",
+      "I can explain my thinking when placing the decimal in the product."
+     ],
+     "te": {
+      "M2.L15": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDkkvHE"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L16"
+     ],
+     "teks": [
+      "5.3A",
+      "5.3D",
+      "5.3E"
+     ],
+     "bundled": [
+      "5.4B",
+      "5.4E",
+      "5.4F"
+     ],
+     "lo": "I am learning to reason about the product of a whole number and a decimal with hundredths using place value understanding and estimation.",
+     "sc": [
+      "I estimate the product.",
+      "I can solve, using the standard algorithm.",
+      "I can represent the product using an area model."
+     ],
+     "te": {
+      "M2.L16": "https://drive.google.com/file/d/1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX/edit?disco=AAAAtDkkvZk"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.S16-1"
+     ],
+     "teks": [
+      "5.3E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to represent the product of decimals with tenths using hundredths grid area models.",
+     "sc": [
+      "I can represent the product of decimals with tenths.",
+      "I can use hundredths grid area models to represent the product of decimals."
+     ],
+     "te": {
+      "M2.S16-1": "https://drive.google.com/file/d/1oXpNMEgFXAoDEFYlBD0rjztkd_8_G534/view?usp=sharing"
+     },
+     "note": "Supplemental Lesson 16-1"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.S16-2"
+     ],
+     "teks": [
+      "5.3E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to reason about the product of decimals with tenths using area models.",
+     "sc": [
+      "I can reason about the product of decimals with tenths.",
+      "I can use area models to determine the product of decimals with tenths."
+     ],
+     "te": {
+      "M2.S16-2": "https://drive.google.com/file/d/1K3SfkO5SziVwQBehVJqeWmFuBANhP9Sg/view?usp=sharing"
+     },
+     "note": "Supplemental Lesson 16-2"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 9,
+   "start": "2026-10-05",
+   "title": "Q1: W9 IPC Gr5 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L17"
+     ],
+     "teks": [
+      "5.3B",
+      "5.3D",
+      "5.3E",
+      "5.7A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to use whole number multiplication to express equivalent measurements.",
+     "sc": [
+      "I can rename units using equivalency statements.",
+      "I can use equivalency statements to determine equivalent measurements"
+     ],
+     "te": {
+      "M2.L17": "https://drive.google.com/open?id=1uaebtbeg_gft4nd5LB1K9uAhfEQTm6wX&disco=AAAArG9Z3hg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "Standards Mastery Check #1 Math"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Standards Mastery Check #1 RLA"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    },
+    {
+     "dow": "Fri",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    }
+   ]
+  }
+ ]
+}

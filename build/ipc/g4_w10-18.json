@@ -1,0 +1,1007 @@
+{
+ "grade": 4,
+ "weeks": [
+  {
+   "q": 2,
+   "wk": 10,
+   "start": "2026-10-12",
+   "title": "Q2: W1 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L15"
+     ],
+     "teks": [
+      "4.4E"
+     ],
+     "bundled": [
+      "4.4F",
+      "4.4G",
+      "4.4H",
+      "4.5A"
+     ],
+     "lo": "I am learning how to understand and solve division problems with a remainder using the array and area models.",
+     "sc": [
+      "I can solve a division problem with and without a remainder using the area model.",
+      "I can solve a division problem using an array and the area model."
+     ],
+     "te": {
+      "M3.L15": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAvbvKedQ"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L16"
+     ],
+     "teks": [
+      "4.4E"
+     ],
+     "bundled": [
+      "4.4F",
+      "4.4G",
+      "4.4H",
+      "4.5A"
+     ],
+     "lo": "I am learning how to understand and solve two-digit dividend division problems with a remainder in the ones place by using place value disks.",
+     "sc": [
+      "I can model division with place value disks",
+      "I can relate my work on the place value chart to long division.",
+      "I can check my quotient and remainder with multiplication and addition."
+     ],
+     "te": {
+      "M3.L16": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAvbvKeew"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L17"
+     ],
+     "teks": [
+      "4.4E"
+     ],
+     "bundled": [
+      "4.4F",
+      "4.4G",
+      "4.4H",
+      "4.5A"
+     ],
+     "lo": "I am learning how to represent and solve division problems requiring decomposing a remainder in the tens.",
+     "sc": [
+      "I can divide two-digit numbers by one-digit numbers using place value disks, regrouping in the tens.",
+      "I can relate the model to the steps in the algorithm.",
+      "I can check my quotient and remainder with multiplication and addition."
+     ],
+     "te": {
+      "M3.L17": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAvbvKeg4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L18"
+     ],
+     "teks": [
+      "4.4F"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4G",
+      "4.4H",
+      "4.5A"
+     ],
+     "lo": "I am learning how to find whole number quotients and remainders.",
+     "sc": [
+      "I can divide a two-digit number by a one-digit divisor with a remainder in the tens place.",
+      "I can divide with a remainder in the tens and ones places using the division algorithm.",
+      "I can use mental math to divide and calculate a remainder."
+     ],
+     "te": {
+      "M3.L18": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAvbvKehA"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 11,
+   "start": "2026-10-19",
+   "title": "Q2: W2 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L20"
+     ],
+     "teks": [
+      "4.4E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to solve division problems without remainders using the areamodel.",
+     "sc": [
+      "I can solve division problems without remainders.",
+      "I can solve division problems without remainders using the area model."
+     ],
+     "te": {
+      "M3.L20": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAvbvKehI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L22"
+     ],
+     "teks": [
+      "4.4E"
+     ],
+     "bundled": [
+      "4.4F",
+      "4.4H",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to divide multiples of 10, 100, and 1,000 by single-digit numbers.",
+     "sc": [
+      "I can rewrite expressions in unit form.",
+      "I can represent division expressions using place value disks.",
+      "I can decompose units using place value disks and divide.",
+      "I can solve for division of multiples of 10, 100, and 1,000"
+     ],
+     "te": {
+      "M3.L22": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAvbOzFiA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L23"
+     ],
+     "teks": [
+      "4.4E",
+      "4.4F"
+     ],
+     "bundled": [
+      "4.4H",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to represent division problems that include decomposing a remainder in the hundreds place.",
+     "sc": [
+      "I can represent division expressions using place value disks.",
+      "I can decompose units using place value disks and divide.",
+      "I can relate division using place value disks to the standard algorithm."
+     ],
+     "te": {
+      "M3.L23": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAvcOzgh8"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L24"
+     ],
+     "teks": [
+      "4.4E",
+      "4.4F"
+     ],
+     "bundled": [
+      "4.4H",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to represent and solve three-digit dividend division with divisorsof 2, 3, 4, and 5.",
+     "sc": [
+      "I can represent division expressions using place value disks.",
+      "I can decompose units using place value disks and divide.",
+      "I can relate division using place value disks to the standard algorithm."
+     ],
+     "te": {
+      "M3.L24": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAvcOzgiE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L25"
+     ],
+     "teks": [
+      "4.4F"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4H",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to represent numerically four-digit dividend division with divisorsof 2, 3, 4, and 5, decomposing a remainder up to three times.",
+     "sc": [
+      "I can divide using the standard algorithm and multiply to check the answer.",
+      "I can divide using the standard algorithm and decompose units as necessary.",
+      "I can represent a division problem using a strip diagram."
+     ],
+     "te": {
+      "M3.L25": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAvcOzhRY"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 12,
+   "start": "2026-10-26",
+   "title": "Q2: W3 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L26"
+     ],
+     "teks": [
+      "4.4F"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4H",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to solve division problems with a zero in the dividend or with a zero in the quotient.",
+     "sc": [
+      "I can divide with a zero in the dividend",
+      "I can divide with a zero in the quotient.",
+      "I can check my solutions with multiplication."
+     ],
+     "te": {
+      "M3.L26": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAvcOzhRc"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L27"
+     ],
+     "teks": [
+      "4.4H"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4F",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to interpret and find whole number quotients and remainders to solve one-step division word problems with larger divisors of 6, 7, 8, and 9.",
+     "sc": [
+      "I can represent what I know and what I need to know with a strip diagram.",
+      "I can apply the same division strategy for small divisors to larger divisors.",
+      "I can explain what the remainder represents."
+     ],
+     "te": {
+      "M3.L27": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAABEZdao4E"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L28"
+     ],
+     "teks": [
+      "4.4H"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4F",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to interpret and find whole number quotients and remainders to solve one-step division word problems with larger divisors of 6, 7, 8, and 9.",
+     "sc": [
+      "I can represent what I know and what I need to know with a strip diagram.",
+      "I can apply the same division strategy for small divisors to larger divisors.",
+      "I can explain what the remainder represents."
+     ],
+     "te": {
+      "M3.L28": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAv_U_jJ0"
+     },
+     "note": "Concept Development: Revised - TEKS 4.5A"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L29"
+     ],
+     "teks": [
+      "4.4H"
+     ],
+     "bundled": [
+      "4.4E",
+      "4.4F",
+      "4.5A",
+      "4.2A",
+      "4.4B",
+      "4.4G"
+     ],
+     "lo": "I am learning how to explain the connection of the area model of division to the long division algorithm for three- and four-digit dividends.",
+     "sc": [
+      "I can represent long division problems using the area model",
+      "I can decompose dividends using number bonds to solve long division problems.",
+      "I can explain the connection of the area model of division to the long division algorithm."
+     ],
+     "te": {
+      "M3.L29": "https://drive.google.com/file/d/1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF/edit?disco=AAAAv_U_jP8"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #3"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 13,
+   "start": "2026-11-02",
+   "title": "Q2: W4 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L30"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4G",
+      "4.4H",
+      "4.5A",
+      "4.5C",
+      "4.5D"
+     ],
+     "lo": "I am learning how to multiply two-digit multiples of 10 by two-digit numbers usinga place value chart.",
+     "sc": [
+      "I can use the associative property to rewrite multiplication expressions.",
+      "I can represent the expression on a place value chart.",
+      "I can multiply using a place value chart.",
+      "I can use the distributive property to multiply without a place value chart.",
+      "I can relate the associative and distributive property when multiplying."
+     ],
+     "te": {
+      "M3.L30": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAv_U_jWs"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L31"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4G",
+      "4.4H",
+      "4.5A",
+      "4.5C",
+      "4.5D"
+     ],
+     "lo": "I am learning how to multiply two-digit multiples of 10 by two-digit numbers usingthe area model.",
+     "sc": [
+      "I can represent multiplication expressions with an area model.",
+      "I can find the partial products using the area model.",
+      "I can relate an area model to the vertical method."
+     ],
+     "te": {
+      "M3.L31": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAv_U_jXw"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L32"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4G",
+      "4.4H",
+      "4.5A",
+      "4.5C",
+      "4.5D"
+     ],
+     "lo": "I am learning how to multiply two-digit by two-digit numbers using four partial products.",
+     "sc": [
+      "I can use the distributive property to represent and solve two-digit by two-digit multiplication.",
+      "I can use an area model and partial products to solve.",
+      "I can use partial products to solve and verify with an area model.",
+      "I can find the partial products and solve, without using an area model."
+     ],
+     "te": {
+      "M3.L32": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAv_kHKEg"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L33",
+      "M3.L34"
+     ],
+     "teks": [
+      "4.4D"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4G",
+      "4.4H",
+      "4.5A",
+      "4.5C",
+      "4.5D"
+     ],
+     "lo": "I am learning how to transition from four partial products to the standard algorithm for two-digit by two-digit multiplication.",
+     "sc": [
+      "I can represent multiplication expressions with an area model showing four partial products.",
+      "I can compose one factor in the area model and then solve using only two partial products.",
+      "I can solve using two partial products without an area model."
+     ],
+     "te": {
+      "M3.L33": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAv_kHKSE",
+      "M3.L34": "https://drive.google.com/open?id=1OSnRoThXgNGokRA6yICu_X1ZCybGa1EF&disco=AAAAv_kHKV8"
+     },
+     "note": "Lessons combined: teach Lesson 33 in its entirety and include Problems 3 & 5 from Lesson 34 Problem Set; do the Application Problem from Lesson 34."
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 14,
+   "start": "2026-11-09",
+   "title": "Q2: W5 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L1"
+     ],
+     "teks": [
+      "4.6A"
+     ],
+     "bundled": [
+      "4.6C"
+     ],
+     "lo": "I am learning how to identify and draw points, lines, line segments, rays, and angles and recognize them in various contexts and familiar figures.",
+     "sc": [
+      "I can draw, identify, and label points, a line segment, and a line.",
+      "I can draw, identify, and label rays and angles.",
+      "I can draw, identify, and label points, line segments, and angles in a familiar figure.",
+      "I can analyze a familiar figure."
+     ],
+     "te": {
+      "M4.L1": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGX0"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L2"
+     ],
+     "teks": [
+      "4.6A"
+     ],
+     "bundled": [
+      "4.6C"
+     ],
+     "lo": "I am learning how to use right angles to determine whether angles are equal to, greater than, or less than right angles and draw right, obtuse, and acute angles.",
+     "sc": [
+      "I can fold paper to create a right angle",
+      "I can determine whether angles are equal to, greater than, or less than a right angle.",
+      "I can draw right, acute, and obtuse angles."
+     ],
+     "te": {
+      "M4.L2": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGZc"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L3"
+     ],
+     "teks": [
+      "4.6A"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to identify, define, and draw perpendicular and parallel lines.",
+     "sc": [
+      "I can define perpendicular and parallel lines.",
+      "I can identify perpendicular lines by measuring right angles with a right angle template.",
+      "I can recognize and write symbols for perpendicular and parallel segments.",
+      "I can draw perpendicular and parallel line segments."
+     ],
+     "te": {
+      "M4.L3": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGZg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "4.6A"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to identify, define, and draw perpendicular and parallel lines.",
+     "sc": [
+      "I can define perpendicular and parallel lines.",
+      "I can identify perpendicular lines by measuring right angles with a right angle template.",
+      "I can recognize and write symbols for perpendicular and parallel segments.",
+      "I can draw perpendicular and parallel line segments."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGnY"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L5"
+     ],
+     "teks": [
+      "4.7A",
+      "4.7B"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to use a circular protractor to understand a 1-degree angle as 1/360 of any circle and explore benchmark angles using the protractor.",
+     "sc": [
+      "I can reason about the number of turns necessary to make a full turn with different fractions of a full turn.",
+      "I can Use a circular protractor to measure four quarter turns.",
+      "I can measure and draw benchmark angles with the protractor.",
+      "I can draw an angle less than 180° using a 180° protractor."
+     ],
+     "te": {
+      "M4.L5": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGZw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 15,
+   "start": "2026-11-16",
+   "title": "Q2: W6 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L6"
+     ],
+     "teks": [
+      "4.7A",
+      "4.7B"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to use a circular protractor to understand a 1-degree angle as 1/360 of any circle and explore benchmark angles using the protractor.",
+     "sc": [
+      "I can reason about the number of turns necessary to make a full turn with different fractions of a full turn.",
+      "I can use a circular protractor to measure four quarter turns.",
+      "I can measure and draw benchmark angles with the protractor.",
+      "I can draw an angle less than 180° using a 180° protractor."
+     ],
+     "te": {
+      "M4.L6": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGnE"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L7"
+     ],
+     "teks": [
+      "4.7C",
+      "4.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to measure and draw angles, sketch given angle measures, and verify with a protractor.",
+     "sc": [
+      "I can measure angles less than 180° using a circular and 180° protractor.",
+      "I can measure an angle greater than 180° by subtracting from 360°.",
+      "I can measure an angle greater than 180° by adding on to 180°.",
+      "I can recognize turning angles in relation to a clock, a room and various contexts."
+     ],
+     "te": {
+      "M4.L7": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv_XTGng"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L9"
+     ],
+     "teks": [
+      "4.7E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to decompose angles using pattern blocks.",
+     "sc": [
+      "I can derive the angle measures of an equilateral triangle.",
+      "I can verify the equilateral triangle’s angle measurements with a protractor.",
+      "I can derive the angle measure of unknown angles, and verify with a protractor."
+     ],
+     "te": {
+      "M4.L9": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv-DEdEc"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L10"
+     ],
+     "teks": [
+      "4.7E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to use the addition of adjacent angle measures to solve problemsusing a letter for the unknown angle measure.",
+     "sc": [
+      "I can use benchmark angle measures to show that angle measures are additive.",
+      "I can demonstrate that the angle measure of the whole is the sum of the angle measures of the parts."
+     ],
+     "te": {
+      "M4.L10": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAv-DEdE8"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #4"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 16,
+   "start": "2026-11-30",
+   "title": "Q2: W7 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L12"
+     ],
+     "teks": [
+      "4.6B"
+     ],
+     "bundled": [
+      "4.6A"
+     ],
+     "lo": "I am learning how to recognize lines of symmetry for given two-dimensional figures.Identify line-symmetric figures, and draw lines of symmetry.",
+     "sc": [
+      "I can recognize folded symmetry.",
+      "I can identify lines of symmetry in familiar figures.",
+      "I can draw lines of symmetry."
+     ],
+     "te": {
+      "M4.L12": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAw4AfN9g"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready Inform MOY"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready Inform MOY"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L13"
+     ],
+     "teks": [
+      "4.6C"
+     ],
+     "bundled": [
+      "4.6A"
+     ],
+     "lo": "I am learning how to analyze and classify triangles based on angle measure.",
+     "sc": [
+      "I can discover the attributes of various triangles.",
+      "I can classify triangles by angle measure.",
+      "I can define a triangle.",
+      "I can classify triangles by side length."
+     ],
+     "te": {
+      "M4.L13": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAw4AfN9k"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L14"
+     ],
+     "teks": [
+      "4.6C"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to define and construct triangles from given criteria.",
+     "sc": [
+      "I can construct an obtuse triangle.",
+      "I can construct a right triangle"
+     ],
+     "te": {
+      "M4.L14": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAw4AfOBs"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 17,
+   "start": "2026-12-07",
+   "title": "Q2: W8 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L15"
+     ],
+     "teks": [
+      "4.6D"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to classify quadrilaterals based on parallel and perpendicular linesand the presence or absence of angles of a specified size.",
+     "sc": [
+      "I construct and define trapezoids.",
+      "I can construct and define parallelograms.",
+      "I can construct and define rectangles.",
+      "I can construct and define squares."
+     ],
+     "te": {
+      "M4.L15": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAw4AfODg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "Standards Mastery Check #2 RLA"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Standards Mastery Check #2 Math"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L16"
+     ],
+     "teks": [
+      "4.6D"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to reason about attributes to construct quadrilaterals on square or triangular grid paper.",
+     "sc": [
+      "I can construct a rhombus on a triangular grid.",
+      "I can construct a rectangle on a triangular grid.",
+      "I can construct non-rectangular parallelograms on a rectangular grid."
+     ],
+     "te": {
+      "M4.L16": "https://drive.google.com/open?id=1ockd3KqMh64GKlVFJrBG92JwyAIaGBWD&disco=AAAAw4AfOHg"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L1",
+      "M5.L2"
+     ],
+     "teks": [
+      "4.3A",
+      "4.3B"
+     ],
+     "bundled": [
+      "4.3C",
+      "4.3F"
+     ],
+     "lo": "I am learning how to decompose fractions as a sum of unit fractions using stripdiagrams.",
+     "sc": [
+      "I can write decompositions of fractions represented by strip diagrams as number sentences.",
+      "I can draw decompositions of fractions from number sentences using strip diagrams."
+     ],
+     "te": {
+      "M5.L1": "https://drive.google.com/open?id=1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c&disco=AAAAz7DPofc",
+      "M5.L2": "https://drive.google.com/open?id=1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c&disco=AAAAz7DPogI"
+     },
+     "note": "Lessons combined: Fluency and Application Problem from Lesson 1; Concept Development Problems 1-3 from Lesson 1 and Problems 2-3 from Lesson 2; differentiate Problem Set and Exit Ticket based on student data."
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 18,
+   "start": "2026-12-14",
+   "title": "Q2: W9 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L4"
+     ],
+     "teks": [
+      "4.3A",
+      "4.3B"
+     ],
+     "bundled": [
+      "4.3C",
+      "4.3F"
+     ],
+     "lo": "I am learning how to decompose unit fractions using area models to showequivalence.",
+     "sc": [
+      "I can draw an area model to illustrate that two fractions are equivalent.",
+      "I can decompose a fraction and represent an equivalent fraction in an area model  as the sum and product of unit fractions.",
+      "I can model equivalent fractions and represent the decomposition as the sum and product of unit fractions."
+     ],
+     "te": {
+      "M5.L4": "https://drive.google.com/open?id=1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c&disco=AAAAz7DPolE"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L5"
+     ],
+     "teks": [
+      "4.3B",
+      "4.3C"
+     ],
+     "bundled": [
+      "4.3A",
+      "4.3F"
+     ],
+     "lo": "I am learning how to decompose fractions using area models to show equivalence.",
+     "sc": [
+      "I can use an area model to show that two fractions are equivalent.",
+      "I can draw an area model to represent the equivalence of two fractions, and express the equivalence as the sum of unit fractions.",
+      "I can decompose to create equivalent fractions by drawing an area model and then dividing the area model into smaller parts."
+     ],
+     "te": {
+      "M5.L5": "https://drive.google.com/open?id=1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c&disco=AAAAz7DPops"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L6"
+     ],
+     "teks": [
+      "4.3C"
+     ],
+     "bundled": [
+      "4.3B",
+      "4.3G"
+     ],
+     "lo": "I am learning how to use the area model and multiplication to show the equivalence of two fractions.",
+     "sc": [
+      "I can determine that multiplying the numerator and denominator by the same factor results in an equivalent fraction.",
+      "I can determine an equivalent fraction for the area selected, given an area model.",
+      "I can express an equivalent fraction using multiplication, and verify by drawing an area model."
+     ],
+     "te": {
+      "M5.L6": "https://drive.google.com/open?id=1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c&disco=AAAAzdQwBjQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L8"
+     ],
+     "teks": [
+      "4.3C"
+     ],
+     "bundled": [
+      "4.3B",
+      "4.3G"
+     ],
+     "lo": "I am learning how to use the area model and division to show the equivalence of twofractions.",
+     "sc": [
+      "I can compose the shaded fractions into larger fractional units.",
+      "I can express the equivalent fractions in a number sentence using division.",
+      "I can explain how to use an area model and division to show the equivalence of two fractions."
+     ],
+     "te": {
+      "M5.L8": "https://drive.google.com/open?id=1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c&disco=AAAA5EvU980"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L10"
+     ],
+     "teks": [
+      "4.3C"
+     ],
+     "bundled": [
+      "4.3B",
+      "4.3G"
+     ],
+     "lo": "I am learning how to explain fraction equivalence using a strip diagram and the number line, and relate that to the use of multiplication and division.",
+     "sc": [
+      "I can use a strip diagram and number line to find equivalent fractions for halves, fourths, and eighths.",
+      "I can use a number line, multiplication, and division to decompose and compose fractions.",
+      "I can decompose a non-unit fraction using a number line and division."
+     ],
+     "te": {
+      "M5.L10": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4EY"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1635 @@
+[
+ {
+  "code": "4.5A",
+  "mis": [
+   {
+    "m": "Writes one equation for only the first step of a two-step problem and stops, such as finding the cost of 4 boxes but never subtracting it from the money the class had.",
+    "why": "Students grab the first numbers and operation they notice instead of planning what the question asks for.",
+    "fix": "Before calculating, have students circle the question, label the unknown with a letter, and sketch the whole strip diagram showing every quantity."
+   },
+   {
+    "m": "Places the letter in the wrong part of the strip diagram, labeling a part as the total, then adds when they should subtract.",
+    "why": "Students attach the letter to the last number mentioned rather than to the quantity that is unknown.",
+    "fix": "Ask 'Is the unknown the whole or a part?' and have students point to the bracket for the total before writing the letter."
+   },
+   {
+    "m": "Writes a run-on equation like 24 x 3 = 72 + 15 = 87 to show two steps.",
+    "why": "Students treat the equal sign as 'here comes the answer' instead of 'is the same value as.'",
+    "fix": "Have students write one equation per step or one combined equation, such as (24 x 3) + 15 = t, and check that both sides are truly equal."
+   }
+  ],
+  "cra": {
+   "c": "Students act out the problem with counters or base-ten blocks, building each group or part before combining or removing amounts.",
+   "r": "Students draw strip diagrams with labeled parts and a bracket for the total, marking the unknown with a letter such as p or t, and draw a second strip for the second step when needed.",
+   "a": "Students write an equation with a letter for the unknown, such as 4 x 125 + 60 = c, matching each number and operation to a part of their strip diagram.",
+   "look": "Students sketch and label a strip diagram before computing and point to where the letter in their equation lives on the diagram."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide which step to do first?",
+     "What does the letter in your equation stand for?"
+    ],
+    "advance": [
+     "Can you write one equation that shows both steps at once?",
+     "Write a new question for this same strip diagram that needs a different operation."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which part of your strip diagram is the total?",
+     "Where in the story did you get this number?"
+    ],
+    "advance": [
+     "What do you know after step one that you didn't know before?",
+     "How could you check your answer using the strip diagram?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the part of the strip we don't know yet.",
+     "Is this amount getting bigger or smaller in the story?"
+    ],
+    "advance": [
+     "What letter could we use for the number we don't know?",
+     "Do we need to put these parts together or take one away?"
+    ],
+    "support": [
+     "Read the problem in chunks and draw one part of the strip diagram after each sentence.",
+     "Give a partially drawn strip diagram with the total bracket labeled so students only fill in the parts."
+    ]
+   }
+  },
+  "stems": [
+   "The letter ___ stands for ___.",
+   "First I need to find ___, then I can find ___.",
+   "My strip diagram shows ___ parts and the total is ___.",
+   "I used ___ because the story says ___.",
+   "I know my answer makes sense because ___."
+  ],
+  "t": "R",
+  "d": "Represent multi-step problems involving the four operations with whole numbers using strip diagrams and equations with a letter standing for the unknown quantity."
+ },
+ {
+  "code": "4.5B",
+  "mis": [
+   {
+    "m": "Finds the rule by looking only down the output column (adds 4 each time) and cannot predict the output for position 20.",
+    "why": "Students see the recursive pattern within one column and miss the relationship between position and value.",
+    "fix": "Cover the output column and ask, 'What do I do to the position number to get its value?' Test the rule on every row."
+   },
+   {
+    "m": "Writes a rule that works for the first row only, such as 'add 3' when the table shows 1 to 3, 2 to 6, 3 to 9.",
+    "why": "Students check one pair and stop, so they do not notice that the rule must work for every row.",
+    "fix": "Require students to test the rule on at least three rows and cross off any rule that fails."
+   },
+   {
+    "m": "Mixes up input and output, applying the rule backward when given an output and asked for the position.",
+    "why": "Students only practice going from input to output, so the inverse feels unfamiliar.",
+    "fix": "Use an arrow in both directions on the table and ask, 'If multiplying got us here, what undoes it?'"
+   }
+  ],
+  "cra": {
+   "c": "Students build a growing pattern with counters or square tiles, such as 3 tiles in stage 1, 6 in stage 2, and 9 in stage 3, and record the count for each stage.",
+   "r": "Students record the stages in an input-output table with columns for position and value, drawing an arrow from each position to its value labeled with the rule.",
+   "a": "Students write a numerical expression for each row, such as 3 x 4 for position 4, and use the rule to find values far down the sequence.",
+   "look": "Students build stages with tiles, fill in a two-column table, and test their rule across several rows before predicting a far-off value."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What rule connects the position to the value?",
+     "How did you know your rule works for every row?"
+    ],
+    "advance": [
+     "What would the value be at position 50? How do you know without building it?",
+     "Which position would have a value of 96?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What do you notice happening down the output column?",
+     "How does the position number help you find the value?"
+    ],
+    "advance": [
+     "Can you write an expression for row 7 without the table?",
+     "Why does adding 3 down the column fit with multiplying by 3 across?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many tiles are in stage 2?",
+     "Point to the position and the value in this row."
+    ],
+    "advance": [
+     "If stage 3 has 9 tiles, how many will stage 4 have?",
+     "What can you multiply 3 by to get 9?"
+    ],
+    "support": [
+     "Build each stage with tiles next to the table so students can count before writing.",
+     "Give a table with the first three rows filled and one blank row to test the rule."
+    ]
+   }
+  },
+  "stems": [
+   "The rule is ___ because ___.",
+   "Position ___ has a value of ___.",
+   "I tested my rule on ___ and it worked.",
+   "The expression ___ shows the value for position ___.",
+   "I notice that each time the position goes up by 1, the value ___."
+  ],
+  "t": "R",
+  "d": "Represent problems using an input‐output table and numerical expressions to generate a number pattern that follows a given rule representing the relationship of the values in the resulting sequence and their position in the sequence."
+ },
+ {
+  "code": "4.5C",
+  "mis": [
+   {
+    "m": "Adds only two sides of a rectangle for perimeter, using l + w and stopping.",
+    "why": "Students see the two labeled sides on the picture and forget the unlabeled sides are also part of the distance around.",
+    "fix": "Have students trace the full outline with a finger and label all four sides before writing a formula."
+   },
+   {
+    "m": "Confuses perimeter and area formulas, multiplying length times width when asked for perimeter.",
+    "why": "Both formulas use the same two numbers, and students memorize symbols without connecting them to a model.",
+    "fix": "Build the rectangle with square tiles: count the tiles inside for area and count the unit edges around the outside for perimeter."
+   },
+   {
+    "m": "Thinks 4s works for any rectangle, or believes a square needs a different formula from a rectangle.",
+    "why": "Students do not see a square as a special rectangle whose four sides are equal.",
+    "fix": "Start with 2l + 2w on a square, replace each l and w with s, and have students simplify to 4s themselves."
+   }
+  ],
+  "cra": {
+   "c": "Students build rectangles with square tiles on grid paper and walk a counter or string around the outside to measure the perimeter.",
+   "r": "Students draw rectangles on grid paper or as area models, labeling all four side lengths, and write the repeated addition that matches the outline.",
+   "a": "Students move from l + w + l + w to 2l + 2w and from rows of tiles to l x w, then show that 4s is the same as 2l + 2w for a square.",
+   "look": "Students build rectangles with tiles, label every side, and explain how their formula connects to the tiles or the outline."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why does 2l + 2w give the same answer as l + w + l + w?",
+     "How does your model show where the area formula comes from?"
+    ],
+    "advance": [
+     "Can two rectangles have the same perimeter but different areas? Show one.",
+     "Why does 4s only work for a square?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many tiles are in one row? How many rows?",
+     "Did you count the outside edges or the inside tiles?"
+    ],
+    "advance": [
+     "How could you find the total without counting every tile?",
+     "Can you write a shorter expression for the four sides?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put your finger on the start and trace all the way around.",
+     "How many sides does the rectangle have?"
+    ],
+    "advance": [
+     "Are the top and bottom the same length?",
+     "Count the tiles in one row. How many rows are there?"
+    ],
+    "support": [
+     "Give a rectangle with all four sides already labeled and color the outline in one color.",
+     "Use tiles on a grid so students can count before they use a formula."
+    ]
+   }
+  },
+  "stems": [
+   "Perimeter is the distance ___.",
+   "Area is the number of ___.",
+   "I can use 2l + 2w because ___.",
+   "A square uses 4s because ___.",
+   "My model shows ___ rows of ___ tiles."
+  ],
+  "t": "U",
+  "d": "Use models to determine the formulas for the perimeter of a rectangle (l+w+l+w or 2l+2w), including the special form for perimeter of a square (4s) and the area of a rectangle (lxw)."
+ },
+ {
+  "code": "4.5D",
+  "mis": [
+   {
+    "m": "Reports area in units instead of square units, or gives a perimeter answer in square units.",
+    "why": "Students do not connect the unit label to what is being measured.",
+    "fix": "Ask 'Are we counting edges or squares?' and have students name the unit before writing the answer."
+   },
+   {
+    "m": "When given the area and one side, multiplies the two numbers instead of dividing to find the missing side.",
+    "why": "Students apply the area formula as a procedure without thinking about which value is unknown.",
+    "fix": "Write the formula with a letter for the missing side, such as 48 = 6 x w, and ask, 'Six times what makes 48?'"
+   },
+   {
+    "m": "Finds the area of the whole figure when the problem asks about a border or only part of a garden.",
+    "why": "Students do not reread the question after computing, so they answer a different question.",
+    "fix": "Have students shade the exact region the question asks about on their sketch before computing."
+   }
+  ],
+  "cra": {
+   "c": "Students build rectangular gardens or rugs with square tiles or color tiles and count the tiles for area and the outside edges for perimeter.",
+   "r": "Students sketch and label area models with known and unknown side lengths, using a letter for the missing dimension.",
+   "a": "Students write and solve equations such as 2 x 9 + 2 x w = 30 or 7 x l = 56, then check by substituting back into the formula.",
+   "look": "Students sketch and label rectangles, decide whether the problem asks for perimeter or area, and write an equation with a letter for the unknown side."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know this problem asked for area and not perimeter?",
+     "How can you check that your missing side is correct?"
+    ],
+    "advance": [
+     "Find all the rectangles with whole-number sides that have an area of 24 square units. Which has the smallest perimeter?",
+     "If you double the length, what happens to the area?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which numbers on your sketch are the sides?",
+     "What unit belongs with your answer?"
+    ],
+    "advance": [
+     "What equation shows the missing side?",
+     "How could you use division to find the width?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the length and the width.",
+     "Are we going around the outside or covering the inside?"
+    ],
+    "advance": [
+     "What number times 6 equals 30?",
+     "Can you show the area with tiles?"
+    ],
+    "support": [
+     "Provide a grid with the rectangle drawn so students can count squares to start.",
+     "Give a two-column chart labeled 'around' and 'inside' to sort the words in the problem."
+    ]
+   }
+  },
+  "stems": [
+   "This problem asks for ___ because ___.",
+   "The missing side is ___ because ___ x ___ = ___.",
+   "The area is ___ square units.",
+   "The perimeter is ___ units because ___.",
+   "I checked my answer by ___."
+  ],
+  "t": "R",
+  "d": "Solve problems related to perimeter and area of rectangles where dimensions are whole numbers."
+ },
+ {
+  "code": "4.6A",
+  "mis": [
+   {
+    "m": "Calls a ray a line or a line segment a line because the drawing has a pencil mark that stops on the page.",
+    "why": "Students focus on how long the drawing looks rather than on the arrowheads and endpoints.",
+    "fix": "Have students circle every endpoint and arrowhead before naming the figure: two endpoints is a segment, one endpoint and one arrow is a ray, two arrows is a line."
+   },
+   {
+    "m": "Says two lines are not parallel because they are drawn at different lengths or not lined up horizontally.",
+    "why": "Students think parallel lines must look like the lines on notebook paper.",
+    "fix": "Extend the lines with a ruler or straightedge and check whether they would ever cross."
+   },
+   {
+    "m": "Labels any two crossing lines as perpendicular.",
+    "why": "Students confuse intersecting with meeting at a right angle.",
+    "fix": "Have students test the corner with the square corner of an index card before using the word perpendicular."
+   }
+  ],
+  "cra": {
+   "c": "Students use string, straws, or pipe cleaners with clay endpoints to build points, segments, rays, and lines, and use an index card corner to test for right angles.",
+   "r": "Students draw and label each figure with correct notation, marking endpoints with dots and showing arrowheads, and sort drawings of line pairs into parallel, perpendicular, and intersecting.",
+   "a": "Students write the names and symbols for each figure and describe pairs of lines using precise vocabulary.",
+   "look": "Students build or draw figures with clear endpoints and arrowheads and use an index card corner to check for perpendicular lines."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide this is a ray and not a segment?",
+     "How do you know these lines are perpendicular?"
+    ],
+    "advance": [
+     "Can two lines be both intersecting and perpendicular? Explain.",
+     "Find examples of parallel and perpendicular lines in our classroom."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many endpoints does this figure have?",
+     "What tool did you use to check the angle?"
+    ],
+    "advance": [
+     "If we extended these lines, would they ever meet?",
+     "What is the difference between intersecting and perpendicular?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the endpoint.",
+     "Does this figure keep going in one direction or two?"
+    ],
+    "advance": [
+     "Do these lines make a square corner?",
+     "Will these lines ever cross?"
+    ],
+    "support": [
+     "Give a picture card for each term with arrows and endpoints highlighted in color.",
+     "Model using an index card corner on a right angle before students try."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___ because it has ___.",
+   "These lines are parallel because ___.",
+   "These lines are perpendicular because ___.",
+   "A ray is different from a line because ___.",
+   "I see a ___ in the classroom at ___."
+  ],
+  "t": "S",
+  "d": "Identify points, lines, line segments, rays, angles, and perpendicular and parallel lines."
+ },
+ {
+  "code": "4.6B",
+  "mis": [
+   {
+    "m": "Draws a diagonal line of symmetry on a rectangle that is not a square.",
+    "why": "Students think any line that splits the shape into two same-size pieces is a line of symmetry.",
+    "fix": "Have students fold a paper rectangle along the diagonal and check whether the halves match exactly on top of each other."
+   },
+   {
+    "m": "Finds only one line of symmetry on a figure that has several, such as a square or an equilateral triangle.",
+    "why": "Students stop after the first line they find.",
+    "fix": "Ask students to fold the cut-out shape every way they can and record each fold that matches."
+   },
+   {
+    "m": "Says a figure has no lines of symmetry because it is turned on the page.",
+    "why": "Students only look for vertical or horizontal lines.",
+    "fix": "Let students rotate the paper and test with a mirror or fold at any angle."
+   }
+  ],
+  "cra": {
+   "c": "Students cut out shapes and fold them to find lines of symmetry and use small mirrors to check whether one half reflects onto the other.",
+   "r": "Students draw lines of symmetry on dot paper or grid paper and complete half-drawn symmetric figures.",
+   "a": "Students record the number of lines of symmetry for each figure in a table and describe patterns, such as regular polygons having as many lines as sides.",
+   "look": "Students fold, test with mirrors, and draw every line of symmetry they find, explaining why other lines do not work."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know that fold is a line of symmetry?",
+     "How many lines of symmetry did you find? Are there more?"
+    ],
+    "advance": [
+     "What pattern do you notice between the number of sides and lines of symmetry in regular shapes?",
+     "Can you draw a figure with exactly two lines of symmetry?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What happened when you folded along this line?",
+     "Why doesn't this diagonal work for a rectangle?"
+    ],
+    "advance": [
+     "Can you find another way to fold it that matches?",
+     "What would you need to change so this shape has a line of symmetry?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Do the two halves match when you fold?",
+     "Point to the fold line."
+    ],
+    "advance": [
+     "Can you fold it another way?",
+     "Does it match if you hold the mirror here?"
+    ],
+    "support": [
+     "Provide pre-cut shapes with dotted fold lines to test first.",
+     "Use a mirror on the line so students see the reflection."
+    ]
+   }
+  },
+  "stems": [
+   "This line is a line of symmetry because ___.",
+   "This figure has ___ lines of symmetry.",
+   "This line is not a line of symmetry because ___.",
+   "When I folded the shape, ___.",
+   "I notice that ___."
+  ],
+  "t": "S",
+  "d": "Identify and draw one or more lines of symmetry, if they exist, for a two-dimensional figure."
+ },
+ {
+  "code": "4.6C",
+  "mis": [
+   {
+    "m": "Classifies a triangle as obtuse because it looks big or wide, without checking the angles.",
+    "why": "Students judge by overall size and shape rather than by one angle.",
+    "fix": "Have students check every angle with the corner of an index card and mark each as less than, equal to, or greater than a right angle."
+   },
+   {
+    "m": "Thinks a triangle can have two right angles or two obtuse angles.",
+    "why": "Students have not explored how angles in a triangle fit together.",
+    "fix": "Have students try to build a triangle with two right angles using straws and notice that the sides never meet."
+   },
+   {
+    "m": "Calls a right triangle acute because two of its angles are acute.",
+    "why": "Students count the majority of angles instead of using the one special angle.",
+    "fix": "Post the rule: look for one right or one obtuse angle first; only if all three are acute is it an acute triangle."
+   }
+  ],
+  "cra": {
+   "c": "Students build triangles with straws, geostrips, or on geoboards and test each angle against the square corner of an index card.",
+   "r": "Students draw triangles on dot paper, mark the right-angle box where it appears, and sort triangle cards into acute, right, and obtuse groups.",
+   "a": "Students write the classification with a reason, such as 'obtuse because one angle is greater than a right angle.'",
+   "look": "Students hold an index card corner against each angle of a triangle and sort triangles by their largest angle."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide this triangle is obtuse?",
+     "What tool helped you compare the angles?"
+    ],
+    "advance": [
+     "Can a triangle have more than one obtuse angle? How do you know?",
+     "Draw a right triangle that is also isosceles."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which angle did you check first?",
+     "Is this angle bigger or smaller than the corner of the card?"
+    ],
+    "advance": [
+     "What would make this triangle a right triangle?",
+     "Why does one angle decide the name?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this corner a square corner?",
+     "Point to the biggest angle."
+    ],
+    "advance": [
+     "Is this angle bigger or smaller than the square corner?",
+     "If one angle is a square corner, what kind of triangle is it?"
+    ],
+    "support": [
+     "Give each student an index card labeled 'right angle' to compare with.",
+     "Color-code angles: green for less than, blue for equal to, red for greater than a right angle."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___ triangle because ___.",
+   "This angle is ___ than a right angle.",
+   "The largest angle is ___.",
+   "A triangle cannot have two ___ angles because ___.",
+   "I checked the angles by ___."
+  ],
+  "t": "S",
+  "d": "Apply knowledge of right angles to identify acute, right, and obtuse triangles."
+ },
+ {
+  "code": "4.6D",
+  "mis": [
+   {
+    "m": "Says a square is not a rectangle because it has four equal sides.",
+    "why": "Students think shape names are exclusive, like labels for different objects.",
+    "fix": "List the properties of a rectangle (four right angles, opposite sides parallel) and check whether the square has each one."
+   },
+   {
+    "m": "Describes a trapezoid as having no parallel lines because the sides are slanted.",
+    "why": "Students look for horizontal and vertical lines only.",
+    "fix": "Have students trace each pair of opposite sides with two colors and extend them to see whether they would meet."
+   },
+   {
+    "m": "Sorts figures by how they look or by number of sides instead of the attribute named in the task.",
+    "why": "Students fall back on familiar sorting rules.",
+    "fix": "Post the sorting rule at the top of each group and have students state the attribute aloud as they place each figure."
+   }
+  ],
+  "cra": {
+   "c": "Students use pattern blocks, geoboards, or cut-out polygons and test sides with straightedges and angles with index card corners.",
+   "r": "Students mark parallel sides with arrows and right angles with small boxes on drawings, then sort figures in Venn diagrams or tables by those attributes.",
+   "a": "Students write classification statements, such as 'All squares are rectangles because they have four right angles.'",
+   "look": "Students mark parallel sides and right angles on figures and sort them using a named attribute, defending each placement."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which attribute did you use to sort these figures?",
+     "Why does the square belong in the rectangle group too?"
+    ],
+    "advance": [
+     "Can a figure have perpendicular sides but no parallel sides? Draw one.",
+     "What is one attribute every rhombus has?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How did you check whether these sides are parallel?",
+     "How many right angles did you find?"
+    ],
+    "advance": [
+     "Which group could this figure also belong to?",
+     "What would you change to make this a rectangle?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me the square corners on this shape.",
+     "Do these two sides ever meet?"
+    ],
+    "advance": [
+     "Does this shape have any square corners?",
+     "Put arrows on the sides that go the same direction."
+    ],
+    "support": [
+     "Provide an attribute checklist with pictures for parallel, perpendicular, and right angle.",
+     "Sort with only one attribute at a time before using two."
+    ]
+   }
+  },
+  "stems": [
+   "This figure has ___ pairs of parallel sides.",
+   "I classified this as ___ because ___.",
+   "A square is also a ___ because ___.",
+   "This figure does not have ___.",
+   "Every ___ has ___."
+  ],
+  "t": "R",
+  "d": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size."
+ },
+ {
+  "code": "4.7A",
+  "mis": [
+   {
+    "m": "Thinks an angle is bigger when its rays are drawn longer.",
+    "why": "Students see the size of the picture and not the amount of turn.",
+    "fix": "Show two angles with the same opening and different ray lengths on circles of different sizes and compare the turn."
+   },
+   {
+    "m": "Measures the length of the arc instead of the fraction of the circle cut out.",
+    "why": "Students confuse distance along the circle with the amount of the circle the angle covers.",
+    "fix": "Use circles of different sizes cut into the same number of equal parts so students see the same fraction of the circle at every size."
+   },
+   {
+    "m": "Places the vertex anywhere on the circle instead of at the center.",
+    "why": "Students do not see why the center matters for the angle.",
+    "fix": "Have students pin two strips at the center of a paper plate and turn one to show the angle as part of the circle."
+   }
+  ],
+  "cra": {
+   "c": "Students use paper plates or fraction circles with two strips pinned at the center to turn and 'cut out' parts of the circle.",
+   "r": "Students draw circles with the vertex at the center and shade the part cut out by the rays, naming it as a fraction of a full turn.",
+   "a": "Students describe angles in terms of a quarter turn, a half turn, or another fraction of a full turn and connect those to degree measures.",
+   "look": "Students turn strips around the center of a circle and shade or name the part of the circle the angle cuts out."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What part of the circle does this angle cut out?",
+     "Why does the vertex need to be at the center?"
+    ],
+    "advance": [
+     "Would the angle change if we used a bigger circle? Why or why not?",
+     "How could two angles cut out the same part of different circles?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where is the vertex on your circle?",
+     "What fraction of a full turn is this?"
+    ],
+    "advance": [
+     "How many of these angles would fill the whole circle?",
+     "What happens to the angle when the rays get longer?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the center of the circle.",
+     "Is this more or less than half the circle?"
+    ],
+    "advance": [
+     "Turn the strip a quarter of the way around.",
+     "Is this angle a quarter turn or a half turn?"
+    ],
+    "support": [
+     "Use fraction circles so students can see equal parts of the full turn.",
+     "Model with an arm on a clock face turning from 12 to 3."
+    ]
+   }
+  },
+  "stems": [
+   "The angle cuts out ___ of the circle.",
+   "The vertex is at ___.",
+   "The size of an angle depends on ___.",
+   "This angle is a ___ turn.",
+   "Longer rays do not change the angle because ___."
+  ],
+  "t": "U",
+  "d": "Illustrate the measure of an angle as the part of a circle whose center is at the vertex of the angle that is “cut out” by the rays of the angle; angle measures are limited to whole numbers."
+ },
+ {
+  "code": "4.7B",
+  "mis": [
+   {
+    "m": "Thinks a degree is a length along the circle, so a bigger circle has bigger degrees.",
+    "why": "Students link 'unit' to length units they already know.",
+    "fix": "Compare a small and large circle each cut into 360 equal turns and show that 1 degree is the same amount of turn on both."
+   },
+   {
+    "m": "Believes a full circle has 100 degrees or that a right angle is 100 degrees.",
+    "why": "Students overgeneralize from base-ten and percent-like benchmarks.",
+    "fix": "Build a benchmark chart: a full turn is 360 degrees, a half turn is 180, and a quarter turn is 90."
+   },
+   {
+    "m": "Cannot explain why an angle that cuts out 45 of the 360 equal parts measures 45 degrees.",
+    "why": "Students memorize the number without connecting it to counting equal parts of a turn.",
+    "fix": "Have students count the equal parts the angle cuts out and say, 'It cuts out 45 one-degree parts, so it is 45 degrees.'"
+   }
+  ],
+  "cra": {
+   "c": "Students use circular protractors or paper circles marked into equal parts to count small turns around the center.",
+   "r": "Students draw circles divided into fourths, eighths, and twelfths of a turn and label each part with its degree measure, such as 90 or 45 degrees.",
+   "a": "Students write that a full turn is 360 degrees and that an angle cutting out n of the 360 equal parts measures n degrees, using this to find benchmark angles.",
+   "look": "Students count equal parts of a full turn on a circle and explain degrees as equal pieces of that turn."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many degrees are in a full circle, and why?",
+     "How do you know this angle is 90 degrees?"
+    ],
+    "advance": [
+     "If an angle cuts out one-eighth of a circle, how many degrees is it?",
+     "Why is 1 degree the same on a small circle and a big one?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many equal parts make the full turn?",
+     "How many parts does this angle cut out?"
+    ],
+    "advance": [
+     "What is half of 360? What angle would that be?",
+     "How could you find the degrees in one-third of a full turn?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many degrees are in a full circle?",
+     "Is this a quarter turn?"
+    ],
+    "advance": [
+     "If a full turn is 360, what is a half turn?",
+     "Count the equal parts this angle covers."
+    ],
+    "support": [
+     "Give a circle already marked at 90, 180, and 270 degrees.",
+     "Use a clock face where each hour mark is 30 degrees."
+    ]
+   }
+  },
+  "stems": [
+   "A full turn is ___ degrees.",
+   "One degree is one three-hundred-sixtieth of ___.",
+   "This angle cuts out ___ degrees because ___.",
+   "A quarter turn is ___ degrees.",
+   "I know degrees are the same on any circle because ___."
+  ],
+  "t": "U",
+  "d": "Illustrate degrees as the units used to measure an angle, where 1/360 of any circle is 1 degree and an angle that “cuts” n/360 out of any circle whose center is at the angle’s vertex has a measure of n degrees; angle measures are limited to whole numbers."
+ },
+ {
+  "code": "4.7C",
+  "mis": [
+   {
+    "m": "Reads the wrong scale and reports 120 degrees for a 60-degree angle.",
+    "why": "Protractors have two scales, and students read whichever number they see first.",
+    "fix": "Have students first decide if the angle is acute or obtuse, then choose the scale that matches that estimate."
+   },
+   {
+    "m": "Lines up the edge of the protractor instead of the center mark with the vertex.",
+    "why": "Students treat the protractor like a ruler and start at the edge.",
+    "fix": "Have students place a sticker dot on the center mark and match it to the vertex before turning the protractor."
+   },
+   {
+    "m": "Cannot measure when a ray is shorter than the protractor's scale.",
+    "why": "Students think they must stop measuring if the ray does not reach the numbers.",
+    "fix": "Model extending the ray with a straightedge before reading the scale."
+   }
+  ],
+  "cra": {
+   "c": "Students use real protractors to measure angles on classroom objects, paper corners, and angles made with geostrips.",
+   "r": "Students measure drawn angles on worksheets, recording an estimate using benchmarks such as 45, 90, and 180 degrees before each measurement.",
+   "a": "Students record measurements in degrees and compare them to their estimates to check reasonableness.",
+   "look": "Students estimate first, line up the center mark and baseline carefully, choose the right scale, and compare the reading to their estimate."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know which scale to read?",
+     "How close was your estimate to your measurement?"
+    ],
+    "advance": [
+     "How could you measure this angle if the protractor only reached halfway?",
+     "Why might two people get 89 and 91 degrees for the same angle?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Is this angle acute or obtuse?",
+     "Where is the center of the protractor on your angle?"
+    ],
+    "advance": [
+     "Which scale starts at 0 on your baseline ray?",
+     "How can you extend the ray to read it?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this angle smaller or bigger than a square corner?",
+     "Put the dot on the corner of the angle."
+    ],
+    "advance": [
+     "Which number starts at 0 on this ray?",
+     "Do you think this is closer to 30 or 150 degrees?"
+    ],
+    "support": [
+     "Highlight the inner and outer scales in two different colors.",
+     "Provide angles already lined up on the protractor for students to read first."
+    ]
+   }
+  },
+  "stems": [
+   "I estimate the angle is about ___ degrees because ___.",
+   "I used the ___ scale because ___.",
+   "The angle measures ___ degrees.",
+   "My measurement makes sense because ___.",
+   "I lined up the protractor by ___."
+  ],
+  "t": "R",
+  "d": "Determine the approximate measures of angles in degrees to the nearest whole number using a protractor."
+ },
+ {
+  "code": "4.7D",
+  "mis": [
+   {
+    "m": "Draws a 40-degree angle that looks like 140 degrees because they used the wrong scale.",
+    "why": "Students find the number on the protractor without checking which scale starts at zero on their ray.",
+    "fix": "Have students say aloud whether the angle should look acute or obtuse before marking the dot."
+   },
+   {
+    "m": "Marks the dot at the correct number but connects it to the wrong point, so the vertex moves.",
+    "why": "Students forget the vertex must stay at the center mark.",
+    "fix": "Have students draw the vertex first and keep a finger on it while drawing the second ray."
+   },
+   {
+    "m": "Draws rays that are too short to check later, or starts without a baseline ray.",
+    "why": "Students skip the first step of drawing a ray to measure from.",
+    "fix": "Model a three-step routine: draw a ray, place the center on its endpoint, then mark and connect."
+   }
+  ],
+  "cra": {
+   "c": "Students build angles with geostrips or paper strips and check them with a protractor before drawing.",
+   "r": "Students draw angles with a protractor and straightedge on blank paper, labeling the vertex and the measure.",
+   "a": "Students record the given measure and verify their drawing by measuring it again or by comparing it to a benchmark angle.",
+   "look": "Students draw a baseline ray, line up the protractor's center, mark the correct scale, and check their angle against an estimate."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you make sure your angle is exactly 75 degrees?",
+     "What steps did you follow?"
+    ],
+    "advance": [
+     "How could you draw a 200-degree angle with a protractor that only goes to 180?",
+     "Draw two angles that together make 90 degrees."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you put your first ray?",
+     "Which scale did you use, and why?"
+    ],
+    "advance": [
+     "Does your angle look like an acute angle? Should it?",
+     "How could you check your drawing?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me your first ray.",
+     "Where does the center of the protractor go?"
+    ],
+    "advance": [
+     "Will this angle be smaller or bigger than a square corner?",
+     "Find 0 on your ray. Count up to the number."
+    ],
+    "support": [
+     "Provide a baseline ray already drawn with the vertex marked.",
+     "Use a protractor with one scale highlighted."
+    ]
+   }
+  },
+  "stems": [
+   "First I drew ___.",
+   "I placed the protractor ___.",
+   "My angle measures ___ degrees.",
+   "I know my angle is correct because ___.",
+   "This angle should look ___ because ___."
+  ],
+  "t": "S",
+  "d": "Draw an angle with a given measure."
+ },
+ {
+  "code": "4.7E",
+  "mis": [
+   {
+    "m": "Adds the two given angles when the problem asks for the missing part of a larger angle.",
+    "why": "Students default to adding all the numbers they see.",
+    "fix": "Have students sketch the angle as a strip diagram with the whole on top and the parts below, then decide whether they know the whole or a part."
+   },
+   {
+    "m": "Assumes the whole angle is 90 or 180 degrees even when it is not marked that way.",
+    "why": "Students over-rely on benchmark angles.",
+    "fix": "Ask, 'What tells you the whole angle measure?' and highlight the given whole or the right-angle box."
+   },
+   {
+    "m": "Writes an equation with the letter in the wrong place, such as 35 + 90 = a.",
+    "why": "Students do not connect each part of the diagram to the equation.",
+    "fix": "Label the diagram first with the letter, then write an equation that matches the parts and the whole."
+   }
+  ],
+  "cra": {
+   "c": "Students use paper angle wedges or pattern blocks placed side by side at a shared vertex to see how two adjacent angles make a larger angle.",
+   "r": "Students draw strip diagrams showing the whole angle and its two parts, and label angle diagrams with the known measures and a letter for the unknown.",
+   "a": "Students write and solve equations such as 35 + a = 90 or 180 - 125 = a and check by adding the parts.",
+   "look": "Students identify the whole and the parts of an angle, write an equation with a letter for the unknown, and check that the parts add to the whole."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know which angle is the whole?",
+     "What equation did you write, and why?"
+    ],
+    "advance": [
+     "If three adjacent angles make a straight angle, and two are 50 and 70 degrees, what is the third?",
+     "Write a problem whose answer is 25 degrees."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does the little square tell you?",
+     "Which measure is missing?"
+    ],
+    "advance": [
+     "How could a strip diagram help here?",
+     "How can you check your answer?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the big angle.",
+     "Point to the part we know."
+    ],
+    "advance": [
+     "If the whole is 90 and one part is 30, what is the other part?",
+     "Should we add or subtract?"
+    ],
+    "support": [
+     "Color the whole angle in one color and each part in another.",
+     "Provide a part-part-whole strip diagram template."
+    ]
+   }
+  },
+  "stems": [
+   "The whole angle is ___ degrees.",
+   "The missing angle is ___ because ___.",
+   "I wrote the equation ___.",
+   "These two angles together make ___.",
+   "I checked by ___."
+  ],
+  "t": "S",
+  "d": "Determine the measure of an unknown angle formed by two non-overlapping adjacent angles given one or both angle measures."
+ },
+ {
+  "code": "4.8A",
+  "mis": [
+   {
+    "m": "Thinks a kilometer is shorter than a meter because 'kilo' sounds small or unfamiliar.",
+    "why": "Students do not have benchmarks for the metric prefixes.",
+    "fix": "Use real benchmarks: a meter stick, a kilometer as a long walk around the school, and a centimeter as the width of a fingernail."
+   },
+   {
+    "m": "Believes a larger unit means a larger number when describing the same measurement.",
+    "why": "Students confuse unit size with the number of units.",
+    "fix": "Measure one table in feet and in inches and ask, 'Why is the number bigger when the unit is smaller?'"
+   },
+   {
+    "m": "Mixes customary and metric units, such as calling a liter a little more than a cup.",
+    "why": "Students lack experience holding containers of each size.",
+    "fix": "Display labeled containers side by side (cup, pint, quart, gallon, milliliter, liter) and let students compare by pouring."
+   }
+  ],
+  "cra": {
+   "c": "Students hold, pour, and measure with real tools: rulers, yardsticks, meter sticks, measuring cups, liter bottles, gallon jugs, and balance scales with gram and kilogram masses.",
+   "r": "Students create benchmark charts and number lines ordering units from smallest to largest within each system.",
+   "a": "Students describe relationships such as '1 meter is 100 times as long as 1 centimeter' and order units by size.",
+   "look": "Students compare real objects and containers to unit benchmarks and order units from smallest to largest within one system."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which unit is larger, a meter or a centimeter? How do you know?",
+     "What benchmark helps you remember a liter?"
+    ],
+    "advance": [
+     "Why would you measure the hallway in meters and not centimeters?",
+     "Which unit would give the largest number for the same length?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What object is about 1 inch long?",
+     "Which container holds more, a pint or a quart?"
+    ],
+    "advance": [
+     "How many cups do you think fill a quart?",
+     "Which unit would you use to weigh an apple?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which is longer, a foot or an inch?",
+     "Point to the bigger container."
+    ],
+    "advance": [
+     "Would you use grams or kilograms for a pencil?",
+     "Is a mile long or short?"
+    ],
+    "support": [
+     "Provide a picture chart of benchmarks for each unit.",
+     "Let students hold and compare real objects before using the chart."
+    ]
+   }
+  },
+  "stems": [
+   "A ___ is larger than a ___.",
+   "I would measure ___ in ___ because ___.",
+   "One ___ is about the size of ___.",
+   "When the unit is smaller, the number is ___.",
+   "The units in order from smallest to largest are ___."
+  ],
+  "t": "S",
+  "d": "Identify relative sizes of measurement units within the customary and metric system."
+ },
+ {
+  "code": "4.8B",
+  "mis": [
+   {
+    "m": "Divides when converting from a larger unit to a smaller unit, such as 3 feet becoming 1 inch.",
+    "why": "Students guess at the operation instead of reasoning about unit size.",
+    "fix": "Ask, 'Will we need more or fewer of the smaller unit?' before choosing to multiply or divide."
+   },
+   {
+    "m": "Uses the wrong conversion factor, such as 100 inches in a foot.",
+    "why": "Students mix metric and customary relationships.",
+    "fix": "Keep a conversion table in view and have students circle the row they are using."
+   },
+   {
+    "m": "Reads the table incorrectly by matching the wrong rows or extending the pattern by adding instead of multiplying.",
+    "why": "Students see a table and look for an additive pattern.",
+    "fix": "Show how each row relates to the first row by the same multiplier and write that factor beside the table."
+   }
+  ],
+  "cra": {
+   "c": "Students use rulers, yardsticks, measuring cups, and gallon containers to show equal measures, such as filling a quart with 2 pints.",
+   "r": "Students use tables showing equivalent measures, double number lines, or strip diagrams to show conversions.",
+   "a": "Students write equations such as 4 x 12 = 48 inches and explain why they multiplied or divided.",
+   "look": "Students use a conversion table and explain whether the number of units should get larger or smaller before computing."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you multiply to convert feet to inches?",
+     "How did you use the table?"
+    ],
+    "advance": [
+     "How would you convert 7 yards to inches?",
+     "If 1 gallon is 4 quarts, how many gallons are 20 quarts?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which unit is larger here?",
+     "Should the number get bigger or smaller?"
+    ],
+    "advance": [
+     "What row of the table helps you?",
+     "Can you continue the table to find 9 feet?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which unit is bigger, feet or inches?",
+     "Find 1 foot on the table."
+    ],
+    "advance": [
+     "How many inches are in 2 feet?",
+     "Should you add another 12 for each foot?"
+    ],
+    "support": [
+     "Provide a partially completed conversion table with the first two rows filled.",
+     "Use real measuring tools to show the first conversion."
+    ]
+   }
+  },
+  "stems": [
+   "One ___ equals ___.",
+   "I multiplied because ___.",
+   "I divided because ___.",
+   "The table shows ___.",
+   "When I change to a smaller unit, the number ___."
+  ],
+  "t": "S",
+  "d": "Convert measurements within the same measurement system, customary or metric, from a smaller unit into a larger unit or a larger unit into a smaller unit when given other equivalent measures represented in a table."
+ },
+ {
+  "code": "4.8C",
+  "mis": [
+   {
+    "m": "Subtracts times like 3:45 to 5:10 as if they were base-ten numbers and gets 1 hour 65 minutes or 135 minutes.",
+    "why": "Students treat clock time as base-ten numbers instead of 60 minutes in an hour.",
+    "fix": "Use an open number line to jump from 3:45 to 4:00 to 5:00 to 5:10 and add the jumps."
+   },
+   {
+    "m": "Adds measurements with different units without converting, such as 2 meters + 30 centimeters = 32.",
+    "why": "Students do not notice the units differ.",
+    "fix": "Have students circle each unit and convert to the same unit before computing."
+   },
+   {
+    "m": "Writes money amounts incorrectly, such as $3.5 for three dollars and five cents.",
+    "why": "Students do not link decimal place value to coins.",
+    "fix": "Model with coins and bills: three dollars and five cents is $3.05 because the 5 is in the hundredths place."
+   }
+  ],
+  "cra": {
+   "c": "Students use rulers, measuring cups, balance scales, clocks with gears, and play coins and bills to act out measurement problems.",
+   "r": "Students use strip diagrams and open number lines for elapsed time, lengths, liquid volumes, and money.",
+   "a": "Students write equations with a letter for the unknown and solve, labeling the units in every step.",
+   "look": "Students use number lines for elapsed time, convert to one unit before computing, and label units in their answers."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide which operation to use?",
+     "What unit is your answer in, and why?"
+    ],
+    "advance": [
+     "How else could you show this elapsed time?",
+     "Write a measurement problem that uses division."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What units do you see in the problem?",
+     "Where did you start on your number line?"
+    ],
+    "advance": [
+     "Should you convert first? Why?",
+     "How can a strip diagram help you?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What time does it start?",
+     "How much money is this?"
+    ],
+    "advance": [
+     "Jump to the next hour on the number line. How many minutes is that?",
+     "Count the coins with me."
+    ],
+    "support": [
+     "Provide an open number line with hour marks labeled.",
+     "Use real coins and bills to model money problems."
+    ]
+   }
+  },
+  "stems": [
+   "The problem asks for ___.",
+   "I used ___ because ___.",
+   "The elapsed time is ___.",
+   "I converted ___ to ___ because ___.",
+   "My answer is ___ with the unit ___."
+  ],
+  "t": "R",
+  "d": "Solve problems that deal with measurements of length, intervals of time, liquid volumes, mass, and money using addition, subtraction, multiplication, or division as appropriate."
+ },
+ {
+  "code": "4.9A",
+  "mis": [
+   {
+    "m": "Places one-half and three-fourths in the wrong spots on a dot plot because the number line was not partitioned into equal parts.",
+    "why": "Students space tick marks by guessing rather than by equal fractional parts.",
+    "fix": "Have students fold a paper strip into fourths to mark the dot plot scale before plotting."
+   },
+   {
+    "m": "Omits values from a frequency table or tallies the same value twice.",
+    "why": "Students do not use a system to keep track of data already recorded.",
+    "fix": "Have students cross off each data value as they record it and check that the total frequency matches the number of data values."
+   },
+   {
+    "m": "Writes the stem-and-leaf plot with leaves out of order or repeats the stem for each leaf.",
+    "why": "Students confuse stems and leaves or do not know leaves are listed in order.",
+    "fix": "Model with sticky notes: stems in one column, leaves placed in order on the right, then copy into the plot and include a key."
+   }
+  ],
+  "cra": {
+   "c": "Students collect real data, such as lengths of pencils to the nearest fourth inch, and use counters or sticky notes to build dot plots on a number line taped to the floor.",
+   "r": "Students create frequency tables, dot plots with fraction scales, and stem-and-leaf plots with keys.",
+   "a": "Students describe the data, such as how many values are greater than a given amount, and check that totals match the data set.",
+   "look": "Students build dot plots on number lines with equal fractional parts and check that every data value is recorded once."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide on the scale for your dot plot?",
+     "What does your key mean?"
+    ],
+    "advance": [
+     "How would the dot plot change if we added three more values?",
+     "Which display would you choose for this data, and why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How did you keep track of which values you already recorded?",
+     "How many data values should there be in all?"
+    ],
+    "advance": [
+     "How did you partition the number line?",
+     "What would the stem be for 47?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Where does one-half go on this number line?",
+     "Put a dot above 3."
+    ],
+    "advance": [
+     "How many times did 5 show up?",
+     "Which number is the stem in 23?"
+    ],
+    "support": [
+     "Provide a number line already partitioned into fourths.",
+     "Give a frequency table with the categories filled in."
+    ]
+   }
+  },
+  "stems": [
+   "I organized the data by ___.",
+   "The most common value is ___.",
+   "There are ___ values in all.",
+   "The key shows that ___ means ___.",
+   "I placed one-half here because ___."
+  ],
+  "t": "R",
+  "d": "Represent data on a frequency table, dot plot, or stem-and-leaf plot marked with whole numbers and fractions."
+ },
+ {
+  "code": "4.9B",
+  "mis": [
+   {
+    "m": "Counts the number of dots instead of the value of the dots when finding a total.",
+    "why": "Students confuse frequency with the data value.",
+    "fix": "Ask, 'What does each dot stand for?' and have students write the value beside each column before adding."
+   },
+   {
+    "m": "Reads the stem-and-leaf plot incorrectly, such as reading 3 | 5 as 8 or 53.",
+    "why": "Students ignore the key.",
+    "fix": "Have students read the key aloud and rewrite a few values as whole numbers before answering."
+   },
+   {
+    "m": "Answers only the first step of a two-step question, such as finding the most common value but not the difference from the least.",
+    "why": "Students stop after one operation.",
+    "fix": "Underline each question part and check off each part as it is answered."
+   }
+  ],
+  "cra": {
+   "c": "Students use real data collected in class with counters or sticky notes to represent each value before answering questions.",
+   "r": "Students use frequency tables, dot plots, and stem-and-leaf plots, writing equations or strip diagrams to show steps.",
+   "a": "Students write equations with whole numbers, decimals, and fractions to solve one- and two-step problems and explain each step.",
+   "look": "Students read the display carefully, write the values they need, and show each step with an equation or strip diagram."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What steps did you take to answer the question?",
+     "How did the key help you?"
+    ],
+    "advance": [
+     "How many more students had a measurement greater than 2 inches than less than 2 inches?",
+     "Write a two-step question for this dot plot."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does each dot represent?",
+     "Which values did you use?"
+    ],
+    "advance": [
+     "What do you need to find first?",
+     "How can you check your total?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many dots are above 4?",
+     "Read this stem-and-leaf with me."
+    ],
+    "advance": [
+     "Which column has the most dots?",
+     "What is the value for this leaf?"
+    ],
+    "support": [
+     "Provide a display with the values labeled under each column.",
+     "Break the question into two parts on separate lines."
+    ]
+   }
+  },
+  "stems": [
+   "The data show that ___.",
+   "First I found ___, then I ___.",
+   "The difference between ___ and ___ is ___.",
+   "The key tells me that ___.",
+   "I know my answer is correct because ___."
+  ],
+  "t": "S",
+  "d": "Solve one‐ and two‐step problems using data in whole number, decimal, and fraction form in a frequency table, dot plot, or stem‐and‐leaf plot."
+ },
+ {
+  "code": "4.10A",
+  "mis": [
+   {
+    "m": "Thinks any expense that is large is a fixed expense.",
+    "why": "Students confuse the size of an expense with whether it changes.",
+    "fix": "Sort expenses using the question, 'Does this cost the same each month?'"
+   },
+   {
+    "m": "Thinks groceries or electricity are fixed because the family pays them every month.",
+    "why": "Students confuse regular expenses with fixed amounts.",
+    "fix": "Show two months of bills with different amounts and ask what changed."
+   },
+   {
+    "m": "Cannot explain why it matters to know the difference.",
+    "why": "Students see the terms as vocabulary only.",
+    "fix": "Ask, 'Which expenses can a family change to save money?' to connect the terms to planning."
+   }
+  ],
+  "cra": {
+   "c": "Students sort expense cards for a family budget into fixed and variable categories using realistic amounts.",
+   "r": "Students create T-charts or tables showing fixed and variable expenses for two or three months.",
+   "a": "Students explain in writing how fixed and variable expenses affect a monthly budget.",
+   "look": "Students sort expenses and justify each choice by explaining whether the amount stays the same or changes."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is rent a fixed expense?",
+     "How did you decide this expense is variable?"
+    ],
+    "advance": [
+     "How could a family lower their variable expenses?",
+     "Can a fixed expense ever change? When?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Does this expense cost the same every month?",
+     "What changes the cost of groceries?"
+    ],
+    "advance": [
+     "Which of these could you lower next month?",
+     "Why might the electric bill change?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this the same every month?",
+     "Put this card in fixed or variable."
+    ],
+    "advance": [
+     "Does rent change each month?",
+     "Do groceries cost the same every week?"
+    ],
+    "support": [
+     "Provide picture cards for each expense.",
+     "Use a two-column sorting mat with the questions printed on it."
+    ]
+   }
+  },
+  "stems": [
+   "A fixed expense is ___ because ___.",
+   "A variable expense is ___ because ___.",
+   "I sorted ___ as ___ because ___.",
+   "A family could save money by ___.",
+   "The amount changes when ___."
+  ],
+  "t": "S",
+  "d": "Distinguish between fixed and variable expenses."
+ },
+ {
+  "code": "4.10B",
+  "mis": [
+   {
+    "m": "Thinks profit is the total money earned.",
+    "why": "Students confuse income with profit.",
+    "fix": "Use a strip diagram with income as the whole and expenses as one part, so profit is the other part."
+   },
+   {
+    "m": "Subtracts income from expenses and gets a negative number or says the business lost money when it earned money.",
+    "why": "Students subtract in the wrong order.",
+    "fix": "Write the profit equation, income minus expenses, at the top of the work every time."
+   },
+   {
+    "m": "Forgets to include all expenses, such as supplies and rent for a stand.",
+    "why": "Students only see one cost in the problem.",
+    "fix": "Have students list every expense in a table before subtracting."
+   }
+  ],
+  "cra": {
+   "c": "Students run a pretend lemonade stand or school store with play coins and bills, tracking money in and money out.",
+   "r": "Students use strip diagrams and tables to show income, expenses, and profit.",
+   "a": "Students write equations such as 85 - 32 = p and explain what p means.",
+   "look": "Students list income and expenses and use a strip diagram or equation to find profit."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does profit mean?",
+     "How did you find the profit?"
+    ],
+    "advance": [
+     "How could the business increase its profit?",
+     "What would happen to the profit if expenses doubled?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is the total income?",
+     "What are all the expenses?"
+    ],
+    "advance": [
+     "What do you subtract from what?",
+     "Can profit be zero? When?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How much money did the stand earn?",
+     "How much did they spend?"
+    ],
+    "advance": [
+     "What is left after paying for supplies?",
+     "Count the money left over."
+    ],
+    "support": [
+     "Use play money to act out the problem.",
+     "Provide a strip diagram template with income as the whole."
+    ]
+   }
+  },
+  "stems": [
+   "Profit is ___.",
+   "The income is ___ and the expenses are ___.",
+   "The profit is ___ because ___.",
+   "To increase profit, they could ___.",
+   "I subtracted ___ from ___."
+  ],
+  "t": "S",
+  "d": "Calculate profit in a given situation."
+ },
+ {
+  "code": "4.10C",
+  "mis": [
+   {
+    "m": "Thinks keeping money at home is always the safest option.",
+    "why": "Students do not consider risks like loss or theft and missing interest.",
+    "fix": "Compare a piggy bank and a savings account on a table with rows for safety, growth, and access."
+   },
+   {
+    "m": "Believes all savings options earn the same interest.",
+    "why": "Students have not compared different options.",
+    "fix": "Show examples of different savings options with simple interest amounts and compare."
+   },
+   {
+    "m": "Only lists advantages of one option without disadvantages.",
+    "why": "Students see one option as completely good or bad.",
+    "fix": "Use a T-chart for each option with both columns filled before deciding."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play choosing where to keep money: a piggy bank, a savings account, or a certificate of deposit, using play money.",
+   "r": "Students use comparison tables listing advantages and disadvantages of each savings option.",
+   "a": "Students write a recommendation for a savings option for a specific goal and justify it.",
+   "look": "Students compare savings options using a table with both advantages and disadvantages."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is an advantage of a savings account?",
+     "What is a disadvantage of keeping money at home?"
+    ],
+    "advance": [
+     "Which savings option would you choose for a goal that is five years away? Why?",
+     "Why might someone choose a less safe option?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does it mean to earn interest?",
+     "Why might you want quick access to your money?"
+    ],
+    "advance": [
+     "How does safety compare between these options?",
+     "Which option grows your money the most?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Where can you keep money safe?",
+     "Is a piggy bank safe?"
+    ],
+    "advance": [
+     "Can your money grow in a piggy bank?",
+     "Which one would you choose to save for a bike?"
+    ],
+    "support": [
+     "Provide a T-chart with picture icons.",
+     "Use real-life examples familiar to students."
+    ]
+   }
+  },
+  "stems": [
+   "An advantage of ___ is ___.",
+   "A disadvantage of ___ is ___.",
+   "I would choose ___ because ___.",
+   "Keeping money at home is ___ because ___.",
+   "Interest means ___."
+  ],
+  "t": "U",
+  "d": "Compare the advantages and disadvantages of various savings options."
+ },
+ {
+  "code": "4.10D",
+  "mis": [
+   {
+    "m": "Spends the whole allowance and plans to save whatever is left.",
+    "why": "Students do not plan before spending.",
+    "fix": "Have students divide the allowance into jars before any spending."
+   },
+   {
+    "m": "Thinks saving for college is not needed until much later.",
+    "why": "Students do not connect small, regular savings to long-term goals.",
+    "fix": "Show how saving a small amount each week grows over a school year using a table."
+   },
+   {
+    "m": "Confuses sharing with lending, thinking money lent is a gift.",
+    "why": "Students do not understand that lending means the money comes back.",
+    "fix": "Role-play lending play money that is paid back, then compare it to giving money to a food drive."
+   }
+  ],
+  "cra": {
+   "c": "Students use labeled jars or envelopes for spending, saving, college saving, and sharing, and divide play money into each.",
+   "r": "Students use tables or strip diagrams to show how an allowance is divided each week.",
+   "a": "Students write a weekly allowance plan with amounts for each category and explain their choices.",
+   "look": "Students divide play money into categories and explain their plan for spending, saving, sharing, and lending."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide how much to put in each jar?",
+     "Why did you save for college?"
+    ],
+    "advance": [
+     "How would your plan change if your allowance doubled?",
+     "What would happen if you lent money and it was not paid back?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How much did you put in spending?",
+     "What is the difference between sharing and lending?"
+    ],
+    "advance": [
+     "Can you make a plan for four weeks?",
+     "How much would you have saved after a month?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which jar is for saving?",
+     "Put some money in each jar."
+    ],
+    "advance": [
+     "What can you buy with the spending jar?",
+     "Who could you share with?"
+    ],
+    "support": [
+     "Provide labeled jars with pictures.",
+     "Use a simple allowance amount like $10 to divide."
+    ]
+   }
+  },
+  "stems": [
+   "I would put ___ in saving because ___.",
+   "Sharing means ___.",
+   "Lending means ___.",
+   "My plan for my allowance is ___.",
+   "Saving for college is important because ___."
+  ],
+  "t": "U",
+  "d": "Describe how to allocate weekly allowance among spending, saving, including for college; and sharing lending."
+ },
+ {
+  "code": "4.10E",
+  "mis": [
+   {
+    "m": "Thinks a bank keeps each person's money in a separate box in a vault.",
+    "why": "Students do not understand that banks lend deposits to others.",
+    "fix": "Act out a class bank where deposits are lent to a borrower who pays back with interest."
+   },
+   {
+    "m": "Believes borrowing money from a bank is free.",
+    "why": "Students do not understand interest on loans.",
+    "fix": "Show a simple loan example where the borrower pays back more than borrowed."
+   },
+   {
+    "m": "Thinks banks only keep money safe and do nothing else.",
+    "why": "Students only see the savings side of banks.",
+    "fix": "List the three purposes of financial institutions on a chart: keep money safe, borrow, and lend."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play a class bank with play money: depositing, borrowing, and paying back with interest.",
+   "r": "Students draw flow charts showing how money moves from savers to the bank to borrowers and back.",
+   "a": "Students write explanations of the purposes of financial institutions with examples.",
+   "look": "Students act out deposits and loans and explain how banks keep money safe, lend, and help people borrow."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What are three purposes of a bank?",
+     "Why do banks charge interest on loans?"
+    ],
+    "advance": [
+     "How do banks earn money?",
+     "Why might someone borrow money from a bank instead of a friend?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What happens to money you deposit?",
+     "What does it mean to borrow?"
+    ],
+    "advance": [
+     "How does the bank use deposits?",
+     "What would happen if no one paid back loans?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Where can people keep money safe?",
+     "What does borrow mean?"
+    ],
+    "advance": [
+     "If you borrow $10, do you pay back the same or more?",
+     "Who gives the loan?"
+    ],
+    "support": [
+     "Use a picture flow chart of money moving through a bank.",
+     "Role-play deposits and loans with play money."
+    ]
+   }
+  },
+  "stems": [
+   "A bank keeps money safe by ___.",
+   "Borrowing means ___.",
+   "Lending means ___.",
+   "Banks charge interest because ___.",
+   "A financial institution helps people by ___."
+  ],
+  "t": "S",
+  "d": "Describe the basic purpose of financial institutions, including keeping money safe, borrowing money, and lending."
+ }
+]

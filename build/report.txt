@@ -1,0 +1,4 @@
+G3: 115 lessons, 78 with TEKS, 27 weeks, 77 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
+G4: 112 lessons, 73 with TEKS, 27 weeks, 73 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
+G5: 107 lessons, 71 with TEKS, 27 weeks, 71 teacher links, modules [1, 2, 3, 4, 5, 6]
+MOVES: 131 standards

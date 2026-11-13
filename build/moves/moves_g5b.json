@@ -1,0 +1,1351 @@
+[
+ {
+  "code": "5.4F",
+  "mis": [
+   {
+    "m": "Works left to right in 18 - 2 x (3 + 4) and gets 112 instead of 4.",
+    "why": "Students read expressions like sentences and skip the grouping and multiplication conventions.",
+    "fix": "Have students underline the innermost grouping first, then circle the next operation to do, rewriting the whole expression after every step."
+   },
+   {
+    "m": "Removes the brackets in [20 - (6 + 2)] x 3 before finishing the parentheses inside them, or treats brackets as multiplication.",
+    "why": "Two levels of grouping are new, and students are unsure which symbol is 'inside.'",
+    "fix": "Color the parentheses one color and the brackets another, and ask, 'Which set is nested inside the other? Do that one first.'"
+   },
+   {
+    "m": "Always does addition before subtraction or multiplication before division, so 24 ÷ 4 x 2 becomes 3.",
+    "why": "A memorized acronym is read as a strict order instead of left-to-right pairs.",
+    "fix": "Write multiplication and division on one rung of a ladder chart, and addition and subtraction on another, and practice 'same rung, go left to right.'"
+   }
+  ],
+  "cra": {
+   "c": "Students build each part of an expression with counters or base-ten blocks inside nested cups or yarn loops, combining the innermost loop first and replacing it with a single pile.",
+   "r": "Students draw a strip diagram or a 'simplify tree' that shows each grouped part collapsing into one value, step by step, before the outer operation.",
+   "a": "Students rewrite the full expression after each step, with one operation done per line, and check by evaluating a partner's line.",
+   "look": "Students underline or color grouping symbols, rewrite the expression line by line, and explain why each step came next."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you start with that part of the expression?",
+     "How do the brackets change what you do first?"
+    ],
+    "advance": [
+     "Where could you add parentheses to 3 + 5 x 4 - 2 to make the value 30?",
+     "Write an expression with two levels of grouping that has a value of 12."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the line where you finished the parentheses.",
+     "Which operation did you do second, and why?"
+    ],
+    "advance": [
+     "What happens to the value if we move the parentheses in 2 x (8 - 3)?",
+     "Can you check your answer by rewriting it with one step per line?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the innermost grouping symbol.",
+     "What is 3 + 4 inside these parentheses?"
+    ],
+    "advance": [
+     "Now that the parentheses are one number, what operation is left?",
+     "Should you multiply or subtract next in this line?"
+    ],
+    "support": [
+     "Give expressions with only one level of grouping first, then add brackets.",
+     "Provide a color-coded checklist: parentheses, brackets, multiply or divide left to right, add or subtract left to right."
+    ]
+   }
+  },
+  "stems": [
+   "First I simplified ___ because it is inside the ___.",
+   "The brackets hold ___, so I finished the parentheses first.",
+   "After the grouping, I did ___ before ___ because ___.",
+   "I disagree with ___'s value because in their step ___ they ___.",
+   "If I move the parentheses to ___, the value changes to ___."
+  ],
+  "t": "R",
+  "d": "Simplify numerical expressions that do not involve exponents, including up to two levels of grouping."
+ },
+ {
+  "code": "5.4G",
+  "mis": [
+   {
+    "m": "Adds the length, width and height (3 + 4 + 5 = 12) to find volume.",
+    "why": "Students mix up perimeter-style adding with filling space.",
+    "fix": "Build the prism with unit cubes and count them, then compare the count to the sum and the product of the dimensions."
+   },
+   {
+    "m": "Uses B in V = Bh as the length of the base instead of the area of the base.",
+    "why": "The capital letter looks like a single measurement, the same as l or w.",
+    "fix": "Have students trace the base, cover it with one layer of cubes, write its area, and label it 'B = area of one layer.'"
+   },
+   {
+    "m": "Thinks a cube needs a different idea than a rectangular prism, or uses s x s for a cube's volume.",
+    "why": "Students see V = s x s x s as a separate rule and confuse it with area of a square.",
+    "fix": "Build a 3-by-3-by-3 cube layer by layer and show that s x s is one layer and the third s counts the layers."
+   }
+  ],
+  "cra": {
+   "c": "Students build rectangular prisms with unit cubes or linking cubes, recording length, width, height, cubes in one layer and number of layers in a table.",
+   "r": "Students draw prisms on isometric dot paper or as layered sketches, labeling the area of the base and the number of layers.",
+   "a": "Students look across the table to state V = l x w x h and V = Bh, and connect each factor to a part of their model.",
+   "look": "Students build layers with cubes, fill in a table of dimensions and volumes, and point to the base layer when they say 'B.'"
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your table show a pattern for the number of cubes?",
+     "Why do V = l x w x h and V = Bh give the same volume?"
+    ],
+    "advance": [
+     "Can two prisms with different dimensions have the same volume? Build one to show me.",
+     "How would the volume change if you doubled only the height?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many cubes are in one layer? How do you know without counting each one?",
+     "What does B stand for in your model?"
+    ],
+    "advance": [
+     "How many layers would you need to make 60 cubes with this base?",
+     "How is a cube a special kind of rectangular prism?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the length, the width and the height of your prism.",
+     "How many cubes are in the bottom layer?"
+    ],
+    "advance": [
+     "How many layers like this one did you build?",
+     "What do you get if you multiply the cubes in one layer by the layers?"
+    ],
+    "support": [
+     "Build one layer at a time and record each layer in the table before adding the next.",
+     "Provide a base mat with the length and width already marked."
+    ]
+   }
+  },
+  "stems": [
+   "One layer has ___ cubes because ___ times ___ is ___.",
+   "There are ___ layers, so the volume is ___ cubic units.",
+   "B means ___, not just one side.",
+   "A cube is a rectangular prism where ___.",
+   "I noticed in our table that the volume always equals ___."
+  ],
+  "t": "U",
+  "d": "Use concrete objects and pictorial models to develop the formulas for the volume of a rectangular prism, including the special form for a cube (V = l x w x h, V = s x s x s, and V = Bh)."
+ },
+ {
+  "code": "5.4H",
+  "mis": [
+   {
+    "m": "Finds area when the problem asks for perimeter, such as fencing around a garden.",
+    "why": "Students grab the two numbers and multiply without reading the context.",
+    "fix": "Ask students to act out the situation: 'Are we going around the edge, covering the inside, or filling the space?' before choosing a formula."
+   },
+   {
+    "m": "Writes the answer in the wrong units, such as square feet for volume or cubic units for area.",
+    "why": "Students attach units by habit rather than by what is being measured.",
+    "fix": "Have students sort answers into 'units,' 'square units' and 'cubic units' columns and justify each with a drawing of a line, a square tile or a cube."
+   },
+   {
+    "m": "Forgets the missing sides of a rectangle when finding perimeter, adding only the two labeled sides.",
+    "why": "Diagrams often label only one length and one width.",
+    "fix": "Have students label every side on the diagram before adding, and count the sides aloud as they add."
+   }
+  ],
+  "cra": {
+   "c": "Students use color tiles to cover areas, string or pipe cleaners to trace perimeters, and unit cubes to fill prisms for the same situation.",
+   "r": "Students draw labeled area models, grid diagrams and layered prism sketches, writing all side lengths and the unit type on each.",
+   "a": "Students write equations such as P = 2 x (l + w), A = l x w and V = Bh with a letter for the unknown and connect each to the drawing.",
+   "look": "Students decide whether a problem is about the edge, the surface or the space, label all sides, and write units that match."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide this was a volume problem and not an area problem?",
+     "What does your answer mean in this situation?"
+    ],
+    "advance": [
+     "Find two rectangles with the same area but different perimeters.",
+     "If a prism's volume is 48 cubic feet and its base is 12 square feet, what is its height?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What do your units tell someone reading your answer?",
+     "Which sides did you add to get the perimeter?"
+    ],
+    "advance": [
+     "How would your equation change if the side length were the unknown?",
+     "What other question could you ask about this same garden?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Are we going around, covering or filling?",
+     "Point to the length and the width."
+    ],
+    "advance": [
+     "Do we need to add these sides or multiply them?",
+     "What unit goes with your answer, feet or square feet?"
+    ],
+    "support": [
+     "Give a three-choice card (around, cover, fill) with a picture to match each word.",
+     "Provide grid paper and tiles so students can count before using a formula."
+    ]
+   }
+  },
+  "stems": [
+   "This problem is about ___ because the question asks ___.",
+   "I used the equation ___ because ___.",
+   "My answer is in ___ units because ___.",
+   "I checked my answer by ___.",
+   "I agree with ___ that we needed ___ because ___."
+  ],
+  "t": "R",
+  "d": "Represent and solve problems related to perimeter and/or area and related to volume."
+ },
+ {
+  "code": "5.5A",
+  "mis": [
+   {
+    "m": "Says a square is not a rectangle because 'rectangles have two long sides and two short sides.'",
+    "why": "Students classify by the typical picture they have seen, not by the defining properties.",
+    "fix": "Have students check a square against the property list for rectangles (four sides, four right angles) and mark each property true or false."
+   },
+   {
+    "m": "Draws the hierarchy upside down, putting rhombus around quadrilateral or placing a trapezoid inside parallelogram.",
+    "why": "Students are unsure which set is larger and which is a subset.",
+    "fix": "Ask, 'Which group has more members?' and place the most general shape on the outside of the diagram or at the top of the tree."
+   },
+   {
+    "m": "Classifies a figure by its orientation, saying a tilted square is a 'diamond' and not a square.",
+    "why": "Orientation feels like an attribute even though it does not change properties.",
+    "fix": "Rotate a cut-out square on the document camera and remeasure its sides and angles after each turn."
+   }
+  ],
+  "cra": {
+   "c": "Students sort cut-out quadrilaterals and triangles using rulers, protractors and the corner of an index card to check right angles and side lengths.",
+   "r": "Students build a hierarchy tree diagram or nested Venn diagram, placing each figure in the most specific set and drawing arrows from subsets to sets.",
+   "a": "Students write 'all,' 'some' and 'no' statements, such as 'All squares are rhombuses' or 'Some rectangles are squares,' and justify each with properties.",
+   "look": "Students measure sides and angles, move shapes between sets, and use 'all' and 'some' statements tied to their graphic organizer."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why does this shape belong in both sets?",
+     "What property separates a rhombus from a square?"
+    ],
+    "advance": [
+     "Is it true that all parallelograms are rectangles? Prove it with a drawing.",
+     "Where would you add trapezoids to the hierarchy, and why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which properties did you check before you placed that shape?",
+     "Which set is the largest on your diagram?"
+    ],
+    "advance": [
+     "Can you name a shape that is a rectangle but not a square?",
+     "Write one 'some' statement about your diagram."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many sides does this shape have?",
+     "Are all four angles right angles? Check with the corner of the card."
+    ],
+    "advance": [
+     "Since all angles are right angles, is it a rectangle?",
+     "Are all the sides the same length too?"
+    ],
+    "support": [
+     "Provide a property checklist card with check boxes for each shape.",
+     "Start with three shapes and two sets, then add more."
+    ]
+   }
+  },
+  "stems": [
+   "A ___ is also a ___ because it has ___.",
+   "All ___ are ___, but some ___ are not ___.",
+   "I placed this shape inside ___ because ___.",
+   "The property that makes a ___ different from a ___ is ___.",
+   "I disagree that ___ because ___."
+  ],
+  "t": "R",
+  "d": "Classify two-dimensional figures in a hierarchy of sets and subsets using graphic organizers based on their attributes and properties."
+ },
+ {
+  "code": "5.6A",
+  "mis": [
+   {
+    "m": "Counts only the cubes that are visible in a picture of a prism.",
+    "why": "Students do not picture the hidden cubes inside or behind the figure.",
+    "fix": "Have students build the pictured figure with cubes, then take it apart layer by layer to count the hidden cubes."
+   },
+   {
+    "m": "Measures volume in square units or with flat tiles.",
+    "why": "Students carry over area units without seeing the difference between covering and filling.",
+    "fix": "Place a square tile and a unit cube side by side and ask which one can fill a box; label each with its unit."
+   },
+   {
+    "m": "Leaves gaps or stacks cubes unevenly and still reports the count as the volume.",
+    "why": "Students focus on counting, not on the 'no gaps or overlaps' condition.",
+    "fix": "Have partners check each other's packing by running a finger along every row and layer before recording the count."
+   }
+  ],
+  "cra": {
+   "c": "Students fill small open boxes with unit cubes, packing them with no gaps or overlaps, and record the total as cubic units.",
+   "r": "Students draw cube packings on isometric dot paper and shade the hidden cubes in a different color.",
+   "a": "Students write volume as 'n cubic units' and explain that each cube is 1 cubic unit with side length 1 unit.",
+   "look": "Students pack cubes tightly, count layer by layer, and record answers with cubic units."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know there are no gaps in your packing?",
+     "Why is your answer in cubic units?"
+    ],
+    "advance": [
+     "Could a different shape of box hold the same number of cubes? Show me.",
+     "How could you find the volume without filling the whole box?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many cubes are hidden from view in this picture?",
+     "What is the volume of one unit cube?"
+    ],
+    "advance": [
+     "How many cubes would one more layer add?",
+     "Why can't a square tile measure volume?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to one unit cube. How long is each side?",
+     "How many cubes did you put in the box?"
+    ],
+    "advance": [
+     "Are there any spaces left in the box?",
+     "Is your answer square units or cubic units?"
+    ],
+    "support": [
+     "Use larger cubes and smaller boxes so counting is manageable.",
+     "Fill the box one row at a time while counting aloud with the student."
+    ]
+   }
+  },
+  "stems": [
+   "A unit cube has sides of ___ and a volume of ___.",
+   "The volume is ___ cubic units because ___ cubes filled it.",
+   "I know there are no gaps because ___.",
+   "Some cubes are hidden, so I ___.",
+   "Volume is different from area because ___."
+  ],
+  "t": "S",
+  "d": "Recognize a cube with side length of one unit as a unit cube having one cubic unit of volume and the volume of a three‐dimensional figure as the number of unit cubes (n cubic units) needed to fill it with no gaps or overlaps if possible."
+ },
+ {
+  "code": "5.6B",
+  "mis": [
+   {
+    "m": "Multiplies the area of the base by the number of cubes in one layer instead of by the number of layers.",
+    "why": "Students mix up the two quantities they have just counted.",
+    "fix": "Have students label 'cubes in one layer' and 'number of layers' on the model before writing any multiplication."
+   },
+   {
+    "m": "Finds the area of a side face rather than the base when the prism is lying on its side.",
+    "why": "Students think the base is always the bottom as drawn.",
+    "fix": "Turn the prism and ask students to show that any face can be the base, as long as the layers are counted the other way."
+   },
+   {
+    "m": "Counts the layers correctly but miscounts the base area by counting only the edge cubes.",
+    "why": "Students count around the outside like perimeter.",
+    "fix": "Have students write the base as an array, rows times columns, and shade it on grid paper."
+   }
+  ],
+  "cra": {
+   "c": "Students build one layer of unit cubes on a grid mat, then stack identical layers and record the base area, the layers and the total.",
+   "r": "Students draw the base as an area model on grid paper and draw stacked layers to the side with the number of layers labeled.",
+   "a": "Students write V = (area of base) x (number of layers), such as 12 x 5 = 60 cubic units, and connect it to V = Bh.",
+   "look": "Students say 'cubes in one layer times number of layers' while pointing to their model or drawing."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you find the area of the base?",
+     "How does the number of layers show up in your equation?"
+    ],
+    "advance": [
+     "If the volume is 72 cubic units and the base has 8 cubes, how many layers are there?",
+     "Does it matter which face you call the base? Why or why not?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many cubes are in one layer?",
+     "How many layers did you count?"
+    ],
+    "advance": [
+     "What would the volume be with two more layers?",
+     "Can you write your work as one equation?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the bottom layer.",
+     "How many rows are in the bottom layer?"
+    ],
+    "advance": [
+     "How many cubes are in each row?",
+     "How many layers are stacked on top?"
+    ],
+    "support": [
+     "Provide a grid mat for the base and pre-built layers to stack.",
+     "Use a two-column table: cubes in one layer and number of layers."
+    ]
+   }
+  },
+  "stems": [
+   "The base has ___ cubes in one layer.",
+   "There are ___ layers, so I multiply ___ times ___.",
+   "The volume is ___ cubic units.",
+   "I chose this face as the base because ___.",
+   "If I add one more layer, the volume increases by ___ because ___."
+  ],
+  "t": "S",
+  "d": "Determine the volume of a rectangular prism with whole number side lengths in problems related to the number of layers times the number of unit cubes in the area of the base."
+ },
+ {
+  "code": "5.7A",
+  "mis": [
+   {
+    "m": "Divides when converting from a larger unit to a smaller unit, such as 3 feet = 3 ÷ 12 inches.",
+    "why": "Students are unsure whether the number should get bigger or smaller.",
+    "fix": "Ask, 'Will it take more or fewer of the smaller unit?' and draw a double number line before calculating."
+   },
+   {
+    "m": "Uses the wrong conversion fact, such as 100 centimeters in a kilometer or 10 ounces in a pound.",
+    "why": "Students mix up metric prefixes and customary relationships.",
+    "fix": "Keep a conversion chart visible and have students name the fact they used in words next to every conversion."
+   },
+   {
+    "m": "Converts only one quantity in a multi-step problem and then compares or adds mixed units.",
+    "why": "Students forget that both measures must be in the same unit before combining.",
+    "fix": "Have students circle every unit in the problem and rewrite all measures in one unit before solving."
+   }
+  ],
+  "cra": {
+   "c": "Students measure with yardsticks, meter sticks, measuring cups and balances, filling pints into a quart or lining up centimeters along a meter.",
+   "r": "Students use double number lines, ratio-style tables and strip diagrams to show, for example, 1 yard = 3 feet repeated.",
+   "a": "Students write multiplication or division equations such as 4 x 1,000 = 4,000 meters, with units, and explain why the number grew or shrank.",
+   "look": "Students predict 'more or fewer' before converting, use a table or double number line, and label units on every number."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide to multiply instead of divide?",
+     "Why does the number get larger when the unit gets smaller?"
+    ],
+    "advance": [
+     "Which is longer, 2 kilometers or 1,800 meters? Explain.",
+     "How would you convert 5 gallons to cups using more than one step?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What conversion fact did you use?",
+     "Show me your table. What does each row mean?"
+    ],
+    "advance": [
+     "What would 7 feet be in inches?",
+     "How could you check your answer with a different strategy?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which unit is bigger, a foot or an inch?",
+     "How many inches are in 1 foot?"
+    ],
+    "advance": [
+     "So how many inches are in 2 feet?",
+     "Should the answer be more or less than 2?"
+    ],
+    "support": [
+     "Provide a conversion chart with pictures of each unit.",
+     "Give a partially filled conversion table so students extend the pattern."
+    ]
+   }
+  },
+  "stems": [
+   "One ___ equals ___ ___.",
+   "I multiplied because I am changing to a smaller unit, so ___.",
+   "I divided because ___.",
+   "There will be more of the ___ unit because ___.",
+   "I checked by ___."
+  ],
+  "t": "S",
+  "d": "Solve problems by calculating conversions within a measurement system, customary or metric."
+ },
+ {
+  "code": "5.8A",
+  "mis": [
+   {
+    "m": "Thinks the axes can start at 1 or that the origin is not at zero on both number lines.",
+    "why": "Students treat the axes like separate rulers instead of number lines that meet at zero.",
+    "fix": "Have students label zero on both axes first and point to (0, 0) as the place where the number lines meet."
+   },
+   {
+    "m": "Says the y-coordinate tells movement 'up the x-axis' or reverses the roles of the two coordinates.",
+    "why": "Students hear 'x' and 'y' as names and do not connect them to direction.",
+    "fix": "Have students trace a finger 'along the x-axis' for the first number and then 'parallel to the y-axis' for the second, saying the direction aloud."
+   },
+   {
+    "m": "Describes the axes as horizontal and vertical lines without knowing they are perpendicular number lines.",
+    "why": "Students memorize the picture, not the attributes.",
+    "fix": "Place two number lines on the floor with tape, cross them at zero, and check the right angle with a protractor or index card corner."
+   }
+  ],
+  "cra": {
+   "c": "Students build a large coordinate plane with tape and two number lines on the floor, walk from the origin along the x-axis first, then parallel to the y-axis.",
+   "r": "Students label a blank first-quadrant grid with the origin, x-axis, y-axis and arrows showing direction of movement for each coordinate.",
+   "a": "Students describe an ordered pair such as (4, 2) in words: 'Start at the origin, move 4 units parallel to the x-axis, then 2 units parallel to the y-axis.'",
+   "look": "Students point to the origin, name the axes, and use the words 'parallel' and 'perpendicular' while describing movement."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is the origin named (0, 0)?",
+     "What does the first number in an ordered pair tell you?"
+    ],
+    "advance": [
+     "Where would every point with an x-coordinate of 0 be? Why?",
+     "Why do we need two perpendicular number lines instead of one?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which axis does the first number move you along?",
+     "Where do the two number lines meet?"
+    ],
+    "advance": [
+     "How would you describe (0, 5) using the words from our chart?",
+     "What changes if the two numbers in (3, 5) switch places?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the origin.",
+     "Which line is the x-axis?"
+    ],
+    "advance": [
+     "From the origin, which way do you move for the first number?",
+     "Now which way do you move for the second number?"
+    ],
+    "support": [
+     "Use a floor grid and have students physically walk the moves.",
+     "Provide a labeled anchor chart with arrows for x-movement and y-movement."
+    ]
+   }
+  },
+  "stems": [
+   "The origin is where ___ and it is named ___.",
+   "The x-coordinate tells me to move ___.",
+   "The y-coordinate tells me to move ___.",
+   "The axes are perpendicular because ___.",
+   "The first number in the ordered pair is ___ and it means ___."
+  ],
+  "t": "S",
+  "d": "Describe the key attributes of the coordinate plane, including perpendicular number lines (axes) where the intersection (origin) of the two lines coincides with zero on each number line and the given point (0, 0); the x‐coordinate, the first number in an ordered pair, indicates movement parallel to the x‐axis starting at the origin; and the y-coordinate, the second number, indicates movement parallel to the y‐axis starting at the origin."
+ },
+ {
+  "code": "5.8B",
+  "mis": [
+   {
+    "m": "Describes the process as 'go up first, then over,' so (2, 5) is plotted at (5, 2).",
+    "why": "Students have seen climbing a ladder or an elevator and generalize direction from that.",
+    "fix": "Have students say 'over, then up' and record the steps on a process card they use for every point."
+   },
+   {
+    "m": "Counts grid lines starting at 1 from the origin instead of starting at 0, so every point is off by one.",
+    "why": "Students count the line they start on as one.",
+    "fix": "Model counting jumps, not lines: put a finger on 0 and say 'one' only after the first jump."
+   },
+   {
+    "m": "Places the point in the middle of a square instead of on the intersection of grid lines.",
+    "why": "Students are used to coloring squares on grids.",
+    "fix": "Show that ordered pairs land where two lines cross and have students circle the intersection before drawing the dot."
+   }
+  ],
+  "cra": {
+   "c": "Students move a counter on a large grid mat from the origin, sliding along the x-axis and then up, saying each step as they go.",
+   "r": "Students draw arrows on a first-quadrant grid showing the horizontal move and then the vertical move for each point.",
+   "a": "Students write the process in numbered steps and use it to explain how to graph any ordered pair (x, y).",
+   "look": "Students say and write the steps 'start at the origin, move right x units, move up y units, plot the point' as they graph."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How would you explain graphing (6, 3) to someone who was absent?",
+     "Why does order matter in an ordered pair?"
+    ],
+    "advance": [
+     "Write steps that would work for any ordered pair.",
+     "What would your process be for a point on the y-axis?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What do you do first when you graph a point?",
+     "How did you know where to stop?"
+    ],
+    "advance": [
+     "How could you check that your point is in the right place?",
+     "What mistake would put this point at (3, 6) instead?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put your finger on the origin.",
+     "Which way do you move first?"
+    ],
+    "advance": [
+     "How many jumps to the right for the first number?",
+     "Now how many jumps up?"
+    ],
+    "support": [
+     "Provide a numbered process card with arrows next to each step.",
+     "Use a grid with larger spaces and labeled lines."
+    ]
+   }
+  },
+  "stems": [
+   "First I start at ___.",
+   "Next I move ___ units to the right because ___.",
+   "Then I move ___ units up because ___.",
+   "I plot the point where ___.",
+   "Order matters because ___."
+  ],
+  "t": "S",
+  "d": "Describe the process for graphing ordered pairs of numbers in the first quadrant of the coordinate plane."
+ },
+ {
+  "code": "5.8C",
+  "mis": [
+   {
+    "m": "Graphs the input and output values from an input-output table in the wrong order, plotting (output, input).",
+    "why": "Students do not connect the table columns to the x- and y-coordinates.",
+    "fix": "Have students write each row of the table as an ordered pair in a third column before graphing anything."
+   },
+   {
+    "m": "Labels axes with uneven intervals or skips numbers, so the points look misplaced.",
+    "why": "Students number the axes by the data values rather than by a consistent scale.",
+    "fix": "Have students choose an interval first and count the tick marks aloud before writing numbers."
+   },
+   {
+    "m": "Connects points with a line in a situation that only makes sense with whole-number values, or misreads the pattern.",
+    "why": "Students assume all graphs should be connected lines.",
+    "fix": "Ask, 'Does a point between these two make sense in this situation?' before drawing any line."
+   }
+  ],
+  "cra": {
+   "c": "Students build a growing pattern with linking cubes or counters, record stage and total in an input-output table, and place stickers on a large grid.",
+   "r": "Students use an input-output table, an ordered pairs column and a first-quadrant graph side by side, with arrows linking rows to points.",
+   "a": "Students write the rule, such as 'output = input x 3,' and use the graph to predict points beyond the table.",
+   "look": "Students turn table rows into ordered pairs, label the axes with the quantities, and describe the pattern they see in the points."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your graph show the rule from the table?",
+     "What does the point (4, 12) mean in this situation?"
+    ],
+    "advance": [
+     "Predict the point for input 10 without extending the table. How do you know?",
+     "How would the graph change if the rule were add 3 instead of multiply by 3?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How did you turn this row into an ordered pair?",
+     "What does each axis represent?"
+    ],
+    "advance": [
+     "What is the next point in the pattern?",
+     "Do the points make a pattern you can describe?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which column is the input?",
+     "What is the first ordered pair from the table?"
+    ],
+    "advance": [
+     "Where do you move for the input number?",
+     "Where do you move for the output number?"
+    ],
+    "support": [
+     "Add a third column to the table for ordered pairs.",
+     "Provide a graph with axes already scaled and labeled."
+    ]
+   }
+  },
+  "stems": [
+   "The input ___ and the output ___ make the ordered pair ___.",
+   "The point ___ means ___ in this problem.",
+   "The pattern in the graph shows ___.",
+   "The rule is ___ because ___.",
+   "The next point would be ___ because ___."
+  ],
+  "t": "R",
+  "d": "Graph in the first quadrant of the coordinate plane ordered pairs of numbers arising from mathematical and real‐world problems, including those generated by number patterns or found in an input‐output table."
+ },
+ {
+  "code": "5.9A",
+  "mis": [
+   {
+    "m": "Uses a dot plot for categorical data, such as favorite colors, or a bar graph for measurements.",
+    "why": "Students choose a display by habit instead of by the type of data.",
+    "fix": "Sort data cards into 'words' and 'numbers that were measured' before choosing a display."
+   },
+   {
+    "m": "Places dots for fraction or decimal measurements at evenly spaced positions that are not to scale, such as putting 1 fourth halfway between 0 and 1.",
+    "why": "Students label a number line with data values instead of a consistent scale.",
+    "fix": "Have students partition the number line with fraction strips or a ruler first, then mark only the values that occur."
+   },
+   {
+    "m": "Writes stems and leaves incorrectly, such as listing 45 under stem 5 or forgetting a key.",
+    "why": "Students are unsure which digit is the stem and which is the leaf.",
+    "fix": "Have students split each number with a vertical line before building the plot, and write the key first."
+   }
+  ],
+  "cra": {
+   "c": "Students collect real data, such as pencil lengths in fractions of an inch, and stack sticky notes or counters on a number line on the floor.",
+   "r": "Students make frequency tables with tally marks, bar graphs with scaled axes, dot plots on partitioned number lines, and stem-and-leaf plots with a key.",
+   "a": "Students explain why each display fits the data type and check that the totals match across their table and graph.",
+   "look": "Students choose a display based on the data type, partition number lines evenly, and include titles, labels and keys."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you choose a dot plot for this data instead of a bar graph?",
+     "How does your key help someone read the plot?"
+    ],
+    "advance": [
+     "Could this data set be shown two ways? Show both and compare.",
+     "How would you partition the number line if the measurements were in eighths?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How did you decide where to put this dot?",
+     "Does the total in your table match the number of data points?"
+    ],
+    "advance": [
+     "What scale did you use on the bar graph, and why?",
+     "Which stem holds the most leaves?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this data words or numbers?",
+     "Point to where 1 half goes on the number line."
+    ],
+    "advance": [
+     "How many dots go above this value?",
+     "What is the tens digit of 36?"
+    ],
+    "support": [
+     "Provide a pre-partitioned number line for fraction measurements.",
+     "Give a half-filled frequency table so students complete the tallies."
+    ]
+   }
+  },
+  "stems": [
+   "This data is categorical, so I used ___.",
+   "This data is numerical, so I used ___.",
+   "I placed this dot at ___ because ___.",
+   "The key shows that ___ means ___.",
+   "I chose this scale because ___."
+  ],
+  "t": "S",
+  "d": "Represent categorical data with bar graphs or frequency tables and numerical data, including data sets of measurements in fractions or decimals, with dot plots or stem-and-leaf plots."
+ },
+ {
+  "code": "5.9B",
+  "mis": [
+   {
+    "m": "Graphs only one variable on a scatterplot or plots the pairs as bars.",
+    "why": "Students do not yet see that each point stands for a pair of values.",
+    "fix": "Have students write each pair as an ordered pair before plotting, and say what both numbers mean."
+   },
+   {
+    "m": "Connects the points with a line as if the data were continuous or in order.",
+    "why": "Students carry over line graphs and patterns from tables.",
+    "fix": "Remind students that each dot is a separate person or object, and compare a scatterplot with a connected graph."
+   },
+   {
+    "m": "Labels the axes with the data values instead of a consistent scale, so points cluster wrongly.",
+    "why": "Students list values in the order they appear in the table.",
+    "fix": "Have students find the least and greatest values for each variable first and choose an even interval."
+   }
+  ],
+  "cra": {
+   "c": "Students collect paired data, such as hours of sleep and jumping jacks in a minute, and place stickers on a large class grid.",
+   "r": "Students make a two-column table of paired data and plot each pair on a first-quadrant grid with labeled, scaled axes.",
+   "a": "Students describe what one point means and describe any trend in words, such as 'as one value increases, the other tends to ___.'",
+   "look": "Students turn table pairs into ordered pairs, scale both axes, and describe what each point represents."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does this one point tell us about one student?",
+     "Why don't we connect the points?"
+    ],
+    "advance": [
+     "Do you notice a trend? What might explain it?",
+     "What kind of paired data would you expect to show no trend?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which variable is on each axis?",
+     "How did you choose your scale?"
+    ],
+    "advance": [
+     "Where would a student with 10 hours of sleep and 30 jumping jacks go?",
+     "Are there any points that stand out from the rest?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the first pair in the table.",
+     "Which number goes along the x-axis?"
+    ],
+    "advance": [
+     "How far up do you move for the second number?",
+     "Does each pair get its own dot?"
+    ],
+    "support": [
+     "Provide a grid with axes already scaled.",
+     "Have students highlight each row as they plot it."
+    ]
+   }
+  },
+  "stems": [
+   "This point shows ___ and ___.",
+   "The x-axis shows ___ and the y-axis shows ___.",
+   "I chose a scale of ___ because ___.",
+   "I notice that as ___ increases, ___.",
+   "We don't connect the points because ___."
+  ],
+  "t": "S",
+  "d": "Represent discrete paired data on a scatterplot."
+ },
+ {
+  "code": "5.9C",
+  "mis": [
+   {
+    "m": "Reads the wrong row or bar and answers with a frequency instead of a value, or the reverse.",
+    "why": "Students do not tie the question's words to the labels on the display.",
+    "fix": "Have students underline the category or value in the question and then put a finger on the matching label before reading."
+   },
+   {
+    "m": "Answers only the first step in a two-step question, such as 'how many more' after finding just one total.",
+    "why": "Students stop after one calculation without rereading the question.",
+    "fix": "Have students plan with a strip diagram showing both parts of the comparison before calculating."
+   },
+   {
+    "m": "Misreads a stem-and-leaf plot, reading stem 3 and leaf 5 as 8 or 3.5.",
+    "why": "Students add the digits or ignore the key.",
+    "fix": "Have students rewrite every value from the plot as a list using the key before answering."
+   }
+  ],
+  "cra": {
+   "c": "Students use counters or linking cubes to rebuild the data from a display, such as one cube per dot, to compare categories physically.",
+   "r": "Students draw strip diagrams to model comparisons and totals from the graph or table, labeling each part with the category.",
+   "a": "Students write equations for each step, such as 14 - 9 = 5, and state the answer in a complete sentence with the data context.",
+   "look": "Students point to labels on the display, plan two-step problems with strip diagrams, and answer in context."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which part of the graph did you use, and why?",
+     "How did you know this was a two-step problem?"
+    ],
+    "advance": [
+     "Write your own two-step question that this graph can answer.",
+     "If two more students chose soccer, how would your answer change?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is the first step you need to find?",
+     "How did you read this value from the key?"
+    ],
+    "advance": [
+     "What does your strip diagram show about the comparison?",
+     "Is there another way to find the same answer from the graph?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the bar for apples. How tall is it?",
+     "What does one dot stand for?"
+    ],
+    "advance": [
+     "How many more is this bar than that bar?",
+     "What does the question want to know at the end?"
+    ],
+    "support": [
+     "Provide a reading guide strip to slide along rows or bars.",
+     "Break the question into two numbered parts with a box for each answer."
+    ]
+   }
+  },
+  "stems": [
+   "The graph shows that ___.",
+   "First I found ___, then I found ___.",
+   "There are ___ more ___ than ___.",
+   "I used the key to read ___ as ___.",
+   "My answer makes sense because ___."
+  ],
+  "t": "R",
+  "d": "Solve one‐ and two‐step problems using data from a frequency table, dot plot, bar graph, stem‐and‐leaf plot, or scatterplot."
+ },
+ {
+  "code": "5.10A",
+  "mis": [
+   {
+    "m": "Thinks sales tax is taken from a paycheck or that income tax is added at the store.",
+    "why": "Students hear 'tax' as one idea without connecting each tax to where it is paid.",
+    "fix": "Make a three-column chart: who pays, when it is paid and what it is based on, and sort scenario cards into it."
+   },
+   {
+    "m": "Believes only homeowners pay property tax and that renters are never affected.",
+    "why": "Students see only the direct payer.",
+    "fix": "Discuss how property owners pay the tax and how it can be part of rent, using a simple story."
+   },
+   {
+    "m": "Thinks taxes are fees that go to the store or the employer.",
+    "why": "Students do not know that taxes fund public services.",
+    "fix": "Have students list public services they use, such as schools, roads and parks, and connect each to a tax."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play a store, a payday and a home owner using play bills and coins, handing tax amounts to a 'government' station.",
+   "r": "Students make a graphic organizer for each tax with a picture, when it is paid and an example situation.",
+   "a": "Students write definitions in their own words and classify short scenarios as income, sales or property tax.",
+   "look": "Students sort scenarios into the three taxes and explain who pays, when, and what the tax is based on."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How is sales tax different from income tax?",
+     "What do taxes pay for in our community?"
+    ],
+    "advance": [
+     "Why might a city depend on property tax for schools?",
+     "Which tax would change if someone got a raise? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "When does someone pay sales tax?",
+     "Who pays property tax?"
+    ],
+    "advance": [
+     "Which tax goes with this scenario card?",
+     "How could property tax affect someone who rents?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this tax paid at the store or from a paycheck?",
+     "Point to the picture of property tax."
+    ],
+    "advance": [
+     "If you buy a toy, which tax do you pay?",
+     "If you own a house, which tax do you pay?"
+    ],
+    "support": [
+     "Provide picture cards for each tax.",
+     "Use a sorting mat with three labeled columns."
+    ]
+   }
+  },
+  "stems": [
+   "Income tax is ___.",
+   "Sales tax is paid when ___.",
+   "Property tax is based on ___.",
+   "This scenario shows ___ tax because ___.",
+   "Taxes help pay for ___."
+  ],
+  "t": "S",
+  "d": "Define income tax, sales tax, and property tax."
+ },
+ {
+  "code": "5.10B",
+  "mis": [
+   {
+    "m": "Thinks gross income is the amount a person takes home.",
+    "why": "Students associate 'gross' with a large final number or do not know the term.",
+    "fix": "Use a pay stub model with gross income at the top and deductions below, and draw an arrow down to net income."
+   },
+   {
+    "m": "Subtracts taxes from net income instead of from gross income.",
+    "why": "Students confuse the order of the amounts.",
+    "fix": "Use a strip diagram with gross income as the whole and deductions and net income as the parts."
+   },
+   {
+    "m": "Believes deductions are only income tax.",
+    "why": "Students have not seen other deductions, such as payroll taxes or insurance.",
+    "fix": "Show a simplified pay stub that lists several deductions and have students add them before finding net income."
+   }
+  ],
+  "cra": {
+   "c": "Students receive a 'paycheck' of play bills, hand back bills for each deduction, and count what is left.",
+   "r": "Students draw a strip diagram with gross income as the whole and deductions and net income as the parts.",
+   "a": "Students write gross income - deductions = net income with numbers from a simple pay stub.",
+   "look": "Students use the terms gross and net correctly, show deductions as parts of the whole, and compute net income."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is net income less than gross income?",
+     "Which amount should a family use to plan a budget? Why?"
+    ],
+    "advance": [
+     "If deductions increase, what happens to net income?",
+     "How could two people with the same gross income have different net incomes?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where is gross income on your strip diagram?",
+     "What did you subtract to find net income?"
+    ],
+    "advance": [
+     "What deductions does this pay stub show?",
+     "How could you check your net income?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which amount is the paycheck before anything is taken out?",
+     "Point to the deductions."
+    ],
+    "advance": [
+     "What is left after the deductions?",
+     "Is that amount gross or net?"
+    ],
+    "support": [
+     "Provide a simplified pay stub with labeled boxes.",
+     "Use play money so students can physically remove deductions."
+    ]
+   }
+  },
+  "stems": [
+   "Gross income is ___.",
+   "Net income is ___.",
+   "The difference between gross and net income is ___.",
+   "I found net income by ___.",
+   "A family should budget with ___ income because ___."
+  ],
+  "t": "S",
+  "d": "Explain the difference between gross income and net income."
+ },
+ {
+  "code": "5.10C",
+  "mis": [
+   {
+    "m": "Thinks a credit card is free money that does not have to be paid back.",
+    "why": "Students see a card used without seeing the bill that comes later.",
+    "fix": "Act out a purchase with a credit card followed by a 'bill day' when the amount, plus interest if late, is paid back."
+   },
+   {
+    "m": "Believes a debit card and a credit card work the same way.",
+    "why": "The cards look alike and are used the same way at a store.",
+    "fix": "Use a T-chart: debit takes money from your own account now; credit borrows money you pay back later."
+   },
+   {
+    "m": "Assumes electronic payments have no risks.",
+    "why": "Students see only the convenience.",
+    "fix": "Discuss risks such as lost passwords or fraud, and list ways people protect their accounts."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play a class store using play money, sample checks, and paper debit and credit cards, tracking where the money comes from.",
+   "r": "Students fill in a comparison chart with advantages and disadvantages for each payment method.",
+   "a": "Students write a recommendation for which payment method fits a scenario and justify it with at least one advantage and one disadvantage.",
+   "look": "Students compare payment methods using a chart and justify choices for given situations."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is one advantage and one disadvantage of a credit card?",
+     "How is a check different from a debit card?"
+    ],
+    "advance": [
+     "Which payment method would you choose to buy a bike online? Why?",
+     "Why might a family choose not to use credit cards?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where does the money come from when you use a debit card?",
+     "What happens after you use a credit card?"
+    ],
+    "advance": [
+     "Which method would be safest for this situation?",
+     "What could go wrong with an electronic payment?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this a debit card or a credit card?",
+     "Where does this money come from?"
+    ],
+    "advance": [
+     "Do you pay later or now with this card?",
+     "What is one good thing about this method?"
+    ],
+    "support": [
+     "Provide a picture chart for each payment method.",
+     "Use simple scenario cards with two choices."
+    ]
+   }
+  },
+  "stems": [
+   "One advantage of ___ is ___.",
+   "One disadvantage of ___ is ___.",
+   "A debit card is different from a credit card because ___.",
+   "I would choose ___ for this purchase because ___.",
+   "A risk of electronic payments is ___."
+  ],
+  "t": "U",
+  "d": "Identify the advantages and disadvantages of different methods of payment, including check, credit card, debit card, and electronic payments."
+ },
+ {
+  "code": "5.10D",
+  "mis": [
+   {
+    "m": "Records transactions without dates or descriptions, so the record cannot be checked later.",
+    "why": "Students focus only on the amounts.",
+    "fix": "Provide a record template with date, description, money in, money out and balance columns, and model one complete entry."
+   },
+   {
+    "m": "Adds expenses to the balance instead of subtracting them.",
+    "why": "Students treat every number in the record the same way.",
+    "fix": "Use color coding: green for money in and red for money out, and have students say 'add' or 'subtract' before writing the balance."
+   },
+   {
+    "m": "Thinks financial records are only for adults or businesses.",
+    "why": "Students have not tracked their own money.",
+    "fix": "Have students keep a record of a class reward or allowance scenario for a week."
+   }
+  ],
+  "cra": {
+   "c": "Students track play money in a classroom economy, saving receipts in an envelope and counting the balance at the end of each day.",
+   "r": "Students use a ledger table with columns for date, description, money in, money out and balance.",
+   "a": "Students calculate running balances and explain how the record helps them decide whether they can afford a purchase.",
+   "look": "Students record complete entries, update balances correctly, and explain how they use the record."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your record help you make decisions?",
+     "Why is it important to save receipts?"
+    ],
+    "advance": [
+     "How would you organize records for a whole month?",
+     "What would you change in your system to make it easier to use?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which column shows money you spent?",
+     "How did you find the new balance?"
+    ],
+    "advance": [
+     "What would happen to your balance if you bought this item?",
+     "How can you check that your balance is correct?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this money coming in or going out?",
+     "Where do you write the date?"
+    ],
+    "advance": [
+     "Do you add or subtract this amount?",
+     "What is your balance now?"
+    ],
+    "support": [
+     "Provide a color-coded ledger with sample entries.",
+     "Use fewer transactions with round dollar amounts."
+    ]
+   }
+  },
+  "stems": [
+   "My record shows ___.",
+   "I added ___ because it was money in.",
+   "I subtracted ___ because ___.",
+   "My balance is ___ because ___.",
+   "Keeping records helps me ___."
+  ],
+  "t": "U",
+  "d": "Develop a system for keeping and using financial records."
+ },
+ {
+  "code": "5.10E",
+  "mis": [
+   {
+    "m": "Says the only way to balance a budget is to earn more money.",
+    "why": "Students focus on income and do not consider reducing expenses.",
+    "fix": "Have students list both kinds of actions in a T-chart: ways to increase income and ways to reduce expenses."
+   },
+   {
+    "m": "Suggests cutting needs, such as rent or food, before wants.",
+    "why": "Students have not separated needs and wants.",
+    "fix": "Sort expense cards into needs and wants first, then decide which to reduce."
+   },
+   {
+    "m": "Thinks using a credit card balances the budget.",
+    "why": "Borrowing feels like having more money.",
+    "fix": "Show that borrowing adds a future expense and use a strip diagram to compare income and expenses after the loan."
+   }
+  ],
+  "cra": {
+   "c": "Students use play money and expense cards for a family budget where expenses exceed income, and physically remove or change cards to balance it.",
+   "r": "Students draw two strip diagrams, one for income and one for expenses, and show the gap that needs to be closed.",
+   "a": "Students calculate the difference and write a plan with specific actions and the new totals.",
+   "look": "Students identify the gap between income and expenses, sort needs and wants, and propose specific actions."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How much do expenses exceed income?",
+     "Why did you choose to cut this expense?"
+    ],
+    "advance": [
+     "What are two different plans that would both balance this budget?",
+     "What are the trade-offs of each plan?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which expenses are needs and which are wants?",
+     "How much do you need to reduce?"
+    ],
+    "advance": [
+     "Could earning more money help? How?",
+     "What would happen if the family did nothing?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is there more money coming in or going out?",
+     "Point to one want."
+    ],
+    "advance": [
+     "What if we removed that want? Is it balanced now?",
+     "How much is still left to cut?"
+    ],
+    "support": [
+     "Provide pre-sorted needs and wants cards.",
+     "Use small whole-dollar amounts."
+    ]
+   }
+  },
+  "stems": [
+   "The expenses are more than the income by ___.",
+   "One action to take is ___ because ___.",
+   "___ is a want, so we could ___.",
+   "Another way to balance the budget is ___.",
+   "My plan works because ___."
+  ],
+  "t": "S",
+  "d": "Describe actions that might be taken to balance a budget when expenses exceed income."
+ },
+ {
+  "code": "5.10F",
+  "mis": [
+   {
+    "m": "Adds income and expenses together instead of comparing them.",
+    "why": "Students see a list of numbers and add them all.",
+    "fix": "Have students label each amount as income or expense before calculating, and compute each total separately."
+   },
+   {
+    "m": "Calls a budget balanced when there is money left over but forgets an expense.",
+    "why": "Students skip items when adding long lists.",
+    "fix": "Have students check off each item as they add it and compare totals with a partner."
+   },
+   {
+    "m": "Thinks a budget is balanced only if income exactly equals expenses.",
+    "why": "Students interpret 'balanced' literally.",
+    "fix": "Discuss that a balanced budget means expenses are not more than income, and money left can go to savings."
+   }
+  ],
+  "cra": {
+   "c": "Students use play money and expense cards to pay for items from an income envelope and see what is left.",
+   "r": "Students use a budget table and strip diagrams comparing total income to total expenses.",
+   "a": "Students compute totals and the difference, then adjust the budget so expenses do not exceed income.",
+   "look": "Students total income and expenses separately, compare them, and make adjustments to balance the budget."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know the budget is balanced?",
+     "What would you do with money left over?"
+    ],
+    "advance": [
+     "If income drops by $50, how would you rebalance the budget?",
+     "Why might a family keep a savings line in the budget?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is the total income?",
+     "What is the total of the expenses?"
+    ],
+    "advance": [
+     "Is the difference positive or negative? What does that mean?",
+     "Which expense could change if needed?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the income.",
+     "Point to one expense."
+    ],
+    "advance": [
+     "Which total is bigger?",
+     "Do we have enough money for everything?"
+    ],
+    "support": [
+     "Use a budget table with fewer, round-number expenses.",
+     "Provide play money to model paying expenses."
+    ]
+   }
+  },
+  "stems": [
+   "The total income is ___.",
+   "The total expenses are ___.",
+   "The budget is balanced because ___.",
+   "To balance the budget, I would ___.",
+   "Money left over could go to ___."
+  ],
+  "t": "S",
+  "d": "Balance a simple budget."
+ }
+]

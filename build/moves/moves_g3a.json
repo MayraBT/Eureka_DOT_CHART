@@ -1,0 +1,1635 @@
+[
+ {
+  "code": "3.2A",
+  "mis": [
+   {
+    "m": "Writes 40,000 + 3,000 + 50 + 7 as 4,357 or 43,570 because the missing hundreds place is skipped or shifted.",
+    "why": "Students write digits in the order they hear them instead of attending to each place's value, so a zero placeholder gets lost.",
+    "fix": "Have students build the number with place value disks on a labeled place value chart, then record each place, writing 0 for any empty column before reading it aloud."
+   },
+   {
+    "m": "Says 25 hundreds cannot be part of a number like 32,517 because 'there are only 5 hundreds.'",
+    "why": "Students think each place can only be decomposed one way, using the digit shown, so they miss non-standard decompositions.",
+    "fix": "Trade one thousand disk for 10 hundreds in front of the class and ask students to record the new decomposition, such as 30 thousands + 25 hundreds + 17 ones."
+   },
+   {
+    "m": "Writes expanded notation as 3 + 2 + 5 + 1 + 7 for 32,517, listing digits instead of their values.",
+    "why": "Students treat expanded notation as 'pulling the number apart' digit by digit without attaching place value.",
+    "fix": "Have students say the value of each digit ('3 ten thousands is 30,000') and write that value on a place value card before adding the cards together."
+   }
+  ],
+  "cra": {
+   "c": "Students build five-digit numbers with place value disks or base-ten blocks on a place value mat, then regroup to show the same number a different way, such as trading 1 thousand for 10 hundreds.",
+   "r": "Students sketch place value disks in a labeled chart and record the total with a strip diagram whose parts are the values of each place.",
+   "a": "Students write the number in standard form, expanded notation, and at least one non-standard decomposition, such as 4 ten thousands + 12 hundreds + 6 tens.",
+   "look": "Students regroup disks across places, say the value of each part aloud, and write two or more decompositions for the same number."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide the value of the 6 in 46,208?",
+     "What does the 0 in your number tell you?"
+    ],
+    "advance": [
+     "Can you show this number using only thousands, tens, and ones? How many thousands would you need?",
+     "Which decomposition would be most useful for adding 1,500 to this number, and why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me which disks you traded. Did the total change?",
+     "How does your expanded notation match your place value chart?"
+    ],
+    "advance": [
+     "Can you write 52,300 with 10 or more hundreds in your decomposition?",
+     "How many different ways can you decompose 2,050? Find three."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the thousands place. How many thousands do you have?",
+     "What number do these disks show?"
+    ],
+    "advance": [
+     "If I add one more ten thousand disk, what is the new number?",
+     "Can you write this number as a sum of its place values?"
+    ],
+    "support": [
+     "Limit the number to four digits at first and use a mat with column labels and pictures of each disk.",
+     "Model saying 'three thousands is three thousand' while touching each disk, then have the student echo it."
+    ]
+   }
+  },
+  "stems": [
+   "The digit ___ is in the ___ place, so its value is ___.",
+   "I can decompose ___ as ___ ten thousands, ___ thousands, ___ hundreds, ___ tens, and ___ ones.",
+   "Another way to make the same number is ___ because ___.",
+   "I traded one ___ for ten ___, and the number stayed the same because ___.",
+   "In expanded notation, ___ is written as ___."
+  ],
+  "t": "R",
+  "d": "Compose and decompose numbers up to 100,000 as a sum of so many ten thousands, so many thousands, so many hundreds, so many tens, and so many ones using objects, pictorial models, and numbers, including expanded notation as appropriate."
+ },
+ {
+  "code": "3.2B",
+  "mis": [
+   {
+    "m": "Says the 4 in 40,000 and the 4 in 4,000 are worth the same amount because 'they are both 4.'",
+    "why": "Students focus on the digit itself rather than the place it occupies.",
+    "fix": "Place both numbers on a place value chart and build each with disks; ask how many 4,000s fit into 40,000 and record the 10 times relationship."
+   },
+   {
+    "m": "Believes a place is worth 'one more zero' only for the ones to tens step, but cannot say how a hundred thousand relates to a ten thousand.",
+    "why": "Students have practiced small places and haven't generalized the 10 times pattern across larger places.",
+    "fix": "Build a place value chart left to right and label every arrow between places with '10 times as much,' then test it with disks for each step."
+   },
+   {
+    "m": "Thinks 10 hundreds is a 'bigger number' than 1 thousand.",
+    "why": "More pieces look like more, so students judge by count of units rather than value.",
+    "fix": "Line up 10 hundred flats next to 1 thousand cube and have students record 10 hundreds = 1 thousand under the model."
+   }
+  ],
+  "cra": {
+   "c": "Students use base-ten blocks and place value disks to show that 10 of one unit trade for 1 of the next larger unit, working up from ones through hundred thousands.",
+   "r": "Students draw a place value chart from ones through hundred thousands with arrows between neighboring places labeled '10 times as much,' then sketch disks to prove one step.",
+   "a": "Students write equations such as 10 × 1,000 = 10,000 and 10 × 10,000 = 100,000 and explain the pattern in words.",
+   "look": "Students trade 10 units for 1 larger unit, label arrows on a place value chart, and explain the 10 times pattern using a specific place."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How is the value of the thousands place related to the hundreds place?",
+     "How many ten thousands make one hundred thousand?"
+    ],
+    "advance": [
+     "If the pattern continues, what place comes after hundred thousands? How do you know?",
+     "How does the value of a digit change when it moves one place to the left?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me with blocks how 10 hundreds becomes 1 thousand.",
+     "What trade did you make to get from tens to hundreds?"
+    ],
+    "advance": [
+     "How many hundreds are in 10,000? Use the pattern to explain.",
+     "Why does the same digit have a different value in a different place?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many ones make a ten? Count them with me.",
+     "Point to the bigger block. How many small ones fit in it?"
+    ],
+    "advance": [
+     "If 10 tens make a hundred, what do 10 hundreds make?",
+     "Can you show me a ten thousand using thousands?"
+    ],
+    "support": [
+     "Start with ones, tens, and hundreds blocks before extending to larger places on the chart.",
+     "Use a place value chart with pictures of each unit and arrows already drawn for the student to trace."
+    ]
+   }
+  },
+  "stems": [
+   "Ten ___ make one ___.",
+   "The ___ place is ten times as much as the ___ place.",
+   "The digit ___ has a different value here because ___.",
+   "When a digit moves one place to the left, its value becomes ___.",
+   "I know the pattern continues because ___."
+  ],
+  "t": "S",
+  "d": "Describe the mathematical relationships found in the base-10 place value system through the hundred thousands place."
+ },
+ {
+  "code": "3.2C",
+  "mis": [
+   {
+    "m": "Rounds 3,450 to the nearest hundred as 3,000 because 'the 4 tells you to round down.'",
+    "why": "Students apply a digit rule to the wrong place instead of finding the two consecutive hundreds the number sits between.",
+    "fix": "Have students first mark the two benchmark hundreds (3,400 and 3,500) on a number line and place 3,450 before deciding."
+   },
+   {
+    "m": "Places 6,780 between 6,000 and 7,000 when asked for consecutive multiples of 100.",
+    "why": "Students choose the friendliest benchmarks they know instead of the ones tied to the requested place.",
+    "fix": "Ask 'Which hundreds is this number between?' and have students write the hundreds before and after the number, then label the endpoints."
+   },
+   {
+    "m": "Rounds 45 to 40 because 'it's in the middle so it can go either way' or rounds a midpoint inconsistently.",
+    "why": "Students see the midpoint as equidistant and haven't learned the convention that it rounds up.",
+    "fix": "Mark the midpoint on the number line and state the class agreement that a number exactly at the halfway point rounds to the greater multiple."
+   }
+  ],
+  "cra": {
+   "c": "Students walk along a floor number line or use a vertical number line with clothespins, placing a number card between two marked multiples of 10, 100, 1,000, or 10,000.",
+   "r": "Students draw an open number line, label the two consecutive multiples as endpoints, mark the halfway point, and place the number.",
+   "a": "Students write the rounded value and a sentence such as '3,620 is between 3,600 and 3,700 and is closer to 3,600.'",
+   "look": "Students label endpoints and a midpoint before placing a number, and use 'closer to' language to explain rounding."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which two thousands is 27,481 between? How did you find them?",
+     "Where is the halfway point on your number line?"
+    ],
+    "advance": [
+     "What is the greatest whole number that rounds to 500 when rounding to the nearest hundred?",
+     "How would your number line change if you rounded to the nearest ten thousand?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Why did you label your endpoints that way?",
+     "Is your number closer to the left endpoint or the right? How do you know?"
+    ],
+    "advance": [
+     "Name three numbers that round to 8,000 when rounding to the nearest thousand.",
+     "Why might rounding to the nearest ten give a different answer than rounding to the nearest hundred?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to where 64 goes between 60 and 70.",
+     "Which ten is 64 closer to?"
+    ],
+    "advance": [
+     "What number is halfway between 60 and 70?",
+     "Would 67 round the same way as 64? Why?"
+    ],
+    "support": [
+     "Provide a number line with endpoints and midpoint already marked so the student only places the number.",
+     "Begin with two-digit numbers and tens before moving to hundreds and thousands."
+    ]
+   }
+  },
+  "stems": [
+   "The number ___ is between ___ and ___.",
+   "The halfway point between ___ and ___ is ___.",
+   "___ is closer to ___, so it rounds to ___.",
+   "I know because on the number line ___.",
+   "If the number were ___, it would round to ___ instead."
+  ],
+  "t": "S",
+  "d": "Represent a number on a number line as being between two consecutive multiples of 10; 100; 1,000; 10,000 and use words to describe relative size of numbers in order to round whole numbers."
+ },
+ {
+  "code": "3.2D",
+  "mis": [
+   {
+    "m": "Says 9,876 is greater than 10,234 because 9 is greater than 1.",
+    "why": "Students compare the first digits they see without checking that both numbers have the same number of digits.",
+    "fix": "Have students write both numbers in a place value chart aligned by place, then compare starting from the greatest place both numbers share."
+   },
+   {
+    "m": "Writes 45,302 < 45,032 because 'the 3 is bigger than the 0' while ignoring which place each digit is in.",
+    "why": "Students compare digits out of place rather than lining up the same places.",
+    "fix": "Have students build both numbers with place value disks and compare place by place from left to right, circling the first place that differs."
+   },
+   {
+    "m": "Reverses the inequality symbol, writing 3,400 > 3,500 to mean 3,400 is less.",
+    "why": "The symbols look similar and students haven't connected the open side to the greater number.",
+    "fix": "Have students read every comparison aloud in words and check it against a number line where greater numbers are farther right."
+   }
+  ],
+  "cra": {
+   "c": "Students build two numbers with place value disks or base-ten blocks and compare place by place, starting with the greatest place.",
+   "r": "Students place numbers on a number line or record them in an aligned place value chart, then order three or four numbers.",
+   "a": "Students write comparisons with >, <, or = and order a set of numbers from least to greatest or greatest to least.",
+   "look": "Students align numbers by place, point to the first place that differs, and read their comparison statement aloud in words."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which place did you look at first? Why that one?",
+     "How did you know which number goes farthest right on the number line?"
+    ],
+    "advance": [
+     "What digit could go in the blank in 52,_19 to make it greater than 52,619?",
+     "How would you order these numbers if two of them had the same ten thousands digit?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where the two numbers start to be different.",
+     "Read your comparison in words."
+    ],
+    "advance": [
+     "Can a four-digit number ever be greater than a five-digit number? Explain.",
+     "Write a number that falls between 34,560 and 34,600."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which number has more ten thousands?",
+     "Point to the greater number on the number line."
+    ],
+    "advance": [
+     "Which symbol shows that this number is greater?",
+     "Now order these three numbers from least to greatest."
+    ],
+    "support": [
+     "Give place value charts with columns already labeled and numbers with the same digit count.",
+     "Use a symbol card the student flips and reads aloud as 'is greater than' or 'is less than.'"
+    ]
+   }
+  },
+  "stems": [
+   "___ is greater than ___ because ___.",
+   "The first place that is different is the ___ place.",
+   "On the number line, ___ is to the right of ___, so it is greater.",
+   "In order from least to greatest, the numbers are ___.",
+   "I used the symbol ___ because ___."
+  ],
+  "t": "R",
+  "d": "Compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or =."
+ },
+ {
+  "code": "3.3A",
+  "mis": [
+   {
+    "m": "Shades 1 of 4 unequal pieces and calls it one-fourth.",
+    "why": "Students count pieces without checking that the whole was partitioned into equal parts.",
+    "fix": "Have students fold paper strips or match fraction tiles to prove each part is the same size before naming the fraction."
+   },
+   {
+    "m": "On a number line from 0 to 1 partitioned into fourths, counts the 5 tick marks and calls each part one-fifth.",
+    "why": "Students count marks rather than equal-length intervals from 0 to 1.",
+    "fix": "Have students trace each interval with a finger and count the jumps, not the marks, from 0 to 1."
+   },
+   {
+    "m": "Thinks a fraction always refers to a circle or rectangle and cannot show three-fourths of a set of 8 counters.",
+    "why": "Students have seen mostly area models and don't recognize a set as a whole.",
+    "fix": "Show the same fraction with a strip, a number line, and a set of counters side by side, and ask what the whole is in each."
+   }
+  ],
+  "cra": {
+   "c": "Students fold paper strips and use fraction strips, fraction tiles, and counters to build fractions with denominators 2, 3, 4, 6, and 8.",
+   "r": "Students draw strip diagrams partitioned into equal parts and number lines from 0 to 1 partitioned into equal intervals, shading or marking the fraction.",
+   "a": "Students write the fraction in standard notation and explain what the numerator and denominator mean in their model.",
+   "look": "Students fold or match pieces to prove equal parts, and point to equal intervals from 0 to 1 when locating a fraction on a number line."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know your parts are equal?",
+     "What is the whole in your model?"
+    ],
+    "advance": [
+     "How would your strip change if the fraction were five-sixths instead of five-eighths?",
+     "Can you show the same fraction with a set of counters? What would the whole be?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many equal parts did you make? Which part did you shade?",
+     "How did you decide where to put the mark on your number line?"
+    ],
+    "advance": [
+     "Show two-thirds on a strip and on a number line. What is the same?",
+     "Why does the number line start at 0?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Are these pieces the same size? Show me.",
+     "How many pieces make the whole strip?"
+    ],
+    "advance": [
+     "Can you fold your strip into 4 equal parts?",
+     "Shade one part. What fraction did you shade?"
+    ],
+    "support": [
+     "Use pre-partitioned fraction strips with fold lines before asking the student to partition independently.",
+     "Start with halves and fourths, then extend to eighths by folding again."
+    ]
+   }
+  },
+  "stems": [
+   "The whole is divided into ___ equal parts.",
+   "Each part is one ___ of the whole.",
+   "I shaded ___ parts, so the fraction is ___.",
+   "On the number line, I counted ___ equal jumps from 0.",
+   "My model shows the same fraction as ___'s because ___."
+  ],
+  "t": "S",
+  "d": "Represent fractions greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 using concrete objects and pictorial models, including strip diagrams and number lines."
+ },
+ {
+  "code": "3.3B",
+  "mis": [
+   {
+    "m": "Names a point as three-fifths on a number line partitioned into fourths because they counted 5 tick marks.",
+    "why": "Students count tick marks, including 0, rather than the equal intervals between 0 and 1.",
+    "fix": "Have students draw arcs over each interval from 0 to 1 and count the arcs to find the denominator."
+   },
+   {
+    "m": "Names the point by counting from the wrong end or from 1 back toward 0.",
+    "why": "Students are unsure where counting starts and treat the line like a ruler without a fixed origin.",
+    "fix": "Always start a finger at 0, say 'zero,' and count each jump forward until reaching the point."
+   },
+   {
+    "m": "Uses the denominator from the labels shown on the line, such as 'halves,' even when the line is partitioned into eighths with only one-half labeled.",
+    "why": "Students rely on given labels rather than determining the size of each interval.",
+    "fix": "Cover the labels and have students find the number of equal parts from 0 to 1 first, then name the point."
+   }
+  ],
+  "cra": {
+   "c": "Students use a fraction strip laid along a number line or a length of string with clothespins to match equal parts to intervals from 0 to 1.",
+   "r": "Students draw arcs over each equal interval on a number line, label each tick as a fraction, and identify the given point.",
+   "a": "Students write the fraction for the point and explain the numerator as the number of jumps from 0 and the denominator as the number of equal parts in the whole.",
+   "look": "Students start at 0, count intervals with arcs or finger jumps, and label tick marks before naming the point."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many equal parts is the space from 0 to 1 cut into?",
+     "How many jumps from 0 is the point?"
+    ],
+    "advance": [
+     "If this number line were partitioned into twice as many parts, what would this point be named?",
+     "Is this point closer to 0 or to 1? How does the fraction tell you?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where you started counting.",
+     "How did you find the denominator?"
+    ],
+    "advance": [
+     "What fraction is one jump to the left of this point?",
+     "Where would the point for 1 whole be, and what fraction name could it have?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put your finger on 0. Count the jumps to the point.",
+     "How many jumps to get all the way to 1?"
+    ],
+    "advance": [
+     "What do we call each one of those jumps?",
+     "Can you label the tick before this point?"
+    ],
+    "support": [
+     "Lay a matching fraction strip directly above the number line so the student can see the equal parts.",
+     "Pre-draw arcs over each interval and have the student count them."
+    ]
+   }
+  },
+  "stems": [
+   "The space from 0 to 1 has ___ equal parts.",
+   "Each jump is one ___.",
+   "The point is ___ jumps from 0, so it is ___.",
+   "I know the denominator is ___ because ___.",
+   "This point is closer to ___ because ___."
+  ],
+  "t": "S",
+  "d": "Determine the corresponding fraction greater than zero and less than or equal to one with denominators of 2, 3, 4, 6, and 8 given a specified point on a number line."
+ },
+ {
+  "code": "3.3C",
+  "mis": [
+   {
+    "m": "Thinks one-eighth is greater than one-fourth because 8 is greater than 4.",
+    "why": "Students apply whole number reasoning to the denominator instead of thinking about the size of each part.",
+    "fix": "Lay one-fourth and one-eighth fraction strips under the same whole and ask which piece is bigger and why more parts make smaller pieces."
+   },
+   {
+    "m": "Calls any one shaded part a unit fraction even when the whole is not partitioned into equal parts.",
+    "why": "Students focus on 'one piece' and forget that a unit fraction needs equal parts.",
+    "fix": "Show a whole cut into unequal parts and ask whether one piece is one-third; have students re-partition it equally to prove the difference."
+   },
+   {
+    "m": "Says one-third means 'one out of three things' without connecting it to the size of the part.",
+    "why": "Students learn a counting phrase but don't understand the unit fraction as a quantity.",
+    "fix": "Ask 'How many of this piece would it take to make the whole?' and have students iterate the piece to rebuild the whole."
+   }
+  ],
+  "cra": {
+   "c": "Students use fraction tiles and fraction strips to find how many of one unit fraction piece cover the whole, for denominators 2, 3, 4, 6, and 8.",
+   "r": "Students draw strip diagrams of the same whole partitioned into different numbers of equal parts and shade one part of each.",
+   "a": "Students write the unit fraction with 1 as the numerator and explain the denominator as the number of equal parts in the whole.",
+   "look": "Students iterate one piece to rebuild the whole and explain why a larger denominator means a smaller unit fraction."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many of this piece make the whole?",
+     "What does the bottom number tell you about the whole?"
+    ],
+    "advance": [
+     "Which unit fraction is the smallest piece we have? How do you know?",
+     "What would happen to the size of the unit fraction if the whole were cut into more equal parts?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how you know these parts are equal.",
+     "How many sixths make one whole?"
+    ],
+    "advance": [
+     "Is one-third of a long strip the same size as one-third of a short strip? Why?",
+     "Order these unit fractions from smallest piece to largest piece."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me one part of this strip.",
+     "How many parts in all?"
+    ],
+    "advance": [
+     "Put the pieces together. Do they make the whole?",
+     "Which piece is bigger, one-half or one-fourth?"
+    ],
+    "support": [
+     "Give fraction tiles of only two sizes, such as halves and fourths, to compare first.",
+     "Have the student place each tile on top of a whole bar so the size difference is visible."
+    ]
+   }
+  },
+  "stems": [
+   "The whole is partitioned into ___ equal parts.",
+   "One part is called one ___.",
+   "It takes ___ of these pieces to make one whole.",
+   "One-___ is smaller than one-___ because ___.",
+   "This is a unit fraction because ___."
+  ],
+  "t": "S",
+  "d": "Explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number."
+ },
+ {
+  "code": "3.3D",
+  "mis": [
+   {
+    "m": "Writes three-fourths as one-fourth + one-fourth + one-fourth = three-twelfths, adding the denominators.",
+    "why": "Students add both numerators and denominators as if they were separate whole numbers.",
+    "fix": "Use fraction tiles to join three one-fourth pieces and ask, 'Did the size of each piece change?' before recording the sum."
+   },
+   {
+    "m": "Decomposes five-sixths only as one-sixth + one-sixth + one-sixth + one-sixth + one-sixth and does not see other decompositions like two-sixths + three-sixths.",
+    "why": "Students learn one procedure for decomposing and don't see that unit fractions can be grouped.",
+    "fix": "Have students group their fraction tiles in different ways and record each grouping as a new equation."
+   },
+   {
+    "m": "Thinks a fraction can be decomposed into pieces with different denominators, such as one-half + one-fourth for three-fourths, when asked for parts of the same unit.",
+    "why": "Students know the parts must add to the whole fraction but miss that the SE asks for sums of the same unit fraction.",
+    "fix": "Ask students to name the unit fraction first, then build only with that unit's tiles."
+   }
+  ],
+  "cra": {
+   "c": "Students build fractions with fraction tiles or fraction strips by joining unit fraction pieces, then break them apart into different groupings.",
+   "r": "Students draw a strip diagram partitioned into equal parts, label each part with the unit fraction, and bracket groups of parts to show decompositions.",
+   "a": "Students write equations such as five-eighths = one-eighth + one-eighth + three-eighths, recorded with fraction notation and connected to their strip diagram.",
+   "look": "Students join and separate unit fraction pieces, then write more than one equation for the same fraction."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is the unit fraction in four-sixths?",
+     "How many unit fractions did you add?"
+    ],
+    "advance": [
+     "How many different ways can you decompose five-eighths?",
+     "Can you decompose 1 whole into sixths? Write the equation."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me each unit fraction in your strip diagram.",
+     "Did the size of the pieces change when you put them together?"
+    ],
+    "advance": [
+     "How is your equation like your partner's? How is it different?",
+     "Can you write three-fourths as a sum of only two fractions?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many one-third pieces do you have?",
+     "What fraction do they make together?"
+    ],
+    "advance": [
+     "If you add one more one-third piece, what fraction do you have now?",
+     "Can you split your two-thirds into two pieces?"
+    ],
+    "support": [
+     "Provide only unit fraction tiles of one denominator at a time.",
+     "Have the student say each piece aloud ('one-fourth, two-fourths, three-fourths') as they join them."
+    ]
+   }
+  },
+  "stems": [
+   "The unit fraction is one-___.",
+   "I can make ___ by putting together ___ pieces of one-___.",
+   "Another way to break apart ___ is ___ plus ___.",
+   "The denominator stays the same because ___.",
+   "My strip diagram shows ___ because ___."
+  ],
+  "t": "S",
+  "d": "Compose and decompose a fraction a/b with a numerator greater than zero and less than or equal to b as a sum of part 1/b."
+ },
+ {
+  "code": "3.3E",
+  "mis": [
+   {
+    "m": "When sharing 3 pancakes among 4 people, gives each person one pancake and says 'one is left over' instead of partitioning the leftovers.",
+    "why": "Students apply whole number sharing and don't think of cutting objects into fractional parts.",
+    "fix": "Have students draw each pancake and partition each one into fourths, then deal the parts out one at a time."
+   },
+   {
+    "m": "Names each share by the number of pieces received, such as '3 pieces,' without naming the size of the pieces.",
+    "why": "Students count pieces rather than stating the fraction of one object each recipient gets.",
+    "fix": "Ask 'How big is each piece compared with one whole pancake?' and have students label each piece in the drawing."
+   },
+   {
+    "m": "Partitions objects into parts that do not match the number of recipients, such as cutting 2 sandwiches into thirds for 4 people.",
+    "why": "Students choose a familiar partition instead of using the number of people to decide.",
+    "fix": "Have students first draw the recipients, then ask 'How many equal parts does each object need so everyone gets a piece?'"
+   }
+  ],
+  "cra": {
+   "c": "Students share paper circles, paper strips, or play dough 'objects' among 2, 3, 4, 6, or 8 people, cutting each object into equal parts.",
+   "r": "Students draw the objects and the recipients, partition each object into equal parts, and label each recipient's share with a fraction.",
+   "a": "Students write the share as a fraction or a sum of unit fractions and justify it with their drawing.",
+   "look": "Students partition each object to match the number of people, distribute pieces, and label each person's share with a fraction name."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide how many pieces to cut each object into?",
+     "What fraction of one object does each person get?"
+    ],
+    "advance": [
+     "What if 6 people shared the same 3 objects? How would each share change?",
+     "Can you check that all the pieces were used?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me one person's share in your drawing.",
+     "How many pieces did each person get, and how big is each piece?"
+    ],
+    "advance": [
+     "Is there another way to cut the objects that still makes fair shares?",
+     "Would each person get more or less if there were fewer people?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many people are sharing?",
+     "Point to one person's piece."
+    ],
+    "advance": [
+     "Can you cut this circle so each person gets the same amount?",
+     "What do we call each piece?"
+    ],
+    "support": [
+     "Start with 1 object shared among 2 or 4 people before moving to several objects.",
+     "Provide paper cut-outs the student can fold and physically deal to labeled cards for each person."
+    ]
+   }
+  },
+  "stems": [
+   "There are ___ objects and ___ people.",
+   "I cut each object into ___ equal parts.",
+   "Each person gets ___ of an object.",
+   "The shares are fair because ___.",
+   "If there were ___ people, each share would be ___ because ___."
+  ],
+  "t": "S",
+  "d": "Solve problems involving partitioning an object or a set of objects among two or more recipients using pictorial representations of fractions with denominators of 2, 3, 4, 6, and 8."
+ },
+ {
+  "code": "3.3F",
+  "mis": [
+   {
+    "m": "Believes two-fourths and one-half are different amounts because the numbers are different.",
+    "why": "Students treat each fraction as a pair of whole numbers instead of a single quantity.",
+    "fix": "Place one-half and two-fourths fraction strips under the same whole and ask students to check whether they cover the same length."
+   },
+   {
+    "m": "Uses models with different-sized wholes, so one-half of a small circle and two-fourths of a large circle appear not equal.",
+    "why": "Students don't keep the whole the same when comparing.",
+    "fix": "Insist on drawing models from the same template whole, and ask 'Are the wholes the same size?' before comparing."
+   },
+   {
+    "m": "Generates 'equivalent' fractions by adding the same number to the numerator and denominator, such as one-third = two-fourths.",
+    "why": "Students look for a numeric pattern without checking the model.",
+    "fix": "Test every claimed pair with fraction strips or a number line and record which pairs actually match."
+   }
+  ],
+  "cra": {
+   "c": "Students use fraction strips, fraction tiles, and paper folding to find pieces with denominators 2, 3, 4, 6, and 8 that cover the same length as a given fraction.",
+   "r": "Students draw stacked number lines or stacked strip diagrams with the same whole and mark fractions that line up at the same point.",
+   "a": "Students record equivalent fraction pairs, such as one-half = three-sixths = four-eighths, and explain how the models prove it.",
+   "look": "Students align strips or number lines under the same whole and point to fractions that end at the same place."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know these two fractions are the same amount?",
+     "What did you do to keep the wholes the same size?"
+    ],
+    "advance": [
+     "Can you find all the fractions equal to one-half using our denominators?",
+     "Why can't you find a fraction in thirds equal to one-fourth with these strips?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where two-thirds and four-sixths line up on your number lines.",
+     "What did you notice about the pieces when you folded again?"
+    ],
+    "advance": [
+     "What happens to the number of parts and the size of each part when you fold the strip in half again?",
+     "Can you find a fraction equal to 1 whole in eighths?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put the one-half strip under the whole. Which other strips are the same length?",
+     "Do these two pieces cover the same space?"
+    ],
+    "advance": [
+     "How many fourths cover one-half?",
+     "Can you find how many eighths cover one-half?"
+    ],
+    "support": [
+     "Provide a fraction wall with all strips the same length so the student can slide a straightedge down.",
+     "Start with halves, fourths, and eighths only."
+    ]
+   }
+  },
+  "stems": [
+   "___ and ___ are equivalent because ___.",
+   "They cover the same amount of the whole.",
+   "On the number line, ___ and ___ are at the same point.",
+   "When I split each part again, the number of parts ___ and the size of each part ___.",
+   "I can also write ___ as ___."
+  ],
+  "t": "R",
+  "d": "Represent equivalent fractions with denominators of 2, 3, 4, 6, 8 using a variety of objects and pictorial models including number lines."
+ },
+ {
+  "code": "3.3G",
+  "mis": [
+   {
+    "m": "Says two fractions are equivalent because both models have the same number of shaded parts, even when the parts are different sizes.",
+    "why": "Students count shaded parts instead of comparing the portion of the whole.",
+    "fix": "Overlay the two models or use same-size fraction strips and ask whether the shaded amounts cover the same space."
+   },
+   {
+    "m": "Compares area models of different-sized wholes and concludes fractions are not equivalent.",
+    "why": "Students miss that the 'same size whole' condition is required.",
+    "fix": "Give two different-sized wholes and ask students to explain why the comparison is unfair, then redraw using the same whole."
+   },
+   {
+    "m": "Labels two different points on stacked number lines as equivalent because the numbers 'look related,' even when the lines have different lengths from 0 to 1.",
+    "why": "Students don't check that the 0 and 1 marks line up.",
+    "fix": "Have students align 0 and 1 on both lines first, then use a straightedge to see if the points match."
+   }
+  ],
+  "cra": {
+   "c": "Students compare two fraction strips or two folded paper rectangles of the same size whole by laying them side by side or on top of each other.",
+   "r": "Students draw stacked number lines with 0 and 1 aligned and area models of the same whole, marking each fraction to show whether it lands on the same point or covers the same portion.",
+   "a": "Students write the equivalence or non-equivalence and justify it with 'same point' or 'same portion of the same size whole' language.",
+   "look": "Students check that wholes match before comparing, and use a straightedge or overlay to prove two fractions are or are not equivalent."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your number line prove these fractions are equivalent?",
+     "Why must the wholes be the same size?"
+    ],
+    "advance": [
+     "Can you show a pair that looks equal in one model but isn't? What went wrong?",
+     "How could you use both models to convince someone who disagrees?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where each fraction lands on your number lines.",
+     "Do your shaded parts cover the same portion? How can you check?"
+    ],
+    "advance": [
+     "What would happen if the bottom number line were longer?",
+     "Find another fraction that would land on the same point."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Are the two wholes the same size?",
+     "Do these two shaded parts cover the same amount?"
+    ],
+    "advance": [
+     "Put a ruler down. Do these two points line up?",
+     "What fraction names this point on the top line? On the bottom line?"
+    ],
+    "support": [
+     "Provide pre-drawn stacked number lines with 0 and 1 already aligned.",
+     "Use transparent fraction overlays so the student can see the shaded portions match."
+    ]
+   }
+  },
+  "stems": [
+   "These fractions are equivalent because they are at the same point on the number line.",
+   "Both models use the same size whole, so ___.",
+   "The shaded part of ___ covers the same amount as ___.",
+   "These fractions are not equivalent because ___.",
+   "I checked by ___."
+  ],
+  "t": "S",
+  "d": "Explain that two fractions are equivalent if and only if they are both represented by the same point on the number line or represent the same portion of a same size whole for an area model."
+ },
+ {
+  "code": "3.3H",
+  "mis": [
+   {
+    "m": "Says one-sixth is greater than one-third because 6 is greater than 3.",
+    "why": "Students compare denominators as whole numbers rather than thinking about the size of each part.",
+    "fix": "Use fraction strips of the same whole to compare one-sixth and one-third directly and ask why more parts means smaller parts."
+   },
+   {
+    "m": "When fractions have the same numerator, compares only the denominators correctly but cannot explain why; when the denominators are the same, compares numerators but then reverses the rule for same numerators.",
+    "why": "Students memorize a rule without understanding part size and number of parts.",
+    "fix": "Have students explain each comparison with a model: same-size pieces means compare how many; same number of pieces means compare piece size."
+   },
+   {
+    "m": "Compares fractions of different wholes, such as one-half of a small pizza and one-fourth of a large pizza, and draws a general conclusion.",
+    "why": "Students forget comparisons are only valid when the wholes are the same.",
+    "fix": "Ask 'Is the whole the same?' in every problem and model the comparison with same-length strips."
+   }
+  ],
+  "cra": {
+   "c": "Students compare two fractions with fraction strips or fraction tiles built on the same whole, using only pairs with the same numerator or the same denominator.",
+   "r": "Students draw two strip diagrams or number lines of the same length, mark each fraction, and see which is greater.",
+   "a": "Students write the comparison with >, <, or = and justify it with a sentence about the number of parts or the size of the parts.",
+   "look": "Students build both fractions on equal wholes and explain the comparison using 'same size pieces' or 'same number of pieces' reasoning."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Are the pieces the same size or is the number of pieces the same?",
+     "How does your model prove which is greater?"
+    ],
+    "advance": [
+     "Without a model, how could you compare five-sixths and five-eighths?",
+     "Write a word problem where comparing two-thirds and two-fourths matters."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where each fraction is on your number line.",
+     "Which symbol did you use and why?"
+    ],
+    "advance": [
+     "Which is closer to 1 whole, three-fourths or three-eighths? How do you know?",
+     "If two fractions have the same numerator, how can you tell which is greater?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which piece is bigger?",
+     "Which has more pieces shaded?"
+    ],
+    "advance": [
+     "Can you build both fractions with your tiles and compare?",
+     "Which symbol shows that this one is greater?"
+    ],
+    "support": [
+     "Provide fraction strips cut from the same whole and have the student place them side by side.",
+     "Start with unit fractions only before moving to numerators greater than 1."
+    ]
+   }
+  },
+  "stems": [
+   "___ is greater than ___ because ___.",
+   "The pieces are the same size, so I compare ___.",
+   "There are the same number of pieces, so I compare ___.",
+   "My model shows that ___.",
+   "When the whole is cut into more parts, each part is ___."
+  ],
+  "t": "R",
+  "d": "Compare two fractions having the same numerator or denominator in problems by reasoning about their sizes and justifying the conclusion using symbols, words, objects, and pictorial models."
+ },
+ {
+  "code": "3.4A",
+  "mis": [
+   {
+    "m": "Subtracts the smaller digit from the larger digit in each place, so 503 - 278 becomes 375.",
+    "why": "Students avoid regrouping by treating each place as a separate problem.",
+    "fix": "Build 503 with base-ten blocks and act out 503 - 278, trading a hundred for 10 tens and a ten for 10 ones when needed."
+   },
+   {
+    "m": "In a two-step problem, solves only the first step and reports that number as the answer.",
+    "why": "Students stop when they get a number and don't reread the question.",
+    "fix": "Have students draw a strip diagram for the whole situation and label the unknown with a question mark before solving."
+   },
+   {
+    "m": "Adds whenever a problem says 'more,' so for 'Ana has 312 stickers, which is 145 more than Ben. How many does Ben have?' answers 457.",
+    "why": "Students rely on key words rather than the structure of the situation.",
+    "fix": "Have students model the relationship with a comparison strip diagram and decide which bar is longer before choosing an operation."
+   }
+  ],
+  "cra": {
+   "c": "Students use base-ten blocks and place value disks to add and subtract within 1,000, regrouping as needed.",
+   "r": "Students draw strip diagrams to represent one- and two-step problems and use open number lines for counting-on and counting-back strategies.",
+   "a": "Students write equations with a letter or symbol for the unknown, solve with place value strategies or the standard algorithm, and check with the inverse operation.",
+   "look": "Students draw strip diagrams before computing, choose a place value strategy, and check subtraction with addition."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does each part of your strip diagram stand for?",
+     "How did you check your answer?"
+    ],
+    "advance": [
+     "Is there a faster strategy for 600 - 298? Explain why it works.",
+     "Write a two-step problem that matches this strip diagram."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where you regrouped and why.",
+     "What is the unknown in this problem?"
+    ],
+    "advance": [
+     "How does addition help you check subtraction?",
+     "Could you solve this problem in a different order? Would you get the same answer?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What is the question asking?",
+     "Which number is the whole?"
+    ],
+    "advance": [
+     "Can you build the first number with blocks?",
+     "Do we need to trade a ten for ones here?"
+    ],
+    "support": [
+     "Provide a partially labeled strip diagram and ask the student to fill in known values.",
+     "Use base-ten blocks on a place value mat for the first step before recording."
+    ]
+   }
+  },
+  "stems": [
+   "First I need to find ___, then ___.",
+   "My strip diagram shows ___.",
+   "I regrouped because ___.",
+   "I checked my answer by ___.",
+   "My answer makes sense because ___."
+  ],
+  "t": "R",
+  "d": "Solve with fluency one‐step and two‐step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction."
+ },
+ {
+  "code": "3.4B",
+  "mis": [
+   {
+    "m": "Rounds each number to the nearest 10 but then reports the exact answer instead of the estimate.",
+    "why": "Students don't see estimation as its own product and default to exact computation.",
+    "fix": "Have students write 'about' before every estimate and compare the estimate to the exact answer in a separate column."
+   },
+   {
+    "m": "Rounds 348 to 300 when rounding to the nearest ten.",
+    "why": "Students confuse the place they are rounding to.",
+    "fix": "Have students underline the place they are rounding to and mark the two benchmarks on a number line before rounding."
+   },
+   {
+    "m": "Chooses compatible numbers that are far from the actual numbers, such as 500 + 500 for 263 + 418.",
+    "why": "Students know compatible numbers should be easy to compute but don't keep them close to the original values.",
+    "fix": "Ask 'How close is your compatible number to the real one?' and compare several options, choosing the closest that is still easy."
+   }
+  ],
+  "cra": {
+   "c": "Students place number cards on a floor or desk number line marked in tens or hundreds to see which benchmark each number is closest to.",
+   "r": "Students draw open number lines with benchmark tens or hundreds to round each addend, then use a strip diagram to show the estimated total.",
+   "a": "Students write the estimated equation using rounded or compatible numbers and compare it with the exact answer to judge reasonableness.",
+   "look": "Students mark benchmarks on number lines, write the estimate before computing, and use the estimate to check whether an exact answer is reasonable."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which place did you round to? Why?",
+     "How close is your estimate to the exact answer?"
+    ],
+    "advance": [
+     "Would rounding to the nearest hundred or nearest ten give a closer estimate here? Why?",
+     "When is an estimate good enough to answer the question?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the two benchmarks you used for this number.",
+     "What compatible numbers did you choose?"
+    ],
+    "advance": [
+     "Is your estimate greater or less than the exact answer? How can you tell before computing?",
+     "Find a different pair of compatible numbers. Which works better?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What ten is 47 closest to?",
+     "About how many is 47 + 32?"
+    ],
+    "advance": [
+     "Can you round both numbers and add?",
+     "Is your exact answer close to your estimate?"
+    ],
+    "support": [
+     "Provide number lines with the tens or hundreds already labeled.",
+     "Start with two-digit numbers rounded to the nearest ten before moving to three-digit numbers."
+    ]
+   }
+  },
+  "stems": [
+   "___ rounds to ___ because it is closer to ___.",
+   "My estimate is about ___.",
+   "I chose ___ and ___ as compatible numbers because ___.",
+   "My exact answer is reasonable because ___.",
+   "Rounding to the nearest ___ gives a closer estimate because ___."
+  ],
+  "t": "S",
+  "d": "Round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems."
+ },
+ {
+  "code": "3.4C",
+  "mis": [
+   {
+    "m": "Counts each coin as one, saying 3 dimes and 2 nickels are worth 5 cents.",
+    "why": "Students count objects rather than values.",
+    "fix": "Have students label each coin with its value on a work mat and count on by value."
+   },
+   {
+    "m": "Thinks a nickel is worth more than a dime because it is larger.",
+    "why": "Students link size to value.",
+    "fix": "Show a dime and a nickel side by side and have students trade 2 nickels for 1 dime to see the value relationship."
+   },
+   {
+    "m": "Loses track when switching from bills to coins, counting a $5 bill and 3 quarters as $5.03 or $8.",
+    "why": "Students mix dollars and cents and don't use the decimal or cent notation correctly.",
+    "fix": "Sort money into bills and coins, total each group separately, and record the total using a dollar sign and decimal point with a place value chart for dollars and cents."
+   }
+  ],
+  "cra": {
+   "c": "Students use play coins and bills to build and count collections, sorting by greatest value first.",
+   "r": "Students draw coins and bills, label each value, and use an open number line to count on from the greatest value.",
+   "a": "Students record the total using the dollar sign and decimal point, or the cent sign, and write an addition equation that shows the values.",
+   "look": "Students sort by value, count on aloud from the greatest bill or coin, and record the total with correct money notation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you start counting with that coin or bill?",
+     "How did you write the total?"
+    ],
+    "advance": [
+     "Can you make the same amount with fewer coins?",
+     "What is the least number of coins and bills that makes $3.65?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how you counted on.",
+     "How much is the quarter worth? The dime?"
+    ],
+    "advance": [
+     "How would the total change if you traded 2 dimes for a quarter and a nickel?",
+     "Is $1.10 the same as 110 cents? Explain."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which coin is a dime? How much is it worth?",
+     "Count these nickels with me by fives."
+    ],
+    "advance": [
+     "What is the total of these two dimes and one nickel?",
+     "Can you add one more coin to make 30 cents?"
+    ],
+    "support": [
+     "Give a coin value chart with pictures and values for reference.",
+     "Begin with one type of coin at a time before mixing."
+    ]
+   }
+  },
+  "stems": [
+   "A ___ is worth ___.",
+   "I started with ___ because it has the greatest value.",
+   "I counted on: ___.",
+   "The total is ___.",
+   "I can make the same amount with ___."
+  ],
+  "t": "S",
+  "d": "Determine the value of a collection of coins and bills."
+ },
+ {
+  "code": "3.4D",
+  "mis": [
+   {
+    "m": "Counts every object one by one instead of using the number of groups and the size of each group.",
+    "why": "Students don't trust or see the multiplicative structure.",
+    "fix": "Have students circle each equal group, label it with its size, and skip count by the group size."
+   },
+   {
+    "m": "Writes 4 × 6 for 6 groups of 4 and cannot explain which number is the number of groups.",
+    "why": "Students are unsure what each factor represents in context.",
+    "fix": "Have students say 'number of groups times number in each group' and label each factor in the equation."
+   },
+   {
+    "m": "Builds an array with uneven rows, such as 5 in one row and 4 in another, and still multiplies.",
+    "why": "Students don't see that arrays require equal rows and equal columns.",
+    "fix": "Have students check each row with a count and fix any row that is not equal before writing an equation."
+   }
+  ],
+  "cra": {
+   "c": "Students use counters, cubes, or tiles to build equal groups and arrays up to 10 by 10.",
+   "r": "Students draw equal groups with circles and dots, draw arrays on grid paper, and use a strip diagram with equal parts labeled with the group size.",
+   "a": "Students write multiplication equations such as 6 × 4 = 24 and explain each factor and the product.",
+   "look": "Students build equal groups or arrays, skip count by rows, and label which factor is the number of groups or rows."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many groups are there? How many in each group?",
+     "How did you find the total without counting by ones?"
+    ],
+    "advance": [
+     "How could you rearrange this array to show the same product?",
+     "What would change if each group had one more object?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how your array matches your equation.",
+     "What does the 7 in your equation stand for?"
+    ],
+    "advance": [
+     "Is 3 rows of 8 the same total as 8 rows of 3? Prove it.",
+     "How can you use 5 groups to find 6 groups?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many in this row?",
+     "Count the rows with me."
+    ],
+    "advance": [
+     "Can you skip count by the number in each row?",
+     "What multiplication equation matches your array?"
+    ],
+    "support": [
+     "Provide a grid or egg carton to keep groups and rows equal.",
+     "Start with groups of 2, 5, and 10 before other sizes."
+    ]
+   }
+  },
+  "stems": [
+   "There are ___ groups with ___ in each group.",
+   "My array has ___ rows and ___ columns.",
+   "I skip counted by ___ to find ___.",
+   "The equation ___ matches my model because ___.",
+   "There are ___ objects in all."
+  ],
+  "t": "S",
+  "d": "Determine the total number of objects when equally sized groups of objects are combined or arranged in arrays up to 10 by 10."
+ },
+ {
+  "code": "3.4E",
+  "mis": [
+   {
+    "m": "On a number line, makes jumps of different sizes or starts at 1 instead of 0 when showing 4 × 3.",
+    "why": "Students don't connect equal jumps from 0 to equal groups.",
+    "fix": "Have students mark 0, then draw and label each jump with the same size, checking with a strip of paper cut to that length."
+   },
+   {
+    "m": "Writes repeated addition with the wrong addend, such as 3 + 3 + 3 + 3 + 3 for 3 × 4.",
+    "why": "Students are unsure which factor is the number of groups and which is the group size.",
+    "fix": "Have students build the equal groups first, then write one addend for each group."
+   },
+   {
+    "m": "Believes an area model and an array show different products for the same fact.",
+    "why": "Students see each representation as a separate procedure rather than the same multiplication.",
+    "fix": "Lay a tile array on top of a drawn area model and ask students to name the fact for each and compare."
+   }
+  ],
+  "cra": {
+   "c": "Students use counters, tiles, and connecting cubes to show the same fact as equal groups, arrays, and area made with square tiles.",
+   "r": "Students draw equal groups, arrays, area models on grid paper, equal jumps on a number line, and strip diagrams for the same fact.",
+   "a": "Students write repeated addition, skip counting sequences, and the multiplication equation, linking each to a representation.",
+   "look": "Students show one fact several ways and point out where the factors and product appear in each representation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Where do you see the 6 in your number line?",
+     "How does your repeated addition match your array?"
+    ],
+    "advance": [
+     "Which representation would you use to explain 7 × 8 to someone? Why?",
+     "How could you use an area model to show that 4 × 6 = 6 × 4?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me each equal jump. How big is each one?",
+     "How many groups did you draw?"
+    ],
+    "advance": [
+     "How are skip counting and the number line alike?",
+     "Show the same fact a different way and explain how they connect."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many in each group?",
+     "Count by twos with me."
+    ],
+    "advance": [
+     "Can you show 3 × 2 with counters?",
+     "Can you jump by twos three times on the number line?"
+    ],
+    "support": [
+     "Pre-mark jumps on the number line for the student to label.",
+     "Use one representation at a time, starting with equal groups of counters."
+    ]
+   }
+  },
+  "stems": [
+   "I showed ___ × ___ as ___.",
+   "Each jump on my number line is ___.",
+   "My repeated addition is ___ because there are ___ groups.",
+   "The area model and the array both show ___.",
+   "These two representations are alike because ___."
+  ],
+  "t": "S",
+  "d": "Represent multiplication facts by using a variety of approaches such as repeated addition, equal sized groups, arrays, area models, equal jumps on a number line, and skip counting."
+ },
+ {
+  "code": "3.4F",
+  "mis": [
+   {
+    "m": "Recalls 6 × 7 by skip counting from 6 every time, which is slow and error-prone.",
+    "why": "Students have a counting strategy but haven't built fact strategies or automaticity.",
+    "fix": "Teach derived fact strategies such as 'know 6 × 5 = 30, add one more 6' and practice in short daily routines."
+   },
+   {
+    "m": "Cannot connect 56 ÷ 8 to 8 × 7 and treats division facts as a separate list to memorize.",
+    "why": "Students learn multiplication and division facts in isolation.",
+    "fix": "Use fact family triangles and number bonds where students name all four related facts together."
+   },
+   {
+    "m": "Says 4 × 0 = 4 or 7 × 1 = 8.",
+    "why": "Students confuse multiplication by 0 and 1 with addition.",
+    "fix": "Model 4 groups of 0 and 7 groups of 1 with empty and single-object cups, and have students describe the totals."
+   }
+  ],
+  "cra": {
+   "c": "Students use counters and arrays to derive unknown facts from known facts, such as building 6 × 8 as 5 × 8 plus 1 more group of 8.",
+   "r": "Students draw split arrays or area models to show strategies like doubling and break-apart, and use fact family triangles.",
+   "a": "Students practice multiplication and related division facts through quick recall games, flash cards, and fact family equations.",
+   "look": "Students use known facts to derive unknown facts, name all four facts in a family, and respond quickly in short partner practice."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What fact did you already know that helped you?",
+     "What division facts go with 9 × 4?"
+    ],
+    "advance": [
+     "How could you use 7 × 5 to find 7 × 6?",
+     "Which facts do you know without thinking? Which ones are you still working on?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me your strategy for 8 × 6 with an array.",
+     "What is the related division fact?"
+    ],
+    "advance": [
+     "Why does doubling 4 × 7 give you 8 × 7?",
+     "Create a strategy for 9 facts and explain it."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What is 5 × 2? How do you know?",
+     "Can you skip count to find 3 × 4?"
+    ],
+    "advance": [
+     "If you know 5 × 4, how can you find 6 × 4?",
+     "What division fact matches 3 × 4 = 12?"
+    ],
+    "support": [
+     "Focus on a small set of facts at a time, such as 2s, 5s, and 10s, before adding others.",
+     "Provide a multiplication chart with known facts highlighted for reference while learning strategies."
+    ]
+   }
+  },
+  "stems": [
+   "I know ___ × ___ = ___, so ___.",
+   "The related division fact is ___.",
+   "My strategy for ___ is ___.",
+   "Doubling ___ helps me find ___ because ___.",
+   "A fact I know quickly is ___."
+  ],
+  "t": "S",
+  "d": "Recall facts to multiply up to 10 by 10 with automaticity and recall the corresponding division facts."
+ },
+ {
+  "code": "3.4G",
+  "mis": [
+   {
+    "m": "Multiplies 34 × 6 as 30 × 6 + 4 = 184, multiplying only the tens.",
+    "why": "Students partially apply the distributive property and forget to multiply every part.",
+    "fix": "Use an area model with two labeled sections and have students compute and record both partial products before adding."
+   },
+   {
+    "m": "In the standard algorithm for 47 × 3, writes 121 by forgetting to add the regrouped ten to the tens product.",
+    "why": "Students record the regrouped digit but don't add it after multiplying the tens.",
+    "fix": "Connect each step of the algorithm to a partial products area model so students see the 2 tens being added."
+   },
+   {
+    "m": "Writes 6 × 25 = 6 × 20 + 5 = 125 or misuses the associative property.",
+    "why": "Students attempt mental math shortcuts without tracking which factors are grouped.",
+    "fix": "Have students write out each decomposition step and test it with base-ten blocks or an area model."
+   }
+  ],
+  "cra": {
+   "c": "Students build two-digit by one-digit products with base-ten blocks or place value disks arranged in equal groups.",
+   "r": "Students draw area models split by tens and ones and record partial products, then connect them to the standard algorithm.",
+   "a": "Students use partial products and the standard algorithm, naming the commutative, associative, or distributive property when they use it for mental math.",
+   "look": "Students split one factor into tens and ones, record each partial product, and connect partial products to the standard algorithm."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you split this factor?",
+     "Where is each partial product in your area model?"
+    ],
+    "advance": [
+     "Is there another way to break apart 48 that makes the multiplication easier?",
+     "How does the standard algorithm show the same partial products?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the tens partial product and the ones partial product.",
+     "What did you regroup in the algorithm?"
+    ],
+    "advance": [
+     "How could you use the associative property to find 4 × 15 mentally?",
+     "Why does 5 × 38 equal 5 × 40 minus 5 × 2?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many tens are in 23?",
+     "What is 3 groups of 20?"
+    ],
+    "advance": [
+     "Can you draw an area model for 23 × 3?",
+     "What do you add to get the total?"
+    ],
+    "support": [
+     "Provide an area model template already split into tens and ones.",
+     "Use place value disks to build each group before drawing."
+    ]
+   }
+  },
+  "stems": [
+   "I broke apart ___ into ___ and ___.",
+   "The partial products are ___ and ___.",
+   "In the standard algorithm, I regrouped ___ because ___.",
+   "I used the ___ property because ___.",
+   "My answer is reasonable because ___."
+  ],
+  "t": "S",
+  "d": "Use strategies and algorithms, including the standard algorithm, to multiply a two‐digit number by a one‐digit number; strategies may include mental math, partial products, and the commutative, associative, and distributive properties."
+ },
+ {
+  "code": "3.4H",
+  "mis": [
+   {
+    "m": "Shares 18 counters among 3 people unevenly, such as 7, 6, and 5, and calls it done.",
+    "why": "Students distribute without checking that every share is equal.",
+    "fix": "Have students deal counters one at a time to each person and check that each pile has the same count at the end."
+   },
+   {
+    "m": "Confuses 'number of groups' with 'number in each group' and answers with the number of people instead of the share size.",
+    "why": "Students lose track of what the question asks.",
+    "fix": "Have students label the people and the objects in each share and underline the question before answering."
+   },
+   {
+    "m": "Says 20 shared among 4 is 16 because 'you take away 4.'",
+    "why": "Students think sharing means subtracting the number of people once.",
+    "fix": "Model fair sharing with counters and record repeated subtraction until nothing is left, connecting it to division."
+   }
+  ],
+  "cra": {
+   "c": "Students share counters, cubes, or play money equally among paper plates or cups representing people.",
+   "r": "Students draw circles for groups and deal dots into each circle, then use a strip diagram with equal parts to show the total and each share.",
+   "a": "Students write division equations such as 24 ÷ 4 = 6 and explain the meaning of each number.",
+   "look": "Students deal objects one at a time into equal groups, check that every group matches, and write the matching division equation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many are in each share?",
+     "How did you make sure each share was equal?"
+    ],
+    "advance": [
+     "What would happen if one more person joined? Would each share be bigger or smaller?",
+     "Can you write a multiplication equation that checks your answer?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how you dealt out the counters.",
+     "What does each part of your strip diagram stand for?"
+    ],
+    "advance": [
+     "Is there a faster way than dealing one at a time?",
+     "What if there were 2 left over? What would that mean?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many people are sharing?",
+     "Give one to each person. How many do they have now?"
+    ],
+    "advance": [
+     "Keep dealing until they're all gone. How many does each person have?",
+     "Count each pile. Are they the same?"
+    ],
+    "support": [
+     "Provide plates or cups labeled with names to make each group concrete.",
+     "Start with small totals like 6 or 8 shared among 2."
+    ]
+   }
+  },
+  "stems": [
+   "___ shared equally among ___ is ___ each.",
+   "Each group has ___ because ___.",
+   "I know the shares are equal because ___.",
+   "The division equation is ___.",
+   "I can check with ___ × ___ = ___."
+  ],
+  "t": "S",
+  "d": "Determine the number of objects in each group when set of objects is partitioned into equal shares or a set of objects is shared equally."
+ },
+ {
+  "code": "3.4I",
+  "mis": [
+   {
+    "m": "Says 135 is even because it has a 3 and 1 in it, or looks at the first digit to decide.",
+    "why": "Students don't know that only the ones digit determines even or odd.",
+    "fix": "Have students build numbers with base-ten blocks and show that tens and hundreds always pair up, so only the ones matter."
+   },
+   {
+    "m": "Thinks 0 is odd or neither even nor odd.",
+    "why": "Students see 0 as 'nothing' and don't apply the pairing idea to it.",
+    "fix": "Include 0 on an even-odd number line and ask, 'Can 0 objects be split into two equal groups?'"
+   },
+   {
+    "m": "Believes the sum of two odd numbers is odd.",
+    "why": "Students generalize 'odd plus odd stays odd' without testing.",
+    "fix": "Have students pair cubes for two odd numbers and notice the two leftover cubes make a pair."
+   }
+  ],
+  "cra": {
+   "c": "Students use connecting cubes to make pairs or split into two equal groups to test if a number is even or odd.",
+   "r": "Students draw pairs of dots or a two-row array and highlight even numbers on a hundred chart or number line to see the pattern in the ones digit.",
+   "a": "Students state the divisibility rule for 2 using the ones digit and apply it to numbers up to 100,000.",
+   "look": "Students pair cubes or draw two-row arrays and explain how the ones digit tells whether a number is even or odd."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide 64 is even?",
+     "Which digit tells you whether a number is even?"
+    ],
+    "advance": [
+     "Is 47,358 even or odd? Explain without building it.",
+     "What do you notice about adding two odd numbers?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how your cubes pair up.",
+     "Does this number have a leftover?"
+    ],
+    "advance": [
+     "Why don't the tens matter when deciding even or odd?",
+     "Can you find an even number greater than 1,000 that ends in 6? What about 7?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Can you put these cubes in pairs?",
+     "Is there one left over?"
+    ],
+    "advance": [
+     "Is 8 even or odd? How do you know?",
+     "What is the ones digit in 18?"
+    ],
+    "support": [
+     "Provide a hundred chart with even numbers shaded for reference.",
+     "Start with numbers up to 20 using cubes before moving to larger numbers."
+    ]
+   }
+  },
+  "stems": [
+   "___ is even because ___.",
+   "___ is odd because ___.",
+   "The ones digit is ___, so ___.",
+   "When I pair the cubes, ___.",
+   "I know the tens and hundreds don't matter because ___."
+  ],
+  "t": "S",
+  "d": "Determine if a number is even or odd using divisibility rules."
+ },
+ {
+  "code": "3.4J",
+  "mis": [
+   {
+    "m": "Does not see division as an unknown factor problem and tries to memorize 42 ÷ 6 separately from 6 × 7.",
+    "why": "Students treat multiplication and division as unrelated operations.",
+    "fix": "Write division as a missing factor equation, 6 × ? = 42, and use known multiplication facts to solve."
+   },
+   {
+    "m": "Writes the division fact backward, such as 6 ÷ 42 = 7.",
+    "why": "Students don't know which number is the dividend.",
+    "fix": "Connect the total in an array to the dividend and say 'the total is shared' before writing the equation."
+   },
+   {
+    "m": "Believes 18 ÷ 3 and 18 ÷ 6 have the same quotient because both use 18.",
+    "why": "Students don't see how the divisor affects the size of the quotient.",
+    "fix": "Build both with counters and compare the size of the groups, then connect to the related multiplication facts."
+   }
+  ],
+  "cra": {
+   "c": "Students use counters or tiles to build arrays for a total, then find the missing factor by counting rows or columns.",
+   "r": "Students draw arrays or area models with one side unknown and use fact family triangles to connect multiplication and division.",
+   "a": "Students write missing factor equations and related division equations, solving with known multiplication facts.",
+   "look": "Students rewrite division as a missing factor problem and use known multiplication facts to find the quotient."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What multiplication fact helped you find 35 ÷ 5?",
+     "How are 8 × 4 = 32 and 32 ÷ 4 = 8 related?"
+    ],
+    "advance": [
+     "If you know 9 × 6 = 54, what two division facts do you know?",
+     "How can you use multiplication to check any division answer?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the missing side of your array.",
+     "Write the missing factor equation for this problem."
+    ],
+    "advance": [
+     "Why does 24 ÷ 3 have a greater quotient than 24 ÷ 6?",
+     "Write a division problem that uses 7 × 8."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many rows are in this array?",
+     "What times 2 equals 10?"
+    ],
+    "advance": [
+     "Can you write 10 ÷ 2 as a multiplication problem?",
+     "Use your counters to check."
+    ],
+    "support": [
+     "Provide a multiplication chart and show how to find a quotient by reading across and up.",
+     "Start with 2s, 5s, and 10s facts."
+    ]
+   }
+  },
+  "stems": [
+   "I know ___ × ___ = ___, so ___ ÷ ___ = ___.",
+   "The missing factor is ___.",
+   "Division and multiplication are related because ___.",
+   "I checked my quotient by ___.",
+   "The quotient is ___ because ___."
+  ],
+  "t": "S",
+  "d": "Determine a quotient using the relationship between multiplication and division."
+ },
+ {
+  "code": "3.4K",
+  "mis": [
+   {
+    "m": "Uses the wrong operation in two-step problems, such as multiplying when the second step needs division.",
+    "why": "Students look for key words instead of understanding the situation.",
+    "fix": "Have students draw a strip diagram or equal groups model for each step before choosing an operation."
+   },
+   {
+    "m": "Solves the first step and stops, reporting an intermediate answer.",
+    "why": "Students don't reread the question after the first step.",
+    "fix": "Have students circle the question and write a plan of two steps before computing."
+   },
+   {
+    "m": "Confuses the meaning of the quotient, such as answering with the number of groups when the question asks for the number in each group.",
+    "why": "Students don't track what each number represents.",
+    "fix": "Label every number in the model and equation with units, such as '6 bags' or '4 apples in each bag.'"
+   }
+  ],
+  "cra": {
+   "c": "Students act out problems with counters, cubes, or tiles arranged in equal groups and arrays.",
+   "r": "Students draw arrays, area models, equal groups, and strip diagrams for each step, labeling the unknown with a letter or question mark.",
+   "a": "Students write equations for each step, solve using properties of operations or recall of facts, and check reasonableness.",
+   "look": "Students draw a model for each step, label numbers with units, and write an equation for each step before answering the question."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does each part of your model represent?",
+     "What are the two steps in this problem?"
+    ],
+    "advance": [
+     "Could you solve this problem in a different order? Would the answer change?",
+     "Write your own two-step problem using multiplication and division."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where the unknown is in your strip diagram.",
+     "What does your answer from step one tell you?"
+    ],
+    "advance": [
+     "How did you decide whether to multiply or divide?",
+     "Is your answer reasonable? How do you know?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many groups are there?",
+     "How many in each group?"
+    ],
+    "advance": [
+     "Can you build this with counters?",
+     "What equation matches your model?"
+    ],
+    "support": [
+     "Break two-step problems into two separate one-step problems before combining them.",
+     "Provide a strip diagram template with labeled parts for the student to complete."
+    ]
+   }
+  },
+  "stems": [
+   "First I need to find ___, then ___.",
+   "I used ___ because ___.",
+   "My model shows ___.",
+   "The answer means ___.",
+   "My answer is reasonable because ___."
+  ],
+  "t": "R",
+  "d": "Solve one‐step and two‐step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts."
+ }
+]
