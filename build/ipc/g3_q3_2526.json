@@ -1,0 +1,904 @@
+{
+ "grade": 3,
+ "src": "2025-26",
+ "weeks": [
+  {
+   "q": 3,
+   "wk": 19,
+   "start": "2027-01-04",
+   "title": "Copy of Q3:W19 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L17"
+     ],
+     "teks": [
+      "3.3A"
+     ],
+     "bundled": [
+      "3.3B"
+     ],
+     "lo": "I am learning to represent and label fractions on a number line.",
+     "sc": [
+      "I can identify whole numbers on a number line in fraction form."
+     ],
+     "te": {
+      "M5.L17": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA9fj3BKg"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L18"
+     ],
+     "teks": [
+      "3.7A"
+     ],
+     "bundled": [
+      "3.3A",
+      "3.3B"
+     ],
+     "lo": "I am learning how to practice placing various fractions on the number line.",
+     "sc": [
+      "I can draw a number line with endpoints that are not consecutive.",
+      "I can label the wholes on the number line.",
+      "I can partition the wholes on a number line into thirds, fourths and fifths.",
+      "I can label all intervals on a number line."
+     ],
+     "te": {
+      "M5.L18": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA9fj3BK4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L19"
+     ],
+     "teks": [
+      "3.7A",
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3A"
+     ],
+     "lo": "I am learning how to compare fractions and whole numbers on the number line by reasoning about their distance from 0.",
+     "sc": [
+      "I can determine the fractional units (intervals) on a number line.",
+      "I can reason which fraction is furthest away from 0.",
+      "I can compare fractions by determining their distance from 0 on a number line."
+     ],
+     "te": {
+      "M5.L19": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZsw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L21"
+     ],
+     "teks": [
+      "3.3A"
+     ],
+     "bundled": [
+      "3.7A"
+     ],
+     "lo": "I am learning how to  recognize and show that equivalent fractions have the samesize, though not necessarily the same shape.",
+     "sc": [
+      "I can represent fractional parts of a model(s).",
+      "I can reason if fractional parts of  models are equal."
+     ],
+     "te": {
+      "M5.L21": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZs8"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 20,
+   "start": "2027-01-11",
+   "title": "Copy of Q3:W20 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L22"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to recognize and show that equivalent fractions refer to the same point on the number line.",
+     "sc": [
+      "I can represent fractions on a model.",
+      "I can use the model to reason if fractions are equivalent.",
+      "I can represent the fraction models on a numberline and reason if they are equal."
+     ],
+     "te": {
+      "M5.L22": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZtI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L23"
+     ],
+     "teks": [
+      "3.3G"
+     ],
+     "bundled": [
+      "3.3F"
+     ],
+     "lo": "I am learning how to generate simple equivalent fractions by using visuals and number lines.",
+     "sc": [
+      "I can use fraction strips to name and compare equivalent fractions.",
+      "I can determine if a fraction is equivalent by the area that is shaded on a picture."
+     ],
+     "te": {
+      "M5.L23": "https://drive.google.com/open?id=1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT&disco=AAABEwnAH0o"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L24"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to generate simple equivalent fractions by using visual fraction models and the number line.",
+     "sc": [
+      "I can create and label a number line with given intervals.",
+      "I can compare number lines to find all equivalent fractions.",
+      "I can reason with a number line if fractions are equivalent."
+     ],
+     "te": {
+      "M5.L24": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZtg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L25"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to express whole numbers as fractions and recognize equivalencewith different units.",
+     "sc": [
+      "I can partition a whole into equal parts and label each as a unit fraction.",
+      "I can use a number bond to represent a whole with fractional parts.",
+      "I can represent a whole with fractional parts.",
+      "I can use a number bond to represent the fractional whole with equivalent fractions."
+     ],
+     "te": {
+      "M5.L25": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UvloUI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L26"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to express whole number fractions on the number line.",
+     "sc": [
+      "I can partition a whole into equal parts and represent a whole in fraction form.",
+      "I can partition more than one whole into equal parts and represent the wholes in fraction form. (fraction larger than 1)"
+     ],
+     "te": {
+      "M5.L26": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-KcWRW4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 21,
+   "start": "2027-01-18",
+   "title": "Copy of Q3:W21 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L27"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to represent an equivalent fraction on a number line.",
+     "sc": [
+      "I can represent a fraction on number line as a whole in fraction form.",
+      "I can explain the partitions of a fraction."
+     ],
+     "te": {
+      "M5.L27": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAABEwnAH04"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L28"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to explain equivalence by manipulating units and reasoning about their size.",
+     "sc": [
+      "I can equally partition fractional parts of a whole.",
+      "I can represent the new unit with a fraction.",
+      "I can reason how the number of parts affects the size of each part.",
+      "I can explain how the size of the parts and the number in each part are related in equivalent fractions."
+     ],
+     "te": {
+      "M5.L28": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-KcWRXQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L29"
+     ],
+     "teks": [
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to compare fractions with the same numerator pictorially and with symbols.",
+     "sc": [
+      "I can represent fractions with a model and symbols.",
+      "I can explain how fractions are not equivalent.",
+      "I can compare fractions with the same numerator by comparing the size of each fractional part."
+     ],
+     "te": {
+      "M5.L29": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-KcWRXU"
+     },
+     "note": "IPC note: Upgrade pictorial representations in Lesson 29 by including fractions and comparative symbols >, <, = as in Lesson 30"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L30"
+     ],
+     "teks": [
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "lo": "I am learning how to compare fractions with the same numerator pictorially and with symbols.",
+     "sc": [
+      "I can represent fractions with a model and symbols.",
+      "I can explain how fractions are not equivalent when they have the same numerator.",
+      "I can compare fractions with the same numerator by comparing the size of each fractional part."
+     ],
+     "te": {
+      "M5.L30": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAABD-LjePI"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 22,
+   "start": "2027-01-25",
+   "title": "Copy of Q3:W22 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Wed",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L31"
+     ],
+     "teks": [
+      "3.3G"
+     ],
+     "bundled": [
+      "3.3F"
+     ],
+     "lo": "I am learning how to compare fractions with the same numerator using <, >, or =, and use a model to reason about their size.",
+     "sc": [
+      "I can use fraction strips to name and compare equivalent fractions.",
+      "I can determine if a fraction is equivalent by the area that is shaded on a picture.",
+      "I can use <, > or = symbols to compare fractions."
+     ],
+     "te": {
+      "M5.L31": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAABEwnAH1Q"
+     },
+     "note": "2025-26 snow week (Mon–Thu Snow Day)"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 23,
+   "start": "2027-02-01",
+   "title": "Copy of Q3:W23 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "assess",
+     "text": "Learning Check #5"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L1"
+     ],
+     "teks": [
+      "3.9A"
+     ],
+     "bundled": [
+      "3.4C"
+     ],
+     "lo": "I am learning how to explore the relationship between human capital and income.",
+     "sc": [
+      "I can explain the term labor and describe why people might choose certain jobs.",
+      "I can explain different types of training needed for different jobs.",
+      "I can explain the relationship between years of education and professional salaries."
+     ],
+     "te": {
+      "M6.L1": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA9iTX9gY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M6.L2"
+     ],
+     "teks": [
+      "3.9B"
+     ],
+     "bundled": [
+      "3.4C"
+     ],
+     "lo": "I am learning how to explore relationships between availability of resources and cost.",
+     "sc": [
+      "I can explain high and low demands of resources.",
+      "I can explain how high and low demands of resources could affect prices."
+     ],
+     "te": {
+      "M6.L2": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA9iTX9kc"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L3"
+     ],
+     "teks": [
+      "3.9C"
+     ],
+     "bundled": [
+      "3.9E",
+      "3.9F"
+     ],
+     "lo": "I am learning how to recognize the benefits of saving.",
+     "sc": [
+      "I can describe ways people spend money and why they might save money.",
+      "I can justify if a savings plan will provide enough money for a given goal."
+     ],
+     "te": {
+      "M6.L3": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA9iTX9lc"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M6.L4"
+     ],
+     "teks": [
+      "3.9D"
+     ],
+     "bundled": [
+      "3.4C"
+     ],
+     "lo": "I am learning how to understand credit and the role of borrower and lender.",
+     "sc": [
+      "I can explain ways to borrow money and when it might be necessary to borrow money.",
+      "I can explain how borrowing money might cost more.",
+      "I can solve problems with monthly payments and monthly interest amounts."
+     ],
+     "te": {
+      "M6.L4": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA9iTX9mQ"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 24,
+   "start": "2027-02-08",
+   "title": "Copy of Q3:W24 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M6.L7"
+     ],
+     "teks": [
+      "3.8A"
+     ],
+     "bundled": [
+      "3.8B"
+     ],
+     "lo": "I am learning how to create scaled bar graphs.",
+     "sc": [
+      "I can construct a scaled bar graph.",
+      "I can plot data from a bar graph on a number line."
+     ],
+     "te": {
+      "M6.L7": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA_jI_sEA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L8"
+     ],
+     "teks": [
+      "3.8B"
+     ],
+     "bundled": [
+      "3.8A"
+     ],
+     "lo": "I am learning how to solve one- and two-step problems involving graphs.",
+     "sc": [
+      "I can construct a scaled bar graph.",
+      "I can plot data from a bar graph on a number line.",
+      "I can solve problems using information on bar graphs."
+     ],
+     "te": {
+      "M6.L8": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA_jI_sFU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M6.L10"
+     ],
+     "teks": [
+      "3.7D"
+     ],
+     "bundled": [
+      "3.7E"
+     ],
+     "lo": "I am learning how to explore customary weight units and generate measurement data.",
+     "sc": [
+      "I can explore objects to develop a benchmark for 1 pound.",
+      "I can explore various types of scales.",
+      "I can explore objects to develop a benchmark for 1-ounce",
+      "I can develop relationships among customary weight units."
+     ],
+     "te": {
+      "M6.L10": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA_gUsJYI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L11"
+     ],
+     "teks": [
+      "3.8A"
+     ],
+     "bundled": [
+      "3.8B"
+     ],
+     "lo": "I am learning how to rotate strip diagrams vertically.",
+     "sc": [
+      "I can rotate strip diagrams to make vertical strip diagrams with units of 2.",
+      "I can draw vertical strip diagrams with units of 4."
+     ],
+     "te": {
+      "M6.L11": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA_gUsJYc"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M6.L12"
+     ],
+     "teks": [
+      "3.8A"
+     ],
+     "bundled": [
+      "3.8B"
+     ],
+     "lo": "I am learning how to create scaled bar graphs.",
+     "sc": [
+      "I can construct a scaled bar graph.",
+      "I can plot data from a bar graph on a number line."
+     ],
+     "te": {
+      "M6.L12": "https://drive.google.com/open?id=1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg&disco=AAAA_gUsJYo"
+     },
+     "note": "LO/SC in source are identical to Mon (M6.L7)"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 25,
+   "start": "2027-02-15",
+   "title": "Copy of Q3:W25 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L14"
+     ],
+     "teks": [
+      "3.8B"
+     ],
+     "bundled": [
+      "3.8A"
+     ],
+     "lo": "I am learning how to solve one- and two-step problems involving dot graphs with fractional intervals.",
+     "sc": [
+      "I can construct a fractional scaled bar graph.",
+      "I can plot data from a bar graph on a number line.",
+      "I can solve problems using information on bar graphs."
+     ],
+     "te": {
+      "M6.L14": "https://drive.google.com/file/d/1Luk8cUDSwnG_a0GfSV0IR0y8ve2XeDNg/edit?disco=AAABGVwXmfY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "SMC 3 RLA"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L22"
+     ],
+     "teks": [
+      "3.4F",
+      "3.4G",
+      "3.4K",
+      "3.5A",
+      "3.5B",
+      "3.5E"
+     ],
+     "bundled": [
+      "3.4D",
+      "3.4E"
+     ],
+     "lo": "I am learning to use the standard algorithm to solve two-digit by one-digit multiplication word problems.",
+     "sc": [
+      "I can use place value to solve two by one digit numbers.",
+      "I can model and solve two by one digit numbers."
+     ],
+     "te": {
+      "M3.L22": "https://drive.google.com/file/d/1rdsaChLMjmCGaGK02_EySil6T3bPv4g_/edit?disco=AAAA8AHdOCQ"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M7.S3-1"
+     ],
+     "teks": [
+      "3.4A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to use a number line to solve addition and subtraction word problems.",
+     "sc": [
+      "I can identify where to start on the number line to subtract.",
+      "I can use the number line to solve addition and subtraction word problems."
+     ],
+     "te": {
+      "M7.S3-1": "https://drive.google.com/file/d/1AKDgXgL3EMJpNdYoWw6TKn18EIOzDoO4/view?usp=drive_link"
+     },
+     "note": "Supplemental Lesson 3-1 (Make copies of the student lessons. This lesson is not in the book.)"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 26,
+   "start": "2027-02-22",
+   "title": "Copy of Q3:W26 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M7.L2"
+     ],
+     "teks": [
+      "3.4A",
+      "3.5B"
+     ],
+     "bundled": [],
+     "lo": "I am learning to solve word problems using the four operations.",
+     "sc": [
+      "I can use a strip diagram to solve addition and subtraction problems.",
+      "I can use a strip diagram to represent and solve multiplication problems."
+     ],
+     "te": {
+      "M7.L2": "https://drive.google.com/file/d/1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc/edit?disco=AAABKTurRJA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M7.L4"
+     ],
+     "teks": [
+      "3.6A",
+      "3.6B"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to compare and classify quadrilaterals.",
+     "sc": [
+      "I can group polygons by attributes.",
+      "I can analyze quadrilaterals.",
+      "I can decompose quadrilaterals into two triangles."
+     ],
+     "te": {
+      "M7.L4": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABEu_1lxs"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "SMC 3 Math"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M7.L5"
+     ],
+     "teks": [
+      "3.6A",
+      "3.6B"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to compare and classify quadrilaterals.",
+     "sc": [
+      "I can group polygons by attributes.",
+      "I can compare polygons."
+     ],
+     "te": {
+      "M7.L5": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABEu_1lx4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M7.L6"
+     ],
+     "teks": [
+      "3.6A",
+      "3.6B"
+     ],
+     "bundled": [
+      "3.8B"
+     ],
+     "lo": "I am learning how to draw polygons with specified attributes to solve problems.",
+     "sc": [
+      "I can identify attributes of polygons.",
+      "I can use tools to support the identified attributes.",
+      "I can use tools to draw polygons with specific attributes."
+     ],
+     "te": {
+      "M7.L6": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABEu_1lyM"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 27,
+   "start": "2027-03-01",
+   "title": "Copy of Q3:W27 Math IPC Grade 3 Eureka Math 25-26",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M7.L7"
+     ],
+     "teks": [
+      "3.8A"
+     ],
+     "bundled": [
+      "3.8B"
+     ],
+     "lo": "I am learning how to classify and sort three-dimensional figures according to their attributes.",
+     "sc": [
+      "I can recall attributes of solid figures.",
+      "I can classify and sort solid figures by their attributes."
+     ],
+     "te": {
+      "M7.L7": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABEu_1lzA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M7.L9"
+     ],
+     "teks": [
+      "3.7B"
+     ],
+     "bundled": [
+      "3.5A",
+      "3.5B",
+      "3.6B"
+     ],
+     "lo": "I am learning how to decompose quadrilaterals to understand perimeter as the boundary of a shape.",
+     "sc": [
+      "I can decompose a square to define the perimeter.",
+      "I can explain how the perimeter changes when shapes are altered.",
+      "I can identify the difference between perimeter and area."
+     ],
+     "te": {
+      "M7.L9": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABEu_1lzQ"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M7.L11"
+     ],
+     "teks": [
+      "3.7B"
+     ],
+     "bundled": [
+      "3.5A",
+      "3.5B",
+      "3.6B"
+     ],
+     "lo": "I am learning how to measure side lengths in whole number units to determine the perimeter of polygons.",
+     "sc": [
+      "I can  measure and label the sides of a figure.",
+      "I can write a number sentence to determine the perimeter of a figure.",
+      "I can apply my knowledge of polygons to identify the geometric figure based upon its sides."
+     ],
+     "te": {
+      "M7.L11": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABGKtZFzQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M7.L16"
+     ],
+     "teks": [
+      "3.7B"
+     ],
+     "bundled": [
+      "3.5A",
+      "3.5B",
+      "3.6B"
+     ],
+     "lo": "I am learning how to use all four operations to solve problems involving perimeter and unknown measurements.",
+     "sc": [
+      "I can visualize the rectangles that make up this shape.",
+      "I can use what I know about rectangles and the given side lengths to find the unknown side lengths.",
+      "I can find the perimeter of the shape."
+     ],
+     "te": {
+      "M7.L16": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABGV8jODA"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M7.L18"
+     ],
+     "teks": [
+      "3.7B"
+     ],
+     "bundled": [
+      "3.5A",
+      "3.5B",
+      "3.6B"
+     ],
+     "lo": "I am learning how to decompose quadrilaterals to understand perimeter as the boundary of a shape.",
+     "sc": [
+      "I can decompose a square to define the perimeter.",
+      "I can explain how the perimeter changes when shapes are altered.",
+      "I can identify the difference between perimeter and area."
+     ],
+     "te": {
+      "M7.L18": "https://drive.google.com/open?id=1sIviS5hI6yCpBWdhNhIl9cuK7dK7gtuc&disco=AAABEwzjZ8c"
+     },
+     "note": "LO/SC in source are identical to Tue (M7.L9)"
+    }
+   ]
+  }
+ ]
+}

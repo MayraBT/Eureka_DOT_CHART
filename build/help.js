@@ -1,7 +1,7 @@
 const HELP=[
  {id:'tour',title:'Quick tour',sub:'What each view does',who:'Everyone · start here',
   why:'Eureka Math TEKS Edition has no dot chart, so this tool builds one from the Dallas ISD 2026-27 weekly IPCs: every lesson with the TEKS the IPC lists for it. Pick Grade 3, 4 or 5 at the top, then choose a view on the left. It opens on the Calendar. Every TEKS chip and lesson title is clickable, so you can jump between views.',
-  steps:[`${T('Calendar')} The IPC day by day, Q1–Q3. Today is outlined in teal, and the days that teach the TEKS you picked are outlined in amber. Q3 comes from the Q3 quarterly calendar until its weekly IPCs are posted.`,
+  steps:[`${T('Calendar')} The IPC day by day, Q1–Q3. Today is outlined in teal, and the days that teach the TEKS you picked are outlined in amber. Where a Q3 weekly IPC is not posted yet, Q3 is paced from the Q3 calendar and uses last year's Q3 IPC for lesson TEKS and Teacher links.`,
    `${T('By lesson')} Every lesson by module and topic, with its TEKS: ● lesson TEKS on the weekly IPC, ○ bundled standard. Each module starts with its Scope &amp; Sequence TEKS and omitted lessons. A <b>Teacher ↗</b> button opens the Eureka teacher edition linked on the weekly IPC (district Google sign-in required).`,
    `${T('By standard')} Pick a TEKS to see the student expectation, readiness or supporting, academic vocabulary in English and Spanish, vertical alignment from Kindergarten up, released STAAR items, and every lesson that teaches it, with its dates. Sections start collapsed; open the ones you need or use <b>Expand all</b>. <b>Click the selected standard again to clear it.</b>`,
    `${T('STAAR performance')} Statewide percent correct on each released 2025 and 2026 STAAR item, sortable. Filter to readiness standards, items under 50%, 1-point, 2-point, tech-enhanced or multiple choice items, or standards taught in a quarter. With a standard selected, <b>Vertical performance</b> compares the related items in Grades 3, 4 and 5.`,
@@ -35,7 +35,7 @@ const HELP=[
   try:[['moves','Open Teaching moves']]},
  {id:'sources',title:'Where the data comes from',sub:'Sources and limits',who:'Everyone',
   why:'Everything in the tool comes from district and state documents. The footer of each page lists the sources for that grade.',
-  steps:[`<b>Lessons and TEKS:</b> Dallas ISD 2026-27 weekly IPCs, Q1–Q2: the "TEKS" line is marked ●, "Bundled standards" ○. Q3 pacing comes from the Q3 quarterly calendar; its lesson TEKS will be added from the Q3 weekly IPCs.`,
+  steps:[`<b>Lessons and TEKS:</b> Dallas ISD 2026-27 weekly IPCs, Q1–Q2: the "TEKS" line is marked ●, "Bundled standards" ○. Where a 2026-27 Q3 weekly IPC is not posted yet, Q3 pacing comes from the Q3 quarterly calendar and lesson TEKS and Teacher links come from the 2025-26 Q3 weekly IPC for the same Eureka lesson.`,
    `<b>Modules and topics:</b> the Eureka Math TEKS Edition Scope &amp; Sequence (2026-27) and the quarterly calendars.`,
    `<b>STAAR items:</b> lead4ward IQ Tool, 2025 and 2026 released tests (percent of Texas students).`,
    `<b>Vertical alignment and vocabulary:</b> lead4ward TEKS Scaffold and Academic Vocabulary (English and Spanish).`,

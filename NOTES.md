@@ -29,7 +29,7 @@ This is a dot chart and TEKS lookup for **Eureka Math TEKS Edition, Grades 3–5
 
 ## Open items
 
-- **Q3 lesson-level TEKS.** Q3 lessons are paced from the 26-27 Q3 calendars, and the Q3 weekly IPCs in the department folder are still 25-26 copies. When the 26-27 Q3 weeklies are ready, extract them with `SPEC.md` (weeks 19–27) and rebuild. Q3 lessons show "Q3 · TEKS on the weekly IPC when posted" until then.
+- **Q3.** Grade 5 uses the 2026-27 Q3 weekly IPCs. Grades 3 and 4 are paced from the 2026-27 Q3 calendar, and each lesson takes its TEKS and Teacher link from the 2025-26 Q3 weekly IPC for the same Eureka lesson (`ipc/g3_q3_2526.json`, `g4_q3_2526.json`); lessons not on last year's Q3 IPC (G3: M6 L5, L6, L9, M7 L14, L19; G4: M5 L25, M7 L9, L10, L12) have no TEKS yet. When the 2026-27 weeklies are updated, extract them as `g<N>_w19-27.json` and rebuild.
 - **Q4.** Eureka instruction ends in March. Q4 uses district-created materials, so it has no lessons in the tool.
 - **STAAR dates.** None of the source documents give 2027 Grade 3–5 STAAR dates, so no lesson is flagged "after STAAR".
 - **Cut-off items.** A few IQ Tool items run past the page in the PDF export, so their images are cut off at the bottom (e.g. Grade 4 2025 Q4).

@@ -26,7 +26,7 @@ def qwk(w):
 def load_weeks(g):
     weeks = []
     for f in sorted(glob.glob(f'ipc/g{g}_*.json')):
-        if f.endswith('_te.json'):
+        if f.endswith('_te.json') or '2526' in f:
             continue
         for w in json.load(open(f))['weeks']:
             w['W'] = w['wk']
@@ -86,6 +86,7 @@ for g in '345':
         calweeks.append({'q': q, 'wk': wkq, 'start': w['start'], 'days': days})
     # Q3 from the quarterly calendar (lesson-level TEKS not yet posted)
     for w in cal['q3']['weeks']:
+        if w['wk'] in have: continue   # the 2026-27 weekly IPC replaces the calendar for this week
         q, wkq = 3, w['wk'] - 18
         start = D(w['start']); days = []
         for i, d in enumerate(w['days'][:5]):
@@ -108,6 +109,28 @@ for g in '345':
     if g == '3':
         for lid, disco in TE_FILE['disco'].items():
             tig.setdefault(lid, [f"https://drive.google.com/file/d/{TE_FILE['file']}/edit?disco={disco}"])
+    # Q3 lessons still without TEKS: use last year's (2025-26) weekly IPC for the same Eureka lesson
+    prevf = f'ipc/g{g}_q3_2526.json'
+    if os.path.exists(prevf):
+        n = 0
+        for w in json.load(open(prevf))['weeks']:
+            for d in w['days']:
+                for lid in d.get('les') or []:
+                    L = lessons.get(lid)
+                    if not L or not L.get('q3'): continue
+                    pm = L.setdefault('pmarks', {})
+                    for c in d.get('teks', []):
+                        c = c.strip().upper()
+                        if re.match(r'^\d\.\d+[A-Z]$', c): pm[c] = 'F'
+                    for c in d.get('bundled', []):
+                        c = c.strip().upper()
+                        if re.match(r'^\d\.\d+[A-Z]$', c) and pm.get(c) != 'F': pm[c] = 'O'
+                    te = d.get('te')
+                    if isinstance(te, dict) and te.get(lid) and lid not in tig: tig[lid] = [te[lid]]
+        for lid, L in lessons.items():
+            if L.get('q3') and not L['marks'] and L.get('pmarks'):
+                L['marks'] = L['pmarks']; L['prev'] = True; n += 1
+        report.append(f'G{g}: {n} Q3 lessons take TEKS from the 2025-26 Q3 IPC')
     titles = cal['lessons']
     # topics
     tmap = topics.get(g, {})
@@ -131,7 +154,7 @@ for g in '345':
         marks = sorted(L['marks'].items(), key=lambda kv: (kv[1] != 'F', int(kv[0].split('.')[1][:-1]), kv[0][-1]))
         lab = str(num) if not sup else f"{num}-{sub}"
         out_lessons.append({'id': lid, 'm': m, 't': t, 'l': lab, 'title': title.rstrip('.') + '.', 'sub': '',
-                            'note': 'Supplemental lesson' if sup else '', 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
+                            'note': ('Supplemental lesson' if sup else '') + (('; ' if sup else '') + 'TEKS from the 2025-26 Q3 weekly IPC (2026-27 not posted yet)' if L.get('prev') else ''), 'prev': bool(L.get('prev')), 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
     used_mods = sorted({L['m'] for L in out_lessons})
     modules = []
     for n in used_mods:
@@ -155,7 +178,7 @@ for g in '345':
     events = [e for e in cal.get('events', []) if re.search(r'staar', e['label'], re.I)]
     calweeks.sort(key=lambda w: w['start'])
     COURSES['g' + g] = {'key': 'g' + g, 'name': f'Grade {g}', 'title': f'Grade {g} Eureka · TEKS Lookup', 'ipc': f'Grade {g} Eureka Math',
-                        'grade': g, 'unsched': 'not on the 2026-27 IPC (Q1–Q3)', 'notes': cal.get('notes', []),
+                        'grade': g, 'q3note': (' · 2026-27 weekly IPCs' if all(w in have for w in range(19,28)) else ' · paced from the 2026-27 Q3 calendar; lesson TEKS and Teacher links from the 2025-26 Q3 weekly IPCs until the 2026-27 weeklies are posted'), 'unsched': 'not on the 2026-27 IPC (Q1–Q3)', 'notes': cal.get('notes', []),
                         'data': {'modules': modules, 'standards': standards, 'lessons': out_lessons},
                         'pace': {'lessons': pace, 'cal': {'quarters': QUARTERS, 'events': events}}, 'cal': calweeks}
     TIG['g' + g] = tig

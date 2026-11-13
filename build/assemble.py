@@ -48,7 +48,7 @@ b = rep(b, '<span class="vh">Course</span>', '<span class="vh">Grade</span>')
 b = rep(b, 'placeholder="Type a TEKS (6.4B, 8.5I, A.5A) or a lesson word (ratio, slope, quadratic)"', 'placeholder="Type a TEKS (3.4K, 4.3D, 5.3K) or a lesson word (fraction, area, decimal)"')
 b = rep(b, 'title="Full grid — The dot chart"', 'title="Full grid — The dot chart built from the IPCs"')
 b = rep(b, '<span class="th">The dot chart</span>', '<span class="th">The dot chart (from the IPCs)</span>')
-b = rep(b, '<label><input type="checkbox" id="fCov"> Only standards taught in this course</label>', '<label><input type="checkbox" id="fCov"> Only standards on a Q1–Q2 lesson</label>')
+b = rep(b, '<label><input type="checkbox" id="fCov"> Only standards taught in this course</label>', '<label><input type="checkbox" id="fCov"> Only standards on a lesson</label>')
 b = rep(b, '<label id="f7wrap"><input type="checkbox" id="f7"> Grade 7 TEKS</label>', '<label id="f7wrap" style="display:none"><input type="checkbox" id="f7"> other grade</label>')
 b = rep(b, 'Statewide percent correct on each released STAAR item, by TEKS, with Dallas ISD results in purple (2026; Algebra I 2025 and 2026). Click a column header to sort; click a code to open it.',
         'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS. Click a column header to sort; click a code to open it.')
@@ -87,9 +87,9 @@ t = rep(t, "return (COURSE.key==='g6'?ga-gb:gb-ga)||sa-sb;", "return ga-gb||sa-s
 t = rep(t, "const g6=COURSE.key==='g6'; const parts=[]; if(n('F')) parts.push(`${n('F')} ${g6?'as focus standard':'fully covered'}`); if(n('O')) parts.push(`${n('O')} ${g6?'also addressed':'partially covered'}`);",
         "const parts=[]; if(n('F')) parts.push(`${n('F')} as lesson TEKS`); if(n('O')) parts.push(`${n('O')} as bundled standard`);")
 t = rep(t, "html+=`<p class=\"empty\">No lesson in ${COURSE.name} carries ${s.code}${COURSE.key==='a7'&&s.code.startsWith('7.')?' — neither the Grade 8 dot chart nor the 7th Advanced IPC lists it for a lesson.':s.g7?' — the chart notes it is covered in the Accelerated Grade 7 course.':' on the dot chart.'}</p>`;",
-        "html+=`<p class=\"empty\">No Q1–Q2 lesson in ${COURSE.name} lists ${s.code} on the weekly IPC.${ssModsFor(s.code)}</p>`;")
+        "html+=`<p class=\"empty\">No lesson in ${COURSE.name} lists ${s.code} on the weekly IPC.${ssModsFor(s.code)}</p>`;")
 t = rep(t, "html+='<div class=\"perf\"><h4>Where and when it is taught</h4>';",
-        "html+='<div class=\"perf\"><h4>Where and when it is taught</h4>'+(hits.length?`<p class=\"note\">Lesson TEKS come from the 2026-27 weekly IPCs (Q1–Q2). Q3 lessons are paced from the Q3 calendar; their lesson-level TEKS will be added when the Q3 weekly IPCs are posted.${ssModsFor(s.code)}</p>`:'');")
+        "html+='<div class=\"perf\"><h4>Where and when it is taught</h4>'+(hits.length?`<p class=\"note\">Lesson TEKS come from the 2026-27 weekly IPCs. Where a Q3 weekly IPC is not posted yet, the lesson is paced from the 2026-27 Q3 calendar and its TEKS come from last year's (2025-26) Q3 weekly IPC for the same Eureka lesson.${ssModsFor(s.code)}</p>`:'');")
 t = rep(t, "html+=`<button class=\"lesson\" data-id=\"${L.id}\"><i class=\"dot ${k}\" title=\"${MARK_NAME[k]}\"></i><span><span class=\"where\">${lessonWhere(L)} · ${esc(MOD.get(L.m).topics[L.t-1])}</span><br><b>${esc(L.title)}</b> ${subOf(L)}<span class=\"whenrow\">${paceTag(L.id)}</span></span></button>`;",
         "html+=`<button class=\"lesson\" data-id=\"${L.id}\"><i class=\"dot ${k}\" title=\"${MARK_NAME[k]}\"></i><span><span class=\"where\">${lessonWhere(L)} · ${esc(MOD.get(L.m).topics[L.t-1]||'')}</span><br><b>${esc(L.title)}</b> ${subOf(L)}<span class=\"whenrow\">${paceTag(L.id)}</span></span></button>`;")
 t = t.replace("MOD.get(L.m).topics[L.t-1]", "(MOD.get(L.m).topics[L.t-1]||'')")
@@ -107,7 +107,7 @@ t = rep(t, "    h+=`<div class=\"vrow\"><span>Previously introduced</span><span>
         "      h+=`<div class=\"vrow sp\"><span lang=\"es\">Introducido antes</span><span lang=\"es\">${b.sp.prev.length?b.sp.prev.map(t=>vt(t,'sp')).join(''):'<span class=\"qs\">—</span>'}</span></div>`; }\n")
 # across courses wording
 t = rep(t, "<h4>Across courses</h4><p class=\"note\">Standards in the same lead4ward scaffold clusters as ${code}, and where each course teaches them.</p>",
-        "<h4>Across grades</h4><p class=\"note\">Standards in the same lead4ward scaffold clusters as ${code}, and where each grade teaches them in Eureka (Q1–Q2 lesson TEKS).</p>")
+        "<h4>Across grades</h4><p class=\"note\">Standards in the same lead4ward scaffold clusters as ${code}, and where each grade teaches them in Eureka (Q1–Q3).</p>")
 t = t.replace("'Following '+code+' across courses ✓':'Follow '+code+' across courses'", "'Following '+code+' across grades ✓':'Follow '+code+' across grades'")
 t = rep(t, "<th>Course</th><th>Related standards in that course</th>", "<th>Grade</th><th>Related standards in that grade</th>")
 t = rep(t, "'<span class=\"qs\">this course</span>'", "'<span class=\"qs\">this grade</span>'")
@@ -141,7 +141,7 @@ t = rep(t, "const lessons=DATA.lessons.filter(L=>gridMods.has(L.m)&&(!lens||L.ma
         "const lessons=DATA.lessons.filter(L=>gridMods.has(L.m)&&L.marks.length&&(!lens||L.marks.some(m=>lens.fam.has(m[0]))));")
 # calendar: quarters without a header entry, Q4 note
 t = rep(t, "const qd=PACE.cal.quarters[w.q]; html+=`<tr class=\"qhead\"><td colspan=\"6\">Quarter ${w.q} · ${fdr(qd.start,qd.end)}</td></tr>`;",
-        "const qd=PACE.cal.quarters[w.q]; html+=`<tr class=\"qhead\"><td colspan=\"6\">Quarter ${w.q} · ${fdr(qd.start,qd.end)}${w.q===3?' · from the Q3 quarterly calendar (weekly IPCs not yet posted)':''}</td></tr>`;")
+        "const qd=PACE.cal.quarters[w.q]; html+=`<tr class=\"qhead\"><td colspan=\"6\">Quarter ${w.q} · ${fdr(qd.start,qd.end)}${w.q===3?(COURSE.q3note||''):''}</td></tr>`;")
 t = rep(t, "  $('cal').innerHTML=html+'</tbody>';",
         "  if(!calQ||calQ===4) html+=`<tr class=\"qhead\"><td colspan=\"6\">Quarter 4 · ${esc((COURSE.notes||[])[0]||'Eureka instruction ends in March; Q4 uses district-created materials.')}</td></tr>`;\n  $('cal').innerHTML=html+'</tbody>';")
 t = rep(t, "else alert('Today is outside the 2026-27 IPC.');", "else showView('cal');")

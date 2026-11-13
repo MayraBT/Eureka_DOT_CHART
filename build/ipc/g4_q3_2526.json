@@ -1,0 +1,944 @@
+{
+ "grade": 4,
+ "src": "2025-26",
+ "weeks": [
+  {
+   "q": 3,
+   "wk": 19,
+   "start": "2027-01-04",
+   "title": "Q3: W1 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L10"
+     ],
+     "teks": [
+      "4.3C"
+     ],
+     "bundled": [
+      "4.3B",
+      "4.3G"
+     ],
+     "lo": "I am learning how to explain fraction equivalence using a strip diagram and the number line, and relate that to the use of multiplication and division.",
+     "sc": [
+      "I can use a strip diagram and number line to find equivalent fractions for halves, fourths, and eighths.",
+      "I can use a number line, multiplication, and division to decompose and compose fractions.",
+      "I can decompose a non-unit fraction using a number line and division."
+     ],
+     "te": {
+      "M5.L10": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4EY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L11"
+     ],
+     "teks": [
+      "4.3D"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to reason using benchmarks to compare two fractions on thenumber line.",
+     "sc": [
+      "I can reason about the size of a fraction compared to ½",
+      "I can plot points on a number line by thinking about fractions in relation to 0, ½  , or 1 and compare the fractions.",
+      "I can use the benchmarks 0, ½ , and 1 to compare two fractions without using a number line."
+     ],
+     "te": {
+      "M5.L11": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4E0"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L13"
+     ],
+     "teks": [
+      "4.3D"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to find common units or the number of units to compare two fractions.",
+     "sc": [
+      "I can reason about fraction size using unit language.",
+      "I can compare fractions with related numerators.",
+      "I can compare fractions having related denominators where one denominator is a factor of the other.",
+      "I can compare fractions using different methods of reasoning."
+     ],
+     "te": {
+      "M5.L13": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4Io"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L16"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [
+      "4.3B",
+      "4.3G"
+     ],
+     "lo": "I am learning how to use visual models to add and subtract two fractions with the same units, including subtracting from one whole.",
+     "sc": [
+      "I can model subtract a fraction from 1 using a number line.",
+      "I can use a number bond or strip diagrams to subtract a fraction from a number between 1 and 2."
+     ],
+     "te": {
+      "M5.L16": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4Is"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 20,
+   "start": "2027-01-11",
+   "title": "Q3: W2 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L17"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [
+      "4.3B",
+      "4.3F",
+      "4.3G"
+     ],
+     "lo": "I am learning how to add and subtract more than two fractions.",
+     "sc": [
+      "I can model a strategy to solve addition and subtraction of fractions.",
+      "I can justify solutions to addition and subtraction problems with fractions."
+     ],
+     "te": {
+      "M5.L17": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4I0"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L19"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [
+      "4.3B"
+     ],
+     "lo": "I am learning how to add a fraction less than 1 to, or subtract a fraction less than 1 from, a whole number using decomposition and visual models.",
+     "sc": [
+      "I can add a fraction less than 1 to a whole number using a strip diagram.",
+      "I can subtract a fraction less than 1 from a whole number using a strip diagram.",
+      "I can form fact family facts given three related numbers.",
+      "I can subtract a fraction less than 1 from a whole number using decomposition."
+     ],
+     "te": {
+      "M5.L19": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4N0"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L20"
+     ],
+     "teks": [
+      "4.3B"
+     ],
+     "bundled": [
+      "4.3G"
+     ],
+     "lo": "I am learning how to decompose and compose fractions greater than 1 to expressthem in various forms.",
+     "sc": [
+      "I can rename fractions as mixed numbers using decomposition with number bonds.",
+      "I can rename fractions as mixed numbers using a number line."
+     ],
+     "te": {
+      "M5.L20": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4N4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L22"
+     ],
+     "teks": [
+      "4.3D"
+     ],
+     "bundled": [
+      "4.3F"
+     ],
+     "lo": "I am learning how to compare fractions greater than 1 by reasoning using benchmark fractions.",
+     "sc": [
+      "I can compare mixed numbers and fractions on a number line using benchmark fractions.",
+      "I can compare two mixed numbers or two fractions greater than 1."
+     ],
+     "te": {
+      "M5.L22": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA5Fcw4OA"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L23"
+     ],
+     "teks": [
+      "4.3D"
+     ],
+     "bundled": [
+      "4.3B"
+     ],
+     "lo": "I am learning how to compare fractions greater than 1 by creating common numerators or denominators.",
+     "sc": [
+      "I can model, using a strip diagram, the comparison of two mixed numbers having related denominators.",
+      "I can compare two fractions with unrelated denominators.",
+      "I can compare two fractions."
+     ],
+     "te": {
+      "M5.L23": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA4JIqBo8"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 21,
+   "start": "2027-01-18",
+   "title": "Q3: W3 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Teacher and Student Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L24"
+     ],
+     "teks": [
+      "4.9A"
+     ],
+     "bundled": [
+      "4.9B"
+     ],
+     "lo": "I am learning how to solve word problems with dot plots.",
+     "sc": [
+      "I can create a dot plot to show the information.",
+      "I can interpret the information on a dot plot using factual statements.",
+      "I can solve word problems using information presented on a dot plot"
+     ],
+     "te": {
+      "M5.L24": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA4JIqBpY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L26"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to add a mixed number and a fraction.",
+     "sc": [
+      "I can use unit form and the number line to add a mixed number and a fraction having sums of fractional units less than or equal to 1.",
+      "I can complete a unit of one to add a mixed number and a fraction.",
+      "I can decompose a sum of a mixed number and a fraction with sums of fractional units greater than 1.",
+      "I can decompose a fractional addend to make one before finding the sum."
+     ],
+     "te": {
+      "M5.L26": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA4OBLtfQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L27"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to add mixed numbers.",
+     "sc": [
+      "I can add mixed numbers combining like units.",
+      "I can add mixed numbers when the sum of the fractional units is greater than 1 by combining like units.",
+      "I can add mixed numbers when the sum of the fractional units is greater than 1 by making one.",
+      "I can record the addition of mixed numbers."
+     ],
+     "te": {
+      "M5.L27": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA4OBLtfY"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L28"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to subtract a fraction from a mixed number.",
+     "sc": [
+      "I can subtract a fraction from a mixed number by counting back.",
+      "I can subtract a fraction less than 1 from a whole number by decomposing the subtrahend.",
+      "I can decompose the total to take out 1 when subtracting a fraction from a mixed number when there are not enough fractional units."
+     ],
+     "te": {
+      "M5.L28": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA4OBLtfc"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 22,
+   "start": "2027-01-25",
+   "title": "Q3: W4 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "blank"
+    },
+    {
+     "dow": "Tue",
+     "kind": "blank"
+    },
+    {
+     "dow": "Wed",
+     "kind": "blank"
+    },
+    {
+     "dow": "Thu",
+     "kind": "blank"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L29"
+     ],
+     "teks": [
+      "4.3E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to subtract a mixed number from a mixed number.",
+     "sc": [
+      "I can subtract a mixed number from a mixed number by counting up.",
+      "I can subtract a mixed number from a mixed number when there are not enough fractional units by first subtracting the whole numbers and then decomposing the subtrahend.",
+      "I can Subtract a mixed number from a mixed number when there are not enough fractional units by decomposing a whole number into fractional parts."
+     ],
+     "te": {
+      "M5.L29": "https://drive.google.com/file/d/1jhklwLN0kG6tJblfVPGiuP_ji4Tmqs3c/edit?disco=AAAA4OBLtfk"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 23,
+   "start": "2027-02-01",
+   "title": "Q3: W5 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M6.L1"
+     ],
+     "teks": [
+      "4.2G"
+     ],
+     "bundled": [
+      "4.2A",
+      "4.2E"
+     ],
+     "lo": "I am learning how to use metric measurement to model the decomposition of one whole into tenths.",
+     "sc": [
+      "I can compose and decompose 1 kilogram, representing tenths in fraction form and decimal form.",
+      "I can decompose 1 meter, representing tenths in fraction form and decimal form.",
+      "I can decompose 1 centimeter, representing tenths in fraction form and decimal form."
+     ],
+     "te": {
+      "M6.L1": "https://drive.google.com/open?id=1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc&disco=AAAA4OaXWuA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L2"
+     ],
+     "teks": [
+      "4.2E"
+     ],
+     "bundled": [
+      "4.2A",
+      "4.2G",
+      "4.2H"
+     ],
+     "lo": "I am learning how to use metric measurement and area models to represent tenthsas fractions greater than 1 and decimal numbers.",
+     "sc": [
+      "I can draw line segments of given lengths, and express each segment as a mixed number and a decimal.",
+      "I can use the area model to represent tenths as fractions greater than 1 and as decimal numbers."
+     ],
+     "te": {
+      "M6.L2": "https://drive.google.com/open?id=1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc&disco=AAAA4OaXWvU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M6.L3"
+     ],
+     "teks": [
+      "4.2E"
+     ],
+     "bundled": [
+      "4.2G",
+      "4.2H"
+     ],
+     "lo": "I am learning how to represent mixed numbers with units of tens, ones, and tenthswith place value disks, on the number line, and in expanded notation.",
+     "sc": [
+      "I can make groups of 10 tenths to rename as ones. Write the number in decimal form.",
+      "I can represent mixed numbers with units of tens, ones, and tenths in expanded notation.",
+      "I can use place value disks to explore 1 tenth as much.",
+      "I can use the number line to model mixed numbers with units of ones and tenths."
+     ],
+     "te": {
+      "M6.L3": "https://drive.google.com/open?id=1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc&disco=AAAA4OaXWww"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L4"
+     ],
+     "teks": [
+      "4.2E"
+     ],
+     "bundled": [
+      "4.2G",
+      "4.2H",
+      "4.3C"
+     ],
+     "lo": "I am learning how to use meters to model the decomposition of one whole into hundredths. Represent and count hundredths.",
+     "sc": [
+      "I can recognize 1 centimeter as 1/100 of a meter, which can be written as 1/100m and as 0.01 m.",
+      "I can name hundredths as tenths and some hundredths, stating the number in fraction and decimal form."
+     ],
+     "te": {
+      "M6.L4": "https://drive.google.com/open?id=1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc&disco=AAAA4OaXWw0"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 24,
+   "start": "2027-02-08",
+   "title": "Q3: W6 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M6.L5"
+     ],
+     "teks": [
+      "4.2G"
+     ],
+     "bundled": [
+      "4.2E",
+      "4.2H",
+      "4.3C"
+     ],
+     "lo": "I am learning how to model the equivalence of tenths and hundredths using the areamodel and place value disks.",
+     "sc": [
+      "I can simplify hundredths by division.",
+      "I can model hundredths with an area model.",
+      "I can compose hundredths to tenths using place value disks, and then represent with a number bond.",
+      "I can use place value disks to represent a decimal fraction. Write the equivalent decimal in unit form."
+     ],
+     "te": {
+      "M6.L5": "https://drive.google.com/open?id=1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc&disco=AAAA4OaXWw8"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L6"
+     ],
+     "teks": [
+      "4.2G"
+     ],
+     "bundled": [
+      "4.2E",
+      "4.2H",
+      "4.3C"
+     ],
+     "lo": "I am learning how to use the area model and number line to represent mixed numbers with units of ones, tenths, and hundredths in fraction and decimalforms.",
+     "sc": [
+      "I can represent mixed numbers with units of ones, tenths, and hundredths using area models.",
+      "I can represent mixed numbers with units of ones, tenths, and hundredths on a number line.",
+      "I can match the unit form of a mixed number to its decimal and fraction forms."
+     ],
+     "te": {
+      "M6.L6": "https://drive.google.com/open?id=1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc&disco=AAAA4OaXWxA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M6.L7",
+      "M6.L8"
+     ],
+     "teks": [
+      "4.2B"
+     ],
+     "bundled": [
+      "4.2E",
+      "4.2G",
+      "4.2H",
+      "4.3C"
+     ],
+     "lo": "I am learning how to model mixed numbers with units of hundreds, tens, ones,tenths, and hundredths in expanded notation and on the place value chart.",
+     "sc": [
+      "I can use place value disks to model mixed numbers with units of hundreds, tens, ones, tenths, and hundredths on the place value chart.",
+      "I can say the value of each digit.",
+      "I can express a decimal number in decimal and fraction expanded notation."
+     ],
+     "te": {
+      "M6.L7": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJAU",
+      "M6.L8": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJAk"
+     },
+     "note": "Combined lesson: Lesson 7 combined with Lesson 8 Concept Development"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L9"
+     ],
+     "teks": [
+      "4.2F"
+     ],
+     "bundled": [
+      "4.8C"
+     ],
+     "lo": "I am learning how to use the place value chart and metric measurement to compare decimals and answer comparison questions.",
+     "sc": [
+      "I can compare pairs of decimal numbers representing length.",
+      "I can compare pairs of decimal numbers representing mass.",
+      "I can compare pairs of decimal numbers representing volume."
+     ],
+     "te": {
+      "M6.L9": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJAw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M6.L10"
+     ],
+     "teks": [
+      "4.2F"
+     ],
+     "bundled": [
+      "4.8C"
+     ],
+     "lo": "I am learning how to use area models and the number line to compare decimalnumbers, and record comparisons using < , > , and = .",
+     "sc": [
+      "I can compare pairs of decimal numbers using an area model. Record the comparison using < , > , and = .",
+      "I can compare decimal numbers on a number line. Record the comparison using < , > , and = .",
+      "I can compare decimal numbers using < , > , and = ."
+     ],
+     "te": {
+      "M6.L10": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJFU"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 25,
+   "start": "2027-02-15",
+   "title": "Q3: W7 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Staff/Student Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L12"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [
+      "4.2F"
+     ],
+     "lo": "I am learning how to apply place value understanding to add tenths and hundredths.",
+     "sc": [
+      "I can use place value disks to model units of hundreds, tens, ones, tenths, and hundredths on the place value chart.",
+      "I can use zeros to keep the value of the unit.",
+      "I can use the standard algorithm to add and sub tenths and hundredths."
+     ],
+     "te": {
+      "M6.L12": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJHs"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M6.L13"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [
+      "4.2F"
+     ],
+     "lo": "I am learning how to apply place value understanding to add tenths and hundredths.",
+     "sc": [
+      "I can use place value disks to model units of hundreds, tens, ones, tenths, and hundredths on the place value chart.",
+      "I can use zeros to keep the value of the unit.",
+      "I can use the standard algorithm to add and sub tenths and hundredths."
+     ],
+     "te": {
+      "M6.L13": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJI8"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L14"
+     ],
+     "teks": [
+      "4.4A"
+     ],
+     "bundled": [
+      "4.2E",
+      "4.2G",
+      "4.2H",
+      "4.3C",
+      "4.3E",
+      "4.8B",
+      "4.8C"
+     ],
+     "lo": "I am learning how to solve word problems involving the addition and subtraction ofmeasurements in decimal form.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve and write a statement.",
+      "I can assess the solution for reasonableness."
+     ],
+     "te": {
+      "M6.L14": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA5jALJKA"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Reading SMC #3"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 26,
+   "start": "2027-02-22",
+   "title": "Q3: W8 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M6.L15"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to express money amounts given in various forms as decimalnumbers.",
+     "sc": [
+      "I can express pennies, dimes, and quarters as fractional parts of a dollar.",
+      "I can express the total value of combinations of pennies, dimes, and quarters in fraction and decimal form.",
+      "I can find the sum of two sets of bills and cents using whole number calculations and unit form"
+     ],
+     "te": {
+      "M6.L15": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=1pp3h3y91fsg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L17",
+      "M6.L18"
+     ],
+     "teks": [
+      "4.10B",
+      "4.10A"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to solve word problems, including the calculation of profit & and the difference between fixed and variable expenses.",
+     "sc": [
+      "I can define profit",
+      "I can determine profit.",
+      "I can describe ways to spend and save money.",
+      "I can reason about the advantages and disadvantages of saving and spending.",
+      "I can define fixed and variable expenses"
+     ],
+     "te": {
+      "M6.L17": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA-sNFRh4",
+      "M6.L18": "https://drive.google.com/file/d/1D-iyARgWDQK3rqcB_E8z-LBpZwtb7Frc/edit?disco=AAAA-sNFRkA"
+     },
+     "note": "Lessons combined; *MUST DO"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M7.L1"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4H",
+      "4.5A",
+      "4.5B",
+      "4.4D",
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning how to create conversion tables for length, weight, and capacity unitsusing measurement tools, and use the tables to solve problems.",
+     "sc": [
+      "I can relate pounds to ounces using a scale.",
+      "I can relate meters to feet using meter sticks and rulers",
+      "I can relate feet to inches using rulers."
+     ],
+     "te": {
+      "M7.L1": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNgg"
+     },
+     "note": "*MUST DO"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M7.L2"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4H",
+      "4.5A",
+      "4.5B",
+      "4.4D",
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning how to create conversion tables for length, weight, and capacity unitsusing measurement tools, and use the tables to solve problems.",
+     "sc": [
+      "I can relate gallons to quarts.",
+      "I can relate quarts to pints. Relate pints to gallons.",
+      "I can relate pints to cups. Relate cups to quarts and gallons.",
+      "I can calculate a two step conversion."
+     ],
+     "te": {
+      "M7.L2": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNg0"
+     },
+     "note": "*MUST DO"
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Math SMC #3"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 27,
+   "start": "2027-03-01",
+   "title": "Q3: W8 IPC Gr4 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M7.L3"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4H",
+      "4.5A",
+      "4.5B",
+      "4.4D",
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning how to create conversion tables for units of time, and use the tables tosolve problems.",
+     "sc": [
+      "I can convert minutes to seconds.",
+      "I can convert hours to minutes.",
+      "I can convert days to hours.",
+      "I can solve a word problem involving converting days to hours."
+     ],
+     "te": {
+      "M7.L3": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNk8"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M7.L4"
+     ],
+     "teks": [
+      "4.8B"
+     ],
+     "bundled": [
+      "4.4C",
+      "4.4D",
+      "4.4H",
+      "4.5A",
+      "4.5B",
+      "4.8A",
+      "4.8C"
+     ],
+     "lo": "I am learning how to solve multiplicative comparison word problems usingmeasurement conversion tables.",
+     "sc": [
+      "I can model the problem.",
+      "I can calculate to solve, and write a statement.",
+      "I can assess the solution."
+     ],
+     "te": {
+      "M7.L4": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNlQ"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M7.L6"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [
+      "4.4H",
+      "4.5A",
+      "4.8A",
+      "4.8B"
+     ],
+     "lo": "I am learning how to solve problems involving mixed units of capacity.",
+     "sc": [
+      "I can add mixed units of capacity.",
+      "I can subtract mixed units of capacity."
+     ],
+     "te": {
+      "M7.L6": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNlg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M7.L7"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [
+      "4.4H",
+      "4.5A",
+      "4.8A",
+      "4.8B"
+     ],
+     "lo": "I am learning how to solve problems involving mixed units of length.",
+     "sc": [
+      "I can add mixed units of length.",
+      "I can subtract mixed units of length."
+     ],
+     "te": {
+      "M7.L7": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNmA"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M7.L8"
+     ],
+     "teks": [
+      "4.8C"
+     ],
+     "bundled": [
+      "4.4H",
+      "4.5A",
+      "4.8A",
+      "4.8B"
+     ],
+     "lo": "I am learning how to solve problems involving mixed units of weight.",
+     "sc": [
+      "I can add mixed units of weight measure, and share alternate strategies.",
+      "I can subtract units of weight measure when there are not enough smaller units."
+     ],
+     "te": {
+      "M7.L8": "https://drive.google.com/open?id=1Ng0J-GSiyVyMrU0PUeCIzKpfVI5QcWml&disco=AAABF5PhNpk"
+     }
+    }
+   ]
+  }
+ ]
+}
