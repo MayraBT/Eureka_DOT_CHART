@@ -1551,7 +1551,9 @@ function loadCourse(k,keepSel=true){
   else if(keepSel && sel && STD.has(sel)) selectStd(sel,true);
   else { sel=null; if(query.trim()) renderSearch(query); else renderDetail(null); try{ history.replaceState(null,'','#'+k); }catch(e){} }
 }
-$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); loadCourse(c); showView(v); } });
+$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); resetForGrade(); loadCourse(c,false); showView(v); window.scrollTo(0,0); } });
+/* switching grade from the menu starts clean: no selected standard, lens, search, or Teaching moves selection carried over */
+function resetForGrade(){ sel=null; lens=null; query=''; $('q').value=''; QMODE='strict'; secState={code:null,open:{}}; lesMarked=null; mvSel=null; mvAnchor=null; mvQuery=''; mvBuiltFor=null; vpAll={}; document.querySelectorAll('#detail,#mvDetail').forEach(x=>x.innerHTML=''); }
 /* ---------- init ---------- */
 let h=''; try{ h=decodeURIComponent(location.hash.slice(1)); }catch(e){}
 let ck=null, hc='';

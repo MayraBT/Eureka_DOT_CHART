@@ -169,6 +169,11 @@ t = rep(t, "const ref=g==='7'?", "const ref=false?")
 t = rep(t, "<span><i class=\"kds\"></i>Dallas ISD average</span>", "")
 t = rep(t, "`<span class=\"na\">${b.g==='7'?'No Dallas ISD students take Grade 7 STAAR':'no Dallas ISD data'}</span>`", "''")
 
+t = rep(t, "$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); loadCourse(c); showView(v); } });",
+ "$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); resetForGrade(); loadCourse(c,false); showView(v); window.scrollTo(0,0); } });\n"
+ "/* switching grade from the menu starts clean: no selected standard, lens, search, or Teaching moves selection carried over */\n"
+ "function resetForGrade(){ sel=null; lens=null; query=''; $('q').value=''; QMODE='strict'; secState={code:null,open:{}}; lesMarked=null; mvSel=null; mvAnchor=null; mvQuery=''; mvBuiltFor=null; vpAll={}; document.querySelectorAll('#detail,#mvDetail').forEach(x=>x.innerHTML=''); }")
+
 data = open('data.js').read()
 moves = open('data_moves.js').read()
 out = (head + '</style>\n</head>\n' + b + '<script>\n' + moves + moves_code_fix if False else None)
