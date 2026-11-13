@@ -42,4 +42,5 @@ This is a dot chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarten
 - **STAAR dates.** None of the source documents give 2027 Grade 3–5 STAAR dates, so no lesson is flagged "after STAAR".
 - **Cut-off items.** A few IQ Tool items run past the page in the PDF export, so their images are cut off at the bottom (e.g. Grade 4 2025 Q4).
 - **Topic placement.** A few lessons had to be placed in a topic by judgment because merged calendar cells shift the columns. The list is in the hand-off summary.
+- **Dallas ISD results.** 2026 only (SchoolCity Item Analysis, Assessment Level State, Grades 3–5; `build/dist.json` via `parse_dist.py`). All 96 items matched the released tests by item number, standard and points. To add 2025, run the same report for 2024-25.
 - **Public repository.** This repository is public, and lead4ward data (item percents, scaffold, vocabulary) is subject to the district's lead4ward license.

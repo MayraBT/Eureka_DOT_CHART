@@ -23,8 +23,10 @@ tail_start = T.find('\nlet COURSE, DATA, PACE')
 tail = T[tail_start:]
 # helper code that lived between data constants
 tig_fn = "const tigLink=id=>{ const f=(TIG[COURSE.key]||{})[id]; if(!f) return ''; const fs=Array.isArray(f)?f:[f]; return fs.map((x,n)=>` <a class=\"tig\" href=\"${x}\" target=\"_blank\" rel=\"noopener\" title=\"Eureka teacher edition for this lesson, as linked on the weekly IPC${fs.length>1?' (link '+(n+1)+')':''} · district Google sign-in\">Teacher${fs.length>1?' '+(n+1):''} ↗</a>`).join(''); };\n"
-glue = ("const ACP={}, ACP_SETS={}, DIST={}, DIST_META={};\n"
-        "const distOf=(code,d)=>null;\n" + tig_fn +
+_dist = json.load(open('dist.json'))
+glue = ("const ACP={}, ACP_SETS={};\n"
+        "const DIST=" + json.dumps(_dist['DIST']) + ";\nconst DIST_META=" + json.dumps(_dist['META']) + ";\n"
+        "const distOf=(code,d)=>DIST[code.split('.')[0]+'_'+d.year+'_'+d.q]||null;\n" + tig_fn +
         "for(const b of SCAF) b.src=String(b.src);\n")
 
 # ---------- head / CSS ----------
@@ -51,8 +53,7 @@ b = rep(b, '<span class="th">The dot chart</span>', '<span class="th">The dot ch
 b = rep(b, '<label><input type="checkbox" id="fCov"> Only standards taught in this course</label>', '<label><input type="checkbox" id="fCov"> Only standards on a lesson</label>')
 b = rep(b, '<label id="f7wrap"><input type="checkbox" id="f7"> Grade 7 TEKS</label>', '<label id="f7wrap" style="display:none"><input type="checkbox" id="f7"> other grade</label>')
 b = rep(b, 'Statewide percent correct on each released STAAR item, by TEKS, with Dallas ISD results in purple (2026; Algebra I 2025 and 2026). Click a column header to sort; click a code to open it.',
-        'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS. Click a column header to sort; click a code to open it.')
-b = rep(b, '<label id="pBelowWrap">', '<label id="pBelowWrap" style="display:none">')
+        'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS, with Dallas ISD 2026 results in purple. Click a column header to sort; click a code to open it.')
 b = re.sub(r'<span class="qtog" id="mvG" aria-label="Grades shown">Show: .*?</span>',
            '<span class="qtog" id="mvG" aria-label="Grades shown">Show: <button data-g="K" aria-pressed="false">K</button><button data-g="1" aria-pressed="false">Grade 1</button><button data-g="2" aria-pressed="false">Grade 2</button><button data-g="3" aria-pressed="false">Grade 3</button><button data-g="4" aria-pressed="false">Grade 4</button><button data-g="5" aria-pressed="false">Grade 5</button></span>', b, flags=re.S)
 # Q4 has no IPC yet: keep the buttons but label them
@@ -121,7 +122,7 @@ t = rep(t, "s.type==='NT'?'Not tested':''", "s.type==='NT'||s.type==='U'?'Not te
 # vertical performance
 t = rep(t, "const VP_TX='#008c84', VP_DS='#7a5af5', VP_BANDS=['6','7','8','A'];", "const VP_TX='#008c84', VP_DS='#7a5af5', VP_BANDS=['3','4','5'];")
 t = re.sub(r"const other=D\.other\.filter\(g=>g!=='3'&&g!=='4'&&g!=='5'\);\n  h\+=`<p class=\"note vpcav\">.*?</p>`;",
-           "h+=`<p class=\"note vpcav\">Each grade band is a different test, set of items, and group of students, so read this as <b>where the concept is hardest</b> along the progression, not as one cohort's growth. Averages are percent correct (full credit on 2-point items) across every related released item${yr==='both'?' from 2025 and 2026':' from '+yr}. Standards below Grade 3 in the same clusters have no STAAR items.</p>`;", t, flags=re.S)
+           "h+=`<p class=\"note vpcav\">Each grade band is a different test, set of items, and group of students, so read this as <b>where the concept is hardest</b> along the progression, not as one cohort's growth. Averages are percent correct (full credit on 2-point items) across every related released item${yr==='both'?' from 2025 and 2026':' from '+yr}. Dallas ISD data covers the 2026 tests, so a band's Dallas ISD average uses only its 2026 items. Standards below Grade 3 in the same clusters have no STAAR items.</p>`;", t, flags=re.S)
 # by lesson: module S&S line, Q3 note, lesson LO
 t = rep(t, "    let html=`<summary><span>Module ${m.n}: ${esc(m.name)}</span><span class=\"n\">${lessons.length} lessons</span></summary>`;\n    m.topics.forEach((t,ti)=>{\n      html+=`<div class=\"topic\" data-m=\"${m.n}\" data-t=\"${ti+1}\"><h5>Topic ${ti+1}: ${esc(t)}</h5>`;",
         "    let html=`<summary><span>Module ${m.n}: ${esc(m.name)}</span><span class=\"n\">${lessons.length} lessons</span></summary>`+ssLine(m);\n    m.topics.forEach((t,ti)=>{\n      if(!lessons.some(L=>L.t===ti+1)) return;\n      html+=`<div class=\"topic\" data-m=\"${m.n}\" data-t=\"${ti+1}\"><h5>Topic ${(m.letters||[])[ti]||ti+1}: ${esc(t)}</h5>`;")
@@ -154,8 +155,7 @@ t = re.sub(r"const FOOT=\{.*?\n\};\nfunction legendHTML\(\)\{.*?\n\}\nconst SUB=
            open('foot.js').read(), t, flags=re.S)
 t = rep(t, "{ const hs=k==='geo'||k==='geoadv'||k==='a2'||k==='a2adv';", "{ const hs=false;")
 t = rep(t, "'Statewide percent correct on each released STAAR item, by TEKS, with Dallas ISD results in purple (2026; Algebra I 2025 and 2026). Click a column header to sort; click a code to open it.'",
-        "'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS. Click a column header to sort; click a code to open it.'")
-t = rep(t, "$('pBelowWrap').style.display=hs?'none':'';", "$('pBelowWrap').style.display='none';")
+        "'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS, with Dallas ISD 2026 results in purple. Click a column header to sort; click a code to open it.'")
 t = rep(t, "$('f7wrap').style.display=(k==='g6'||k==='a7')?'':'none'; $('f7').checked=k==='a7';", "$('f7wrap').style.display='none'; $('f7').checked=false;")
 t = t.replace("(g6|a7|g8|a1ms|a1hsadv|a1hs|geoadv|geo|a2adv|a2)", "(gk|g1|g2|g3|g4|g5)")
 t = rep(t, "if(!COURSES[ck]) ck=(hc.startsWith('8.')?'g8':hc.startsWith('A.')?'a1ms':hc.startsWith('G.')?'geo':hc.startsWith('2A.')?'a2adv':'g6');",
@@ -166,8 +166,6 @@ t = rep(t, "if(here.some(x=>x.code.startsWith('7.'))&&$('f7wrap').style.display!
 t = rep(t, "const isCodeQ=q=>/^\\s*(2a|a|\\d{1,2})\\.\\d{0,2}[a-z]?\\s*$/i.test(q);", "const isCodeQ=q=>/^\\s*\\d{1,2}\\.\\d{0,2}[a-z]?\\s*$/i.test(q);")
 t = rep(t, "const ref=g==='7'?", "const ref=false?")
 
-t = rep(t, "<span><i class=\"kds\"></i>Dallas ISD average</span>", "")
-t = rep(t, "`<span class=\"na\">${b.g==='7'?'No Dallas ISD students take Grade 7 STAAR':'no Dallas ISD data'}</span>`", "''")
 
 t = rep(t, "$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); loadCourse(c); showView(v); } });",
  "$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); resetForGrade(); loadCourse(c,false); showView('std'); window.scrollTo(0,0); } });\n"
