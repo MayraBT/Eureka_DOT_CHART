@@ -31,7 +31,25 @@ glue = ("const ACP={}, ACP_SETS={};\n"
 
 # ---------- head / CSS ----------
 head = rep(head, '<title>Grades 6–8 & Algebra I · TEKS Lookup</title>', '<title>Eureka TEKS Lookup</title>')
-head += """  .k-lesson .act{font-style:italic}
+head += """  /* legibility: wrap long text in tables and give the grid room */
+  table.grid{font-size:13px}
+  table.grid th,table.grid td{height:auto;min-height:34px}
+  table.grid thead th{min-width:36px;height:78px}
+  table.grid thead th span{font-size:12.5px;padding:8px 0 6px;margin:0 auto}
+  table.grid td{min-width:36px;width:36px;height:36px}
+  table.grid td .dot{width:11px;height:11px}
+  table.grid th.lab{white-space:normal;overflow:visible;text-overflow:clip;min-width:360px;max-width:360px;padding:7px 12px;line-height:1.3;vertical-align:middle}
+  table.grid th.lab small{display:inline-block;min-width:34px}
+  table.grid tr.modhead th{position:static;white-space:normal;padding:8px 0;font-size:13.5px}
+  table.grid tr.modhead th .mh{position:sticky;left:12px;display:inline-block;max-width:min(80vw,900px);padding:0 12px}
+  table.cal{min-width:1180px}
+  table.cal td{width:19%}
+  .day{word-break:normal;overflow-wrap:anywhere}
+  table.ptab td,table.ptab th{white-space:normal;overflow-wrap:anywhere}
+  table.ptab td.les .lk{text-align:left;white-space:normal}
+  table.across td{overflow-wrap:anywhere}
+  @media (max-width:820px){ table.grid th.lab{min-width:210px;max-width:210px} table.cal{min-width:900px} }
+  .k-lesson .act{font-style:italic}
   .modss{margin:4px 0 10px;padding:8px 12px;background:var(--paper-2);border-radius:8px;font-size:13.5px;color:var(--ink-2)}
   .modss .mk{cursor:pointer}
   .mk.q3{background:#fff8e6;color:#5a4300;border-color:#f0dca6}
@@ -176,6 +194,8 @@ t = rep(t, "loadCourse(ck,false);\nif(STD.has(hc)) selectStd(hc,false);", "loadC
 
 t = rep(t, "  const ref=false?", "  if('K12'.includes(g)) return `<div class=\"perf\"><h4>STAAR performance</h4><p class=\"notested\">There is no STAAR in ${gName(g)}. Related Grade 3–5 released items appear under Performance across grade bands.</p></div>`;\n  const ref=false?")
 t = rep(t, "  buildStrands(); buildModList(); lesMarked=null;", "  { const st=COURSE.staar!==false; const pb=document.querySelector('.tabs button[data-view=\"perf\"]'); pb.style.display=st?'':'none'; ['fTest','fTE'].forEach(id=>{ $(id).closest('label').style.display=st?'':'none'; if(!st) $(id).checked=false; }); if(!st&&$('view-perf').classList.contains('on')) showView('std'); }\n  buildStrands(); buildModList(); lesMarked=null;")
+
+t = rep(t, "html+=`<tr class=\"modhead\"><th colspan=\"${cols.length+1}\">Module ${L.m}: ${esc(MOD.get(L.m).name)}</th></tr>`;", "html+=`<tr class=\"modhead\"><th colspan=\"${cols.length+1}\"><span class=\"mh\">Module ${L.m}: ${esc(MOD.get(L.m).name)}</span></th></tr>`;")
 
 data = open('data.js').read()
 moves = open('data_moves.js').read()
