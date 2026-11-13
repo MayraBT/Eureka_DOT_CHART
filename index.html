@@ -1551,7 +1551,7 @@ function loadCourse(k,keepSel=true){
   else if(keepSel && sel && STD.has(sel)) selectStd(sel,true);
   else { sel=null; if(query.trim()) renderSearch(query); else renderDetail(null); try{ history.replaceState(null,'','#'+k); }catch(e){} }
 }
-$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); resetForGrade(); loadCourse(c,false); showView(v); window.scrollTo(0,0); } });
+$('courseSel').addEventListener('change',e=>{ const c=e.target.value; if(c!==COURSE.key){ const v=document.querySelector('.view.on').id.slice(5); resetForGrade(); loadCourse(c,false); showView('std'); window.scrollTo(0,0); } });
 /* switching grade from the menu starts clean: no selected standard, lens, search, or Teaching moves selection carried over */
 function resetForGrade(){ sel=null; lens=null; query=''; $('q').value=''; QMODE='strict'; secState={code:null,open:{}}; lesMarked=null; mvSel=null; mvAnchor=null; mvQuery=''; mvBuiltFor=null; vpAll={}; document.querySelectorAll('#detail,#mvDetail').forEach(x=>x.innerHTML=''); }
 /* ---------- init ---------- */
@@ -1561,6 +1561,7 @@ let ck=null, hc='';
 if(!ck){ try{ ck=localStorage.getItem('eureka35-course'); }catch(e){} }
 if(!COURSES[ck]) ck=(hc.startsWith('4.')?'g4':hc.startsWith('5.')?'g5':'g3');
 loadCourse(ck,false);
+showView('std');
 if(STD.has(hc)) selectStd(hc,false);
 if(/^help$/i.test(h)){ helpShow('tour'); $('help').showModal(); }
 window.addEventListener('hashchange',()=>{ let hh=''; try{ hh=decodeURIComponent(location.hash.slice(1)); }catch(e){} if(/^help$/i.test(hh)){ helpShow('tour'); $('help').showModal(); return; }
