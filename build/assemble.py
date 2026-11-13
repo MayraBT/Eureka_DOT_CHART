@@ -43,9 +43,9 @@ b = html_body
 b = rep(b, '<h1 id="ttl">Grade 8 · TEKS Lookup<small id="subttl">Texas Math Solution (Carnegie Learning) · standards ↔ lessons</small></h1>',
         '<h1 id="ttl">Grade 3 Eureka · TEKS Lookup<small id="subttl">Eureka Math TEKS Edition · standards ↔ lessons</small></h1>')
 b = re.sub(r'<select id="courseSel" aria-label="Course">.*?</select>',
-           '<select id="courseSel" aria-label="Grade"><option value="g3">Grade 3</option><option value="g4">Grade 4</option><option value="g5">Grade 5</option></select>', b, flags=re.S)
+           '<select id="courseSel" aria-label="Grade"><option value="gk">Kindergarten</option><option value="g1">Grade 1</option><option value="g2">Grade 2</option><option value="g3">Grade 3</option><option value="g4">Grade 4</option><option value="g5">Grade 5</option></select>', b, flags=re.S)
 b = rep(b, '<span class="vh">Course</span>', '<span class="vh">Grade</span>')
-b = rep(b, 'placeholder="Type a TEKS (6.4B, 8.5I, A.5A) or a lesson word (ratio, slope, quadratic)"', 'placeholder="Type a TEKS (3.4K, 4.3D, 5.3K) or a lesson word (fraction, area, decimal)"')
+b = rep(b, 'placeholder="Type a TEKS (6.4B, 8.5I, A.5A) or a lesson word (ratio, slope, quadratic)"', 'placeholder="Type a TEKS (K.2E, 2.4C, 3.4K, 5.3K) or a lesson word (count, fraction, decimal)"')
 b = rep(b, 'title="Full grid — The dot chart"', 'title="Full grid — The dot chart built from the IPCs"')
 b = rep(b, '<span class="th">The dot chart</span>', '<span class="th">The dot chart (from the IPCs)</span>')
 b = rep(b, '<label><input type="checkbox" id="fCov"> Only standards taught in this course</label>', '<label><input type="checkbox" id="fCov"> Only standards on a lesson</label>')
@@ -54,15 +54,15 @@ b = rep(b, 'Statewide percent correct on each released STAAR item, by TEKS, with
         'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS. Click a column header to sort; click a code to open it.')
 b = rep(b, '<label id="pBelowWrap">', '<label id="pBelowWrap" style="display:none">')
 b = re.sub(r'<span class="qtog" id="mvG" aria-label="Grades shown">Show: .*?</span>',
-           '<span class="qtog" id="mvG" aria-label="Grades shown">Show: <button data-g="3" aria-pressed="false">Grade 3</button><button data-g="4" aria-pressed="false">Grade 4</button><button data-g="5" aria-pressed="false">Grade 5</button></span>', b, flags=re.S)
+           '<span class="qtog" id="mvG" aria-label="Grades shown">Show: <button data-g="K" aria-pressed="false">K</button><button data-g="1" aria-pressed="false">Grade 1</button><button data-g="2" aria-pressed="false">Grade 2</button><button data-g="3" aria-pressed="false">Grade 3</button><button data-g="4" aria-pressed="false">Grade 4</button><button data-g="5" aria-pressed="false">Grade 5</button></span>', b, flags=re.S)
 # Q4 has no IPC yet: keep the buttons but label them
 b = b.replace('<button data-q="4" aria-pressed="false">Q4</button>', '<button data-q="4" aria-pressed="false" title="Q4: district-created materials after Eureka ends; no IPC lessons">Q4</button>')
 
 # ---------- moves code ----------
 mc = moves_code
-mc = rep(mc, "const MV_GNAME = {'6':'Grade 6','7':'Grade 7','8':'Grade 8','A':'Algebra I','G':'Geometry','2A':'Algebra II'};", "const MV_GNAME = {'3':'Grade 3','4':'Grade 4','5':'Grade 5'};")
+mc = rep(mc, "const MV_GNAME = {'6':'Grade 6','7':'Grade 7','8':'Grade 8','A':'Algebra I','G':'Geometry','2A':'Algebra II'};", "const MV_GNAME = {'K':'Kindergarten','1':'Grade 1','2':'Grade 2','3':'Grade 3','4':'Grade 4','5':'Grade 5'};")
 mc = rep(mc, "  if(COURSE.key==='a7') mvG.delete('6');\n", "")
-mc = rep(mc, "const isCode=/^([678ag]|2a)\\.\\d/i.test(mvQuery.trim());", "const isCode=/^[345]\\.\\d/.test(mvQuery.trim());")
+mc = rep(mc, "const isCode=/^([678ag]|2a)\\.\\d/i.test(mvQuery.trim());", "const isCode=/^[k1-5]\\.\\d/i.test(mvQuery.trim());")
 mc = rep(mc, "Try a TEKS code (6.4B, A.5A) or a word like slope, percent, or integers.", "Try a TEKS code (3.4K, 5.3K) or a word like fraction, area, or decimal.")
 mc = rep(mc, "search above by TEKS code or a word (slope, percent, integers)", "search above by TEKS code or a word (fraction, area, decimal)")
 mc = rep(mc, "Open in By standard (lessons, ${/^(G|2A)\\./.test(code)?'Example items':'STAAR items'}) →", "Open in By standard (lessons, STAAR items) →")
@@ -93,7 +93,7 @@ t = rep(t, "html+='<div class=\"perf\"><h4>Where and when it is taught</h4>';",
 t = rep(t, "html+=`<button class=\"lesson\" data-id=\"${L.id}\"><i class=\"dot ${k}\" title=\"${MARK_NAME[k]}\"></i><span><span class=\"where\">${lessonWhere(L)} · ${esc(MOD.get(L.m).topics[L.t-1])}</span><br><b>${esc(L.title)}</b> ${subOf(L)}<span class=\"whenrow\">${paceTag(L.id)}</span></span></button>`;",
         "html+=`<button class=\"lesson\" data-id=\"${L.id}\"><i class=\"dot ${k}\" title=\"${MARK_NAME[k]}\"></i><span><span class=\"where\">${lessonWhere(L)} · ${esc(MOD.get(L.m).topics[L.t-1]||'')}</span><br><b>${esc(L.title)}</b> ${subOf(L)}<span class=\"whenrow\">${paceTag(L.id)}</span></span></button>`;")
 t = t.replace("MOD.get(L.m).topics[L.t-1]", "(MOD.get(L.m).topics[L.t-1]||'')")
-t = rep(t, "const COURSE_ORDER=['g6','a7','g8','a1ms','a1hs','a1hsadv','geo','geoadv','a2','a2adv'];", "const COURSE_ORDER=['g3','g4','g5'];")
+t = rep(t, "const COURSE_ORDER=['g6','a7','g8','a1ms','a1hs','a1hsadv','geo','geoadv','a2','a2adv'];", "const COURSE_ORDER=['gk','g1','g2','g3','g4','g5'];")
 # Spanish vocabulary
 t = rep(t, "function vt(t,cls){ const st=t.includes('*'); return `<span class=\"vt ${cls||''}\" title=\"${st?'used on STAAR':''}\">${esc(t.replace(/\\*/g,''))}${st?'<sup>★</sup>':''}</span>`; }",
         "function vt(t,cls){ const st=t.includes('*'); return `<span class=\"vt ${cls||''}\" title=\"${st?(/sp/.test(cls||'')?'se usa en STAAR':'used on STAAR'):''}\">${esc(t.replace(/\\*/g,''))}${st?'<sup>★</sup>':''}</span>`; }")
@@ -147,7 +147,7 @@ t = rep(t, "  $('cal').innerHTML=html+'</tbody>';",
 t = rep(t, "else alert('Today is outside the 2026-27 IPC.');", "else showView('cal');")
 # samples, help, foot
 t = rep(t, "const SAMPLE={g6:'6.4B',a7:'8.5I',g8:'8.5I',a1ms:'A.5A',a1hs:'A.5A',a1hsadv:'A.5A',geo:'G.6D',geoadv:'G.6D',a2:'2A.4F',a2adv:'2A.4F'};",
-        "const SAMPLE={g3:'3.4K',g4:'4.4H',g5:'5.3K'};")
+        "const SAMPLE={gk:'K.2E',g1:'1.3D',g2:'2.4C',g3:'3.4K',g4:'4.4H',g5:'5.3K'};")
 i=t.find('const HELP=['); j=t.find('\nfunction helpTry'); assert i>0 and j>i
 t = t[:i]+open('help.js').read()+t[j:]
 t = re.sub(r"const FOOT=\{.*?\n\};\nfunction legendHTML\(\)\{.*?\n\}\nconst SUB=.*?\nconst TESTS=.*?\n",
@@ -157,9 +157,9 @@ t = rep(t, "'Statewide percent correct on each released STAAR item, by TEKS, wit
         "'Statewide percent correct on each released STAAR item (2025 and 2026), by TEKS. Click a column header to sort; click a code to open it.'")
 t = rep(t, "$('pBelowWrap').style.display=hs?'none':'';", "$('pBelowWrap').style.display='none';")
 t = rep(t, "$('f7wrap').style.display=(k==='g6'||k==='a7')?'':'none'; $('f7').checked=k==='a7';", "$('f7wrap').style.display='none'; $('f7').checked=false;")
-t = t.replace("(g6|a7|g8|a1ms|a1hsadv|a1hs|geoadv|geo|a2adv|a2)", "(g3|g4|g5)")
+t = t.replace("(g6|a7|g8|a1ms|a1hsadv|a1hs|geoadv|geo|a2adv|a2)", "(gk|g1|g2|g3|g4|g5)")
 t = rep(t, "if(!COURSES[ck]) ck=(hc.startsWith('8.')?'g8':hc.startsWith('A.')?'a1ms':hc.startsWith('G.')?'geo':hc.startsWith('2A.')?'a2adv':'g6');",
-        "if(!COURSES[ck]) ck=(hc.startsWith('4.')?'g4':hc.startsWith('5.')?'g5':'g3');")
+        "if(!COURSES[ck]) ck=(hc.startsWith('K.')?'gk':hc.startsWith('1.')?'g1':hc.startsWith('2.')?'g2':hc.startsWith('4.')?'g4':hc.startsWith('5.')?'g5':'g3');")
 t = rep(t, "if(code.startsWith('7.') && !$('f7').checked){ $('f7').checked=true; applyStdFilters(); }", "")
 t = rep(t, "if(!g7 && s.code.startsWith('7.')) show=false;", "")
 t = rep(t, "if(here.some(x=>x.code.startsWith('7.'))&&$('f7wrap').style.display!=='none') $('f7').checked=true;", "")
@@ -175,6 +175,9 @@ t = rep(t, "$('courseSel').addEventListener('change',e=>{ const c=e.target.value
  "function resetForGrade(){ sel=null; lens=null; query=''; $('q').value=''; QMODE='strict'; secState={code:null,open:{}}; lesMarked=null; mvSel=null; mvAnchor=null; mvQuery=''; mvBuiltFor=null; vpAll={}; document.querySelectorAll('#detail,#mvDetail').forEach(x=>x.innerHTML=''); }")
 
 t = rep(t, "loadCourse(ck,false);\nif(STD.has(hc)) selectStd(hc,false);", "loadCourse(ck,false);\nshowView('std');\nif(STD.has(hc)) selectStd(hc,false);")
+
+t = rep(t, "  const ref=false?", "  if('K12'.includes(g)) return `<div class=\"perf\"><h4>STAAR performance</h4><p class=\"notested\">There is no STAAR in ${gName(g)}. Related Grade 3–5 released items appear under Performance across grade bands.</p></div>`;\n  const ref=false?")
+t = rep(t, "  buildStrands(); buildModList(); lesMarked=null;", "  { const st=COURSE.staar!==false; const pb=document.querySelector('.tabs button[data-view=\"perf\"]'); pb.style.display=st?'':'none'; ['fTest','fTE'].forEach(id=>{ $(id).closest('label').style.display=st?'':'none'; if(!st) $(id).checked=false; }); if(!st&&$('view-perf').classList.contains('on')) showView('std'); }\n  buildStrands(); buildModList(); lesMarked=null;")
 
 data = open('data.js').read()
 moves = open('data_moves.js').read()

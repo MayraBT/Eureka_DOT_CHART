@@ -6,8 +6,13 @@ D = lambda s: datetime.date.fromisoformat(s)
 DOW = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri']
 report = []
 scaf = json.load(open('scaf.json'))
-TEKS_TXT, TYPE = scaf['TEKS'], scaf['TYPE']
+TEKS_TXT, TYPE = dict(scaf['TEKS']), dict(scaf['TYPE'])
+K2 = json.load(open('teks_k2.json')) if os.path.exists('teks_k2.json') else {'TEKS': {}, 'TYPE': {}, 'STRAND': {}}
+TEKS_TXT.update(K2['TEKS']); TYPE.update(K2['TYPE'])
 topics = json.load(open('ipc/topics.json')) if os.path.exists('ipc/topics.json') else {}
+if os.path.exists('ipc/topics_k2.json'): topics.update(json.load(open('ipc/topics_k2.json')))
+GRADES = [g for g in 'K12345' if os.path.exists(f'ipc/cal_g{g}.json')]
+GNAME = lambda g: 'Kindergarten' if g == 'K' else f'Grade {g}'
 TE_FILE = json.load(open('ipc/g3_te.json'))
 QUARTERS = {"1": {"start": "2026-08-10", "end": "2026-10-09", "weeks": 9},
             "2": {"start": "2026-10-12", "end": "2026-12-18", "weeks": 9},
@@ -36,7 +41,7 @@ def load_weeks(g):
 
 
 COURSES = {}; TIG = {}
-for g in '345':
+for g in GRADES:
     cal = json.load(open(f'ipc/cal_g{g}.json'))
     mods = cal['ss']['modules']
     weeks = load_weeks(g)
@@ -64,10 +69,10 @@ for g in '345':
                     L = touch(lid)
                     for c in d.get('teks', []):
                         c = c.strip().upper()
-                        if re.match(r'^\d\.\d+[A-Z]$', c): L['marks'][c] = 'F'
+                        if re.match(r'^[\dK]\.\d+[A-Z]$', c): L['marks'][c] = 'F'
                     for c in d.get('bundled', []):
                         c = c.strip().upper()
-                        if re.match(r'^\d\.\d+[A-Z]$', c) and L['marks'].get(c) != 'F': L['marks'][c] = 'O'
+                        if re.match(r'^[\dK]\.\d+[A-Z]$', c) and L['marks'].get(c) != 'F': L['marks'][c] = 'O'
                     if kind == 'lesson':
                         L['days'].append({'q': q, 'wk': wkq, 'day': DOW[i], 'date': date, 'act': ''})
                     if d.get('lo') and not L['lo']: L['lo'] = d['lo']
@@ -121,10 +126,10 @@ for g in '345':
                     pm = L.setdefault('pmarks', {})
                     for c in d.get('teks', []):
                         c = c.strip().upper()
-                        if re.match(r'^\d\.\d+[A-Z]$', c): pm[c] = 'F'
+                        if re.match(r'^[\dK]\.\d+[A-Z]$', c): pm[c] = 'F'
                     for c in d.get('bundled', []):
                         c = c.strip().upper()
-                        if re.match(r'^\d\.\d+[A-Z]$', c) and pm.get(c) != 'F': pm[c] = 'O'
+                        if re.match(r'^[\dK]\.\d+[A-Z]$', c) and pm.get(c) != 'F': pm[c] = 'O'
                     te = d.get('te')
                     if isinstance(te, dict) and te.get(lid) and lid not in tig: tig[lid] = [te[lid]]
         for lid, L in lessons.items():
@@ -170,6 +175,7 @@ for g in '345':
         if bad:
             report.append(f'G{g} {L["id"]}: TEKS not in Grade {g} list, dropped: {bad}')
             L['marks'] = [mk for mk in L['marks'] if mk[0] in known]
+            L['note'] = (L['note'] + '; ' if L['note'] else '') + 'The IPC also lists earlier-grade TEKS: ' + ', '.join(bad)
     pace = {}
     for lid, L in lessons.items():
         if not L['days']: continue
@@ -177,11 +183,11 @@ for g in '345':
         pace[lid] = {'q': sorted({d['q'] for d in ds}), 'first': ds[0]['date'], 'last': ds[-1]['date'], 'days': ds}
     events = [e for e in cal.get('events', []) if re.search(r'staar', e['label'], re.I)]
     calweeks.sort(key=lambda w: w['start'])
-    COURSES['g' + g] = {'key': 'g' + g, 'name': f'Grade {g}', 'title': f'Grade {g} Eureka · TEKS Lookup', 'ipc': f'Grade {g} Eureka Math',
-                        'grade': g, 'q3note': (' · 2026-27 weekly IPCs' if all(w in have for w in range(19,28)) else ' · paced from the 2026-27 Q3 calendar; lesson TEKS and Teacher links from the 2025-26 Q3 weekly IPCs until the 2026-27 weeklies are posted'), 'unsched': 'not on the 2026-27 IPC (Q1–Q3)', 'notes': cal.get('notes', []),
+    COURSES['g' + g.lower()] = {'key': 'g' + g.lower(), 'name': GNAME(g), 'title': f'{GNAME(g)} Eureka · TEKS Lookup', 'ipc': f'{GNAME(g)} Eureka Math', 'staar': g in '345',
+                        'grade': g, 'q3note': (' · 2026-27 weekly IPCs' if all(w in have for w in range(19,28)) else (' · paced from the 2026-27 Q3 calendar; lesson TEKS and Teacher links from the 2025-26 Q3 weekly IPCs until the 2026-27 weeklies are posted' if os.path.exists(f'ipc/g{g}_q3_2526.json') else ' · paced from the 2026-27 Q3 calendar; lesson TEKS and Teacher links will come from the Q3 weekly IPCs when posted')), 'unsched': 'not on the 2026-27 IPC (Q1–Q3)', 'notes': cal.get('notes', []),
                         'data': {'modules': modules, 'standards': standards, 'lessons': out_lessons},
                         'pace': {'lessons': pace, 'cal': {'quarters': QUARTERS, 'events': events}}, 'cal': calweeks}
-    TIG['g' + g] = tig
+    TIG['g' + g.lower()] = tig
     report.append(f'G{g}: {len(out_lessons)} lessons, {sum(1 for L in out_lessons if L["marks"])} with TEKS, {len(calweeks)} weeks, {len(tig)} teacher links, modules {used_mods}')
 
 # vocabulary: English blocks with the matching Spanish block (same codes)
@@ -209,12 +215,19 @@ VOCAB = {'blocks': blocks, 'byCode': byCode}
 MOVES = []
 for f in sorted(glob.glob('moves/moves_g*.json')):
     MOVES += json.load(open(f))
-MOVES.sort(key=lambda m: (int(m['code'][0]), int(m['code'].split('.')[1][:-1]), m['code'][-1]))
+MOVES.sort(key=lambda m: ('K12345'.index(m['code'][0]), int(m['code'].split('.')[1][:-1]), m['code'][-1]))
 report.append(f'MOVES: {len(MOVES)} standards')
 
 PERF = json.load(open('perf.json'))
 TEKS = {c: v for c, v in TEKS_TXT.items()}
 SCAF = scaf['SCAF']
+STRAND_K2 = {'K.2':'Number and operations · whole numbers to 20','K.3':'Number and operations · addition and subtraction','K.4':'Number and operations · coins','K.5':'Algebraic reasoning · counting by ones and tens',
+ 'K.6':'Geometry and measurement · two- and three-dimensional figures','K.7':'Geometry and measurement · measurable attributes','K.8':'Data analysis','K.9':'Personal financial literacy',
+ '1.2':'Number and operations · place value to 120','1.3':'Number and operations · addition and subtraction','1.4':'Number and operations · coins','1.5':'Algebraic reasoning · patterns and equations',
+ '1.6':'Geometry and measurement · two- and three-dimensional figures','1.7':'Geometry and measurement · length and time','1.8':'Data analysis','1.9':'Personal financial literacy',
+ '2.2':'Number and operations · place value to 1,200','2.3':'Number and operations · fractions','2.4':'Number and operations · addition and subtraction','2.5':'Number and operations · coins',
+ '2.6':'Number and operations · multiplication and division concepts','2.7':'Algebraic reasoning · patterns and equations','2.8':'Geometry and measurement · two- and three-dimensional figures',
+ '2.9':'Geometry and measurement · length, area and time','2.10':'Data analysis','2.11':'Personal financial literacy'}
 STRAND_NAMES = {
  '3.2': 'Number and operations · place value', '3.3': 'Number and operations · fractions', '3.4': 'Number and operations · computation',
  '3.5': 'Algebraic reasoning · patterns and relationships', '3.6': 'Geometry and measurement · two-dimensional figures and area',
@@ -226,6 +239,7 @@ STRAND_NAMES = {
  '5.5': 'Geometry and measurement · classifying figures', '5.6': 'Geometry and measurement · volume', '5.7': 'Geometry and measurement · measurement conversions',
  '5.8': 'Geometry and measurement · coordinate plane', '5.9': 'Data analysis', '5.10': 'Personal financial literacy'}
 
+STRAND_NAMES.update(STRAND_K2)
 J = lambda o: json.dumps(o, ensure_ascii=False, separators=(',', ':')).replace('divide jump to', 'divide up to')
 with open('data_moves.js', 'w') as f:
     f.write('const MOVES = ' + J(MOVES) + ';\n')

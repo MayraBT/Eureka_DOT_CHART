@@ -1,0 +1,1206 @@
+{
+ "grade": 1,
+ "weeks": [
+  {
+   "q": 2,
+   "wk": 10,
+   "start": "2026-10-12",
+   "title": "Q2:W1 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L1"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to solve word problems with three addends, two of which make ten.",
+     "sc": [
+      "I can use objects to make ten to solve addition problems with three addends.",
+      "I can draw pictures to make tens to solve addition problems.",
+      "I can write an expression.",
+      "I can solve addition problems using an equation."
+     ],
+     "te": {
+      "M2.L1": "https://drive.google.com/open?id=1CET4ARCcube7jqrAbky8VKsE5etwruXJ&disco=AAAA30bCCmo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L2"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to use the associative and commutative properties to make ten with three addends.",
+     "sc": [
+      "I can draw a picture to make tens to solve addition problems.",
+      "I can write an expression.",
+      "I can solve addition problems using an equation."
+     ],
+     "te": {
+      "M2.L2": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA3WkuZ9c"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L3"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to make ten when one addend is 9.",
+     "sc": [
+      "I can use objects to make ten using 9 as an addend.",
+      "I can draw a picture to make ten using 9 and some more.",
+      "I can write an addition expression.",
+      "I can solve an addition problem using an equation."
+     ],
+     "te": {
+      "M2.L3": "https://drive.google.com/open?id=1CET4ARCcube7jqrAbky8VKsE5etwruXJ&disco=AAAA5BDECWg"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L4"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to make ten when one addend is 9.",
+     "sc": [
+      "I can use objects to make ten using 9 as an addend.",
+      "I can draw a picture to make ten using 9 and some more.",
+      "I can write an addition expression.",
+      "I can solve an addition problem using an equation"
+     ],
+     "te": {
+      "M2.L4": "https://drive.google.com/open?id=1CET4ARCcube7jqrAbky8VKsE5etwruXJ&disco=AAAA5BDECXU"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 11,
+   "start": "2026-10-19",
+   "title": "Q2:W2 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L6"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to use the commutative property to make ten.",
+     "sc": [
+      "I can use a number bond to make ten.",
+      "I can decompose a number to make 10 in an addition expression.",
+      "I can write an addition expression.",
+      "I can solve an addition problem using an equation."
+     ],
+     "te": {
+      "M2.L6": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5BDECac"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L7"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to make ten when one addend is 8.",
+     "sc": [
+      "I can use objects to make ten using 8 as an addend.",
+      "I can draw a picture to make ten using 8 and some more.",
+      "I can write an addition expression.",
+      "I can rewrite expressions.",
+      "I can solve an addition problem using an equation."
+     ],
+     "te": {
+      "M2.L7": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5BDECcc"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L8"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to make ten when one addend is 8.",
+     "sc": [
+      "I can use objects to make ten using 8 as an addend.",
+      "I can draw a picture to make ten using 8 and some more.",
+      "I can use number bonds to decompose a number to make ten.",
+      "I can write an addition expression.",
+      "I can solve an addition problem using an equation."
+     ],
+     "te": {
+      "M2.L8": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5BDECdU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L10"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B",
+      "1.2C"
+     ],
+     "lo": "I am learning to solve problems with addends of 7, 8, and 9.",
+     "sc": [
+      "I can draw a picture to make ten.",
+      "I can use number bonds to decompose a number to make ten.",
+      "I can write an addition expression.",
+      "I can solve an addition problem using an equation.",
+      "I can match equal expressions."
+     ],
+     "te": {
+      "M2.L10": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4LS9YNc"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L12"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to solve word problems with subtraction of 9 from 10.",
+     "sc": [
+      "I can daw a picture to show subtraction.",
+      "I can use number bonds to subtract.",
+      "I can write a subtraction equation.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L12": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAA"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 12,
+   "start": "2026-10-26",
+   "title": "Q2:W3 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L13"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to solve word problems with subtraction of 9 from 10.",
+     "sc": [
+      "I can daw a picture to show subtraction.",
+      "I can use number bonds to subtract.",
+      "I can write a subtraction equation.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L13": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4IxBbIY"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L14"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to model subtraction of 9 from teen numbers.  I am learning to generate story problems when given a number sentence.",
+     "sc": [
+      "I can use objects to subtract.",
+      "I can draw a picture to subtract.",
+      "I can use number bonds to subtract.",
+      "I can write a subtraction equation.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L14": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4IxBbI8"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L15"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to model subtraction of 9 from teen numbers.  I am learning to generate story problems when given a number sentence.",
+     "sc": [
+      "I can use objects to subtract.",
+      "I can draw a picture to subtract.",
+      "I can use number bonds to subtract.",
+      "I can write a subtraction equation.",
+      "I can solve subtraction word problems"
+     ],
+     "te": {
+      "M2.L15": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4IxBbJg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L16"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to relate counting on to making ten and taking from ten.",
+     "sc": [
+      "I can use my fingers to show subtraction.",
+      "I can visualize in my mind how to subtract.",
+      "I can draw a picture to subtract.",
+      "I can use number bonds to subtract.",
+      "I can write a subtraction equation.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L16": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4IxBbKU"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #4"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 13,
+   "start": "2026-11-02",
+   "title": "Q2:W4 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L17"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to model subtraction of 8 from teen numbers.",
+     "sc": [
+      "I can use my fingers to show subtraction.",
+      "I can visualize in my mind how to subtract.",
+      "I can use a picture to help me subtract.",
+      "I can use a ten frame to help me subtract.",
+      "I can use number bonds to subtract.",
+      "I can use addition to help me solve a subtraction problem.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L17": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4LILPOA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L18"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to model subtraction of 8 from teen numbers.",
+     "sc": [
+      "I can use my fingers to show subtraction.",
+      "I can visualize in my mind how to subtract.",
+      "I can use a picture to help me subtract.",
+      "I can use a ten frame to help me subtract.",
+      "I can use number bonds to subtract.",
+      "I can use addition to help me solve a subtraction problem.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L18": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4LILPOc"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L19"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to compare the efficiency of counting on and taking from ten.",
+     "sc": [
+      "I can use my fingers to show subtraction.",
+      "I can visualize in my mind how to subtract.",
+      "I can use a number path to help me subtract.",
+      "I can use number bonds to subtract.",
+      "I can use a number sentence to subtract.",
+      "I can solve subtraction word problems.",
+      "I can explain the strategy I used to subtract."
+     ],
+     "te": {
+      "M2.L19": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4LILPUA"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L20"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3C",
+      "1.5E"
+     ],
+     "lo": "I am learning to subtract 7, 8, and 9 from teen numbers.",
+     "sc": [
+      "I can use my fingers to show subtraction.",
+      "I can visualize in my mind how to subtract.",
+      "I can use a number path to help me subtract.",
+      "I can use number bonds to subtract.",
+      "I can use a number sentence to subtract.",
+      "I can match equal expressions.",
+      "I can solve subtraction word problems."
+     ],
+     "te": {
+      "M2.L20": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4LILPmw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 14,
+   "start": "2026-11-09",
+   "title": "Q2:W5 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L21"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5E",
+      "1.5F",
+      "1.5G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to share and critique peer solutions for take from with result unknown and take apart with addend unknown problems from the teens.",
+     "sc": [
+      "I can explain how I solve word problems.",
+      "I can share how my work is similar and different to my partner’s work.",
+      "I can talk about math strategies with my peers."
+     ],
+     "te": {
+      "M2.L21": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAABWIe8-wg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L22"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5E",
+      "1.5F",
+      "1.5G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to solve put together/take apart with addend unknown word problems, and relate counting on to the take from ten strategy. I am learning to generate story problems given a number sentence.",
+     "sc": [
+      "I can draw a picture to solve a word problem.",
+      "I can use a number sentence to create a word problem.",
+      "I can use a number sentence to solve word problems",
+      "I can answer a word problem using a complete sentence.",
+      "I can write a sentence to answer a word problem.",
+      "I can put together and take apart addition problems with addends unknown word problems."
+     ],
+     "te": {
+      "M2.L22": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA4LILPos"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L23"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5E",
+      "1.5F",
+      "1.5G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to solve add to with change unknown problems, relating varied addition and subtraction strategies.",
+     "sc": [
+      "I can draw a picture to solve a word problem.",
+      "I can use a number sentence to create a word problem.",
+      "I can use a number sentence to solve word problems",
+      "I can answer a word problem using a complete sentence.",
+      "I can write a sentence to answer a word problem.",
+      "I can solve an addition problems with an unknown addend."
+     ],
+     "te": {
+      "M2.L23": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5C7vhHM"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L24"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5E",
+      "1.5F",
+      "1.5G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to strategize to solve take from with change unknown problems.",
+     "sc": [
+      "I can decide which strategy is more efficient to solve math problems.",
+      "I can share how my work is similar and different to my partner’s work.",
+      "I can talk about math strategies with my peers."
+     ],
+     "te": {
+      "M2.L24": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAABrC-3EgE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L25"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5E",
+      "1.5F",
+      "1.5G"
+     ],
+     "bundled": [],
+     "lo": "I am learning to strategize and apply understanding of the equal sign to solve equivalent expressions.",
+     "sc": [
+      "I can use objects to model subtraction.",
+      "I can draw a picture to help me subtract.",
+      "I can use number sentence to subtract.",
+      "I an write a sentence to answer a word problem.",
+      "I can solve subtraction word problems.",
+      "I can use addition and subtraction to make equal expressions."
+     ],
+     "te": {
+      "M2.L25": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5G20FtM"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 15,
+   "start": "2026-11-16",
+   "title": "Q2:W6 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L26"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3B",
+      "1.3F",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.3D",
+      "1.3E",
+      "1.5C",
+      "1.5G"
+     ],
+     "lo": "I am learning to identify 1 ten as a unit by renaming representations of 10.",
+     "sc": [
+      "I can use objects to represent 10.",
+      "I can rename a group of objects as ten.",
+      "I can rename objects of units as ones.",
+      "I can use number bonds to represent one group of ten and some ones."
+     ],
+     "te": {
+      "M2.L26": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5G20FuU"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L27"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3B",
+      "1.3F",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.3D",
+      "1.3E",
+      "1.5C",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve addition and subtraction problems decomposing and composing teen numbers as 1 ten and some ones.",
+     "sc": [
+      "I can use my hands to represent 10.",
+      "I can work with a partner to make ten and some more with our hands.",
+      "I can count on/back from ten to show addition/subtraction.",
+      "I can draw a picture and write a number sentence to show addition and subtraction.",
+      "I can identify tens and ones in number sentences."
+     ],
+     "te": {
+      "M2.L27": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5G20Fus"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L28"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3B",
+      "1.3F",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.3D",
+      "1.3E",
+      "1.5C",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve addition problems using ten as a unit, and write two-step solutions. Generate story problems given a number sentence.",
+     "sc": [
+      "I can create a word problem.",
+      "I can solve addition (word) problems.",
+      "I can identify tens and ones in a number.",
+      "I can decompose a number to make a ten.",
+      "I can write and make two number sentences to solve a word problem.",
+      "I can write a sentence to answer a word problem."
+     ],
+     "te": {
+      "M2.L28": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5G20Fzs"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L29"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3B",
+      "1.3F",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.3D",
+      "1.3E",
+      "1.5C",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve subtraction problems using ten as a unit, and writetwo-step solutions.",
+     "sc": [
+      "I can decompose a number to make a ten.",
+      "I can solve a subtraction problem.",
+      "I can solve subtraction word problems.",
+      "I can use addition to help solve a subtraction problem.",
+      "I can write and make two number sentences to solve a word problem.",
+      "I can write a sentence to answer a word problem."
+     ],
+     "te": {
+      "M2.L29": "https://drive.google.com/file/d/1CET4ARCcube7jqrAbky8VKsE5etwruXJ/edit?disco=AAAA5G20F1w"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #5"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 16,
+   "start": "2026-11-30",
+   "title": "Q2:W7 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L1"
+     ],
+     "teks": [
+      "1.7A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to compare length directly and consider the importance of aligning endpoints.",
+     "sc": [
+      "I can compare objects by length.",
+      "I can identify the endpoint of an object.",
+      "I can compare pictures by length.",
+      "I can use sentence frames to write a sentence about comparing the lengths of an object."
+     ],
+     "te": {
+      "M3.L1": "https://drive.google.com/open?id=1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A&disco=AAAA4NwGXBg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready Inform MOY Window"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready Inform MOY Window"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L2"
+     ],
+     "teks": [
+      "1.7A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to compare length using indirect comparison by finding objects longer than, shorter than, and equal in length to that of a string.",
+     "sc": [
+      "I can use string to measure objects.",
+      "I can compare objects by length.",
+      "I can identify the endpoint of an object.",
+      "I can identify if an item is longer than, shorter than or equal to another item.",
+      "I can draw a picture to show length or height."
+     ],
+     "te": {
+      "M3.L2": "https://drive.google.com/open?id=1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A&disco=AAAA4NwaXGM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L3"
+     ],
+     "teks": [
+      "1.7A"
+     ],
+     "bundled": [],
+     "lo": "I am learning to order three lengths using indirect comparison.",
+     "sc": [
+      "I can trace lines and count blocks to find the distance of a given path.",
+      "I can compare three different lengths using different tools.",
+      "I can order three different lengths using different tools."
+     ],
+     "te": {
+      "M3.L3": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA4ORJtR0"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 17,
+   "start": "2026-12-07",
+   "title": "Q2:W8 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L4"
+     ],
+     "teks": [
+      "1.7A",
+      "1.7B",
+      "1.7C",
+      "1.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to express the length of an object using centimeter cubes as length units to measure with no gaps or overlaps.",
+     "sc": [
+      "I can use centimeter cubes to measure objects.",
+      "I can use centimeter cubes to measure pictures.",
+      "I can write the measurement of things using numbers.",
+      "I can explain how to measure using the endpoint."
+     ],
+     "te": {
+      "M3.L4": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA5V1ClNs"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L5"
+     ],
+     "teks": [
+      "1.7A",
+      "1.7B",
+      "1.7C",
+      "1.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to rename and measure with centimeter cubes, using their standard unit name of centimeters.",
+     "sc": [
+      "I can use centimeter cubes to measure objects.",
+      "I can use centimeter cubes to measure pictures.",
+      "I can write the measurement of things using numbers.",
+      "I can explain how to measure using centimenter cubes.",
+      "I can use a centimeter ruler to measure objects.",
+      "I can use the word “centimeter” when I measure using centimeters.",
+      "I can use the words shorter than and longer than when comparing measurements."
+     ],
+     "te": {
+      "M3.L5": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA5V1ClYk"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L6"
+     ],
+     "teks": [
+      "1.7A",
+      "1.7B",
+      "1.7C",
+      "1.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to order, measure, and compare the length of objects before and after measuring with centimeter cubes, solving compare with difference unknown word problems.",
+     "sc": [
+      "I can use centimeter cubes to measure objects.",
+      "I can order objects I measure from longest to shortest.",
+      "I can explain how to use subtraction when measuring and comparing objects.",
+      "I can write a sentence to answer a measurement problem."
+     ],
+     "te": {
+      "M3.L6": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA5V1ClZs"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L7"
+     ],
+     "teks": [
+      "1.3B",
+      "1.5D",
+      "1.7A",
+      "1.7B",
+      "1.7C",
+      "1.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to measure the same objects from Topic B with different non-standard units simultaneously to see the need to measure with a consistent unit.",
+     "sc": [
+      "I can use paper clips to measure objects.",
+      "I can measure items using the same size and same measuring item.",
+      "I can fill in a chart with the measurements of pictures I measured with paper clips.",
+      "I can explain the difference of measuring items with the same tool , but is a different size."
+     ],
+     "te": {
+      "M3.L7": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA5XuV3uE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L8"
+     ],
+     "teks": [
+      "1.3B",
+      "1.5D",
+      "1.7A",
+      "1.7B",
+      "1.7C",
+      "1.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to understand the need to use the same units when comparing measurements with others.",
+     "sc": [
+      "I can measure classroom objects using various tools.",
+      "I can use same units to compare measurements of objects.",
+      "I can label the units when measuring.",
+      "I can order items from shortest to longest."
+     ],
+     "te": {
+      "M3.L8": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA5XuV3uU"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 18,
+   "start": "2026-12-14",
+   "title": "Q2:W9 Math IPC Gr1 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L9"
+     ],
+     "teks": [
+      "1.3B",
+      "1.5D",
+      "1.7A",
+      "1.7B",
+      "1.7C",
+      "1.7D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to answer compare with difference unknown problems about the lengths of two different objects measured in centimeters.",
+     "sc": [
+      "I can measure objects using centimeter cubes.",
+      "I can compare measurements to find the difference in lengths of two different objects.",
+      "I can draw a picture to show the difference between two objects I measured.",
+      "I can write a number sentence to show the difference between two objects I measured.",
+      "I can write a sentence to answer a measurement problem."
+     ],
+     "te": {
+      "M3.L9": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA4YLDkUg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L10"
+     ],
+     "teks": [
+      "1.3B",
+      "1.5D",
+      "1.8A",
+      "1.8B",
+      "1.8C"
+     ],
+     "bundled": [],
+     "lo": "I am learning to collect, sort, and organize data; then ask and answer questions about the number of data points.",
+     "sc": [
+      "I can pick from a list of topics and vote on my favorite.",
+      "I can collect data.",
+      "I can create and organize data.",
+      "I can use tally marks to keep track of the number of votes.",
+      "I can answer questions about data.",
+      "I can write a number sentence that tells the total to answer a question about data."
+     ],
+     "te": {
+      "M3.L10": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA4Xj3JOI"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L12"
+     ],
+     "teks": [
+      "1.3B",
+      "1.5D",
+      "1.8A",
+      "1.8B",
+      "1.8C"
+     ],
+     "bundled": [],
+     "lo": "I am learning to ask and answer varied word problem types about a data set with three categories.",
+     "sc": [
+      "I can pick from a list of topics and vote on my favorite.",
+      "I can collect data.",
+      "I can answer questions about  data.",
+      "I can create a graph.",
+      "I can write a number sentence to answer to questions about data.",
+      "I can compare data collected in tables and graphs."
+     ],
+     "te": {
+      "M3.L12": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA4Xj3JOs"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L13"
+     ],
+     "teks": [
+      "1.3B",
+      "1.5D",
+      "1.8A",
+      "1.8B",
+      "1.8C"
+     ],
+     "bundled": [],
+     "lo": "I am learning to ask and answer varied word problem types about a data set with three categories.",
+     "sc": [
+      "I can pick from a list of topics and vote on my favorite.",
+      "I can collect data.",
+      "I can answer questions about  data.",
+      "I can create a graph.",
+      "I can write a number sentence to answer to questions about data.",
+      "I can compare data collected in tables and graphs."
+     ],
+     "te": {
+      "M3.L13": "https://drive.google.com/file/d/1iq2P_SdahXGW--C66BNIQMD0xqmH9x7A/edit?disco=AAAA4Xj3JPE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #6"
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Eureka TEKS Lookup: maintainer notes
 
-This is a dot chart and TEKS lookup for **Eureka Math TEKS Edition, Grades 3–5** (Dallas ISD 2026-27). Eureka doesn't publish a dot chart, so this tool builds one from the district's weekly IPCs. The views are the same as in the Carnegie tool (`MayraBT/Carnegie_DOT_CHART`): Calendar, By lesson, By standard, STAAR performance, Teaching moves and Full grid.
+This is a dot chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarten through Grade 5** (Dallas ISD 2026-27). Eureka doesn't publish a dot chart, so this tool builds one from the district's weekly IPCs. The views are the same as in the Carnegie tool (`MayraBT/Carnegie_DOT_CHART`): Calendar, By lesson, By standard, STAAR performance, Teaching moves and Full grid.
 
 - `index.html` holds everything. It has no build step at runtime.
 - `items/` holds the released STAAR item images (`g<grade>_<year>_Q<n>.jpg`, 192 files).
@@ -26,6 +26,14 @@ This is a dot chart and TEKS lookup for **Eureka Math TEKS Edition, Grades 3–5
 2. From `build/`, run `python3 build_data.py`. It writes `data.js` and `report.txt`; check the report for unmapped topics or TEKS that aren't in the grade.
 3. Run `python3 assemble.py`. It needs the Carnegie template at `/home/claude/mayrabt/carnegie_dot_chart/index.html` (clone `MayraBT/Carnegie_DOT_CHART`) and writes `out/index.html`.
 4. Run `node test.js` with a local server on port 8765. It checks desktop and phone width, page errors and overflow.
+
+## K–2
+
+- **IPCs:** weekly IPCs come from the 26-27 K-2 tab of the IPC links sheet. K and Grade 1 have 2026-27 Q3 weeklies; Grade 2 Q3 is paced from the Q3 calendar only.
+- **TEKS text:** 19 TAC §111.2–111.4, TEA (`build/teks_k2.json`). Readiness marks come from the lead4ward scaffold where it lists the SE.
+- **Grade 2 Scope & Sequence:** no Dallas ISD Grade 2 S&S was found, so Grade 2 modules and topics come from the Great Minds Guide to Content and the calendars.
+- **No STAAR:** the STAAR performance view is hidden for K–2.
+- **Vertical alignment and vocabulary:** these are partial for K–2 until the K–2 lead4ward files are added.
 
 ## Open items
 

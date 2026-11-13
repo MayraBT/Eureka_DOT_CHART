@@ -1,0 +1,883 @@
+{
+ "grade": "K",
+ "weeks": [
+  {
+   "q": 2,
+   "wk": 10,
+   "start": "2026-10-12",
+   "title": "Q2:W1 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L1"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6D",
+      "K.6E",
+      "K.8A",
+      "K.8B",
+      "K.8C"
+     ],
+     "lo": "I am learning how to find and describe flat triangles, squares, rectangles, hexagons, and circles using informal language without naming them.",
+     "sc": [
+      "I can describe the attributes of shapes."
+     ],
+     "te": {
+      "M2.L1": "https://drive.google.com/open?id=1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-&disco=AAAA5BJsUvI"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L2"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6D",
+      "K.6E",
+      "K.8A",
+      "K.8B",
+      "K.8C"
+     ],
+     "lo": "I am learning to explain decisions about classifications of triangles into categories using variants and non-examples and record on a picture graph. Identify shapes as triangles.",
+     "sc": [
+      "I can sort triangles and non-triangles in groups.",
+      "I can describe my shape sort.",
+      "I can use math vocabulary to describe my shapes."
+     ],
+     "te": {
+      "M2.L2": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA5GMh3dI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L3"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6D",
+      "K.6E",
+      "K.8A",
+      "K.8B",
+      "K.8C"
+     ],
+     "lo": "I am learning to explain decisions about classifications of rectangles into categories using variants and non-examples and record on a picture graph. Identify shapes as rectangles.",
+     "sc": [
+      "I can sort rectangles and non-rectangles in groups.",
+      "I can describe my shape sort.",
+      "I can use math vocabulary to describe my shapes."
+     ],
+     "te": {
+      "M2.L3": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA5HfpkJU"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L4"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6D",
+      "K.6E",
+      "K.8A",
+      "K.8B",
+      "K.8C"
+     ],
+     "lo": "I am learning to explain decisions about classifications of hexagons and circles and identify them by name, and record on a picture graph.",
+     "sc": [
+      "I can organize circles and hexagons on a bar graph.",
+      "I can describe the circles and hexagons."
+     ],
+     "te": {
+      "M2.L4": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA7_Ngui8"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 11,
+   "start": "2026-10-19",
+   "title": "Q2:W2 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L5"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6D",
+      "K.8A",
+      "K.8B",
+      "K.8C"
+     ],
+     "lo": "I am learning to describe and communicate positions of all flat shapes using the words above, below, beside, in front of, next to, and behind.",
+     "sc": [
+      "I can identify two-dimensional shapes by their attributes.",
+      "I can describe the position of two-dimensional shapes."
+     ],
+     "te": {
+      "M2.L5": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAABWHnCN_M"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L6"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6C",
+      "K.6D",
+      "K.6E",
+      "K.8A",
+      "K.8B",
+      "K.8C"
+     ],
+     "lo": "I am learning to find and describe solid shapes using informal language withoutnaming them.",
+     "sc": [
+      "I can identify three-dimensional shapes around the classroom.",
+      "I can describe a solid shape using attributes."
+     ],
+     "te": {
+      "M2.L6": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA7_Ngutg"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L7"
+     ],
+     "teks": [
+      "K.6B",
+      "K.6E",
+      "K.8B",
+      "K.8A",
+      "K.8C"
+     ],
+     "lo": "I am learning to explain decisions about classification of solid shapes intocategories and record on a picture graph.",
+     "sc": [
+      "I can discuss classification of shapes.",
+      "I can create a picture graph from shape sort.",
+      "I can name the solid shapes."
+     ],
+     "te": {
+      "M2.L7": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA4N1TrNM"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L8"
+     ],
+     "teks": [
+      "K.6B",
+      "K.6E",
+      "K.8B",
+      "K.8A",
+      "K.8C"
+     ],
+     "lo": "I am learning to describe and communicate positions of all solid shapes using the words above, below, beside, in front of, next to, and behind.",
+     "sc": [
+      "I can identify the shapes by touch.",
+      "I can sort shapes in categories."
+     ],
+     "te": {
+      "M2.L8": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA4N1TrNs"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L9"
+     ],
+     "teks": [
+      "K.6A",
+      "K.6B",
+      "K.6C",
+      "K.6E"
+     ],
+     "lo": "I am learning to identify and sort shapes as two-dimensional or three-dimensional, and recognize two-dimensional and three-dimensional shapes in different orientations and sizes.",
+     "sc": [
+      "I can identify the shapes from a bag.",
+      "I can name shapes."
+     ],
+     "te": {
+      "M2.L9": "https://drive.google.com/file/d/1gs4dDKItLVgG2SBp0MhteKm-m_K32Jr-/edit?disco=AAAA4N1TrUQ"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 12,
+   "start": "2026-10-26",
+   "title": "Q2:W3 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "assess",
+     "text": "End of Module 2 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "End of Module 2 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L1"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "lo": "I am learning to compare lengths using taller than and shorter than with aligned and non-aligned endpoints.",
+     "sc": [
+      "I can compare lengths using real life objects.",
+      "I can tell which objects are equal or the same length."
+     ],
+     "te": {
+      "M3.L1": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5eQI6WE"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L2"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "lo": "I am learning to compare length measurements with string.",
+     "sc": [
+      "I can compare lengths and heights with string."
+     ],
+     "te": {
+      "M3.L2": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5eQI6jM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L3"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "lo": "I am learning to make a series of longer than and shorter than comparisons.",
+     "sc": [
+      "I can compare lengths that are shorter with a string."
+     ],
+     "te": {
+      "M3.L3": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4cFNILw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 13,
+   "start": "2026-11-02",
+   "title": "Q2:W4 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L4"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare the length of linking cube sticks to a 5-stick.",
+     "sc": [
+      "I can compare lengths of linking cubes and a stick with different lengths."
+     ],
+     "te": {
+      "M3.L4": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4cFNIg4"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L5"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to determine which linking cube stick is longer than or shorter than the other.",
+     "sc": [
+      "I can compare linking cubes or sticks side by side to find the longest and shortest."
+     ],
+     "te": {
+      "M3.L5": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA8AXlBoA"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L6"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare the length of linking cube sticks to various objects.",
+     "sc": [
+      "I can put number cubes in order from 1-10.",
+      "I can guess which real life objects might be longer or shorter than the measuring stick."
+     ],
+     "te": {
+      "M3.L6": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA8AXlBpk"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L8"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.4A"
+     ],
+     "lo": "I am learning to compare using heavier than and lighter than with classroom objects. I am learning to compare objects using heavier than, lighter than, and the same as with balance scales.",
+     "sc": [
+      "I can compare weights of different objects in the classroom.",
+      "I can compare objects to find which object is heavier or lighter."
+     ],
+     "te": {
+      "M3.L8": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA8AXlBqg"
+     },
+     "note": "lessons combined (Lesson Highlights: notes on combining lessons; IPC lists only Lesson 8)"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 14,
+   "start": "2026-11-09",
+   "title": "Q2:W5 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L9"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare objects using heavier than, lighter than,and the same as with balance scales.",
+     "sc": [
+      "I can compare weights using a balance scale.",
+      "I can describe something as heavier than, lighter than, or the same as."
+     ],
+     "te": {
+      "M3.L9": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA8AXlBqs"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L10"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare the weight of an object to a set of unit weights on a balance scale.",
+     "sc": [
+      "I can compare weights using a balance scale.",
+      "I can describe why something is heavier or lighter."
+     ],
+     "te": {
+      "M3.L10": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4Y5huzw"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L11"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "lo": "I am learning how to observe the conservation of weight on the balance scale.",
+     "sc": [
+      "I can describe how I know something is heavier or lighter.",
+      "I can observe that changing the shape of an object doesn’t change its weight."
+     ],
+     "te": {
+      "M3.L11": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4Y5hu0U"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L12"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare the weight of an object with sets of different objects on a balance scale.",
+     "sc": [
+      "I can compare weights of sets of objects."
+     ],
+     "te": {
+      "M3.L12": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4Y5hu4E"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L13"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare volume using more than, less than, and the same as by pouring.",
+     "sc": [
+      "I can find capacities that are more or less that others.",
+      "I can explore volume by pouring."
+     ],
+     "te": {
+      "M3.L13": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5VwbYus"
+     },
+     "note": "lessons combined (Lesson Highlights: notes on combining lessons; IPC lists only Lesson 13; Lesson 14 not scheduled)"
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 15,
+   "start": "2026-11-16",
+   "title": "Q2:W6 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L15"
+     ],
+     "teks": [
+      "K.7A",
+      "K.7B"
+     ],
+     "bundled": [
+      "K.2D",
+      "K.2E",
+      "K.2F",
+      "K.2G",
+      "K.2I"
+     ],
+     "lo": "I am learning to compare using the same as with units.",
+     "sc": [
+      "I can compare the capacity of items using the same units."
+     ],
+     "te": {
+      "M3.L15": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5VwbZG4"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "Mid-Module 3 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Mid-Module 3 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L16"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G"
+     ],
+     "lo": "I am learning to compare to find if there are enough.",
+     "sc": [
+      "I can determine just enough, enough and not enough."
+     ],
+     "te": {
+      "M3.L16": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5VwbZPI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L17"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G"
+     ],
+     "lo": "I am learning to compare using more than and the same as.",
+     "sc": [
+      "I can use the more than and same as to compare sets of objects."
+     ],
+     "te": {
+      "M3.L17": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5VwbZP4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 16,
+   "start": "2026-11-30",
+   "title": "Q2:W7 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L18"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G"
+     ],
+     "lo": "I am learning to compare using fewer than and the same as.",
+     "sc": [
+      "I can use the fewer than and same as to compare sets of objects."
+     ],
+     "te": {
+      "M3.L18": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA5VwbZQM"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready Inform MOY Window"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready Inform MOY Window"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L19"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G",
+      "K.2H"
+     ],
+     "bundled": [
+      "K.2F",
+      "K.7B"
+     ],
+     "lo": "I am learning to relate more and less to length.",
+     "sc": [
+      "I can relate more to length.",
+      "I can relate less to length."
+     ],
+     "te": {
+      "M3.L19": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4cAbfmI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L20"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G",
+      "K.2H"
+     ],
+     "lo": "I am learning to compare sets informally using more, less, and fewer.",
+     "sc": [
+      "I can compare sets using the words more, less or fewer."
+     ],
+     "te": {
+      "M3.L20": "https://drive.google.com/file/d/1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR/edit?disco=doco.Sfn_ohZt4WDe_zXkAbpMcQ"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 17,
+   "start": "2026-12-07",
+   "title": "Q2:W8 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L21"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G"
+     ],
+     "lo": "I am learning to identify and create a set that has the same number of objects.",
+     "sc": [
+      "I can identify a set that has the same number of objects.",
+      "I can create a set that has the same number of objects."
+     ],
+     "te": {
+      "M3.L21": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4bm3Keo"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L22"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G"
+     ],
+     "lo": "I am learning to reason to identify and make a set that has 1 more.",
+     "sc": [
+      "I can add one more to a set."
+     ],
+     "te": {
+      "M3.L22": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4bm3KfY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L23"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G"
+     ],
+     "lo": "I am learning to reason to identify and make a set that has 1 less.",
+     "sc": [
+      "I can add one less to a set."
+     ],
+     "te": {
+      "M3.L23": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4bm3KgU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L24"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G",
+      "K.2H"
+     ],
+     "bundled": [
+      "K.2F"
+     ],
+     "lo": "I am learning to match and count to compare a number of objects and state which quantity is more.",
+     "sc": [
+      "I can match objects.",
+      "I can count to compare objects.",
+      "I can state which set has more."
+     ],
+     "te": {
+      "M3.L24": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4bm3KhI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L25"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G",
+      "K.2H"
+     ],
+     "bundled": [
+      "K.2F"
+     ],
+     "lo": "I am learning to match and count to compare two sets of objects and state whichquantity is less.",
+     "sc": [
+      "I can match two sets of objects.",
+      "I can count to compare two sets of objects.",
+      "I can say which set is less."
+     ],
+     "te": {
+      "M3.L25": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=vm7whok5x8pv"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 18,
+   "start": "2026-12-14",
+   "title": "Q2:W9 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L26"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G",
+      "K.2H"
+     ],
+     "bundled": [
+      "K.2F"
+     ],
+     "lo": "I am learning to strategize to compare two sets.",
+     "sc": [
+      "I can select a way to compare two sets of objects."
+     ],
+     "te": {
+      "M3.L26": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4bm3Kws"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L27"
+     ],
+     "teks": [
+      "K.2E",
+      "K.2G",
+      "K.2H"
+     ],
+     "bundled": [
+      "K.2F"
+     ],
+     "lo": "I am learning to visualize quantities to compare two numerals.",
+     "sc": [
+      "I can think of quantities to compare two numerals."
+     ],
+     "te": {
+      "M3.L27": "https://drive.google.com/open?id=1s8caq4NsUXg8xAhVEWwRjKpfOA3-HHgR&disco=AAAA4bm3KxU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "End of Module 3 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "End of Module 3 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "End of Module 3 Assessment (review content 1 day, assessment 1-2 days, and/or remediation or further application 1 day)"
+    }
+   ]
+  }
+ ]
+}

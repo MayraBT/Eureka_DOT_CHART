@@ -1,0 +1,1031 @@
+{
+ "grade": 1,
+ "ss": {
+  "modules": [
+   {
+    "n": 1,
+    "name": "Sums and Differences to 10",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Embedded Numbers and Decompositions"
+     },
+     {
+      "t": "B",
+      "name": "Counting On from Embedded Numbers"
+     },
+     {
+      "t": "C",
+      "name": "Addition Word Problems"
+     },
+     {
+      "t": "D",
+      "name": "Strategies for Counting On"
+     },
+     {
+      "t": "E",
+      "name": "The Commutative Property of Addition and the Equal Sign"
+     },
+     {
+      "t": "F",
+      "name": "Development of Addition Fluency Within 10"
+     },
+     {
+      "t": "G",
+      "name": "Subtraction as an Unknown Addend Problem"
+     },
+     {
+      "t": "H",
+      "name": "Subtraction Word Problems"
+     },
+     {
+      "t": "I",
+      "name": "Decomposition Strategies for Subtraction"
+     },
+     {
+      "t": "J",
+      "name": "Development of Subtraction Fluency Within 10"
+     }
+    ],
+    "focus": [
+     "1.2A",
+     "1.3B",
+     "1.3C",
+     "1.3D",
+     "1.3E",
+     "1.3F",
+     "1.5D",
+     "1.5E",
+     "1.5F",
+     "1.5G"
+    ],
+    "included": [],
+    "omit": [
+     5,
+     7,
+     15,
+     18
+    ],
+    "combine": [
+     "4-5",
+     "6-7"
+    ],
+    "after_staar": [],
+    "assessments": [
+     "Pre Mid-Module Assessment",
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 35,
+     "assess": 6,
+     "total": 41
+    },
+    "notes": [
+     "S&S lists Lessons 5 and 7 both as omitted and as combined (4/5, 6/7); calendars teach 'Lessons 4 & 5' and 'Lessons 6 & 7' as one day each",
+     "Q1 calendar names the three assessments M1 Learning Check 1, 2, 3",
+     "Original Eureka counts struck through: Lesson Days 39, Assessment Days 6, Total 45",
+     "BOY i-Ready: 8/19 - 8/21"
+    ]
+   },
+   {
+    "n": 2,
+    "name": "Introduction to Place Value through Addition and Subtraction Within 20",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Counting On or Making Ten to Solve Result Unknown and Total Unknown Problems"
+     },
+     {
+      "t": "B",
+      "name": "Counting On or Taking from Ten to Solve Result Unknown and Total Unknown Problems"
+     },
+     {
+      "t": "C",
+      "name": "Strategies for Solving Change or Addend Unknown Problems"
+     },
+     {
+      "t": "D",
+      "name": "Varied Problems with Decompositions of Teen Numbers as 1 Ten and Some Ones"
+     }
+    ],
+    "focus": [
+     "1.2A",
+     "1.2B",
+     "1.3B",
+     "1.3C",
+     "1.3D",
+     "1.3E",
+     "1.3F",
+     "1.5D",
+     "1.5E",
+     "1.5F",
+     "1.5G"
+    ],
+    "included": [
+     "1.2C"
+    ],
+    "omit": [
+     5,
+     9,
+     11
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [],
+    "days": {
+     "lessons": 26,
+     "assess": 2,
+     "total": 28
+    },
+    "notes": [
+     "Assessments: 2 (none named in the S&S; Q2 calendar places M2 Learning Check 4 after Lesson 16 and M2 Learning Check 5 after Lesson 29)",
+     "Original Eureka counts struck through: Lesson Days 29, Assessment Days 6, Total 35"
+    ]
+   },
+   {
+    "n": 3,
+    "name": "Ordering and Comparing Length Measurements as Numbers",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Indirect Comparison in Length Measurement"
+     },
+     {
+      "t": "B",
+      "name": "Standard Length Units"
+     },
+     {
+      "t": "C",
+      "name": "Non-Standard and Standard Length Units"
+     },
+     {
+      "t": "D",
+      "name": "Data Interpretation"
+     }
+    ],
+    "focus": [
+     "1.3B",
+     "1.5D",
+     "1.7A",
+     "1.7B",
+     "1.7C",
+     "1.7D",
+     "1.8A",
+     "1.8B",
+     "1.8C"
+    ],
+    "included": [],
+    "omit": [
+     11
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 12,
+     "assess": 3,
+     "total": 15
+    },
+    "notes": [
+     "S&S says 'Assessments: 2' but names only End-of-Module; Q2 calendar labels it M3 Learning Check 6",
+     "Original Eureka counts struck through: Lesson Days 13, Assessment Days 2, Total 15",
+     "MOY i-Ready: 12/2 - 12/3"
+    ]
+   },
+   {
+    "n": 4,
+    "name": "Place Value, Addition and Subtraction to 40",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Tens and Ones"
+     },
+     {
+      "t": "B",
+      "name": "Comparison of Pairs of Two-Digit Numbers"
+     },
+     {
+      "t": "C",
+      "name": "Addition and Subtraction of Tens"
+     },
+     {
+      "t": "D",
+      "name": "Addition of Tens or Ones to a Two-Digit Number"
+     },
+     {
+      "t": "E",
+      "name": "Varied Problem Types Within 20"
+     },
+     {
+      "t": "F",
+      "name": "Addition of Tens and Ones to a Two-Digit Number"
+     }
+    ],
+    "focus": [
+     "1.2A",
+     "1.2B",
+     "1.2C",
+     "1.2D",
+     "1.2E",
+     "1.2F",
+     "1.2G",
+     "1.3A",
+     "1.3B",
+     "1.3D",
+     "1.3E",
+     "1.3F",
+     "1.5A",
+     "1.5B",
+     "1.5C",
+     "1.5D"
+    ],
+    "included": [],
+    "omit": [
+     11,
+     12,
+     18
+    ],
+    "combine": [
+     "16-17"
+    ],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 25,
+     "assess": 2,
+     "total": 27
+    },
+    "notes": [
+     "Omit Lessons 11 & 12 are all of Topic C (Q3 calendar: '(OMIT Topic C)')",
+     "Q3 calendar labels the assessments M4 Learning Check 7 and M4 Learning Check 8",
+     "Original Eureka counts struck through: Lesson Days 29, Assessment Days 6, Total 35"
+    ]
+   },
+   {
+    "n": 5,
+    "name": "Identifying, Composing, and Partitioning Shapes",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Attributes of Shapes"
+     },
+     {
+      "t": "B",
+      "name": "Part-Whole Relationships Within Composite Shapes"
+     },
+     {
+      "t": "C",
+      "name": "Halves and Quarters of Rectangles and Circles"
+     },
+     {
+      "t": "D",
+      "name": "Application of Halves to Tell Time"
+     }
+    ],
+    "focus": [
+     "1.6A",
+     "1.6B",
+     "1.6C",
+     "1.6D",
+     "1.6E",
+     "1.6F",
+     "1.6G",
+     "1.6H",
+     "1.7E"
+    ],
+    "included": [],
+    "omit": [],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 13,
+     "assess": 1,
+     "total": 14
+    },
+    "notes": [
+     "Q3 calendar labels the assessment M5 Learning Check 9",
+     "Original Eureka counts struck through: Lesson Days 13, Assessment Days 2, Total 15"
+    ]
+   },
+   {
+    "n": 6,
+    "name": "Place Value to 120, Comparison, Understanding Income with Addition and Subtraction to 100",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Comparison of Word Problems"
+     },
+     {
+      "t": "B",
+      "name": "Numbers to 120"
+     },
+     {
+      "t": "C",
+      "name": "Addition to 100 Using Place Value Understanding"
+     },
+     {
+      "t": "D",
+      "name": "Varied Place Value Strategies for Addition to 100"
+     },
+     {
+      "t": "E",
+      "name": "Coins and Their Values"
+     },
+     {
+      "t": "F",
+      "name": "Income and Responsible Spending"
+     },
+     {
+      "t": "G",
+      "name": "Varied Problem Types Within 20"
+     },
+     {
+      "t": "H",
+      "name": "Culminating Experiences"
+     }
+    ],
+    "focus": [
+     "1.2B",
+     "1.2C",
+     "1.2D",
+     "1.2E",
+     "1.2F",
+     "1.2G",
+     "1.3A",
+     "1.3B",
+     "1.3D",
+     "1.4A",
+     "1.4B",
+     "1.4C",
+     "1.5A",
+     "1.5B",
+     "1.5C",
+     "1.5D",
+     "1.5G",
+     "1.9A",
+     "1.9B",
+     "1.9C",
+     "1.9D"
+    ],
+    "included": [],
+    "omit": [
+     18
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 31,
+     "assess": 2,
+     "total": 33
+    },
+    "notes": [
+     "Original Eureka counts struck through: Lesson Days 32, Assessment Days 4 (Total 36 not struck)"
+    ]
+   }
+  ]
+ },
+ "lessons": {
+  "M1.L1": "Analyze and describe embedded numbers (to 10) using 5-groups and number bonds.",
+  "M1.L2": "Reason about embedded numbers in varied configurations using number bonds.",
+  "M1.L3": "See and describe numbers of objects using 1 more within 5-group configurations.",
+  "M1.L4": "Represent put together situations with number bonds. Count on from one embedded number or part to totals of 6 and 7, and generate all addition expressions for each total.",
+  "M1.L5": "Represent put together situations with number bonds. Count on from one embedded number or part to totals of 6 and 7, and generate all addition expressions for each total.",
+  "M1.L6": "Represent put together situations with number bonds. Count on from one embedded number or part to totals of 8 and 9, and generate all expressions for each total.",
+  "M1.L7": "Represent put together situations with number bonds. Count on from one embedded number or part to totals of 8 and 9, and generate all expressions for each total.",
+  "M1.L8": "Represent all the number pairs of 10 as number bonds from a given scenario, and generate all expressions equal to 10.",
+  "M1.L9": "Solve add to with result unknown and put together with result unknown math stories by drawing, writing equations, and making statements of the solution.",
+  "M1.L10": "Solve put together with result unknown math stories by drawing and using 5-group cards.",
+  "M1.L11": "Solve add to with change unknown math stories as a context for counting on by drawing, writing equations, and making statements of the solution.",
+  "M1.L12": "Solve add to with change unknown math stories using 5-group cards.",
+  "M1.L13": "Tell put together with result unknown, add to with result unknown, and add to with change unknown stories from equations.",
+  "M1.L14": "Count on up to 3 more using numeral and 5-group cards and fingers to track the change.",
+  "M1.L16": "Count on to find the unknown part in the missing addend equations, such as 6 + __ = 9. Answer, “How many more to make 6, 7, 8, 9, and 10?”",
+  "M1.L17": "Understand the meaning of the equal sign by pairing equivalent expressions and constructing true number sentences.",
+  "M1.L19": "Represent the same story scenario with addends repositioned (the commutative property).",
+  "M1.L20": "Apply the commutative property to count on from a larger addend.",
+  "M1.L21": "Visualize and solve doubles and doubles plus 1 with 5-group cards.",
+  "M1.L22": "Look for and make use of repeated reasoning on the addition chart by solving and analyzing problems with common addends.",
+  "M1.L23": "Look for and make use of structure on the addition chart by looking for and coloring problems with the same total.",
+  "M1.L24": "Practice to build fluency with facts to 10.",
+  "M1.L25": "Solve add to with change unknown math stories with addition, and relate to subtraction. Model with materials, and write corresponding number sentences.",
+  "M1.L26": "Count on using the number path to find an unknown part.",
+  "M1.L27": "Count on using the number path to find an unknown part.",
+  "M1.L28": "Solve take from with result unknown math stories with math drawings, true number sentences, and statements, using horizontal marks to cross off what is taken away.",
+  "M1.L29": "Solve take apart with addend unknown math stories with math drawings, equations, and statements, circling the known part to find the unknown.",
+  "M1.L30": "Solve add to with change unknown math stories with drawings, relating addition and subtraction.",
+  "M1.L31": "Solve take from with change unknown math stories with drawings.",
+  "M1.L32": "Solve put together/take apart with addend unknown math stories.",
+  "M1.L33": "Model 0 and 1 less pictorially and as subtraction number sentences.",
+  "M1.L34": "Model n - n and n - (n-1) pictorially and as subtraction sentences.",
+  "M1.L35": "Relate subtraction facts involving fives and doubles to corresponding decompositions.",
+  "M1.L36": "Relate subtraction from 10 to corresponding decompositions.",
+  "M1.L37": "Relate subtraction from 9 to corresponding decompositions.",
+  "M1.L38": "Look for and make use of repeated reasoning and structure, using the addition chart to solve subtraction problems.",
+  "M1.L39": "Analyze the addition chart to solve subtraction problems.",
+  "M2.L1": "Solve word problems with three addends, two of which make ten.",
+  "M2.L2": "Use the associative and commutative properties to make ten with three addends.",
+  "M2.L3": "Make ten when one addend is 9.",
+  "M2.L4": "Make ten when one addend is 9.",
+  "M2.L6": "Use the commutative property to make ten.",
+  "M2.L7": "Make ten when one addend is 8.",
+  "M2.L8": "Make ten when one addend is 8.",
+  "M2.L10": "Solve problems with addends of 7, 8, and 9.",
+  "M2.L12": "Solve word problems with subtraction of 9 from 10.",
+  "M2.L13": "Solve word problems with subtraction of 9 from 10.",
+  "M2.L14": "Model subtraction of 9 from teen numbers. Generate story problems given a number sentence.",
+  "M2.L15": "Model subtraction of 9 from teen numbers. Generate story problems given a number sentence.",
+  "M2.L16": "Relate counting on to making ten and taking from ten.",
+  "M2.L17": "Model subtraction of 8 from teen numbers.",
+  "M2.L18": "Model subtraction of 8 from teen numbers.",
+  "M2.L19": "Compare efficiency of counting on and taking from ten.",
+  "M2.L20": "Subtract 7, 8, and 9 from teen numbers.",
+  "M2.L21": "Share and critique peer solution strategies for take from with result unknown and take apart with addend unknown word problems from the teens.",
+  "M2.L22": "Solve put together/take apart with addend unknown word problems, and relate counting on to the take from ten strategy. Generate story problems given a number sentence.",
+  "M2.L23": "Solve add to with change unknown problems, relating varied addition and subtraction strategies.",
+  "M2.L24": "Strategize to solve take from with change unknown problems.",
+  "M2.L25": "Strategize and apply understanding of the equal sign to solve equivalent expressions.",
+  "M2.L26": "Identify 1 ten as a unit by renaming representations of 10.",
+  "M2.L27": "Solve addition and subtraction problems decomposing and composing teen numbers as 1 ten and some ones.",
+  "M2.L28": "Solve addition problems using ten as a unit, and write two-step solutions. Generate story problems given a number sentence.",
+  "M2.L29": "Solve subtraction problems using ten as a unit, and write two-step solutions.",
+  "M3.L1": "Compare length directly and consider the importance of aligning endpoints.",
+  "M3.L2": "Compare length using indirect comparison by finding objects longer than, shorter than, and equal in length to that of a string.",
+  "M3.L3": "Order three lengths using indirect comparison.",
+  "M3.L4": "Express the length of an object using centimeter cubes as length units to measure with no gaps or overlaps.",
+  "M3.L5": "Rename and measure with centimeter cubes, using their standard unit name of centimeters.",
+  "M3.L6": "Order, measure, and compare the length of objects before and after measuring with centimeter cubes, solving compare with difference unknown word problems.",
+  "M3.L7": "Measure the same objects from Topic B with different non-standard units simultaneously to see the need to measure with a consistent unit.",
+  "M3.L8": "Understand the need to use the same units when comparing measurements with others.",
+  "M3.L9": "Answer compare with difference unknown problems about lengths of two different objects measured in centimeters.",
+  "M3.L10": "Collect, sort, and organize data; then ask and answer questions about the number of data points.",
+  "M3.L12": "Ask and answer varied word problem types about a data set with three categories.",
+  "M3.L13": "Ask and answer varied word problem types about a data set with three categories.",
+  "M4.L1": "Compare the efficiency of counting by ones and counting by tens.",
+  "M4.L2": "Use the place value chart to record and name tens and ones within a two-digit number.",
+  "M4.L3": "Interpret two-digit numbers as either tens and some ones or as all ones.",
+  "M4.L4": "Write and interpret two-digit numbers as an addition sentence that combines tens and ones.",
+  "M4.L5": "Identify 10 more, 10 less, 1 more, and 1 less than a two-digit number.",
+  "M4.L6": "Use dimes and pennies as representations of tens and ones.",
+  "M4.L7": "Compare two quantities, and identify the greater or lesser of the two given numerals.",
+  "M4.L8": "Compare quantities and numerals from left to right.",
+  "M4.L9": "Use the symbols >, =, and < to compare quantities and numerals.",
+  "M4.L10": "Use the symbols >, =, and < to compare quantities and numerals.",
+  "M4.L13": "Use counting on and the make ten strategy when adding across a ten.",
+  "M4.L14": "Use counting on and the make ten strategy when adding across a ten.",
+  "M4.L15": "Use single-digit sums to support solutions for analogous sums to 40.",
+  "M4.L16": "Add ones and ones or tens and tens.",
+  "M4.L17": "Add ones and ones or tens and tens.",
+  "M4.L19": "Use strip diagrams are representations to solve put together/ take apart with total unknown and add to with result unknown word problems.",
+  "M4.L20": "Recognize and make use of part–whole relationships within strip diagrams when solving a variety of problem types.",
+  "M4.L21": "Recognize and make use of part–whole relationships within strip diagrams when solving a variety of problem types.",
+  "M4.L22": "Write word problems of varied types.",
+  "M4.L23": "Interpret two-digit numbers as tens and ones, including cases with more than 9 ones.",
+  "M4.L24": "Add a pair of two-digit numbers when the ones digits have a sum less than or equal to 10.",
+  "M4.L25": "Add a pair of two-digit numbers when the ones digits have a sum less than or equal to 10.",
+  "M4.L26": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10.",
+  "M4.L27": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10.",
+  "M4.L28": "Add a pair of two-digit numbers with varied sums in the ones.",
+  "M4.L29": "Add a pair of two-digit numbers with varied sums in the ones.",
+  "M5.L1": "Classify shapes based on defining attributes using examples, variants, and non-examples.",
+  "M5.L2": "Find and name two-dimensional shapes including trapezoid, rhombus, and a square as a special rectangle, based on defining attributes of sides and corners.",
+  "M5.L3": "Find and name three-dimensional shapes, including cone and rectangular prism, based on defining attributes of faces and points.",
+  "M5.L4": "Create composite shapes from two-dimensional shapes.",
+  "M5.L5": "Compose a new shape from composite shapes.",
+  "M5.L6": "Create a composite shape from three-dimensional shapes and describe the composite shape using shape names and positions.",
+  "M5.L7": "Name and count shapes as parts of a whole, recognizing relative sizes of the parts.",
+  "M5.L8": "Partition shapes and identify halves and quarters of circles and rectangles.",
+  "M5.L9": "Partition shapes and identify halves and quarters of circles and rectangles.",
+  "M5.L10": "Construct a paper clock by partitioning a circle and tell time to the hour.",
+  "M5.L11": "Recognize halves within a circular clock face and tell time to the half hour.",
+  "M5.L12": "Recognize halves within a circular clock face and tell time to the half hour.",
+  "M5.L13": "Recognize halves within a circular clock face and tell time to the half hour."
+ },
+ "q3": {
+  "weeks": [
+   {
+    "q": 3,
+    "wk": 19,
+    "start": "2027-01-04",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Staff/Student Holiday"
+     },
+     {
+      "dow": "Tue",
+      "kind": "off",
+      "text": "Professional Development"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L1"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L2"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L3"
+      ],
+      "topic": "M4 Topic A"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 20,
+    "start": "2027-01-11",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L4"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L5"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L6"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L7"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L8"
+      ],
+      "topic": "M4 Topic B"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 21,
+    "start": "2027-01-18",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Staff/Student Holiday"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L9"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L10"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Thu",
+      "kind": "assess",
+      "text": "M4 Learning Check 7 (OMIT Topic C)"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L13"
+      ],
+      "topic": "M4 Topic D"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 22,
+    "start": "2027-01-25",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L14"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L15"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L16",
+       "M4.L17"
+      ],
+      "topic": "M4 Topic D",
+      "text": "Lessons 16-17 combined"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L19"
+      ],
+      "topic": "M4 Topic E"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L20"
+      ],
+      "topic": "M4 Topic E"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 23,
+    "start": "2027-02-01",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L21"
+      ],
+      "topic": "M4 Topic E"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L22"
+      ],
+      "topic": "M4 Topic E"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L23"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L24"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L25"
+      ],
+      "topic": "M4 Topic F"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 24,
+    "start": "2027-02-08",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L26"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L27"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L28"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L29"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Fri",
+      "kind": "assess",
+      "text": "M4 Learning Check 8"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 25,
+    "start": "2027-02-15",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Professional Development"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M5.L1"
+      ],
+      "topic": "M5 Topic A"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M5.L2"
+      ],
+      "topic": "M5 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M5.L3"
+      ],
+      "topic": "M5 Topic A"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M5.L4"
+      ],
+      "topic": "M5 Topic B"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 26,
+    "start": "2027-02-22",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M5.L5"
+      ],
+      "topic": "M5 Topic B"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M5.L6"
+      ],
+      "topic": "M5 Topic B"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M5.L7"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M5.L8"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M5.L9"
+      ],
+      "topic": "M5 Topic C"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 27,
+    "start": "2027-03-01",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M5.L10"
+      ],
+      "topic": "M5 Topic D"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M5.L11"
+      ],
+      "topic": "M5 Topic D"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M5.L12"
+      ],
+      "topic": "M5 Topic D"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M5.L13"
+      ],
+      "topic": "M5 Topic D"
+     },
+     {
+      "dow": "Fri",
+      "kind": "assess",
+      "text": "M5 Learning Check 9"
+     }
+    ]
+   }
+  ]
+ },
+ "events": [
+  {
+   "date": "2026-08-10",
+   "label": "Teacher Work Day"
+  },
+  {
+   "date": "2026-08-11",
+   "label": "Quarter 1 Starts"
+  },
+  {
+   "date": "2026-08-19",
+   "label": "i-Ready BOY Inform (8/19 - 8/21)"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "M1 Learning Check 1"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Staff/Student Holiday"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "M1 Learning Check 2"
+  },
+  {
+   "date": "2026-10-07",
+   "label": "M1 Learning Check 3"
+  },
+  {
+   "date": "2026-10-08",
+   "label": "Staff/Student Holidays (Oct 8 - 9)"
+  },
+  {
+   "date": "2026-10-12",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2026-10-13",
+   "label": "Quarter 2 Starts"
+  },
+  {
+   "date": "2026-10-30",
+   "label": "M2 Learning Check 4"
+  },
+  {
+   "date": "2026-11-03",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2026-11-20",
+   "label": "M2 Learning Check 5"
+  },
+  {
+   "date": "2026-11-23",
+   "label": "Thanksgiving Break (calendar says 'November 24-28')"
+  },
+  {
+   "date": "2026-12-01",
+   "label": "i-Ready Inform MOY (S&S: 12/2 - 12/3)"
+  },
+  {
+   "date": "2026-12-18",
+   "label": "M3 Learning Check 6"
+  },
+  {
+   "date": "2027-01-04",
+   "label": "Staff/Student Holiday"
+  },
+  {
+   "date": "2027-01-05",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2027-01-06",
+   "label": "Quarter 3 Starts (calendar header: January 6, 2027)"
+  },
+  {
+   "date": "2027-01-18",
+   "label": "Staff/Student Holiday"
+  },
+  {
+   "date": "2027-01-21",
+   "label": "M4 Learning Check 7"
+  },
+  {
+   "date": "2027-02-12",
+   "label": "M4 Learning Check 8"
+  },
+  {
+   "date": "2027-02-15",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2027-03-05",
+   "label": "M5 Learning Check 9"
+  },
+  {
+   "date": "2027-05-12",
+   "label": "EOY i-Ready (5/12 - 5/13)"
+  }
+ ],
+ "notes": [
+  "Calendars alternate 'Dual Language: Language of Instruction' weekly (Q1 W1 Spanish, W2 English, ...; Q2 W1 English; Q3 W1 Spanish)",
+  "Previewing Next Grade Level's Content: DISD Lesson Days 16, Assessment Days 2, Total Instructional Days 18",
+  "Dallas ISD Total Instructional Days: 176"
+ ]
+}

@@ -1,0 +1,1564 @@
+[
+ {
+  "code": "1.2A",
+  "mis": [
+   {
+    "m": "Counts every dot one by one on a ten frame or dot card instead of seeing the amount at a glance.",
+    "why": "The student has not yet linked the arrangement to a known quantity, so counting by ones feels safest.",
+    "fix": "Flash a ten frame for two seconds, hide it, and ask 'How many? How did you see it?' Start with 5 and 10 so the full row and full frame become anchors."
+   },
+   {
+    "m": "Says 7 for a ten frame showing 8 because they see 'the top row and some more' without noticing how many empty boxes there are.",
+    "why": "The student looks at the filled boxes only and guesses the extra part.",
+    "fix": "Ask 'How many are missing to make 10?' so students use the empty boxes: 2 empty means 8."
+   },
+   {
+    "m": "Recognizes the dice pattern for 6 but cannot name 6 when the dots are shown in a ten frame or as fingers.",
+    "why": "The student memorized one picture rather than the quantity, so a new arrangement feels like a new number.",
+    "fix": "Show the same number in three arrangements side by side (dice, ten frame, fingers) and ask 'What is the same? What is different?'"
+   }
+  ],
+  "cra": {
+   "c": "Students build quick images with counters on ten frames, dot cards, rekenreks and fingers, then flash them to a partner who names the amount without counting.",
+   "r": "Students match dot cards, ten frame cards and finger pictures that show the same amount, and sketch a ten frame to show how they saw it, such as '5 and 3 more.'",
+   "a": "Students write the number and a short number sentence for how they saw it, such as 5 + 3 = 8 or 10 - 2 = 8.",
+   "look": "Students call out amounts quickly after a brief flash and explain what they saw, like 'a full row and 2 more.'"
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know it was 8 so fast?",
+     "Did you look at the dots or the empty boxes?"
+    ],
+    "advance": [
+     "Can you see 8 a different way? Show your partner.",
+     "If I add one more dot, what will it be without counting?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What part did you see first?",
+     "How many empty boxes are there?"
+    ],
+    "advance": [
+     "How does a full top row help you?",
+     "Can you find two cards that show the same number?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the full row. How many is that?",
+     "Show me 5 on your fingers."
+    ],
+    "advance": [
+     "Is this more than 5 or less than 5?",
+     "How many more to fill the row?"
+    ],
+    "support": [
+     "Use only 5-frames and amounts up to 5 at first, then add a second row.",
+     "Let the student build the arrangement with counters before the quick flash."
+    ]
+   }
+  },
+  "stems": [
+   "I saw ___ and ___.",
+   "I know it is ___ because ___.",
+   "There are ___ empty boxes, so it is ___.",
+   "I saw it a different way. I saw ___.",
+   "This card and that card both show ___."
+  ],
+  "t": "S",
+  "d": "Recognize instantly the quantity of structured arrangements."
+ },
+ {
+  "code": "1.2B",
+  "mis": [
+   {
+    "m": "Thinks 34 can only be made as 3 tens and 4 ones, so says 2 tens and 14 ones is a different number.",
+    "why": "The student has seen only the standard way and does not yet see that 1 ten can become 10 ones.",
+    "fix": "Have the student unbundle one ten-stick of cubes into 10 loose cubes and count all again to see the total did not change."
+   },
+   {
+    "m": "For a number like 112, writes 1 hundred, 1 ten, 2 ones as 1,000 + 10 + 2 or reads the blocks as 'one hundred twelve' while building 1 hundred and 12 tens.",
+    "why": "Numbers past 100 are new, and students mix up how many tens belong in the number.",
+    "fix": "Build 100 as 10 tens, then add tens and ones one at a time while counting aloud: 100, 110, 111, 112."
+   },
+   {
+    "m": "Counts each ten rod as 1 when finding the total, so 4 tens and 3 ones becomes 7.",
+    "why": "The student counts the objects, not what each object is worth.",
+    "fix": "Have students count by tens while touching each rod: '10, 20, 30, 40,' then switch to ones: '41, 42, 43.'"
+   }
+  ],
+  "cra": {
+   "c": "Students bundle straws or snap cubes into tens and use base-ten blocks to build a number such as 46 in two or three ways, trading a ten for 10 ones each time.",
+   "r": "Students draw quick pictures with sticks for tens and dots for ones and record each way on a place value chart with hundreds, tens and ones.",
+   "a": "Students write each way as a sentence or equation, such as 46 = 4 tens 6 ones = 3 tens 16 ones = 40 + 6.",
+   "look": "Students trade a ten for ten ones, count the total again, and show partners that both ways make the same number."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know 3 tens and 16 ones is still 46?",
+     "What did you do to the ten you broke apart?"
+    ],
+    "advance": [
+     "How many different ways can you make 46? How do you know you found them all?",
+     "Show 110 using no hundreds."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many tens did you draw? How many ones?",
+     "What does each stick in your picture stand for?"
+    ],
+    "advance": [
+     "Can you trade one more ten? What happens?",
+     "How would you make 105 with a hundred?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many cubes are in this stick?",
+     "Count these tens with me."
+    ],
+    "advance": [
+     "If I break this ten apart, how many cubes do we get?",
+     "Is it still the same number?"
+    ],
+    "support": [
+     "Use pre-made ten-sticks and loose cubes on a two-column tens and ones mat.",
+     "Start with numbers under 30 so there are only a few trades."
+    ]
+   }
+  },
+  "stems": [
+   "I made ___ with ___ tens and ___ ones.",
+   "Another way is ___ tens and ___ ones.",
+   "I traded 1 ten for 10 ones.",
+   "It is still ___ because ___.",
+   "___ is 1 hundred, ___ tens, and ___ ones."
+  ],
+  "t": "S",
+  "d": "Use concrete and pictorial models to compose and decompose numbers up to 120 in more than one way as so many hundreds, so many tens, and so many ones."
+ },
+ {
+  "code": "1.2C",
+  "mis": [
+   {
+    "m": "Writes 'sixty-four' as 604 or 60 4.",
+    "why": "The student writes the number the way it sounds instead of using place value.",
+    "fix": "Use place value cards: lay the 4 card on top of the zero in the 60 card so students see 64 is 60 + 4 written together."
+   },
+   {
+    "m": "Writes 47 in expanded form as 4 + 7.",
+    "why": "The student sees the digits but not the value of the 4 in the tens place.",
+    "fix": "Build 47 with base-ten blocks and ask 'How much are the tens worth?' before writing 40 + 7."
+   },
+   {
+    "m": "Mixes up teen numbers, such as writing 61 for 'sixteen' or reading 17 as 'seventy-one.'",
+    "why": "The teen number names say the ones first, which is the opposite of how the digits are written.",
+    "fix": "Show teen numbers on a ten frame pair: 1 full ten and 6 more. Say '1 ten and 6 ones is 16' while pointing to each digit."
+   }
+  ],
+  "cra": {
+   "c": "Students build numbers up to 120 with base-ten blocks, bundled straws or ten frames and say the number aloud.",
+   "r": "Students draw quick pictures of tens and ones, match them to number cards and fill in a place value chart.",
+   "a": "Students write the same number in standard form and expanded form, such as 85 and 80 + 5, and match it to its number word.",
+   "look": "Students move between blocks, quick pictures, standard form and expanded form for the same number and check that they match."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your picture match 80 + 5?",
+     "Why is the 8 worth 80?"
+    ],
+    "advance": [
+     "How would you write 108 in expanded form? What happens to the tens?",
+     "Can you build a number that has 0 ones?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many tens are in your picture? How did you write them?",
+     "Which part of 63 shows the tens?"
+    ],
+    "advance": [
+     "Can you write it a different way?",
+     "What number is 1 hundred, 1 ten and 5 ones?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me the tens. Show me the ones.",
+     "Which card says 40?"
+    ],
+    "advance": [
+     "Put the 7 card on top of the 40 card. What number is it now?",
+     "Is 47 more or less than 74?"
+    ],
+    "support": [
+     "Give place value cards (tens cards and ones cards) to build the number.",
+     "Use a tens and ones mat with a picture of a stick and a dot at the top."
+    ]
+   }
+  },
+  "stems": [
+   "___ is ___ tens and ___ ones.",
+   "In expanded form, ___ is ___ + ___.",
+   "The ___ is worth ___.",
+   "My picture shows ___.",
+   "I know it is ___ because ___."
+  ],
+  "t": "R",
+  "d": "Use objects, pictures, and expanded and standard forms to represent numbers up to 120."
+ },
+ {
+  "code": "1.2D",
+  "mis": [
+   {
+    "m": "When asked for a number greater than 58, gives 50 or 49 because it has a 5 or looks 'bigger' in some way.",
+    "why": "The student focuses on one digit and does not yet compare the whole number.",
+    "fix": "Have the student find 58 on a hundred chart and point to numbers that come after it, then say 'After means greater.'"
+   },
+   {
+    "m": "Only gives the very next number, such as 59 for 'greater than 58,' and thinks no other answer works.",
+    "why": "The student thinks there is one right answer.",
+    "fix": "Ask for three different greater numbers and list them on the board, then ask 'Are they all greater? How do you know?'"
+   },
+   {
+    "m": "For 'less than 101' says 110 because both numbers start with 1 and have a 1 and a 0.",
+    "why": "Numbers past 100 have the same digits in new orders, which is confusing to read.",
+    "fix": "Build both numbers with base-ten blocks and compare the tens: 101 has 0 tens and 110 has 1 ten."
+   }
+  ],
+  "cra": {
+   "c": "Students build a given number with base-ten blocks or cubes, then add or take away a ten or some ones to make a number that is greater or less.",
+   "r": "Students use a hundred chart (to 120) or a number line and mark a number to the right for greater or to the left for less.",
+   "a": "Students write the new number and say the comparison, such as '72 is greater than 68.'",
+   "look": "Students point to a hundred chart or number line to show where a greater or less number is and give more than one answer."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know 72 is greater than 68?",
+     "What did you change to make it greater?"
+    ],
+    "advance": [
+     "Give a number that is greater than 68 but less than 70.",
+     "What number is 10 less? How did you find it?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where is your number on the chart? Is it before or after?",
+     "Did you add tens or ones?"
+    ],
+    "advance": [
+     "Can you find a greater number that has the same ones digit?",
+     "Give me a number less than 100 but more than 95."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me the number. Point to one that comes after.",
+     "Is this number bigger or smaller?"
+    ],
+    "advance": [
+     "Add one more cube. Is it greater now?",
+     "What comes just before this number?"
+    ],
+    "support": [
+     "Use a number path with numbers to 30 before the full hundred chart.",
+     "Give two choices and ask which is greater."
+    ]
+   }
+  },
+  "stems": [
+   "A number greater than ___ is ___.",
+   "A number less than ___ is ___.",
+   "I know because ___.",
+   "I added ___ to make it greater.",
+   "I took away ___ to make it less."
+  ],
+  "t": "S",
+  "d": "Generate a number that is greater than or less than a given whole number up to 120."
+ },
+ {
+  "code": "1.2E",
+  "mis": [
+   {
+    "m": "Says 39 is greater than 41 because 9 is greater than 1.",
+    "why": "The student compares the ones digits first instead of the tens.",
+    "fix": "Build both numbers with base-ten blocks and ask 'Who has more tens?' before looking at the ones."
+   },
+   {
+    "m": "Says 100 is less than 99 because 100 has zeros and zero means nothing.",
+    "why": "The student sees zero as 'nothing' and does not know its place value role.",
+    "fix": "Build 99 with blocks, add one more cube, trade for a ten and then trade 10 tens for a hundred so students see 100 grow from 99."
+   },
+   {
+    "m": "Uses 'bigger' and 'smaller' loosely and cannot explain which number is 'greater than' or 'less than' in a full sentence.",
+    "why": "The comparative language is new and students have used everyday words.",
+    "fix": "Post a sentence frame with pictures ('___ is greater than ___') and have partners say it every time they compare."
+   }
+  ],
+  "cra": {
+   "c": "Partners build two numbers with base-ten blocks and line up the tens and ones side by side to see which has more.",
+   "r": "Students draw quick pictures of each number or find both on a hundred chart, then circle the tens to compare.",
+   "a": "Students say and write the comparison in words: '73 is greater than 37 because 7 tens is more than 3 tens.'",
+   "look": "Students compare tens first, then ones, and use the words greater than, less than and equal to in full sentences."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you look at the tens first?",
+     "How do you know 56 is greater than 52?"
+    ],
+    "advance": [
+     "What number could go here to make it less than 64?",
+     "How would you compare 110 and 101?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many tens does each number have?",
+     "Show me where both numbers are on the chart."
+    ],
+    "advance": [
+     "If the tens are the same, what do you look at next?",
+     "Can you find a number that is equal to 4 tens and 5 ones?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which pile has more tens?",
+     "Point to the greater number."
+    ],
+    "advance": [
+     "Say it with me: '__ is greater than __.'",
+     "Which one is less?"
+    ],
+    "support": [
+     "Use blocks for both numbers every time and line them up.",
+     "Give a sentence frame card with a picture for greater and less."
+    ]
+   }
+  },
+  "stems": [
+   "___ is greater than ___.",
+   "___ is less than ___.",
+   "___ is equal to ___.",
+   "I looked at the tens first. ___ has more tens.",
+   "The tens are the same, so I looked at the ones."
+  ],
+  "t": "S",
+  "d": "Use place value to compare whole numbers up to 120 using comparative language."
+ },
+ {
+  "code": "1.2F",
+  "mis": [
+   {
+    "m": "Orders 105, 98, 110 as 98, 110, 105 because 'one-ten' sounds like it should come before 'one hundred five.'",
+    "why": "Numbers past 100 are new and students rely on how they sound.",
+    "fix": "Build each number with blocks, then place them on a number line counting by tens from 90 to 120."
+   },
+   {
+    "m": "Places numbers on an open number line with no thought to spacing, such as putting 50 very close to 10 and far from 90.",
+    "why": "The student sees the line as a row of boxes, not a distance.",
+    "fix": "Mark 0, 50 and 100 first as landmarks and ask 'Is 23 closer to 0 or 50?' before placing it."
+   },
+   {
+    "m": "Orders numbers from greatest to least when asked for least to greatest, or reverses the direction partway through.",
+    "why": "The student does not yet hold the meaning of 'least' and 'greatest' while working.",
+    "fix": "Label the left end 'least' and the right end 'greatest' on the number line and have students check each number by asking 'Is it more than the one before?'"
+   }
+  ],
+  "cra": {
+   "c": "Students hold number cards and line themselves up in order on a floor number line or clothesline, using base-ten blocks to check.",
+   "r": "Students place numbers on an open number line with landmarks such as 0, 50, 100 and 120, or on a hundred chart, and say why each spot makes sense.",
+   "a": "Students write the numbers in order from least to greatest or greatest to least and explain using tens and ones.",
+   "look": "Students move number cards on a clothesline or open number line and explain placements with tens and ones."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you put 67 before 76?",
+     "How did you decide where 85 goes on your line?"
+    ],
+    "advance": [
+     "Where would 115 go? Show me.",
+     "Which number is closest to 100? How do you know?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which landmark is this number close to?",
+     "How many tens does each number have?"
+    ],
+    "advance": [
+     "Can you add a number that goes between these two?",
+     "Put them in order from greatest to least now."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which number is the least? Point to it.",
+     "Does 40 come before or after 30?"
+    ],
+    "advance": [
+     "Count by tens with me. Where does 50 go?",
+     "Is this number more than the one before it?"
+    ],
+    "support": [
+     "Give a number line with tens already marked.",
+     "Order only three numbers with blocks before using the line."
+    ]
+   }
+  },
+  "stems": [
+   "From least to greatest, the order is ___.",
+   "___ comes before ___ because ___.",
+   "I put ___ near ___ on the number line.",
+   "___ is between ___ and ___.",
+   "I checked the tens first."
+  ],
+  "t": "S",
+  "d": "Order whole numbers up to 120 using place value and open number lines."
+ },
+ {
+  "code": "1.2G",
+  "mis": [
+   {
+    "m": "Writes 45 < 32 because the symbol 'looks right' or always puts the symbol pointing to the right.",
+    "why": "The student does not link the symbol's direction to which number is greater.",
+    "fix": "Have students write the words first ('45 is greater than 32'), then swap the words for the symbol and read it aloud left to right."
+   },
+   {
+    "m": "Reads 28 > 82 as true because 8 is greater than 2.",
+    "why": "The student compares the ones digits instead of the tens.",
+    "fix": "Build both numbers with blocks and compare tens first: 2 tens and 8 tens."
+   },
+   {
+    "m": "Uses = between numbers with the same digits, such as 34 = 43.",
+    "why": "The student sees the same digits and thinks the numbers match.",
+    "fix": "Build both numbers side by side and ask 'Do they have the same tens? The same ones?'"
+   }
+  ],
+  "cra": {
+   "c": "Students build two numbers with base-ten blocks and place a symbol card (>, < or =) between them, then read the sentence aloud.",
+   "r": "Students draw quick pictures of each number or find both on a hundred chart and write the symbol between the pictures.",
+   "a": "Students write comparisons such as 67 > 59 and 40 = 40 and read each one aloud in words.",
+   "look": "Students read each comparison aloud from left to right with 'greater than,' 'less than' or 'equal to' and check it with blocks."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Read your number sentence aloud. Does it make sense?",
+     "Why did you choose that symbol?"
+    ],
+    "advance": [
+     "What numbers could make ___ < 50 true?",
+     "Write the same comparison a different way."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How do your blocks show which number is greater?",
+     "Which number has more tens?"
+    ],
+    "advance": [
+     "If I switch the two numbers, which symbol do you need?",
+     "Can you write a true sentence with =?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which number is greater? Point to it.",
+     "Read this with me: 30 is less than 50."
+    ],
+    "advance": [
+     "Is 30 greater than 50 or less than 50?",
+     "Show me the symbol for 'less than.'"
+    ],
+    "support": [
+     "Give symbol cards with the words written under them.",
+     "Compare numbers to 20 with cubes before moving to 100."
+    ]
+   }
+  },
+  "stems": [
+   "___ is greater than ___, so I wrote >.",
+   "___ is less than ___, so I wrote <.",
+   "___ is equal to ___, so I wrote =.",
+   "I read it as ___.",
+   "I know because ___ has more tens."
+  ],
+  "t": "R",
+  "d": "Represent the comparison of two numbers to 100 using the symbols >, <, or =."
+ },
+ {
+  "code": "1.3A",
+  "mis": [
+   {
+    "m": "Writes 40 + 7 = 11 or 47 = 4 + 7.",
+    "why": "The student adds the digits and ignores that 40 means 4 tens.",
+    "fix": "Build 40 with four ten-sticks and 7 loose cubes, then count by tens and ones together: 10, 20, 30, 40, 41 ... 47."
+   },
+   {
+    "m": "Counts on by ones from 40 to add 7 tens, getting 47 for 40 + 70.",
+    "why": "The student does not notice the difference between a ten and a one.",
+    "fix": "Have students name each block before adding: 'Is this a ten or a one?'"
+   },
+   {
+    "m": "Writes the sum as 407 when adding 40 + 7.",
+    "why": "The student writes the numbers side by side, the way they hear them.",
+    "fix": "Use place value cards: put the 7 card on top of the 0 in the 40 card to make 47."
+   }
+  ],
+  "cra": {
+   "c": "Students use base-ten blocks, ten frames or bundled straws to show a multiple of ten and some ones, then put them together and count.",
+   "r": "Students draw quick pictures of tens and ones or jump on a number line from 40 by 7 ones.",
+   "a": "Students write equations such as 60 + 3 = 63 and 3 + 60 = 63 and explain using tens and ones.",
+   "look": "Students count by tens and then by ones to find sums and write the matching equation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is 60 + 3 equal to 63 and not 9?",
+     "How can you see the answer right away?"
+    ],
+    "advance": [
+     "What is 3 + 60? How do you know without counting?",
+     "Write a story for 50 + 8."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many tens did you draw?",
+     "Where did you start on the number line?"
+    ],
+    "advance": [
+     "What would 70 + 3 be? What changed?",
+     "Can you write it with the ones first?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Count the tens with me.",
+     "Now count on the ones."
+    ],
+    "advance": [
+     "How many ones are here?",
+     "What number do we have now?"
+    ],
+    "support": [
+     "Use ten frames and loose counters so tens and ones look different.",
+     "Start with 10 + a one-digit number, then 20 + a one-digit number."
+    ]
+   }
+  },
+  "stems": [
+   "___ tens and ___ ones is ___.",
+   "___ + ___ = ___.",
+   "I counted by tens, then by ones.",
+   "I know because ___.",
+   "The ___ is worth ___."
+  ],
+  "t": "S",
+  "d": "Use concrete and pictorial models to determine the sum of a multiple of 10 and a one-digit number in problems up to 99."
+ },
+ {
+  "code": "1.3B",
+  "mis": [
+   {
+    "m": "Adds every pair of numbers in a word problem, such as 'Ana has 5 stickers. Now she has 9. How many did she get?' becomes 5 + 9 = 14.",
+    "why": "The student looks for numbers and the word 'how many' and adds by habit.",
+    "fix": "Act it out with counters: start with 5, then ask 'How many do we need to add to get 9?'"
+   },
+   {
+    "m": "Solves 3 + [ ] = 7 by writing 10 in the box.",
+    "why": "The student reads the equation as 'add the numbers' and puts the answer in the box.",
+    "fix": "Have students build 3 cubes, then add cubes one at a time until there are 7, counting how many were added."
+   },
+   {
+    "m": "In a comparing problem, such as 'Ben has 8 cars. Mia has 5. How many more does Ben have?' answers 8 or 13.",
+    "why": "Comparing needs matching two sets, which is harder than joining or separating.",
+    "fix": "Line up two rows of cubes one to one and ask 'How many in Ben's row have no partner?'"
+   }
+  ],
+  "cra": {
+   "c": "Students act out joining, separating and comparing stories with counters, cubes or real objects on a work mat.",
+   "r": "Students draw pictures, part-part-whole mats or two rows of circles to show the story and mark the unknown with a box.",
+   "a": "Students write number sentences with the unknown in any position, such as 4 + [ ] = 9 or 12 - [ ] = 5, and tell how the sentence matches the story.",
+   "look": "Students act out or draw each story before writing an equation, and they place the unknown box where the story's missing part is."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know the missing part was at the start?",
+     "How does your picture match the story?"
+    ],
+    "advance": [
+     "Can you change the story so we need to subtract?",
+     "Write another number sentence that matches this story."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where is the missing part in your picture?",
+     "What does the box stand for?"
+    ],
+    "advance": [
+     "How else could you show this story?",
+     "Is this a joining, separating or comparing story? How do you know?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many did she start with? Show me.",
+     "Did she get more or give some away?"
+    ],
+    "advance": [
+     "Act it out with the cubes. What happens next?",
+     "How many are left now?"
+    ],
+    "support": [
+     "Read the story one sentence at a time and act out each part.",
+     "Use numbers within 10 first, then within 20."
+    ]
+   }
+  },
+  "stems": [
+   "First there were ___.",
+   "Then ___.",
+   "Now there are ___.",
+   "The missing number is ___ because ___.",
+   "___ has ___ more than ___."
+  ],
+  "t": "S",
+  "d": "Use objects and pictorial models to solve word problems involving joining, separating, and comparing sets within 20 and unknowns as any one of the terms in the problem such as 2 + 4 = [ ]; 3 + [ ] = 7; and 5 = [ ] - 3."
+ },
+ {
+  "code": "1.3C",
+  "mis": [
+   {
+    "m": "Thinks there is only one way to make 10, such as 5 + 5.",
+    "why": "The student has practiced one pair and does not see that other pairs work.",
+    "fix": "Use a ten frame with two colors of counters and ask students to find a new way each time, then list all the ways."
+   },
+   {
+    "m": "Adds three addends to make 10 but counts one counter twice, getting 11.",
+    "why": "The student loses track when there are more than two groups.",
+    "fix": "Have students move each counter into a ten frame as they count, so every box is filled once."
+   },
+   {
+    "m": "Says 6 + 3 makes 10 because the ten frame 'looks almost full.'",
+    "why": "The student estimates instead of checking every box.",
+    "fix": "Ask 'Are there any empty boxes?' and have students count the empty boxes to see how many more are needed."
+   }
+  ],
+  "cra": {
+   "c": "Students fill ten frames with two or three colors of counters, use a rekenrek or shake and spill two-color counters to find ways to make 10.",
+   "r": "Students color ten frame pictures or draw ten in two or three groups, then record each way.",
+   "a": "Students write equations such as 6 + 4 = 10 and 2 + 3 + 5 = 10, and solve 10 = 7 + [ ] without objects.",
+   "look": "Students find many ways to make 10, check with a full ten frame and say equations aloud."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know you found all the ways with two numbers?",
+     "Can you make 10 with three numbers? Show me."
+    ],
+    "advance": [
+     "If one part is 3, what must the other parts be?",
+     "What patterns do you see in your list?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many boxes are filled? How many are empty?",
+     "What does each color show?"
+    ],
+    "advance": [
+     "Can you change one color to make a new way?",
+     "Write your ten frame as a number sentence."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Fill the ten frame. How many counters?",
+     "How many red? How many yellow?"
+    ],
+    "advance": [
+     "How many more to make 10?",
+     "Can you find another way?"
+    ],
+    "support": [
+     "Use a ten frame every time before writing equations.",
+     "Give a partly filled ten frame and ask only for the missing part."
+    ]
+   }
+  },
+  "stems": [
+   "___ and ___ make 10.",
+   "___ + ___ + ___ = 10.",
+   "I need ___ more to make 10.",
+   "Another way to make 10 is ___.",
+   "I know because the ten frame is full."
+  ],
+  "t": "S",
+  "d": "Compose 10 with two or more addends with and without concrete objects."
+ },
+ {
+  "code": "1.3D",
+  "mis": [
+   {
+    "m": "For 8 + 5, counts all from 1 and gets lost, or counts on but includes the starting number, getting 12.",
+    "why": "The student does not yet trust a strategy and counting by ones causes errors.",
+    "fix": "Use two ten frames: fill the 8, move 2 from the 5 to make 10, and see 10 + 3 = 13."
+   },
+   {
+    "m": "When making 10 for 9 + 6, breaks 6 into 1 and 5 but then adds 9 + 5 instead of 10 + 5.",
+    "why": "The student does the steps but forgets that the 1 went with the 9.",
+    "fix": "Have students move the counter physically and say '9 and 1 is 10, 10 and 5 is 15.'"
+   },
+   {
+    "m": "For 14 - 6, subtracts 4 and then subtracts 4 again instead of 2.",
+    "why": "The student does not track how much of the 6 is still left to take away.",
+    "fix": "Show 14 with ten frames, take 4 to get to 10, then ask 'How much of the 6 have we taken? How many more?'"
+   }
+  ],
+  "cra": {
+   "c": "Students use double ten frames, counters and rekenreks to move counters and make a ten when adding or get back to ten when subtracting.",
+   "r": "Students draw ten frames or use a number line with a jump to 10 and then the rest.",
+   "a": "Students write the steps as number sentences, such as 8 + 5 = 8 + 2 + 3 = 10 + 3 = 13.",
+   "look": "Students move counters to fill a ten frame first and say how they broke apart a number to get to 10."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you break the 5 into 2 and 3?",
+     "How does making 10 help you?"
+    ],
+    "advance": [
+     "Would making 10 help with 7 + 6? Show me.",
+     "Can you solve 15 - 7 by getting to 10 first?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you jump to 10 on your number line?",
+     "How many did you move?"
+    ],
+    "advance": [
+     "Could you make 10 with the other number instead?",
+     "Which way is faster for you? Why?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many more does 8 need to make 10?",
+     "Show me the full ten frame."
+    ],
+    "advance": [
+     "Now how many are left over?",
+     "What is 10 and 3?"
+    ],
+    "support": [
+     "Practice partners of 10 first so students know how many to move.",
+     "Use double ten frames with two colors for every problem."
+    ]
+   }
+  },
+  "stems": [
+   "I made 10 first.",
+   "I broke ___ into ___ and ___.",
+   "___ and ___ make 10, then ___ more is ___.",
+   "I took away ___ to get to 10.",
+   "My strategy is ___."
+  ],
+  "t": "S",
+  "d": "Apply basic fact strategies to add and subtract within 20, including making 10 and decomposing a number leading to a 10."
+ },
+ {
+  "code": "1.3E",
+  "mis": [
+   {
+    "m": "Gives only the answer, such as 'It's 12,' when asked to explain.",
+    "why": "The student thinks math talk means saying the answer.",
+    "fix": "Model a think-aloud with a full sentence, then ask 'What did you do first? What did you do next?'"
+   },
+   {
+    "m": "Says 'I counted' for every problem, even when a model shows a different strategy.",
+    "why": "The student does not yet have words for strategies like making 10 or using doubles.",
+    "fix": "Name strategies on an anchor chart with a picture for each, and point to the chart when a student uses one."
+   },
+   {
+    "m": "Writes a number sentence that does not match what they did, such as 7 + 6 = 13 when they used 6 + 6 + 1.",
+    "why": "The student writes the problem, not the steps.",
+    "fix": "Ask the student to show each step with counters, then write one number sentence for each step."
+   }
+  ],
+  "cra": {
+   "c": "Students solve with counters, cubes or ten frames and then show a partner what they did with their hands.",
+   "r": "Students draw their work with ten frames, a number line or quick pictures and label the steps.",
+   "a": "Students write number sentences for each step and explain aloud, such as 'I used doubles: 6 + 6 = 12, so 6 + 7 = 13.'",
+   "look": "Students explain their strategies to partners using objects, drawings and number sentences, and listen to a different way."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How is your strategy the same as your partner's? How is it different?",
+     "Why did you choose that strategy?"
+    ],
+    "advance": [
+     "Can you solve it another way and show both?",
+     "Which strategy would you use for 9 + 8? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Tell me what your picture shows.",
+     "Which number sentence matches this step?"
+    ],
+    "advance": [
+     "Can you write a number sentence for each step?",
+     "What strategy did you use? Find it on the chart."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me with the counters what you did.",
+     "What did you do first?"
+    ],
+    "advance": [
+     "Then what did you do?",
+     "Can you say it in a sentence?"
+    ],
+    "support": [
+     "Give a strategy chart with pictures and one sentence frame.",
+     "Let students act out their strategy before talking."
+    ]
+   }
+  },
+  "stems": [
+   "First I ___.",
+   "Next I ___.",
+   "My strategy is ___.",
+   "I can show it with ___.",
+   "My way is the same as ___ because ___."
+  ],
+  "t": "S",
+  "d": "Explain strategies used to solve addition and subtraction problems up to 20 using spoken words, objects, pictorial models, and number sentences."
+ },
+ {
+  "code": "1.3F",
+  "mis": [
+   {
+    "m": "Writes a story for 9 - 4 that is about adding, such as 'I had 9 apples and got 4 more.'",
+    "why": "The student focuses on the numbers and does not match the action to the symbol.",
+    "fix": "Act out the student's story with counters and ask 'Does our story match minus? Did we take away or add?'"
+   },
+   {
+    "m": "Writes a story with the numbers in it but no question, such as 'Sam has 6 dogs and 3 cats.'",
+    "why": "The student does not know a problem needs something to find out.",
+    "fix": "Ask 'What do we want to know?' and add a question frame at the end: 'How many ___?'"
+   },
+   {
+    "m": "Solves 15 - 8 by counting back and lands on 8.",
+    "why": "The student counts the starting number as the first step back.",
+    "fix": "Use a number line and have students jump, counting the jumps, not the numbers they land on."
+   }
+  ],
+  "cra": {
+   "c": "Students act out a number sentence with objects or classmates, then tell a story that matches what they did.",
+   "r": "Students draw a picture for their story and show the action, such as crossing out for take away.",
+   "a": "Students write or tell the story, write the number sentence and solve it, then check that the answer makes sense in the story.",
+   "look": "Students tell or write short stories that match a given number sentence and solve them with drawings or objects."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your story match the minus sign?",
+     "What is the question in your story?"
+    ],
+    "advance": [
+     "Can you write a comparing story for the same number sentence?",
+     "Change the story so the answer is the missing start."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where in your picture is the 4 taken away?",
+     "What does the answer mean in your story?"
+    ],
+    "advance": [
+     "Can you tell a different story with the same numbers?",
+     "How did you solve it?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What is happening in this number sentence?",
+     "Show me 9 cubes. Now take away 4."
+    ],
+    "advance": [
+     "How many are left?",
+     "Tell me a story with 9 and 4."
+    ],
+    "support": [
+     "Give a story frame: 'There were ___. Then ___. How many ___?'",
+     "Let students act out the story with toys before drawing it."
+    ]
+   }
+  },
+  "stems": [
+   "There were ___.",
+   "Then ___ more came.",
+   "Then ___ went away.",
+   "How many ___ are there now?",
+   "My story matches ___ because ___."
+  ],
+  "t": "R",
+  "d": "Generate and solve problem situations when given a number sentence involving addition or subtraction of numbers within 20."
+ },
+ {
+  "code": "1.4A",
+  "mis": [
+   {
+    "m": "Says a nickel is worth more than a dime because it is bigger.",
+    "why": "The student links size to value, which works for many objects but not for coins.",
+    "fix": "Put a nickel and a dime next to 5 pennies and 10 pennies, and ask 'Which coin is worth the same as more pennies?'"
+   },
+   {
+    "m": "Mixes up a nickel and a quarter, or a penny and a nickel, by color or size.",
+    "why": "The coins look similar and students have not yet noticed the details.",
+    "fix": "Use a coin-sort mat with the front and back of each coin and have students describe the pictures and edges."
+   },
+   {
+    "m": "Thinks every coin is worth 1 because each one is 'one coin.'",
+    "why": "The student counts coins instead of values.",
+    "fix": "Trade coins for pennies: one dime for 10 pennies, so the dime is worth 10 cents."
+   }
+  ],
+  "cra": {
+   "c": "Students sort real or play pennies, nickels, dimes and quarters, look closely at each side and trade coins for equal sets of pennies.",
+   "r": "Students match coin pictures to their values and draw how many pennies equal one coin.",
+   "a": "Students state relationships, such as '1 dime is worth the same as 2 nickels' and '5 pennies are worth 1 nickel.'",
+   "look": "Students name each coin by value, use magnifying glasses to describe coins and trade coins to show relationships."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many nickels make a dime? How do you know?",
+     "Why is a dime worth more than a nickel even though it is smaller?"
+    ],
+    "advance": [
+     "How many dimes would you trade for a quarter? Can you?",
+     "What coins could you use to make 25 cents?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is on the back of this coin?",
+     "How many pennies equal this coin?"
+    ],
+    "advance": [
+     "Which coin is worth the same as 5 pennies?",
+     "Can you show a dime a different way?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which coin is a penny? Point to it.",
+     "How much is a nickel worth?"
+    ],
+    "advance": [
+     "Is a nickel worth more or less than a dime?",
+     "Show me 5 pennies. Which coin is the same?"
+    ],
+    "support": [
+     "Introduce two coins at a time with a picture card for each.",
+     "Use large picture cards of coins with the value written below."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___. It is worth ___ cents.",
+   "A ___ is worth more than a ___.",
+   "___ pennies make a nickel.",
+   "2 nickels make a ___.",
+   "I know it is a ___ because ___."
+  ],
+  "t": "S",
+  "d": "Identify U.S. coins, including pennies, nickels, dimes, and quarters, by value and describe the relationships among them."
+ },
+ {
+  "code": "1.4B",
+  "mis": [
+   {
+    "m": "Writes the cent symbol before the number, such as ¢10.",
+    "why": "Students have seen the dollar sign before the number and copy that order.",
+    "fix": "Show price tags with the cent symbol after the number and say 'We say ten cents, so the cents come after.'"
+   },
+   {
+    "m": "Writes a dime as 1¢ because it is one coin.",
+    "why": "The student writes how many coins, not the value.",
+    "fix": "Ask 'How many cents is a dime worth?' and match it to 10 pennies before writing 10¢."
+   },
+   {
+    "m": "Writes 5c, a dollar sign or just the number without the cent symbol.",
+    "why": "The cent symbol is new and easy to mix up with other marks.",
+    "fix": "Practice tracing the cent symbol on coin labels and post a model card with each coin and its value."
+   }
+  ],
+  "cra": {
+   "c": "Students set up a class store with real or play coins and price labels, and pick a coin to match each label.",
+   "r": "Students label pictures of coins with their value using the cent symbol.",
+   "a": "Students write the value of each coin, such as 1¢, 5¢, 10¢ and 25¢, and read it aloud.",
+   "look": "Students write values with the cent symbol after the number and read them as 'cents.'"
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why does the cent symbol go after the number?",
+     "How is 10¢ different from 1 dime?"
+    ],
+    "advance": [
+     "Write the value of a quarter. How do you know?",
+     "Which is worth more, 10¢ or 5¢? Show the coins."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What coin is this? How do you write its value?",
+     "Read this label aloud."
+    ],
+    "advance": [
+     "Can you make a label for a nickel?",
+     "What coin matches 25¢?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the cent symbol.",
+     "How much is a penny worth?"
+    ],
+    "advance": [
+     "Trace the cent symbol here.",
+     "Which coin is worth 10¢?"
+    ],
+    "support": [
+     "Give a coin card with the value written for students to copy.",
+     "Work with one coin at a time before mixing."
+    ]
+   }
+  },
+  "stems": [
+   "This coin is worth ___¢.",
+   "A ___ is worth ___ cents.",
+   "I wrote the cent symbol after ___.",
+   "___¢ is more than ___¢.",
+   "I know because ___."
+  ],
+  "t": "S",
+  "d": "Write a number with the cent symbol to describe the value of a coin."
+ },
+ {
+  "code": "1.4C",
+  "mis": [
+   {
+    "m": "Counts a dime, a nickel and a penny as 1, 2, 3 cents.",
+    "why": "The student counts coins, not their values.",
+    "fix": "Have students say the value of each coin before counting, then count on: 10, 15, 16."
+   },
+   {
+    "m": "Mixes counting by tens and fives, such as dime, dime, nickel counted as 10, 20, 30.",
+    "why": "The student keeps the same skip count after the coin type changes.",
+    "fix": "Sort coins from greatest to least value first and change the count aloud when the coin changes: '10, 20 ... now nickels: 25.'"
+   },
+   {
+    "m": "Counts pennies first and then cannot switch to counting by tens for dimes.",
+    "why": "Starting with ones makes later skip counting harder.",
+    "fix": "Model lining up dimes, then nickels, then pennies, and count the largest value first."
+   }
+  ],
+  "cra": {
+   "c": "Students count real or play coin collections, sorting them by type and lining them up before counting.",
+   "r": "Students use a hundred chart or number line to show jumps of 10, 5 and 1 for each coin.",
+   "a": "Students write the total with the cent symbol and record counts, such as 10, 20, 25, 30, 31 = 31¢.",
+   "look": "Students sort coins, count the largest coin first, and switch skip counts when the coin changes."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you count the dimes first?",
+     "How did you know to switch to counting by fives?"
+    ],
+    "advance": [
+     "Can you make 35¢ in two different ways?",
+     "Which collection is worth more? How do you know?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show your jumps on the hundred chart.",
+     "What number did you land on after the dimes?"
+    ],
+    "advance": [
+     "What if you add one more nickel?",
+     "How many pennies would equal this total?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Count these dimes with me: 10, 20 ...",
+     "What do we count by for nickels?"
+    ],
+    "advance": [
+     "Now count on the pennies.",
+     "How much is it all together?"
+    ],
+    "support": [
+     "Start with collections of just one coin type, then add a second type.",
+     "Give a counting strip with 10, 20, 30 to point to."
+    ]
+   }
+  },
+  "stems": [
+   "I counted the ___ first.",
+   "I counted by ___.",
+   "The coins are worth ___¢ in all.",
+   "___ dimes and ___ pennies is ___¢.",
+   "I switched to counting by ___ because ___."
+  ],
+  "t": "S",
+  "d": "Use relationships to count by twos, fives, and tens to determine the value of a collection of pennies, nickels, and/or dimes."
+ },
+ {
+  "code": "1.5A",
+  "mis": [
+   {
+    "m": "When counting past 109, says '100, 200' or 'one hundred ten, one hundred twenty, ... ' skipping numbers.",
+    "why": "The pattern after 100 is new, and students repeat the decade pattern incorrectly.",
+    "fix": "Count on a 120 chart while pointing to each number and stopping to notice that 101 to 110 repeats the 1 to 10 pattern."
+   },
+   {
+    "m": "When counting backward, skips the decade change, such as 52, 51, 50, 59, 58.",
+    "why": "Counting back across a ten is harder than counting forward.",
+    "fix": "Use a 120 chart and point up one row when counting back from 50, saying '50, 49' slowly."
+   },
+   {
+    "m": "Can count from 1 but cannot start at a number like 87.",
+    "why": "The student relies on counting from the beginning of the sequence.",
+    "fix": "Practice 'start at' counts: hold up a card, say the number, and count on three numbers together."
+   }
+  ],
+  "cra": {
+   "c": "Students count real objects, jump on a floor number path or move a bead string forward and backward from any number.",
+   "r": "Students use a 120 chart to point while counting forward and backward and fill in missing numbers on number strips.",
+   "a": "Students say and write counting sequences from any starting number, such as 98, 99, 100, 101, and 64, 63, 62, 61.",
+   "look": "Students count aloud forward and backward from any number while pointing on a 120 chart or number path."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What comes after 109? How do you know?",
+     "What pattern helps you count back from 70?"
+    ],
+    "advance": [
+     "What number comes 3 before 101?",
+     "How is counting from 100 to 110 like counting from 0 to 10?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where are you on the chart? Which way do you move to count back?",
+     "What number is just before 60?"
+    ],
+    "advance": [
+     "Can you fill in the missing numbers on this strip?",
+     "Start at 114 and count back 5."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Start at 20. Count forward with me.",
+     "What comes next?"
+    ],
+    "advance": [
+     "Now count back from 20.",
+     "Point to the number we stopped on."
+    ],
+    "support": [
+     "Use a number path with fewer numbers before the full chart.",
+     "Count together in a group before counting alone."
+    ]
+   }
+  },
+  "stems": [
+   "I started at ___.",
+   "After ___ comes ___.",
+   "Before ___ comes ___.",
+   "I counted back from ___ to ___.",
+   "I see a pattern. ___."
+  ],
+  "t": "S",
+  "d": "Recite numbers forward and backward from any given number between 1 and 120."
+ },
+ {
+  "code": "1.5B",
+  "mis": [
+   {
+    "m": "Skip counts by fives but moves more than five objects for each count, ending with the wrong total.",
+    "why": "The student says the count without grouping the objects.",
+    "fix": "Have students make groups of five first, then touch each group while saying the count."
+   },
+   {
+    "m": "Skip counts by twos to 20 and then goes back to counting by ones without noticing.",
+    "why": "The student does not yet have the skip-counting pattern past a familiar range.",
+    "fix": "Practice on a 120 chart by coloring every second number, then read the colored numbers aloud."
+   },
+   {
+    "m": "For a collection with leftovers, counts the groups of ten but forgets the extra objects.",
+    "why": "The student stops when the skip count ends.",
+    "fix": "Ask 'Are there any objects not counted?' and have students count on by ones from the last skip count."
+   }
+  ],
+  "cra": {
+   "c": "Students group real objects such as beans, cubes or straws into twos, fives and tens and count the groups aloud.",
+   "r": "Students draw groups or color skip-count patterns on a 120 chart and use a number line with equal jumps.",
+   "a": "Students write the skip-count sequence and the total, such as 10, 20, 30, 35, 36, 37.",
+   "look": "Students make equal groups before counting and point to each group while skip counting."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is counting by tens faster than counting by ones here?",
+     "How do you know you counted every object?"
+    ],
+    "advance": [
+     "Count the same collection by fives. Do you get the same total?",
+     "Which skip count would you use for 80 objects? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many are in each group?",
+     "Show me your jumps on the number line."
+    ],
+    "advance": [
+     "Can you count this a different way?",
+     "What pattern do you see on the chart?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Count these pairs with me: 2, 4 ...",
+     "How many are in this group?"
+    ],
+    "advance": [
+     "Make one more group. What do we say next?",
+     "Are any left over?"
+    ],
+    "support": [
+     "Give a mat with circles for groups of 2, 5 or 10.",
+     "Practice the skip count aloud before counting objects."
+    ]
+   }
+  },
+  "stems": [
+   "I counted by ___.",
+   "There are ___ groups of ___.",
+   "I counted ___, ___, ___.",
+   "There are ___ in all.",
+   "I had ___ left over, so I counted on."
+  ],
+  "t": "S",
+  "d": "Skip count by twos, fives, and tens to determine the total number of objects up to 120 in a set."
+ },
+ {
+  "code": "1.5C",
+  "mis": [
+   {
+    "m": "Says 10 more than 46 is 47.",
+    "why": "The student confuses 10 more with 1 more.",
+    "fix": "Build 46 with base-ten blocks and add one ten-stick, then count the tens again."
+   },
+   {
+    "m": "Counts on 10 by ones and gets lost, ending on 55 or 57.",
+    "why": "The student does not yet use place value and counts by ones.",
+    "fix": "Use a 120 chart to show that 10 more is the number just below, and point to how the tens digit changes."
+   },
+   {
+    "m": "For 10 less than 105, says 905 or 15.",
+    "why": "Crossing the hundreds is new, and students are not sure which digit changes.",
+    "fix": "Build 105 as 10 tens and 5 ones, take away 1 ten and count what is left."
+   }
+  ],
+  "cra": {
+   "c": "Students build a number with base-ten blocks and add or take away one ten-stick, then name the new number.",
+   "r": "Students use a 120 chart to move down a row for 10 more and up a row for 10 less, or jump by 10 on a number line.",
+   "a": "Students write equations such as 46 + 10 = 56 and 46 - 10 = 36 and explain that the tens digit changes by 1.",
+   "look": "Students add or remove a ten and explain that only the tens digit changes."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why does only the tens digit change?",
+     "How can you find 10 less without counting?"
+    ],
+    "advance": [
+     "What is 20 more than 46? How do you know?",
+     "What number is 10 more than 110?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you move on the chart?",
+     "How many tens do you have now?"
+    ],
+    "advance": [
+     "What would happen if you added 10 again?",
+     "What is the pattern when you go up the chart?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me 46 with blocks.",
+     "Add one ten. How many tens now?"
+    ],
+    "advance": [
+     "Is 56 more or less than 46?",
+     "Take one ten away. What number is it?"
+    ],
+    "support": [
+     "Use a 120 chart with the column highlighted.",
+     "Practice 1 more and 1 less before 10 more and 10 less."
+    ]
+   }
+  },
+  "stems": [
+   "10 more than ___ is ___.",
+   "10 less than ___ is ___.",
+   "The tens digit changed from ___ to ___.",
+   "I moved ___ on the chart.",
+   "I know because ___."
+  ],
+  "t": "S",
+  "d": "Use relationships to determine the number that is 10 more and 10 less than a given number up to 120."
+ },
+ {
+  "code": "1.5D",
+  "mis": [
+   {
+    "m": "Writes 9 + 4 = 13 for 'Lily had 9 crayons. She gave 4 to Ana. How many does she have now?'",
+    "why": "The student sees two numbers and adds without thinking about the action.",
+    "fix": "Act it out with real crayons or counters and ask 'Did she get more or give some away?'"
+   },
+   {
+    "m": "Draws a picture with too many details, like faces on every person, and never gets to the math.",
+    "why": "The student thinks the picture needs to look real.",
+    "fix": "Model quick math drawings with circles or dots and say 'Math pictures are fast and show the numbers.'"
+   },
+   {
+    "m": "Writes the number sentence with the answer first, such as 13 = 9 + 4, and then says it is wrong.",
+    "why": "The student thinks equations can only be written one way.",
+    "fix": "Show that both ways are true with a balance or cubes, and accept answers on either side."
+   }
+  ],
+  "cra": {
+   "c": "Students act out the word problem with counters, cubes or real objects on a part-part-whole mat.",
+   "r": "Students draw quick pictures with circles, a number bond or a part-part-whole mat to show the problem.",
+   "a": "Students write the number sentence that matches their model, such as 12 - 5 = 7, and connect each number to the story.",
+   "look": "Students act out or draw the story and then write a number sentence, pointing to where each number comes from."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your number sentence match your picture?",
+     "Why did you choose to subtract?"
+    ],
+    "advance": [
+     "Can you write another number sentence for the same story?",
+     "What would change if she got 4 more instead?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does each circle in your picture stand for?",
+     "Where is the answer in your drawing?"
+    ],
+    "advance": [
+     "Can you show the same problem a different way?",
+     "Which part of the story is the whole?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many crayons did she have first? Show me.",
+     "What happened next?"
+    ],
+    "advance": [
+     "Take away 4. How many are left?",
+     "Can you say it as a number sentence?"
+    ],
+    "support": [
+     "Read the story one sentence at a time while acting it out.",
+     "Give a part-part-whole mat with labels for each part."
+    ]
+   }
+  },
+  "stems": [
+   "My picture shows ___.",
+   "The number sentence is ___.",
+   "I added because ___.",
+   "I subtracted because ___.",
+   "The answer is ___. It means ___."
+  ],
+  "t": "R",
+  "d": "Represent word problems involving addition and subtraction of whole numbers up to 20 using concrete and pictorial models and number sentences."
+ },
+ {
+  "code": "1.5E",
+  "mis": [
+   {
+    "m": "Thinks the equal sign means 'the answer comes next,' so says 7 = 3 + 4 is wrong.",
+    "why": "Most equations students have seen show the answer after the equal sign.",
+    "fix": "Use a pan balance with cubes: put 7 on one side and 3 and 4 on the other, and show it balances."
+   },
+   {
+    "m": "Fills in 3 + 4 = [ ] + 2 with 7.",
+    "why": "The student adds the numbers on the left and stops at the equal sign.",
+    "fix": "Ask 'Is 3 + 4 the same as 7 + 2?' and build both sides with cubes to check."
+   },
+   {
+    "m": "Says 5 + 2 = 2 + 5 is not true because the numbers are in a different order.",
+    "why": "The student looks at how the sides look instead of their values.",
+    "fix": "Build both sides with cubes and count each side to see that they are the same amount."
+   }
+  ],
+  "cra": {
+   "c": "Students use a pan balance or a cube balance to show that each side has the same amount, such as 6 + 2 and 4 + 4.",
+   "r": "Students draw two groups of dots or cubes for each side of the equation and check that they match.",
+   "a": "Students decide if equations are true or false, such as 8 = 5 + 3 and 4 + 3 = 6 + 1, and explain using 'the same as.'",
+   "look": "Students check both sides of an equation with a balance or drawings and read the equal sign as 'is the same as.'"
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know both sides are the same?",
+     "Why is 8 = 5 + 3 true?"
+    ],
+    "advance": [
+     "Make your own true equation with two numbers on each side.",
+     "What could go in the box: 6 + 2 = [ ] + 5?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How does your drawing show each side?",
+     "How many are on this side? On that side?"
+    ],
+    "advance": [
+     "Is 4 + 4 = 5 + 2 true or false? Show me.",
+     "Can you change one number to make it true?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me 5 on this side and 5 on that side. Does it balance?",
+     "What does the equal sign mean?"
+    ],
+    "advance": [
+     "Are these the same amount?",
+     "Is this side more or less?"
+    ],
+    "support": [
+     "Use a real pan balance before drawings.",
+     "Read the equal sign aloud as 'is the same as' every time."
+    ]
+   }
+  },
+  "stems": [
+   "The equal sign means is the same as.",
+   "___ is the same as ___.",
+   "Both sides are ___.",
+   "This is true because ___.",
+   "This is false because ___."
+  ],
+  "t": "S",
+  "d": "Understand that the equal sign represents a relationship where expressions on each side of the equal sign represent the same value(s)."
+ },
+ {
+  "code": "1.5F",
+  "mis": [
+   {
+    "m": "For [ ] - 4 = 9, writes 5 in the box.",
+    "why": "The student subtracts the two numbers shown instead of thinking about what the whole must be.",
+    "fix": "Use a part-part-whole mat and ask 'What number did we start with if we took away 4 and had 9 left?'"
+   },
+   {
+    "m": "For 5 + [ ] + 2 = 10, writes 17 or 7.",
+    "why": "The student adds all the numbers shown or ignores one of the terms.",
+    "fix": "Build the 5 and 2 with cubes, then add cubes until there are 10, counting how many were added."
+   },
+   {
+    "m": "For 12 = [ ] + 8, says the equation is backward and cannot be solved.",
+    "why": "The student expects the answer to be on the right side.",
+    "fix": "Read it aloud as '12 is the same as what and 8?' and model it with a balance or ten frames."
+   }
+  ],
+  "cra": {
+   "c": "Students use cubes, counters or a pan balance to find the missing number, adding or taking away until both sides match.",
+   "r": "Students draw a part-part-whole mat, a number bond or a number line and mark the missing part with a box.",
+   "a": "Students write the missing number and check it by reading the full equation aloud, such as 13 - [5] = 8.",
+   "look": "Students model the equation, find the missing part and check by putting the number back in the equation."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you check your answer?",
+     "Is the missing part a part or the whole? How do you know?"
+    ],
+    "advance": [
+     "Can you write a story that matches this equation?",
+     "What if the box was in a different place? Show me."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where is the missing part in your number bond?",
+     "What number did you start with?"
+    ],
+    "advance": [
+     "Can you solve it a different way?",
+     "How does adding help you solve this subtraction?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me 9 cubes. How many more to make 13?",
+     "What does the box mean?"
+    ],
+    "advance": [
+     "Put your number in the box. Is it true?",
+     "Count with me."
+    ],
+    "support": [
+     "Start with the box at the end, then move it to the middle and the start.",
+     "Give a number bond template to fill in."
+    ]
+   }
+  },
+  "stems": [
+   "The missing number is ___.",
+   "I know because ___.",
+   "___ and ___ make ___.",
+   "I checked by ___.",
+   "I used ___ to help me."
+  ],
+  "t": "S",
+  "d": "Determine the unknown whole number in an addition or subtraction equation when the unknown may be any one of the three or four terms in the equation."
+ }
+]

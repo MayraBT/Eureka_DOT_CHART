@@ -1,6 +1,16 @@
+GK: 107 lessons, 107 with TEKS, 27 weeks, 107 teacher links, modules [1, 2, 3, 4]
+G1: 114 lessons, 114 with TEKS, 27 weeks, 114 teacher links, modules [1, 2, 3, 4, 5]
+G2 M1.L2: TEKS not in Grade 2 list, dropped: ['1.2A', '1.2B', 'K.2E', 'K.2F', 'K.2I', '1.3D', '1.3E', '1.3F', '1.5G']
+G2 M1.L3: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
+G2 M1.L4: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
+G2 M1.L5: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
+G2 M1.L6: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
+G2 M1.L7: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
+G2 M1.L8: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
+G2: 107 lessons, 73 with TEKS, 27 weeks, 73 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
 G3: 32 Q3 lessons take TEKS from the 2025-26 Q3 IPC
 G3: 115 lessons, 110 with TEKS, 27 weeks, 109 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
 G4: 35 Q3 lessons take TEKS from the 2025-26 Q3 IPC
 G4: 112 lessons, 108 with TEKS, 27 weeks, 108 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
 G5: 107 lessons, 107 with TEKS, 27 weeks, 107 teacher links, modules [1, 2, 3, 4, 5, 6]
-MOVES: 131 standards
+MOVES: 246 standards

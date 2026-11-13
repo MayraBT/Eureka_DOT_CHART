@@ -1,0 +1,1110 @@
+{
+ "grade": 2,
+ "weeks": [
+  {
+   "q": 2,
+   "wk": 10,
+   "start": "2026-10-12",
+   "title": "Q2:W1 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "blank"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L1"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.7B",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4A"
+     ],
+     "lo": "I am learning to relate 1 more, 1 less, 10 more, and 10 less to addition and subtraction of 1 and 10.",
+     "sc": [
+      "I can  use place value disks to compose a number.",
+      "I can show 1 or 10 more or 1 or 10 less using place value disks.",
+      "I can write an addition number sentence.",
+      "I can use a sentence frame to explain my thinking.",
+      "I can use place value language to explain what I understand about 1 more, 1 less, 10 more and 10 less.",
+      "I can identify the rule in a pattern.",
+      "I can complete a pattern using numbers.",
+      "I can use arrows to complete the rule in a pattern."
+     ],
+     "te": {
+      "M4.L1": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4cfcRtI"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L2"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.7B",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4A"
+     ],
+     "lo": "I am learning to add and subtract multiples of 10 including counting on to subtract.",
+     "sc": [
+      "I can use the arrow way to complete the rule in a pattern.",
+      "I can apply the rule to complete the pattern,",
+      "I can explain the rule in a pattern.",
+      "I can use a number bond to decompose a number using place value.",
+      "I can add groups of 10 to complete a pattern.",
+      "I can subtract groups of 10 in a pattern."
+     ],
+     "te": {
+      "M4.L2": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4cfcRws"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L3"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.7B",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4A"
+     ],
+     "lo": "I am learning to add and subtract multiples of 10 and some ones within 100.",
+     "sc": [
+      "I can solve addition problems.",
+      "I can use the +1, -1  and +10 , -10 strategies to solve addition problems.",
+      "I can use the +1, -1  and +10 , -10 strategies to subtraction addition problems.",
+      "I can explain my strategy to solve addition problems.",
+      "I can explain my strategy to solve subtraction problems.",
+      "I can solve problems using the arrow way."
+     ],
+     "te": {
+      "M4.L3": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4cfcR1Q"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.7B",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4A"
+     ],
+     "lo": "I am learning to add and subtract multiples of 10 and some ones within 100.",
+     "sc": [
+      "I can create a strip diagram to represent addition problems.",
+      "I can create a strip diagram to represent subtraction problems.",
+      "I can solve addition problems.",
+      "I write a number sentence to represent a problem.",
+      "I can solve addition problems.",
+      "I can solve subtraction problems."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4cfcR30"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 11,
+   "start": "2026-10-19",
+   "title": "Q2:W2 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L5"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.7B",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4A"
+     ],
+     "lo": "I am learning to solve one- and two-step word problems within 100 using strategies based on place value.",
+     "sc": [
+      "I can draw a picture to solve a word problem.",
+      "I can use a strip diagram to solve a word problem.",
+      "I can use a number bond to solve a word problem.",
+      "I can use the arrow way to solve a word problem.",
+      "I can use a number sentence to solve a word problem.",
+      "I can explain how I solved a word problem."
+     ],
+     "te": {
+      "M4.L5": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4ZhmJ_c"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L6"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "bundled": [
+      "2.4A",
+      "2.7C"
+     ],
+     "lo": "I am learning to use manipulatives to represent the composition of 10 ones as1 ten with two-digit addends.",
+     "sc": [
+      "I can draw a picture to compose one 10 using 10 ones.",
+      "I can use place value disks to compose 10.",
+      "I can solve addition problems using mental math.",
+      "I can solve addition problems using place value disks and a place value chart."
+     ],
+     "te": {
+      "M4.L6": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4PRFOig"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L7"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "bundled": [
+      "2.4A",
+      "2.7C"
+     ],
+     "lo": "I am learning to relate addition using manipulatives to a written vertical method.",
+     "sc": [
+      "I can create a number sentence vertically.",
+      "I can use a place value chart and disks to solve addition problems.",
+      "I can write a new unit of ten as a “new group below” when solving an addition problem.",
+      "I can solve addition problems."
+     ],
+     "te": {
+      "M4.L7": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4adZ6PI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L8"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "bundled": [
+      "2.4A",
+      "2.7C"
+     ],
+     "lo": "I am learning to use math drawings to represent the composition and relatedrawings to a written method.",
+     "sc": [
+      "I can draw a picture of place value disks to solve addition problems.",
+      "I can draw a vertical line as a place chart to help solve addition problems.",
+      "I can show how to compose a ten in my drawing by circling 10 ones and drawing an arrow to the tens place.",
+      "I can write a number sentence vertically to solve addition problems."
+     ],
+     "te": {
+      "M4.L8": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4adZ6PY"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L9"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "bundled": [
+      "2.4A",
+      "2.7C"
+     ],
+     "lo": "I am learning to use math drawings to represent the composition when adding a two-digit to a three-digit addend.",
+     "sc": [
+      "I can draw a place value chart to the hundreds place to help solve addition problems.",
+      "I can draw a picture to solve an addition problem.",
+      "I can use the chip model to subtract.",
+      "I can write a number sentence vertically to solve addition problems.",
+      "I can a strip diagram to represent a math problem.",
+      "I can use an algorithm to solve a math problem."
+     ],
+     "te": {
+      "M4.L9": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4adZ6Yw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 12,
+   "start": "2026-10-26",
+   "title": "Q2:W3 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L10"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "bundled": [
+      "2.4A",
+      "2.7C"
+     ],
+     "lo": "I am learning to use math drawings to represent the composition when adding atwo-digit to a three-digit addend.",
+     "sc": [
+      "I can draw a strip diagram to represent a math problem.",
+      "I can use an algorithm to solve addition problems.",
+      "I can explain how I solved an addition problem"
+     ],
+     "te": {
+      "M4.L10": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4adZ6ZU%5C"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L11"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to represent subtraction with and without the decomposition of 1 ten as 10 ones with manipulatives.",
+     "sc": [
+      "I can draw a picture to solve a math problem.",
+      "I can use a place value chart and disks to solve subtraction problems.",
+      "I can decompose a unit of ten to make 10 ones.",
+      "I can use a strategy to solve a subtraction problem.",
+      "I can explain my strategy to solve a subtraction problem."
+     ],
+     "te": {
+      "M4.L11": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4adZ6fo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L12"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to relate manipulative representations to a written method.",
+     "sc": [
+      "I can use a number bond to decompose a number.",
+      "I can use a place value chart and disk to subtract.",
+      "I can explain how to subtract using a place chart and disks.",
+      "I can use a magnifying glass to help with subtraction.",
+      "I can create a number sentence vertically.",
+      "I can decompose a ten to subtract."
+     ],
+     "te": {
+      "M4.L12": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4adZ6gs"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L13"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to use math drawings to represent subtraction with and without decomposition and relate drawings to a written method.",
+     "sc": [
+      "I can use the chip model to subtract.",
+      "I can use a magnifying glass to help with subtraction.",
+      "I can use place value to help with subtraction.",
+      "I can decompose a ten to subtract.",
+      "I can use mental math to subtract."
+     ],
+     "te": {
+      "M4.L13": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA5icOka4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L14"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to represent subtraction with and without the decomposition when there is a three-digit minuend.",
+     "sc": [
+      "I can use the chip model to subtract.",
+      "I can use a magnifying glass to help with subtraction.",
+      "I can use place value to help with subtraction.",
+      "I can decompose a ten to when subtracting.",
+      "I can subtract using a vertical number sentence.",
+      "I can explain my model that shows subtraction."
+     ],
+     "te": {
+      "M4.L14": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA5icOkbk"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 13,
+   "start": "2026-11-02",
+   "title": "Q2:W4 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L15"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to represent subtraction with and without the decomposition when there is a three-digit minuend.",
+     "sc": [
+      "I can use the chip model to subtract.",
+      "I can use a magnifying glass to help with subtraction.",
+      "I can use place value to help with subtraction.",
+      "I can decompose a ten to when subtracting.",
+      "I can subtract using a vertical number sentence.",
+      "I can explain my model that shows subtraction."
+     ],
+     "te": {
+      "M4.L15": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA5icOkcg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L16"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to solve and create one- and two-step word problems within 100 using strategies based on place value.",
+     "sc": [
+      "I can use a strip diagram to solve a word problem.",
+      "I can use a number bond to solve a word problem.",
+      "I can use the arrow way to solve a word problem.",
+      "I can use place value to solve a word problem.",
+      "I can use a number sentence to solve a word problem.",
+      "I can explain how I solved a word problem."
+     ],
+     "te": {
+      "M4.L16": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dpGWBI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "Learning Check 5: Mid-Module 4 (Mid-Module 4 Assessment)"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L17"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4A",
+      "2.4C",
+      "2.4D"
+     ],
+     "lo": "I am learning to use mental strategies to relate compositions of 10 tens as 1 hundred to 10 ones as 1 ten.",
+     "sc": [
+      "I can explain that 10 of any unit makes 1 of the next larger unit.",
+      "I can use mental strategies to add tens and ones by grouping into tens or hundreds.",
+      "I can describe how making a ten and making a hundred are alike."
+     ],
+     "te": {
+      "M4.L17": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dpGWBg"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 14,
+   "start": "2026-11-09",
+   "title": "Q2:W5 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L18"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4A",
+      "2.4C",
+      "2.4D"
+     ],
+     "lo": "I am learning use manipulatives to represent additions with two compositions.",
+     "sc": [
+      "I can compose numbers using the place value disks.",
+      "I can exchange ones for tens  and tens for hundreds to compose a number.",
+      "I can use place value to add numbers.",
+      "I can explain how to solve a problem using place value.",
+      "I can write an addition number sentence using a number bond.",
+      "I can use RWD to solve word problems."
+     ],
+     "te": {
+      "M4.L18": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dpGWDc"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L19"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4A",
+      "2.4C",
+      "2.4D"
+     ],
+     "lo": "I am learning to relate manipulative representations to a written method.",
+     "sc": [
+      "I can add numbers using the place value disks.",
+      "I can exchange ones for tens  and tens for hundreds to compose a number.",
+      "I can use place value to add numbers.",
+      "I can explain how to solve a problem using place value.",
+      "I can write an addition number sentence vertically.",
+      "I can use RWD to solve word problems."
+     ],
+     "te": {
+      "M4.L19": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dpGWEU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L20"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4A",
+      "2.4C",
+      "2.4D"
+     ],
+     "lo": "I am learning to use math drawings to represent additions with up to two compositions and relate drawings to a written method.",
+     "sc": [
+      "I can write an addition number sentence vertically.",
+      "I can use a place value chart and “chips” to add numbers.",
+      "I can explain how to solve a problem using place value.",
+      "I can show how to compose a ten/hundred in my drawing by circling 10 ones/tens and drawing an arrow to next place."
+     ],
+     "te": {
+      "M4.L20": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dpGWEk"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L21"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B",
+      "2.4D"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4A",
+      "2.4C"
+     ],
+     "lo": "I am learning to use math drawings to represent additions with up to two compositions and relate drawings to a written method.",
+     "sc": [
+      "I can write an addition number sentence vertically.",
+      "I can use a place value chart and draw “chips” to add numbers.",
+      "I can explain how to solve a problem using place value.",
+      "I can show how to compose a ten/hundred in my drawing by circling 10 ones/tens and drawing an arrow to next place.",
+      "I can inspect a problem and explain if the problem was done correctly or not."
+     ],
+     "te": {
+      "M4.L21": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dpGWJE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L22"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B",
+      "2.4D"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4A",
+      "2.4C"
+     ],
+     "lo": "I am learning to solve additions with up to four addends with totals within 200 with and without two compositions of larger units.",
+     "sc": [
+      "I can use mental math to solve addition problems.",
+      "I can find patterns to 10 ones and 10 tens to solve addition problems.",
+      "I can use a place value strategy to solve addition problems.",
+      "I can explain the strategy I used to solve an addition problem.",
+      "I can use RWD to solve word problems."
+     ],
+     "te": {
+      "M4.L22": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dzSXvg"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 15,
+   "start": "2026-11-16",
+   "title": "Q2:W6 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L23"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning use number bonds to break apart three-digit minuends and subtract from the hundred.",
+     "sc": [
+      "I can use number bonds to solve a subtraction problem.",
+      "I can explain how decomposing a number helps with solving a subtraction problem.",
+      "I can solve a subtraction problem using addition."
+     ],
+     "te": {
+      "M4.L23": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dzSXxw"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L24"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to use manipulatives to represent subtraction with decompositions of 1 hundred as 10 tens and 1 ten as 10 ones.",
+     "sc": [
+      "I can use place value disks to unbundle the hundred before subtracting.",
+      "I can use a place value chart and disk to solve a subtraction problem.",
+      "I can use mental math to solve subtraction problems.",
+      "I can use RWD to solve word problems."
+     ],
+     "te": {
+      "M4.L24": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4dzSXzY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L25"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to relate manipulative representations to a written method.",
+     "sc": [
+      "I can use a place value chart and disk to solve a subtraction problem.",
+      "I can draw a magnifying glass with my subtraction problems.",
+      "I can write a subtraction number sentence vertically.",
+      "I can use RWD to solve word problems."
+     ],
+     "te": {
+      "M4.L25": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4OA6YqQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L26"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to use math drawings to represent subtraction with up to twodecompositions and relate drawings to a written method.",
+     "sc": [
+      "I can use a place value chart and the chip model to solve a subtraction problem.",
+      "I can draw a magnifying glass with my subtraction problems.",
+      "I can write a subtraction number sentence vertically.",
+      "I can use RWD to solve word problems.",
+      "I can explain why an answer is incorrect."
+     ],
+     "te": {
+      "M4.L26": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4OA6Yr0"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L27"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to subtract from 200 and from numbers with zeros in the tens place.",
+     "sc": [
+      "I can draw a place value chart, the chip model and disks to solve a math problem.",
+      "I can decompose a number using different values.",
+      "I can draw a magnifying glass with my subtraction problems.",
+      "I can write a subtraction number sentence vertically."
+     ],
+     "te": {
+      "M4.L27": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=d5qxxbqzrfpq"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 16,
+   "start": "2026-11-30",
+   "title": "Q2:W7 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "assess",
+     "text": "i-Ready Inform"
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "i-Ready Inform"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L28"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4A"
+     ],
+     "lo": "I am learning to subtract from 200 and from numbers with zeros in the tens place.",
+     "sc": [
+      "I can draw a place value chart, the chip model and disks to solve a math problem.",
+      "I can decompose a number using different values.",
+      "I can draw a magnifying glass with my subtraction problems.",
+      "I can write a subtraction number sentence vertically.",
+      "I can use RWD to solve word problems."
+     ],
+     "te": {
+      "M4.L28": "https://drive.google.com/open?id=1pzbcv0hfywR593uOonvZ_bI3llVf0mB_&disco=AAAA4OA6Ywo"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "Learning Check 6: End-of-Module 4 (English and Spanish)"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L1"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4C"
+     ],
+     "lo": "I am learning to relate 10 more, 10 less, 100 more, and 100 less to addition andsubtraction of 10 and 100.",
+     "sc": [
+      "I can use place value disks to add or subtract.",
+      "I can use the “arrow way” to add or subtract 10 and 100."
+     ],
+     "te": {
+      "M5.L1": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQto"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 17,
+   "start": "2026-12-07",
+   "title": "Q2:W8 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L2"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4C"
+     ],
+     "lo": "I am learning to add and subtract multiples of 100, including counting on to subtract.",
+     "sc": [
+      "I can change the value of the hundreds and tens place by adding more disks.",
+      "I can use strategies to add and subtract horizontal number sentences."
+     ],
+     "te": {
+      "M5.L2": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQuo"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L3"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4C"
+     ],
+     "lo": "I am learning to add multiples of 100 and some tens within 1,000.",
+     "sc": [
+      "I can add multiples of 10 using the “arrow way”.",
+      "I can add multiples of 100 using the “arrow way”."
+     ],
+     "te": {
+      "M5.L3": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQvA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L4"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4C"
+     ],
+     "lo": "I am learning to subtract multiples of 100 and some tens within 1,000.",
+     "sc": [
+      "I can subtract multiples of 10 using the “arrow way”.",
+      "I can subtract multiples of 100 using the “arrow way”."
+     ],
+     "te": {
+      "M5.L4": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQv0"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L5"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4C"
+     ],
+     "lo": "I am learning to use the associative property to make a hundred in one addend.",
+     "sc": [
+      "I can add some many tens to make a hundred.",
+      "I can add multiples of 10 by making a hundred using a number bond.",
+      "I can add three-digit numbers by making a hundred."
+     ],
+     "te": {
+      "M5.L5": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQzo"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L6"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C",
+      "2.4C"
+     ],
+     "lo": "I am learning to use the associative property to subtract from three-digitnumbers and verify solutions with addition.",
+     "sc": [
+      "I can use compensation with a two-digit number and check with addition.",
+      "I can use compensation with multiples of 10 and three-digit numbers and check with addition.",
+      "I can use compensation with three-digit numbers."
+     ],
+     "te": {
+      "M5.L6": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQ4U"
+     }
+    }
+   ]
+  },
+  {
+   "q": 2,
+   "wk": 18,
+   "start": "2026-12-14",
+   "title": "Q2:W9 Math IPC 2nd Grade Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L7"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.4D"
+     ],
+     "lo": "I am learning to share and critique solution strategies for varied addition and subtraction problems within 1,000.",
+     "sc": [
+      "I can compare addition strategies with a partner.",
+      "I can compare subtraction strategies with a partner."
+     ],
+     "te": {
+      "M5.L7": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHRFU"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L8"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.4D"
+     ],
+     "lo": "I am learning to relate  manipulative representations to the addition algorithm.",
+     "sc": [
+      "I can use place value disks to add two and three-digit numbers using the standard algorithm on a place value chart.",
+      "I can explain the process of adding using the standard algorithms."
+     ],
+     "te": {
+      "M5.L8": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHRKw"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L9"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.4D"
+     ],
+     "lo": "I am learning to relate  manipulative representations to the addition algorithm.",
+     "sc": [
+      "I can use place value disks to add two and three-digit numbers using the standard algorithm on a place value chart.",
+      "I can explain the process of adding using the standard algorithms."
+     ],
+     "te": {
+      "M5.L9": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHRKw"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L11"
+     ],
+     "teks": [
+      "2.4B",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.4D"
+     ],
+     "lo": "I am learning to use math drawings to represent additions with up to twocompositions and relate drawings to the addition algorithm.",
+     "sc": [
+      "I can use place value disks to model regrouping with addition.",
+      "I can represent two-digit additions with drawings."
+     ],
+     "te": {
+      "M5.L11": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABBClHQzo"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L12"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4C"
+     ],
+     "lo": "I am learning to choose and explain solution strategies and record with a written addition method.",
+     "sc": [
+      "I can select a strategy to solve three-digit addition problems."
+     ],
+     "te": {
+      "M5.L12": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABAPLOCt8"
+     }
+    }
+   ]
+  }
+ ]
+}

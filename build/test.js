@@ -4,10 +4,10 @@ const { chromium } = require('playwright');
   const p=await b.newPage({viewport:{width:1440,height:900}});
   p.on('pageerror',e=>errs.push('PAGEERR '+e.message)); p.on('console',m=>{ if(m.type()==='error') errs.push('CONSOLE '+m.text()); });
   const url='http://localhost:8765/index.html';
-  for(const g of ['g3','g4','g5']){
+  for(const g of ['gk','g1','g2','g3','g4','g5']){
     await p.goto(url+'#'+g); await p.waitForTimeout(600);
     for(const v of ['cal','les','std','perf','moves','grid']){
-      await p.click(`.tabs button[data-view="${v}"]`); await p.waitForTimeout(200);
+      if(await p.isVisible(`.tabs button[data-view="${v}"]`)){ await p.click(`.tabs button[data-view="${v}"]`); await p.waitForTimeout(200); }
     }
   }
   await p.goto(url+'#g3/3.4K'); await p.waitForTimeout(500);
@@ -31,7 +31,7 @@ const { chromium } = require('playwright');
   // phone
   const m=await b.newPage({viewport:{width:390,height:844}});
   m.on('pageerror',e=>errs.push('M PAGEERR '+e.message));
-  for(const g of ['g3','g4','g5']){ await m.goto(url+'#'+g+'/'+({g3:'3.3H',g4:'4.3D',g5:'5.3K'})[g]); await m.waitForTimeout(500);
+  for(const g of ['gk','g1','g2','g3','g4','g5']){ await m.goto(url+'#'+g+'/'+({gk:'K.2E',g1:'1.3D',g2:'2.4C',g3:'3.3H',g4:'4.3D',g5:'5.3K'})[g]); await m.waitForTimeout(500);
     const ov=await m.evaluate(()=>document.documentElement.scrollWidth-window.innerWidth); if(ov>1) errs.push(g+' phone overflow '+ov); }
   await m.screenshot({path:'/tmp/claude-0/-home-claude/78bf741d-87e3-5321-ab17-c985254f55e2/scratchpad/phone.png'});
   // broken images

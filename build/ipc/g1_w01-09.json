@@ -1,0 +1,937 @@
+{
+ "grade": 1,
+ "weeks": [
+  {
+   "q": 1,
+   "wk": 1,
+   "start": "2026-08-10",
+   "title": "Q1:W1 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L1"
+     ],
+     "teks": [
+      "1.2A",
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "lo": "I am learning to analyze and describe embedded (hidden) numbers (to 10) using 5-groups and number bonds.",
+     "sc": [
+      "I can use objects to find two hidden numbers inside a given number.",
+      "I can use 5-groups to find two hidden numbers inside a given number.",
+      "I can use a number bond to represent two hidden numbers and a given number."
+     ],
+     "te": {
+      "M1.L1": "https://drive.google.com/open?id=1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC&disco=AAAAtty_O8g"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L2"
+     ],
+     "teks": [
+      "1.2A",
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "lo": "I am learning to reason about embedded (hidden) numbers in varied configurations (different arrangements) using number bonds.",
+     "sc": [
+      "I can count a set of pictures and circle the two parts I see.",
+      "I can make a number bond to match my circled pictures.",
+      "I can name the parts and whole of a number bond."
+     ],
+     "te": {
+      "M1.L2": "https://drive.google.com/open?id=1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC&disco=AAAAtty_O8o"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L3"
+     ],
+     "teks": [
+      "1.2A",
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "lo": "I am learning to see and describe numbers of objects using 1 more within 5-group configurations (arrangements).",
+     "sc": [
+      "I can use objects within a 5-group to find 1 more.",
+      "I can use the sentence frames:",
+      "“___is one more than___.” and  “One more than ___ is ___.” to explain my thinking.",
+      "I can represent my work in a number sentence."
+     ],
+     "te": {
+      "M1.L3": "https://drive.google.com/open?id=1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC&disco=AAAAtty_O9A"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L4",
+      "M1.L5"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.5D",
+      "1.5G"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I am learning to represent put together math stories with number bonds and count on from one embedded number or part to totals of 6 and 7, and generate all expressions for each total.",
+     "sc": [
+      "I can count on from one part (number) to find the total up to 6 and 7 using 5-group cards.",
+      "I can identify the two parts (numbers) that make 6 and 7.",
+      "I can represent the two parts and total in a number bond.",
+      "I can represent the two parts and total in a number sentence."
+     ],
+     "te": {
+      "M1.L4": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAtty_O9I",
+      "M1.L5": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAtty_O9Q"
+     },
+     "note": "lessons combined"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 2,
+   "start": "2026-08-17",
+   "title": "Q1:W2 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L6",
+      "M1.L7"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to represent put together situations with number bonds and count on from one embedded number or part to totals of 8 and 9, and generate all expressions for each total.",
+     "sc": [
+      "I can count on from one part (number) to find the total up to 8 and 9 using 5-group cards.",
+      "I can identify the two parts (numbers) that make 8 and 9.",
+      "I can represent the two parts and total in a number bond.",
+      "I can represent the two parts and total in a number sentence."
+     ],
+     "te": {
+      "M1.L6": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuQ7ZuTk",
+      "M1.L7": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuQ7ZuTw"
+     },
+     "note": "lessons combined"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L8"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to represent all the number pairs of 10 as number bonds from a given scenario, and generate all expressions equal to 10.",
+     "sc": [
+      "I can use a Rekenrek bracelet to show partners of 10.",
+      "I can write an expression to match.",
+      "I can use the count on strategy to find the total.",
+      "I can represent the two parts and total in a number bond."
+     ],
+     "te": {
+      "M1.L8": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuQ7ZuUA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "i-Ready BOY Inform"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 3,
+   "start": "2026-08-24",
+   "title": "Q1:W3 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L9"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve add to with result unknown and put together with result unknown math stories by drawing, writing equations, and making statements of the solution.",
+     "sc": [
+      "I can draw a picture to solve a math story.",
+      "I can write a number sentence to solve a math story.",
+      "I can make a number bond to match a math story."
+     ],
+     "te": {
+      "M1.L9": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuQ7ZuUI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L10"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve put together with result unknown math stories by drawing and using 5-group cards.",
+     "sc": [
+      "I can hear a math story and draw a picture to match it.",
+      "I can write a number sentence to match my picture.",
+      "I can use 5-group cards to match a problem story.",
+      "I can count on to solve my word problem.",
+      "I can use my pictures to write a number bond."
+     ],
+     "te": {
+      "M1.L10": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuQ7ZuUQ"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L11"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve add to with change unknown math stories as a context for counting on by drawing, writing equations, and making statements of the solution.",
+     "sc": [
+      "I can count on and draw pictures to solve a math story.",
+      "I can state how many more pictures I had to draw.",
+      "I can write a number sentence to match a math story.",
+      "I can write a number bond to match a math story."
+     ],
+     "te": {
+      "M1.L11": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAueEsI3c"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L12"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to solve add to with change unknown math stories using 5-group cards.",
+     "sc": [
+      "I can use 5-group cards to solve a math story.",
+      "I can create a mystery change story to go with a number sentence.",
+      "I can use 5-group cards to find missing numbers in a number sentence.",
+      "I can draw a picture and count on to solve a math story."
+     ],
+     "te": {
+      "M1.L12": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAueEsI3k"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L13"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5D",
+      "1.5G"
+     ],
+     "lo": "I am learning to tell put together with result unknown, add to with result unknown, and add to with change unknown stories from equations.",
+     "sc": [
+      "I can make up a math story to match a number sentence.",
+      "I can complete the number sentence.",
+      "I can draw a picture to show what is happening in the math story.",
+      "I can write a number bond to match the math story."
+     ],
+     "te": {
+      "M1.L13": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAueEsI3s"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 4,
+   "start": "2026-08-31",
+   "title": "Q1:W4 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L14"
+     ],
+     "teks": [
+      "1.3D",
+      "1.5F"
+     ],
+     "bundled": [
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to count on up to 3 more using numeral and 5-group cards and fingers to track the change.",
+     "sc": [
+      "I can count on using my fingers to solve addition problems.",
+      "I can count on using 5-group cards to solve addition problems.",
+      "I can count on to solve number sentences."
+     ],
+     "te": {
+      "M1.L14": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAueEsI30"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L16"
+     ],
+     "teks": [
+      "1.3D",
+      "1.5F"
+     ],
+     "bundled": [
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to count on to find the unknown part in missing addend equations such as 6 + __ = 9 and answer “How many more to make…” questions.",
+     "sc": [
+      "I can count on using my fingers to solve for the missing addend in an equation.",
+      "I can count on using 5-group cards to solve for  the missing addend in an equation.",
+      "I can draw more pictures needed to solve for the missing addend in an equation."
+     ],
+     "te": {
+      "M1.L16": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuSt3MoM"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "M1 Learning Check #1"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L17"
+     ],
+     "teks": [
+      "1.3D",
+      "1.5E"
+     ],
+     "lo": "I am learning to understand the meaning of the equal sign by pairing equivalent expressions and constructing true number sentences.",
+     "sc": [
+      "I can use linking cubes to create a true number sentence.",
+      "I can write an expression that will complete a true number sentence.",
+      "I can find two expressions that are equal.",
+      "I can explain what the equal sign tells us."
+     ],
+     "te": {
+      "M1.L17": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuSt3MoU"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L19"
+     ],
+     "teks": [
+      "1.3D",
+      "1.5E"
+     ],
+     "lo": "I am learning to represent the same story scenario with addends repositioned (the commutative property).",
+     "sc": [
+      "I can write two number sentences that match my double-sided counters.",
+      "I can look at a picture and write a number bond to match it.",
+      "I can write two number sentences to match the number bond.",
+      "I can rewrite a number sentence by switching the two addends around."
+     ],
+     "te": {
+      "M1.L19": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAuSt3MpI"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 5,
+   "start": "2026-09-07",
+   "title": "Q1:W5 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L20"
+     ],
+     "teks": [
+      "1.3D",
+      "1.5E"
+     ],
+     "lo": "I am learning to apply the commutative property to count on from a larger addend.",
+     "sc": [
+      "I can write a number sentence starting with the larger addend.",
+      "I can count on from the larger addend to determine the solution.",
+      "I can complete a number bond and write a number sentence to match."
+     ],
+     "te": {
+      "M1.L20": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAukAb2fo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L21"
+     ],
+     "teks": [
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to visualize and solve doubles and doubles plus 1 with 5-group cards.",
+     "sc": [
+      "I can write a doubles number sentence.",
+      "I can solve a doubles problem.",
+      "I can write a doubles plus 1 number sentence.",
+      "I can solve a doubles plus 1 problem.",
+      "I can use doubles to solve a doubles plus 1 problem."
+     ],
+     "te": {
+      "M1.L21": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAukAb2fw"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L22"
+     ],
+     "teks": [
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to look for and make use of repeated reasoning on the addition chart by solving and analyzing problems with common addends.",
+     "sc": [
+      "I can use the addition chart to help me analyze and reason about problems that have a common addend.",
+      "I can solve problems with the same common addend.",
+      "I can complete an addition chart by filling in the missing numbers."
+     ],
+     "te": {
+      "M1.L22": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAukAb2f4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L23"
+     ],
+     "teks": [
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to look for and make use of structure on the addition chart by looking for and coloring problems with the same total.",
+     "sc": [
+      "I can use the addition chart to find expressions that have the same total and color their boxes in.",
+      "I can use the addition chart to write number sentences that have the same total."
+     ],
+     "te": {
+      "M1.L23": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAukAb2gA"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 6,
+   "start": "2026-09-14",
+   "title": "Q1:W6 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L24"
+     ],
+     "teks": [
+      "1.3C",
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to build fluency with facts to 10.",
+     "sc": [
+      "I can write an expression on a related fact ladder and explain how that expression is related to the one before it.",
+      "I can solve number sentences and color code it based on the type of number sentence it is."
+     ],
+     "te": {
+      "M1.L24": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAukAb2gQ"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L25"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "lo": "I am learning to solve add to with change unknown math stories.",
+     "sc": [
+      "I can break up the total in a math story that uses objects or pictures.",
+      "I can write a number bond to match the math story.",
+      "I can write an addition number sentence to match the math story.",
+      "I can write a subtraction number sentence to match the math story"
+     ],
+     "te": {
+      "M1.L25": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAw1CzVQA"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L26"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "lo": "I am learning to count on using the number path to find an unknown part.",
+     "sc": [
+      "I can use a number path to count on when solving an addition problem.",
+      "I can write the addition number sentence to match.",
+      "I can use a number path to count back when solving a subtraction problem.",
+      "I can write the subtraction number sentence to match."
+     ],
+     "te": {
+      "M1.L26": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAxbJ8Xbk"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L27"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "lo": "I am learning to count on using the number path to find an unknown part.",
+     "sc": [
+      "I can use a number path and decide to count on or count back to find an unknown part.",
+      "I can write a number sentence to match.",
+      "I can use the number path to help me write a number bond."
+     ],
+     "te": {
+      "M1.L27": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAxbVWSi4"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "M1 Learning Check #2"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 7,
+   "start": "2026-09-21",
+   "title": "Q1:W7 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L28"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.5F"
+     ],
+     "lo": "I am learning to solve take from with result unknown math stories.",
+     "sc": [
+      "I can solve a take from problem by drawing a picture and crossing off what is taken away.",
+      "I can draw a number bond to match.",
+      "I can write a number sentence to match.",
+      "I can write a statement with the solution."
+     ],
+     "te": {
+      "M1.L28": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAw1CzVQI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L29"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.5F"
+     ],
+     "lo": "I am learning to solve take apart with addend unknown math stories.",
+     "sc": [
+      "I can solve a take apart addend unknown math story by drawing a picture and circling the known part to find the unknown.",
+      "I can solve an addend unknown math story by writing a subtraction number sentence.",
+      "I can use a number bond to help me solve a math story."
+     ],
+     "te": {
+      "M1.L29": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAxbJ8Xas"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L30"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.5F"
+     ],
+     "lo": "I am learning to solve add to with change unknown math stories.",
+     "sc": [
+      "I can solve a math story using a number bond.",
+      "I can solve a math story by drawing a picture.",
+      "I can write an addition number sentence to match the math story.",
+      "I can write a subtraction number sentence to match the math story."
+     ],
+     "te": {
+      "M1.L30": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAw1CzVQU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L31"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.5F"
+     ],
+     "lo": "I am learning to solve take from with change unknown math stories.",
+     "sc": [
+      "I can solve a take from with change unknown math story by drawing a picture, circling the known part, and crossing out the unknown.",
+      "I can use a number bond to help me solve a math story.",
+      "I can write a number sentence to help me solve a math story."
+     ],
+     "te": {
+      "M1.L31": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAxbJ8XbE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L32"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3D",
+      "1.5D"
+     ],
+     "bundled": [
+      "1.5F"
+     ],
+     "lo": "I am learning to solve put together/ take apart with addend unknown math stories.",
+     "sc": [
+      "I can use a simple math drawing to solve a problem.",
+      "I can use the math drawing to make a number bond.",
+      "I can write an addition and subtraction number sentence to solve a problem",
+      "I can explain my work and thinking."
+     ],
+     "te": {
+      "M1.L32": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAxbJ8XbU"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 8,
+   "start": "2026-09-28",
+   "title": "Q1:W8 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L33"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to model 0 less and 1 less.",
+     "sc": [
+      "I can model 0 less and 1 less using a bead (number) bracelet.",
+      "I can model 0 less and 1 less using a 5-group drawing.",
+      "I can model 0 less and 1 less using a subtraction number sentence."
+     ],
+     "te": {
+      "M1.L33": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAyRrEQVw"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L34"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to model n - n (subtract all) and n - (n - 1)  (subtract all but 1).",
+     "sc": [
+      "I can use a bead bracelet to model subtract all and subtract all but one.",
+      "I can model subtract all and subtract all but 1 using a 5-group drawing.",
+      "I can use subtraction number sentences to model subtract all and subtract all but one."
+     ],
+     "te": {
+      "M1.L34": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAyRrEQV4"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L35"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to relate subtraction facts involving fives and doubles to corresponding decompositions.",
+     "sc": [
+      "I can relate and solve subtraction facts using the math way.",
+      "I can relate and solve subtraction facts using a math bracelet (beads).",
+      "I can relate and solve subtraction facts using a 5-group drawing.",
+      "I can draw a number bond to match.",
+      "I can explain the strategy used."
+     ],
+     "te": {
+      "M1.L35": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAyRrEQYo"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L36"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to relate subtraction from 10 to corresponding decompositions.",
+     "sc": [
+      "I can solve subtraction problems from 10 using a bead (number) bracelet.",
+      "I can complete a number bond.",
+      "I can write two related subtraction sentences that match the number bond.",
+      "I can solve subtraction problems from 10 using 5-group drawings."
+     ],
+     "te": {
+      "M1.L36": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAyRrEQYw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L37"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to relate subtraction from 9 to corresponding decompositions.",
+     "sc": [
+      "I can solve subtraction problems from 9 using a bead (number) bracelet.",
+      "I can complete a number bond.",
+      "I can write two related subtraction sentences that match the number bond.",
+      "I can solve subtraction problems from 9 using 5-group drawings."
+     ],
+     "te": {
+      "M1.L37": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAAyRrEQY4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 9,
+   "start": "2026-10-05",
+   "title": "Q1:W9 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L38"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to look and make use of repeated reasoning and structure using the addition chart to solve subtraction problems.",
+     "sc": [
+      "I can look for and make use of repeated reasoning and structure using the addition chart to solve subtraction problems.",
+      "I can analyze the addition chart to create sets of related addition and subtraction facts.",
+      "I can create my own set of addition flashcards."
+     ],
+     "te": {
+      "M1.L38": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAA3cu3x0Q"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L39"
+     ],
+     "teks": [
+      "1.3D",
+      "1.3E",
+      "1.5G"
+     ],
+     "lo": "I am learning to analyze the addition chart to create sets of related addition andsubtraction facts.",
+     "sc": [
+      "I can use the addition chart to write sets of related addition and subtraction facts."
+     ],
+     "te": {
+      "M1.L39": "https://drive.google.com/file/d/1eiw3o-ijOpETuu7PLyfvapPD3ixAJtTC/edit?disco=AAAA3cu3x5c"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "M1 Learning Check #3"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Fri",
+     "kind": "off",
+     "text": "No School"
+    }
+   ]
+  }
+ ]
+}

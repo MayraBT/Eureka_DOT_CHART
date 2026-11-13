@@ -1,0 +1,2061 @@
+[
+ {
+  "code": "K.2A",
+  "mis": [
+   {
+    "m": "Counts forward smoothly but gets stuck or skips numbers when crossing from 12 to 13 or from 19 to 20, for example saying '11, 12, 15'.",
+    "why": "The teen number names are irregular and do not sound like 'ten-three' or 'ten-four', so the pattern is hard to hear.",
+    "fix": "Count teens with a full ten frame plus loose counters, saying 'ten and three, thirteen' as each counter is added."
+   },
+   {
+    "m": "Counting backward from 15, says '15, 14, 13, 12, 11, 10, 9' but then restarts forward or says '9, 10'.",
+    "why": "Backward counting is less practiced, and students fall back on the familiar forward sequence.",
+    "fix": "Use a number path on the floor and have students walk backward one step for each number, touching each numeral as they say it."
+   },
+   {
+    "m": "Says the number words in order but moves objects faster or slower than the words, so the count does not match the set.",
+    "why": "One-to-one matching of word and object is still developing, especially past 10.",
+    "fix": "Have students push each counter across a line or into a cup as they say each number, one word per push."
+   }
+  ],
+  "cra": {
+   "c": "Students count forward and backward to 20 while moving counters along a ten frame pair or stacking and unstacking linking cubes one at a time.",
+   "r": "Students touch each square on a 0–20 number path as they count forward, then start at a given number and count back, sliding a marker one space per number.",
+   "a": "Students count forward and backward to 20 without objects, starting from any number the teacher names, and write or point to the numeral where they stopped.",
+   "look": "Students count aloud while moving one object or one finger per number, and count backward along a number path from a starting point other than 20."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Start at 7 and count to 15. What number did you stop on?",
+     "Count back from 18. Where do you stop if you take 5 steps?"
+    ],
+    "advance": [
+     "What number comes right before 13? How do you know without starting at 1?",
+     "Can you count back from 20 to 11 without looking at the number path?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where 12 is on the number path. Count forward from there.",
+     "Count your cubes as you take them off the tower one at a time."
+    ],
+    "advance": [
+     "Which number comes after 19?",
+     "Close your eyes and count back from 10. Then try from 14."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to each counter as you count it.",
+     "What number comes after 5?"
+    ],
+    "advance": [
+     "Start at 8 and count to 12 with me.",
+     "Count back from 6 to 1."
+    ],
+    "support": [
+     "Count with a small set of counters to 10 first, then add a second ten frame for the teens.",
+     "Use a short number path from 0 to 10 and count with the student, touching each number together."
+    ]
+   }
+  },
+  "stems": [
+   "I start at ___.",
+   "Next comes ___.",
+   "Before ___ comes ___.",
+   "I counted back to ___.",
+   "I stopped on ___."
+  ],
+  "t": "S",
+  "d": "Count forward and backward to at least 20 with and without objects."
+ },
+ {
+  "code": "K.2B",
+  "mis": [
+   {
+    "m": "Writes teen numbers in reverse order, such as writing 61 for sixteen, because 'six' is heard first.",
+    "why": "The spoken teen names say the ones before the teen, but the written numeral puts the 1 first.",
+    "fix": "Build the number on a full ten frame plus extra counters and write the 1 for the full ten first, then the ones."
+   },
+   {
+    "m": "Writes numerals backward, such as a reversed 3, 7 or 9.",
+    "why": "Letter and numeral formation is still developing, and reversals are common at this age.",
+    "fix": "Use a number path or numeral strip on each desk and have students trace the numeral with a finger before writing it."
+   },
+   {
+    "m": "Reads 0 as 'nothing' and does not show it with objects or pictures.",
+    "why": "Students think zero is not a number because there is nothing to count.",
+    "fix": "Show an empty ten frame and say 'There are zero counters.' Write 0 beside it and place 0 at the start of the number path."
+   }
+  ],
+  "cra": {
+   "c": "Students build numbers 0–20 with counters on ten frames or linking cube trains and match each set to a numeral card.",
+   "r": "Students draw dots or circles on blank ten frames to show a number and write the numeral beside the drawing, and find the number on a 0–20 number path.",
+   "a": "Students read and write numerals 0–20 without objects, saying the number aloud and matching the numeral to the number word.",
+   "look": "Students match numeral cards to ten frame sets and drawings, and write teen numbers by first showing the full ten frame and then the extra ones."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Read this number. How do you know it says 17?",
+     "Show me 14 in a different way."
+    ],
+    "advance": [
+     "How are 4 and 14 the same and how are they different?",
+     "Write the number that is one full ten frame and 6 more."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me 11 on the ten frames. How many full ten frames do you have?",
+     "Which numeral card matches your drawing?"
+    ],
+    "advance": [
+     "Draw 18 on the ten frames. How many dots are not in the full frame?",
+     "Where is 16 on the number path?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me 5 counters.",
+     "Point to the number 8."
+    ],
+    "advance": [
+     "Write the number for this ten frame.",
+     "Show me zero on the ten frame."
+    ],
+    "support": [
+     "Give numeral cards 0–10 with dot pictures on the back for self-checking.",
+     "Provide tracing strips with the numerals 0–20 and a starting dot on each."
+    ]
+   }
+  },
+  "stems": [
+   "This number is ___.",
+   "I see ___ dots.",
+   "I drew ___.",
+   "One full ten and ___ more is ___.",
+   "I wrote ___."
+  ],
+  "t": "R",
+  "d": "Read, write, and represent whole numbers from 0 to at least 20 with and without objects or pictures."
+ },
+ {
+  "code": "K.2C",
+  "mis": [
+   {
+    "m": "Counts a set of 8 correctly but, when asked 'How many?', recounts from 1 instead of saying 8.",
+    "why": "The student has not yet connected the last number said to the total of the set.",
+    "fix": "After counting, cover the set with a cup and ask 'How many are under the cup?' so the student must use the last number said."
+   },
+   {
+    "m": "Recounts a set after it is spread out or rearranged, believing the total may have changed.",
+    "why": "Students think the number depends on how long the line looks or how the objects are spaced.",
+    "fix": "Count a set, spread it out while students watch, and ask 'Did we add any? Did we take any away? So how many now?'"
+   },
+   {
+    "m": "Counts some objects twice or skips some when the objects are in a scattered pile.",
+    "why": "Students lack a system for tracking which objects have already been counted.",
+    "fix": "Teach students to move each counter to a ten frame or across a line as it is counted."
+   }
+  ],
+  "cra": {
+   "c": "Students count up to 20 counters, bears or cubes by moving each one into a ten frame or a cup, then tell how many in all.",
+   "r": "Students count pictures of objects in rows, circles and scattered arrangements, marking each one as they count and writing the total.",
+   "a": "Students tell the total of a set after it is rearranged without recounting, saying 'It is still ___ because we did not add or take away.'",
+   "look": "Students move objects as they count, say the last number as the total, and keep the same number when the set is spread out or pushed together."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "You counted 13. If I move them into a circle, how many will there be?",
+     "How do you know you did not count any twice?"
+    ],
+    "advance": [
+     "If I put these 15 in a long line and those 15 in a pile, which has more?",
+     "What is a fast way to count these 18 so you do not lose your place?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many are in your ten frame now?",
+     "I spread out your counters. How many are there?"
+    ],
+    "advance": [
+     "Count them a new way. Do you get the same number?",
+     "Put them in a tower. How many cubes are in the tower?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Touch and count each bear.",
+     "How many bears in all?"
+    ],
+    "advance": [
+     "I hid them under the cup. How many are under there?",
+     "Move one at a time into the ten frame as you count."
+    ],
+    "support": [
+     "Start with sets of 5 or fewer and add more as the student holds the last number said.",
+     "Give a mat with a start line and a finish line so each counted object is moved across."
+    ]
+   }
+  },
+  "stems": [
+   "I counted ___.",
+   "There are ___ in all.",
+   "It is still ___.",
+   "I moved each one.",
+   "The last number is ___."
+  ],
+  "t": "S",
+  "d": "Count a set of objects up to at least 20 and demonstrate that the last number said tells the number of objects in the set regardless of their arrangement or order."
+ },
+ {
+  "code": "K.2D",
+  "mis": [
+   {
+    "m": "Counts each dot one by one on a dot card of 4 instead of seeing the 4 at once.",
+    "why": "The student has not yet built mental pictures of small quantities.",
+    "fix": "Flash dot cards and ten frames for two seconds, then hide them, so students practice seeing the quantity without time to count."
+   },
+   {
+    "m": "Recognizes 5 in the standard dice pattern but not when 5 dots are scattered.",
+    "why": "Students memorize one familiar arrangement instead of seeing the quantity.",
+    "fix": "Show the same number in several arrangements on dot cards and ask 'How did you see it?' to grow flexible pictures."
+   },
+   {
+    "m": "Says 6 for a scattered set of 5 because the set looks large.",
+    "why": "Students guess from how much space the dots take up.",
+    "fix": "After each quick flash, show the card again and count to check, then ask students to describe the groups they saw."
+   }
+  ],
+  "cra": {
+   "c": "Students roll number cubes, flip dot cards and look at quick flashes of counters on five frames and ten frames, then show the number with fingers.",
+   "r": "Students match dot cards with organized and scattered arrangements to five frames and ten frames, and draw what they saw after a quick look.",
+   "a": "Students say the number they see in a quick flash and write the numeral, explaining the small groups they saw, such as '3 and 2'.",
+   "look": "Students say the number of dots without counting one by one after a quick look, and explain the parts they saw."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know it was 6 so fast?",
+     "What groups did you see in this card?"
+    ],
+    "advance": [
+     "Can you see this 7 in a different way?",
+     "How many empty spaces are on this five frame?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "I flashed the five frame. How many dots?",
+     "How many dots on this scattered card?"
+    ],
+    "advance": [
+     "Draw what you saw on your five frame.",
+     "Show me 4 dots in a different arrangement."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many dots? Do not count.",
+     "Show me with your fingers."
+    ],
+    "advance": [
+     "I see 2 and 2. How many is that?",
+     "Find the card with 3 dots."
+    ],
+    "support": [
+     "Use dot cards with only 1–5 dots in dice patterns before adding scattered arrangements.",
+     "Show a five frame for a longer look and gradually shorten the time."
+    ]
+   }
+  },
+  "stems": [
+   "I see ___.",
+   "I saw ___ and ___.",
+   "I know it is ___.",
+   "It looks like ___.",
+   "I did not count."
+  ],
+  "t": "S",
+  "d": "Recognize instantly the quantity of a small group of objects in organized and random arrangements."
+ },
+ {
+  "code": "K.2E",
+  "mis": [
+   {
+    "m": "Makes a set that is 'more than 6' by adding a much larger number of counters without checking, then cannot explain why it is more.",
+    "why": "Students think 'more' means 'a lot' instead of comparing to a specific number.",
+    "fix": "Line up both sets side by side in linking cube trains so students can see the extra cubes on one train."
+   },
+   {
+    "m": "Builds a set that 'looks' bigger by spreading it out, even though it has fewer objects.",
+    "why": "Students judge quantity by length or space instead of number.",
+    "fix": "Have students match objects one-to-one with the given set to check which set has extras."
+   },
+   {
+    "m": "Builds a set equal to 9 but miscounts and makes 8, then says it is equal.",
+    "why": "Counting errors past 5 lead to wrong comparisons.",
+    "fix": "Build both sets on ten frames so equal sets fill the same squares and differences are easy to see."
+   }
+  ],
+  "cra": {
+   "c": "Students build sets with counters or linking cubes that are more than, less than and equal to a given number up to 20, matching one-to-one with the teacher's set.",
+   "r": "Students draw sets on ten frames or as dot pictures that are more than, less than or equal to a given numeral, and circle the extra dots on the larger set.",
+   "a": "Students name a number that is more than, less than or equal to a given number and tell how they know using the number path.",
+   "look": "Students build cube trains side by side, match objects one-to-one and use the words 'more', 'less' and 'equal' to describe their sets."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know your set is less than 12?",
+     "Can you make a set more than 15 using only one more counter?"
+    ],
+    "advance": [
+     "Make a set that is equal to mine but looks different. Is it still equal?",
+     "How many more counters would make your set equal to 17?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me a set that is more than 8 on your ten frames.",
+     "Which cubes on your train are the extra ones?"
+    ],
+    "advance": [
+     "Draw a set that is less than 14. How do you know?",
+     "Where are both numbers on the number path?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Make 5 cubes like mine.",
+     "Is your train longer or shorter?"
+    ],
+    "advance": [
+     "Add one more cube. Is it more than 5 now?",
+     "Take one away. Is it less now?"
+    ],
+    "support": [
+     "Keep the given number at 10 or less and build both sets on ten frames.",
+     "Line up two cube trains next to each other so students can see the difference."
+    ]
+   }
+  },
+  "stems": [
+   "I have more than ___.",
+   "I have less than ___.",
+   "My set is equal to ___.",
+   "I matched them.",
+   "I see ___ extra."
+  ],
+  "t": "S",
+  "d": "Generate a set using concrete and pictorial models that represents a number that is more than, less than, and equal to a given number up to 20."
+ },
+ {
+  "code": "K.2F",
+  "mis": [
+   {
+    "m": "Says one more than 9 is 11, skipping 10.",
+    "why": "Students count on from the given number but include the given number as the first count.",
+    "fix": "Use a number path and have the student put a finger on 9, then jump one space and read the number."
+   },
+   {
+    "m": "Says one less than 15 is 16.",
+    "why": "Students confuse 'less' and 'more', or always move forward on the count sequence.",
+    "fix": "Act it out with a cube train: show 15, take one cube off, and count what is left."
+   },
+   {
+    "m": "Counts all from 1 to find one more than 17 instead of using the count sequence.",
+    "why": "The student does not yet see that one more is the next counting number.",
+    "fix": "Build 17 on two ten frames, add one counter, and ask 'Which number comes next when we count?'"
+   }
+  ],
+  "cra": {
+   "c": "Students build a number with counters or linking cubes, add one or take one away, and say the new number.",
+   "r": "Students use a 0–20 number path to move one space forward for one more and one space back for one less, and draw one more or one less dot on a ten frame.",
+   "a": "Students name the number that is one more or one less than a given numeral without objects and write the numeral.",
+   "look": "Students add or remove one cube from a train, hop one space on the number path and name the new number."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is one more than 19? How do you know?",
+     "What is one less than 11?"
+    ],
+    "advance": [
+     "Which number is one more than 13 and one less than 15?",
+     "If one more is 18, what was the first number?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me one more than 12 on the number path.",
+     "Take one cube off your train of 16. How many now?"
+    ],
+    "advance": [
+     "Draw one less on your ten frame. What number is it?",
+     "How does the number path help you find one less?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Here is 6. Add one cube. How many now?",
+     "Point to 9. What number comes next?"
+    ],
+    "advance": [
+     "Take one away from 7. How many now?",
+     "Which number comes before 4?"
+    ],
+    "support": [
+     "Begin with numbers to 10 on a single ten frame.",
+     "Use a number path with arrows marked 'one more' and 'one less'."
+    ]
+   }
+  },
+  "stems": [
+   "One more than ___ is ___.",
+   "One less than ___ is ___.",
+   "I added one.",
+   "I took one away.",
+   "Next comes ___."
+  ],
+  "t": "S",
+  "d": "Generate a number that is one more than or one less than another number up to at least 20."
+ },
+ {
+  "code": "K.2G",
+  "mis": [
+   {
+    "m": "Says a set of 10 small beads is less than a set of 8 large blocks.",
+    "why": "Students compare by size of objects or space taken instead of number.",
+    "fix": "Match the two sets one-to-one by lining them up and ask 'Which set has some left over?'"
+   },
+   {
+    "m": "Compares two sets of 14 and 15 only by looking and guesses which is more.",
+    "why": "Students rely on visual estimation when sets are close in size.",
+    "fix": "Have students count each set onto ten frames and compare the extra counters."
+   },
+   {
+    "m": "Uses 'bigger' or 'taller' instead of 'more' or 'fewer' to compare sets.",
+    "why": "Everyday language for size is mixed with language for quantity.",
+    "fix": "Post sentence stems with 'more than', 'fewer than' and 'the same as', and model each one with real sets."
+   }
+  ],
+  "cra": {
+   "c": "Students compare two sets of counters, bears or cubes up to 20 by matching one-to-one or building cube trains side by side.",
+   "r": "Students draw lines to match objects in two pictures and draw both sets on ten frames to compare.",
+   "a": "Students say which set has more, fewer or the same using a full sentence and the number of each set.",
+   "look": "Students match objects one-to-one, line up cube trains and use 'more than', 'fewer than' and 'the same as' in full sentences."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know this set has fewer?",
+     "How many more does the bigger set have?"
+    ],
+    "advance": [
+     "Could a set of 12 large blocks have fewer than a set of 15 small beads? Why?",
+     "What could you do to make the sets the same?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how you matched the bears.",
+     "Which ten frame has more counters?"
+    ],
+    "advance": [
+     "How many extra counters are there?",
+     "Draw a set with fewer than this one."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which pile has more?",
+     "Line them up. Which line has extras?"
+    ],
+    "advance": [
+     "Are these the same? How do you know?",
+     "Show me the set with fewer."
+    ],
+    "support": [
+     "Compare small sets up to 10 that are very different before moving to close numbers.",
+     "Give a matching mat with two rows of boxes so objects line up."
+    ]
+   }
+  },
+  "stems": [
+   "___ has more than ___.",
+   "___ has fewer than ___.",
+   "They are the same.",
+   "I matched them.",
+   "I have ___ extra."
+  ],
+  "t": "S",
+  "d": "Compare sets of objects up to at least 20 in each set using comparative language."
+ },
+ {
+  "code": "K.2H",
+  "mis": [
+   {
+    "m": "Says 9 is greater than 12 because 9 is a 'big' digit.",
+    "why": "Students look at the size of the digit instead of the value of the whole numeral.",
+    "fix": "Find both numbers on a number path and remind students that numbers farther along the path are greater."
+   },
+   {
+    "m": "Says 16 is less than 13 because 6 comes before 3 when saying 'sixteen' and 'thirteen'.",
+    "why": "Teen numbers are hard to compare by sound alone.",
+    "fix": "Build both teen numbers with a full ten frame and extra counters, then compare the extra counters."
+   },
+   {
+    "m": "Uses 'more' and 'less' correctly with objects but cannot compare written numerals without building them.",
+    "why": "The link between the numeral and its place on the count sequence is not yet strong.",
+    "fix": "Have students locate each numeral on the number path and say which one they reach first when counting."
+   }
+  ],
+  "cra": {
+   "c": "Students build two given numerals with counters on ten frames and compare the sets before naming which numeral is greater or less.",
+   "r": "Students find both numerals on a 0–20 number path and color them, then say which comes later in counting.",
+   "a": "Students compare two numerals up to 20 without objects using 'greater than', 'less than' and 'equal to'.",
+   "look": "Students point to numerals on the number path, build teen numbers on ten frames and say full comparison sentences."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which is greater, 17 or 14? How do you know?",
+     "How can the number path help you compare?"
+    ],
+    "advance": [
+     "Name a number that is greater than 11 and less than 15.",
+     "Is 19 greater or less than 9? Prove it with a ten frame."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Find 8 and 13 on the number path. Which comes later?",
+     "Build 15 and 12. Which has more extra counters?"
+    ],
+    "advance": [
+     "Which numeral card is less? Tell me with a sentence.",
+     "Put these three numerals in order from least to greatest."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to 6 and 9. Which is greater?",
+     "Which number comes first when we count?"
+    ],
+    "advance": [
+     "Is 10 greater or less than 7?",
+     "Show me both numbers on the ten frame."
+    ],
+    "support": [
+     "Compare numerals to 10 first, then move to teen numbers.",
+     "Use a number path with numerals and matching dot pictures."
+    ]
+   }
+  },
+  "stems": [
+   "___ is greater than ___.",
+   "___ is less than ___.",
+   "___ is equal to ___.",
+   "It comes later.",
+   "I used the number path."
+  ],
+  "t": "R",
+  "d": "Use comparative language to describe two numbers up to 20 presented as written numerals."
+ },
+ {
+  "code": "K.2I",
+  "mis": [
+   {
+    "m": "Finds only one way to make 7, such as 6 and 1, and stops.",
+    "why": "Students think there is just one correct answer.",
+    "fix": "Use a shake-and-spill game with two-color counters and record each new pair on a chart."
+   },
+   {
+    "m": "When decomposing 8 into 5 and 3, then says the total changed when the parts are moved apart.",
+    "why": "Students do not yet see that the parts make the same whole.",
+    "fix": "Snap two cube trains together and pull them apart while saying '5 and 3 is 8. 8 is 5 and 3.'"
+   },
+   {
+    "m": "Lists 4 and 4 as a way to make 9.",
+    "why": "Counting errors or guessing lead to parts that do not match the whole.",
+    "fix": "Have students build each pair on a ten frame and count the total to check."
+   }
+  ],
+  "cra": {
+   "c": "Students break linking cube trains, spill two-color counters and fill five frames and ten frames to find all the ways to make numbers up to 10.",
+   "r": "Students draw two-color dots on ten frames and draw number bonds with circles to show the parts and whole.",
+   "a": "Students say and write pairs that make a number up to 10 and tell the missing part when one part is hidden.",
+   "look": "Students break cube trains into two parts, spill counters and draw number bonds showing different ways to make a number."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many ways can you make 10? How do you know you found them all?",
+     "If one part is 3, what is the other part of 8?"
+    ],
+    "advance": [
+     "How are 4 and 6 and 6 and 4 the same?",
+     "If I hide some counters and show 2, and the whole is 9, how many are hiding?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me 7 on your ten frame in two colors.",
+     "Draw a number bond for your cube train."
+    ],
+    "advance": [
+     "Find another way to make 7.",
+     "What is the missing part in this number bond?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Break your 5 train into two parts.",
+     "How many red and how many yellow?"
+    ],
+    "advance": [
+     "Is 3 and 2 the same as 5?",
+     "Make 5 a different way."
+    ],
+    "support": [
+     "Start with numbers to 5 on a five frame.",
+     "Use two colors of cubes so each part is easy to see."
+    ]
+   }
+  },
+  "stems": [
+   "___ and ___ make ___.",
+   "___ is ___ and ___.",
+   "I broke it into ___ and ___.",
+   "The missing part is ___.",
+   "I found another way."
+  ],
+  "t": "R",
+  "d": "Compose and decompose numbers up to 10 with objects and pictures."
+ },
+ {
+  "code": "K.3A",
+  "mis": [
+   {
+    "m": "Acts out 'joining' by moving counters into one group, then counts only the new counters as the total.",
+    "why": "Students focus on the last action and forget the first group.",
+    "fix": "Have students count the first group, add the new ones, then count all together on a ten frame."
+   },
+   {
+    "m": "Puts all the counters together when the story is about taking some away.",
+    "why": "Students do not yet link the story action to joining or separating.",
+    "fix": "Act out the story with students as the characters and ask 'Did more come or did some leave?'"
+   },
+   {
+    "m": "Shows separating but keeps the removed counters on the mat and counts them in the result.",
+    "why": "Students do not show that the removed objects are gone.",
+    "fix": "Use a 'gone' cup or cross off drawn objects so removed items are out of the count."
+   }
+  ],
+  "cra": {
+   "c": "Students act out join and separate stories with counters, linking cubes and their own bodies, putting groups together and taking some away.",
+   "r": "Students draw joining and separating stories with pictures, using arrows to show joining and crossing off to show taking away.",
+   "a": "Students match the action to the words 'add' and 'take away' and say a number sentence, connecting the plus and minus signs to the actions they showed.",
+   "look": "Students physically join and separate groups and say whether their story is adding or taking away."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Is this a joining story or a separating story? How do you know?",
+     "What changed when the bunnies hopped away?"
+    ],
+    "advance": [
+     "Tell me a story where some leave. What will happen to the group?",
+     "Can you make a joining story with 4 and 3?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how your drawing shows joining.",
+     "Which counters left in your story?"
+    ],
+    "advance": [
+     "Draw a separating story with 7 apples.",
+     "Say a number sentence for your picture."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put these two groups together.",
+     "Take two away. How many left?"
+    ],
+    "advance": [
+     "Did more come or did some leave?",
+     "Show me with the cubes."
+    ],
+    "support": [
+     "Act out stories with students as characters before using counters.",
+     "Give a story mat with a 'join' side and a 'take away' cup."
+    ]
+   }
+  },
+  "stems": [
+   "___ came, so I added.",
+   "___ left, so I took away.",
+   "I put them together.",
+   "Now there are ___.",
+   "I crossed off ___."
+  ],
+  "t": "S",
+  "d": "Model the action of joining to represent addition and the action of separating to represent subtraction."
+ },
+ {
+  "code": "K.3B",
+  "mis": [
+   {
+    "m": "Adds both numbers in a take-away story because the student sees two numbers.",
+    "why": "Students grab numbers without making sense of the story action.",
+    "fix": "Retell the story with a picture and ask 'Are we getting more or fewer?' before solving."
+   },
+   {
+    "m": "Counts the total in a joining story but leaves out one of the starting objects.",
+    "why": "Counting is not yet organized when objects are moved quickly.",
+    "fix": "Have students place objects on a ten frame so every counter has a spot."
+   },
+   {
+    "m": "Draws detailed pictures and runs out of time before solving.",
+    "why": "Students think a math drawing must look like a real picture.",
+    "fix": "Model quick math drawings with circles or dots and say 'Math pictures can be simple.'"
+   }
+  ],
+  "cra": {
+   "c": "Students solve word problems by acting them out with counters, linking cubes or small toys on a story mat, using sums up to 10 and differences within 10.",
+   "r": "Students draw circles or dots for the story, cross off for taking away, and show the answer on a ten frame or number path.",
+   "a": "Students say a number sentence for the story and connect each number to part of their drawing.",
+   "look": "Students act out word problems with objects or quick drawings and point to the answer in their model."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know to add?",
+     "How does your drawing show the story?"
+    ],
+    "advance": [
+     "Change the story so the answer is 6. What did you change?",
+     "Can you solve it a different way?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the 4 birds in your drawing.",
+     "Where are the ones that flew away?"
+    ],
+    "advance": [
+     "Use the number path to check your answer.",
+     "Say a number sentence for your picture."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many frogs at the start?",
+     "Did more come or did some leave?"
+    ],
+    "advance": [
+     "Show me with counters.",
+     "How many now?"
+    ],
+    "support": [
+     "Read the story slowly and act out each part with real objects.",
+     "Give a ten frame mat with the starting number already shown."
+    ]
+   }
+  },
+  "stems": [
+   "First there were ___.",
+   "Then ___.",
+   "Now there are ___.",
+   "I added ___.",
+   "I took away ___."
+  ],
+  "t": "R",
+  "d": "Solve word problems using objects and drawings to find sums up to 10 and differences within 10."
+ },
+ {
+  "code": "K.3C",
+  "mis": [
+   {
+    "m": "Says 'I just knew' or 'I counted' without telling what was counted or how.",
+    "why": "Students are not yet used to explaining their thinking.",
+    "fix": "Model think-alouds: 'I had 5, I counted on 6, 7, so I have 7' and have partners repeat."
+   },
+   {
+    "m": "Writes a number sentence that does not match the story, such as 5 + 2 for a take-away story.",
+    "why": "Students see plus as the only way to write a number sentence.",
+    "fix": "Have students point to each part of the drawing as they say each number and sign in the sentence."
+   },
+   {
+    "m": "Counts all from 1 every time and cannot describe counting on.",
+    "why": "Counting on is not yet developed and counting all feels safe.",
+    "fix": "Start with the larger number in a cup or under a hand, say it, and count on the rest."
+   }
+  ],
+  "cra": {
+   "c": "Students use counters, ten frames and fingers to solve adding and subtracting problems within 10 and show a partner how they solved it.",
+   "r": "Students draw pictures, ten frames or number path jumps to show their strategy and point to them while explaining.",
+   "a": "Students say and write a number sentence that matches their strategy and explain each number and sign.",
+   "look": "Students explain their strategy to a partner while pointing to their objects or drawing, and match their work to a number sentence."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you solve it? Tell me each step.",
+     "How is your way the same as your partner's way?"
+    ],
+    "advance": [
+     "Can you solve it a faster way?",
+     "Which way do you think is easier? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how your drawing matches your number sentence.",
+     "Where did you start on the number path?"
+    ],
+    "advance": [
+     "What does the plus sign mean in your story?",
+     "Could you count on instead of counting all?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What did you do first?",
+     "Show me with your counters."
+    ],
+    "advance": [
+     "Point to the 3 in your picture.",
+     "How many now?"
+    ],
+    "support": [
+     "Give a partner talk card with 'First', 'Then' and 'So' picture prompts.",
+     "Model one strategy and have the student copy it with counters."
+    ]
+   }
+  },
+  "stems": [
+   "First I ___.",
+   "Then I ___.",
+   "I counted on from ___.",
+   "My number sentence is ___.",
+   "I used ___."
+  ],
+  "t": "S",
+  "d": "Explain the strategies used to solve problems involving adding and subtracting within 10 using spoken words, concrete and pictorial models, and number sentences."
+ },
+ {
+  "code": "K.4A",
+  "mis": [
+   {
+    "m": "Calls a dime a nickel because a nickel is bigger.",
+    "why": "Students link size to name or value and the dime is the smallest coin.",
+    "fix": "Use magnifiers to look at the pictures on each coin and sort coins by the picture on the back and front."
+   },
+   {
+    "m": "Confuses pennies and nickels, or calls every coin 'money'.",
+    "why": "Students do not have names for each coin and have not noticed color and edge differences.",
+    "fix": "Do a coin sort by color first, then by size, then by the picture, naming each coin aloud."
+   },
+   {
+    "m": "Names the quarter correctly only when it is face-up.",
+    "why": "Students learn one side of a coin and do not recognize the other side.",
+    "fix": "Show both sides of each coin on an anchor chart and play a flip-and-name game."
+   }
+  ],
+  "cra": {
+   "c": "Students sort real or play pennies, nickels, dimes and quarters by color, size and pictures, and do coin rubbings with crayons.",
+   "r": "Students match coin pictures to names on a sorting mat and draw each coin with its key features, such as copper color for the penny or ridged edge for the dime.",
+   "a": "Students name each coin when it is held up and match coin names to the coin, using only the names penny, nickel, dime and quarter.",
+   "look": "Students sort coins, look closely with magnifiers, describe color, size, edge and pictures, and name each coin."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know this is a dime and not a penny?",
+     "What is on the back of the quarter?"
+    ],
+    "advance": [
+     "Which coins have smooth edges and which have bumpy edges?",
+     "How are a nickel and a quarter alike and different?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Sort these coins into groups. Tell me your groups.",
+     "Find the coin with the person facing left."
+    ],
+    "advance": [
+     "Which coin is the smallest? What is its name?",
+     "Flip this coin. Is it still a nickel?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which coin is brown?",
+     "Point to the quarter."
+    ],
+    "advance": [
+     "Is this a penny or a nickel?",
+     "Find another dime."
+    ],
+    "support": [
+     "Start with two coins, penny and quarter, then add one coin at a time.",
+     "Use an anchor chart showing both sides of each coin with its name."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___.",
+   "I know because ___.",
+   "It is ___ color.",
+   "It has ___ on it.",
+   "This coin is ___."
+  ],
+  "t": "S",
+  "d": "Identify U.S. coins by name, including pennies, nickels, dimes, and quarters."
+ },
+ {
+  "code": "K.5A",
+  "mis": [
+   {
+    "m": "Counts by ones to 29, then says 'twenty-ten'.",
+    "why": "Students apply the ones pattern past 9 instead of moving to the next decade.",
+    "fix": "Count with a hundred chart or a 0–100 number path and pause at each row end to name the next ten."
+   },
+   {
+    "m": "Counts by tens from 10 correctly but cannot start at 30 or 50.",
+    "why": "Students learned the decade sequence only as a chant from the beginning.",
+    "fix": "Start counts at different decade numbers using a ten-stick or bundle of ten for each count."
+   },
+   {
+    "m": "Counts by ones but skips numbers in the 70s or 90s, or confuses seventy and seventeen.",
+    "why": "Decade names and teen names sound alike.",
+    "fix": "Contrast 17 and 70 with a single ten-stick plus 7 cubes and seven ten-sticks."
+   }
+  ],
+  "cra": {
+   "c": "Students count by tens using bundles of ten straws or linking cube trains of ten, and count by ones with loose cubes from a given number.",
+   "r": "Students point to numbers on a hundred chart or 0–100 number path as they count by ones or tens from any starting number.",
+   "a": "Students recite counts by ones and tens from a starting number without objects, saying where the next decade begins.",
+   "look": "Students count aloud from different starting numbers, touching numbers on a hundred chart and moving ten-sticks for counting by tens."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Start at 46 and count to 55. What comes after 49?",
+     "Count by tens from 30. Where do you stop?"
+    ],
+    "advance": [
+     "What comes after 69? How do you know?",
+     "What number comes after 100?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Touch each number on the hundred chart as you count from 23.",
+     "Count the bundles of ten: 10, 20, ..."
+    ],
+    "advance": [
+     "Find 80 on the hundred chart. What comes before it when we count by tens?",
+     "Count by ones from 88 to 101."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Count with me from 1 to 20.",
+     "Count the ten-sticks by tens."
+    ],
+    "advance": [
+     "What comes after 29?",
+     "Start at 10 and count by tens."
+    ],
+    "support": [
+     "Use a 1–30 number path before moving to the hundred chart.",
+     "Count by tens with ten-sticks so each word matches a bundle."
+    ]
+   }
+  },
+  "stems": [
+   "I start at ___.",
+   "After ___ comes ___.",
+   "I count by tens.",
+   "Next is ___.",
+   "I stopped at ___."
+  ],
+  "t": "S",
+  "d": "Recite numbers up to at least 100 by ones and tens beginning with any given number."
+ },
+ {
+  "code": "K.6A",
+  "mis": [
+   {
+    "m": "Says a triangle that is turned upside down or is long and thin is not a triangle.",
+    "why": "Students have seen mostly upright, equal-sided triangles.",
+    "fix": "Show many triangles in different sizes and positions and count the sides and corners each time."
+   },
+   {
+    "m": "Says a square is not a rectangle.",
+    "why": "Students think rectangles must be long and squares are a separate group.",
+    "fix": "Check a square for rectangle features: 4 sides, 4 square corners. Say 'A square is a special rectangle.'"
+   },
+   {
+    "m": "Calls an oval a circle.",
+    "why": "Students group round shapes together without looking closely.",
+    "fix": "Compare a circle and an oval side by side and fold a paper circle to show it is the same all the way around."
+   }
+  ],
+  "cra": {
+   "c": "Students hold and trace 2D shape sets, including tilted triangles, long rectangles and squares, and go on a shape hunt in the classroom.",
+   "r": "Students draw and sort pictures of circles, triangles, rectangles and squares in different sizes and positions.",
+   "a": "Students name shapes and explain using sides and corners, saying 'A square is a special rectangle.'",
+   "look": "Students turn shapes in their hands, count sides and corners and name shapes in any position."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know this is a triangle even though it is upside down?",
+     "Why is a square also a rectangle?"
+    ],
+    "advance": [
+     "Is every rectangle a square? Show me.",
+     "Draw a triangle that looks very different from mine."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Count the sides on this shape.",
+     "Find all the rectangles on this page."
+    ],
+    "advance": [
+     "Is this oval a circle? How do you know?",
+     "Turn the triangle. Is it still a triangle?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the circle.",
+     "How many sides does this shape have?"
+    ],
+    "advance": [
+     "Find a square.",
+     "Is this a triangle?"
+    ],
+    "support": [
+     "Start with one shape at a time and many examples of it.",
+     "Use shapes with sides marked in color to help count."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___.",
+   "It has ___ sides.",
+   "It has ___ corners.",
+   "A square is a special ___.",
+   "It is still a ___."
+  ],
+  "t": "S",
+  "d": "Identify two-dimensional shapes, including circles, triangles, rectangles, and squares as special rectangles."
+ },
+ {
+  "code": "K.6B",
+  "mis": [
+   {
+    "m": "Calls a ball a circle or a can a rectangle.",
+    "why": "Students use 2D names for 3D objects.",
+    "fix": "Hold up a flat circle and a ball side by side and ask 'Which one is flat? Which can you hold all around?'"
+   },
+   {
+    "m": "Says a cone on its side is not a cone.",
+    "why": "Students recognize solids only in familiar positions.",
+    "fix": "Turn cone and cylinder models in different directions and ask students to name them each time."
+   },
+   {
+    "m": "Calls a box shaped like a rectangle a cube.",
+    "why": "Students think all boxes are cubes.",
+    "fix": "Compare a cube and a long box and check whether all the faces are the same square."
+   }
+  ],
+  "cra": {
+   "c": "Students handle 3D solid sets and real objects such as cans, balls, party hats and number cubes, and sort them into cylinders, cones, spheres and cubes.",
+   "r": "Students draw or cut out pictures of real objects and glue them under labeled 3D solids.",
+   "a": "Students name real-world examples of each solid and explain using words like 'rolls', 'stacks', 'flat' and 'curved'.",
+   "look": "Students hold real objects, roll and stack them and name each as a cylinder, cone, sphere or cube."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is this can a cylinder?",
+     "How is a sphere different from a circle?"
+    ],
+    "advance": [
+     "Find something in our room that is a cone.",
+     "Which solids can roll and stack? Why?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Sort these objects. Tell me your groups.",
+     "Which object is a sphere?"
+    ],
+    "advance": [
+     "Is this box a cube? How do you know?",
+     "Draw something at home that is a cylinder."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which one is the ball?",
+     "Point to the cube."
+    ],
+    "advance": [
+     "Does it roll?",
+     "Is this a cone?"
+    ],
+    "support": [
+     "Use only two solids at a time, such as sphere and cube.",
+     "Show a picture card for each solid next to a real object."
+    ]
+   }
+  },
+  "stems": [
+   "This is a ___.",
+   "It looks like a ___.",
+   "It can roll.",
+   "It can stack.",
+   "I see a ___ in our room."
+  ],
+  "t": "S",
+  "d": "Identify three-dimensional solids, including cylinders, cones, spheres, and cubes, in the real world."
+ },
+ {
+  "code": "K.6C",
+  "mis": [
+   {
+    "m": "Says a cube has a 'square' but does not see that every face is a square.",
+    "why": "Students name only the face they look at.",
+    "fix": "Have students trace each face of a cube on paper and count the squares."
+   },
+   {
+    "m": "Says a cylinder has rectangles on its ends.",
+    "why": "Students mix up the curved side and the flat ends.",
+    "fix": "Stamp the end of a cylinder in paint or trace it to show the flat face is a circle."
+   },
+   {
+    "m": "Says a sphere has a circle face.",
+    "why": "Students know a sphere looks round and think it has a flat face.",
+    "fix": "Try to trace a sphere and talk about why there is no flat face to trace."
+   }
+  ],
+  "cra": {
+   "c": "Students press 3D solids into play dough or paint and trace faces on paper to find the 2D shapes.",
+   "r": "Students match drawings of solids to drawings of their faces and draw the shapes they traced.",
+   "a": "Students name the 2D shape that makes a face of a solid and explain, such as 'The cube has square faces.'",
+   "look": "Students trace or print faces of solids and name the flat shapes they see."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What flat shapes did you find on the cylinder?",
+     "Why can't you trace a sphere?"
+    ],
+    "advance": [
+     "Which solid has only square faces?",
+     "If a face is a circle, which solids could it be?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Trace a face of the cube. What shape is it?",
+     "Match this print to the solid it came from."
+    ],
+    "advance": [
+     "How many faces can you trace on the cube?",
+     "What shape is the bottom of the cone?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the flat part.",
+     "Is it a circle or a square?"
+    ],
+    "advance": [
+     "Trace it with your finger.",
+     "Find a circle on the cylinder."
+    ],
+    "support": [
+     "Start with a cube and a cylinder only.",
+     "Provide large solids so tracing is easy."
+    ]
+   }
+  },
+  "stems": [
+   "The face is a ___.",
+   "I traced a ___.",
+   "The ___ has a ___.",
+   "I see a flat ___.",
+   "It has no flat part."
+  ],
+  "t": "S",
+  "d": "Identify two-dimensional components of three-dimensional objects."
+ },
+ {
+  "code": "K.6D",
+  "mis": [
+   {
+    "m": "Describes a shape by color or size, such as 'It is the big red one.'",
+    "why": "Students notice the features that stand out instead of math attributes.",
+    "fix": "Use shapes that are all the same color and model describing sides, corners and edges."
+   },
+   {
+    "m": "Uses 'corners' but not 'vertices', or uses 'points' only.",
+    "why": "Students know informal words but have not linked them to formal words.",
+    "fix": "Post an anchor chart pairing words such as 'corner' and 'vertex', 'side' and 'edge', and use both in every talk."
+   },
+   {
+    "m": "Counts the same corner twice when counting vertices.",
+    "why": "Students lack a way to keep track around a shape.",
+    "fix": "Mark a starting corner with a dot or sticker and count around until returning to it."
+   }
+  ],
+  "cra": {
+   "c": "Students trace sides with fingers, put sticky dots on vertices and use straws or sticks to model sides of 2D shapes.",
+   "r": "Students draw shapes and mark corners with dots and sides with color, then label the number of each.",
+   "a": "Students describe shapes using both informal and formal words, such as 'corners' and 'vertices', and 'flat' and 'two-dimensional'.",
+   "look": "Students count sides and vertices, mark them on drawings, and use both everyday and math words."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many vertices does this shape have? How do you know?",
+     "What is another word for corner?"
+    ],
+    "advance": [
+     "How are a triangle and a rectangle alike and different?",
+     "Describe this shape without saying its name."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Put a dot on each vertex.",
+     "Color each side a different color."
+    ],
+    "advance": [
+     "How many sides and vertices does a square have?",
+     "Which shape has no vertices?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me a corner.",
+     "Count the sides."
+    ],
+    "advance": [
+     "Is this side straight or curved?",
+     "How many corners?"
+    ],
+    "support": [
+     "Use large shapes and sticky dots for corners.",
+     "Give a word card pairing 'corner' with 'vertex'."
+    ]
+   }
+  },
+  "stems": [
+   "It has ___ sides.",
+   "It has ___ vertices.",
+   "A corner is a ___.",
+   "The sides are ___.",
+   "It is ___ because ___."
+  ],
+  "t": "S",
+  "d": "Identify attributes of two-dimensional shapes using informal and formal geometric language interchangeably."
+ },
+ {
+  "code": "K.6E",
+  "mis": [
+   {
+    "m": "Sorts shapes by color or size instead of by the number of sides or vertices.",
+    "why": "Color and size are easier to see than math attributes.",
+    "fix": "Give shapes in one color and ask 'How else could we sort them?'"
+   },
+   {
+    "m": "Puts a tilted square in a different group from an upright square.",
+    "why": "Students think turning a shape changes it.",
+    "fix": "Turn shapes while students watch and ask 'Did it change? Is it still a square?'"
+   },
+   {
+    "m": "Leaves out irregular shapes, such as a scalene triangle or a long thin rectangle, because they do not 'look right'.",
+    "why": "Students have seen only typical shapes.",
+    "fix": "Include many irregular shapes and check each one by its attributes."
+   }
+  ],
+  "cra": {
+   "c": "Students sort 2D shape sets and 3D solids of many sizes, positions and regular and irregular forms into labeled hoops or trays.",
+   "r": "Students sort and glue shape pictures into a sorting chart and draw one more example for each group.",
+   "a": "Students name their sorting rule and tell why each shape belongs, using the number of sides, vertices, faces, or whether it rolls or stacks.",
+   "look": "Students sort shapes by attributes, tell their sorting rule and explain how turned or irregular shapes still belong."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is your sorting rule?",
+     "Why does this skinny triangle go with the triangles?"
+    ],
+    "advance": [
+     "Can you sort these shapes a different way?",
+     "Which shape could go in two groups?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Tell me why this shape goes here.",
+     "Find all the shapes with 4 sides."
+    ],
+    "advance": [
+     "Sort the solids by ones that roll and ones that stack.",
+     "Draw one more shape for this group."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put all the circles here.",
+     "Is this a triangle?"
+    ],
+    "advance": [
+     "Does it have 3 sides?",
+     "Turn it. Is it still a triangle?"
+    ],
+    "support": [
+     "Give only two groups to sort into with a picture label.",
+     "Use shapes in one color so students focus on sides and corners."
+    ]
+   }
+  },
+  "stems": [
+   "I sorted by ___.",
+   "This goes here because ___.",
+   "It is still a ___.",
+   "These all have ___.",
+   "It does not go because ___."
+  ],
+  "t": "R",
+  "d": "Classify and sort a variety of regular and irregular two- and three-dimensional figures regardless of orientation or size."
+ },
+ {
+  "code": "K.6F",
+  "mis": [
+   {
+    "m": "Builds a 'triangle' with sticks that do not meet at the corners.",
+    "why": "Students do not yet know that sides must connect to close the shape.",
+    "fix": "Have students trace around their built shape with a finger and check that there are no gaps."
+   },
+   {
+    "m": "Draws a square with sides that are clearly different lengths.",
+    "why": "Fine motor skills and attention to equal sides are developing.",
+    "fix": "Use geoboards or dot paper so students can count equal spaces for each side."
+   },
+   {
+    "m": "Makes a shape with curved sides and calls it a rectangle.",
+    "why": "Students focus on the number of sides and not on straight sides.",
+    "fix": "Compare straws, which are straight, with yarn, which curves, and ask which one makes a rectangle."
+   }
+  ],
+  "cra": {
+   "c": "Students create 2D shapes using straws, craft sticks, play dough, yarn, geoboards and pattern blocks.",
+   "r": "Students draw shapes on dot paper and plain paper, then label the number of sides and vertices.",
+   "a": "Students name the shape they created and explain how they made it, using sides and vertices.",
+   "look": "Students build closed shapes with straight or curved materials and tell how many sides and vertices they used."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you make your rectangle? What did you check?",
+     "Why is your shape closed?"
+    ],
+    "advance": [
+     "Make a different triangle with the same sticks.",
+     "Can you make a square using two triangles?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Draw a triangle on your dot paper. How many dots did you use for corners?",
+     "Show me the sides of your shape."
+    ],
+    "advance": [
+     "Make a rectangle that is not a square.",
+     "Draw a circle and a square next to each other."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Make a triangle with 3 sticks.",
+     "Do the sticks touch?"
+    ],
+    "advance": [
+     "Trace around your shape.",
+     "How many sides did you use?"
+    ],
+    "support": [
+     "Give the exact number of sticks needed for the shape.",
+     "Provide a shape outline to build on top of."
+    ]
+   }
+  },
+  "stems": [
+   "I made a ___.",
+   "I used ___ sticks.",
+   "It has ___ sides.",
+   "The sides touch.",
+   "It is closed."
+  ],
+  "t": "S",
+  "d": "Create two-dimensional shapes using a variety of materials and drawings."
+ },
+ {
+  "code": "K.7A",
+  "mis": [
+   {
+    "m": "Names color or shape as something to measure.",
+    "why": "Students describe what they notice instead of measurable attributes.",
+    "fix": "Sort words into 'can measure' and 'cannot measure' and model length, capacity and weight with real objects."
+   },
+   {
+    "m": "Uses 'big' for all attributes instead of 'long', 'heavy' or 'holds more'.",
+    "why": "Students use one general word for size.",
+    "fix": "Model precise words with real objects: 'This rope is long. This rock is heavy. This cup holds more.'"
+   },
+   {
+    "m": "Thinks a taller container always holds more.",
+    "why": "Students judge capacity by height alone.",
+    "fix": "Fill a tall thin container and a short wide one with rice or water and pour to compare."
+   }
+  ],
+  "cra": {
+   "c": "Students explore length with ribbons and cubes, capacity with cups and rice or water, and weight with balance scales and classroom objects.",
+   "r": "Students draw an object and draw arrows or pictures to show its length, what it can hold and how heavy it feels.",
+   "a": "Students name a measurable attribute using words such as 'long', 'tall', 'holds' and 'heavy'.",
+   "look": "Students hold, fill and compare real objects and name length, capacity or weight with precise words."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What could we measure about this water bottle?",
+     "How is length different from weight?"
+    ],
+    "advance": [
+     "Name an object where we can measure length, capacity and weight.",
+     "Can we measure color? Why not?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the length of this pencil with your fingers.",
+     "What does this cup hold?"
+    ],
+    "advance": [
+     "Which word tells about weight?",
+     "Draw something heavy and something light."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this long or short?",
+     "Is this heavy or light?"
+    ],
+    "advance": [
+     "What can this cup hold?",
+     "Show me how long it is."
+    ],
+    "support": [
+     "Focus on one attribute per day with real objects.",
+     "Use picture cards for long, heavy and holds more."
+    ]
+   }
+  },
+  "stems": [
+   "I can measure ___.",
+   "It is long.",
+   "It is heavy.",
+   "It holds ___.",
+   "I can measure how ___."
+  ],
+  "t": "S",
+  "d": "Give an example of a measurable attribute of a given object, including length, capacity, and weight."
+ },
+ {
+  "code": "K.7B",
+  "mis": [
+   {
+    "m": "Compares the lengths of two pencils without lining up their ends.",
+    "why": "Students do not yet know objects must start at the same place.",
+    "fix": "Line both objects up on a starting line and then compare the other ends."
+   },
+   {
+    "m": "Says a large, light object is heavier than a small, heavy object.",
+    "why": "Students judge weight by size.",
+    "fix": "Use a balance scale and ask students to predict, then test."
+   },
+   {
+    "m": "Says one object is longer but cannot describe the difference.",
+    "why": "Students name which one is more but not how much more.",
+    "fix": "Lay linking cubes beside the extra part and say 'It is 3 cubes longer.'"
+   }
+  ],
+  "cra": {
+   "c": "Students compare two objects using balance scales, linking cube trains for length and pouring rice or water for capacity.",
+   "r": "Students draw two objects side by side on a starting line and color the extra part, or draw a balance scale with the heavier side down.",
+   "a": "Students say which object has more or less of an attribute and describe the difference, such as 'The pencil is 2 cubes longer.'",
+   "look": "Students line up objects, use balance scales and pour to compare, and tell which has more or less and by how much."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know the crayon is shorter?",
+     "Which holds more? How much more?"
+    ],
+    "advance": [
+     "How could you compare two things that are across the room?",
+     "Is the bigger box always heavier? Test it."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the starting line.",
+     "Which side of the balance went down?"
+    ],
+    "advance": [
+     "How many cubes longer is it?",
+     "Draw what you saw on the balance scale."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which one is longer?",
+     "Which one is heavier?"
+    ],
+    "advance": [
+     "Line them up. Which is longer now?",
+     "Which cup holds more?"
+    ],
+    "support": [
+     "Compare objects that are very different first.",
+     "Use a mat with a starting line and a balance picture."
+    ]
+   }
+  },
+  "stems": [
+   "The ___ is longer.",
+   "The ___ is heavier.",
+   "The ___ holds more.",
+   "It is ___ cubes longer.",
+   "I lined them up."
+  ],
+  "t": "R",
+  "d": "Compare two objects with a common measurable attribute to see which object has more of/less of the attribute and describe the difference."
+ },
+ {
+  "code": "K.8A",
+  "mis": [
+   {
+    "m": "Sorts objects into groups that overlap, putting one object in two groups.",
+    "why": "Students do not yet use one clear sorting rule.",
+    "fix": "Name one rule at a time and have students check each object by the rule."
+   },
+   {
+    "m": "Mixes up categories partway, such as switching from color to size.",
+    "why": "Students forget the rule while sorting.",
+    "fix": "Label each group with a picture card and say the rule aloud before each object is placed."
+   },
+   {
+    "m": "Collects data but does not count each group.",
+    "why": "Students think sorting is the last step.",
+    "fix": "After sorting, put each group on a ten frame and write how many."
+   }
+  ],
+  "cra": {
+   "c": "Students collect and sort real objects such as buttons, blocks or snack items into two or three labeled trays or hoops.",
+   "r": "Students draw pictures of sorted groups and use tally marks or ten frames to show how many are in each group.",
+   "a": "Students tell how many are in each category and name the sorting rule.",
+   "look": "Students sort objects into labeled groups, count each group and tell the rule."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is your sorting rule?",
+     "How many are in each group?"
+    ],
+    "advance": [
+     "Can you sort the same objects into three groups?",
+     "Which group has the most?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the label for this group.",
+     "Count the buttons in the red group."
+    ],
+    "advance": [
+     "Draw your groups.",
+     "Use tally marks to show how many."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put the big ones here.",
+     "Is this red or blue?"
+    ],
+    "advance": [
+     "Count this group.",
+     "Where does this one go?"
+    ],
+    "support": [
+     "Start with two groups that are very different.",
+     "Use sorting mats with picture labels."
+    ]
+   }
+  },
+  "stems": [
+   "I sorted by ___.",
+   "This group has ___.",
+   "There are ___ here.",
+   "It goes here because ___.",
+   "I have ___ groups."
+  ],
+  "t": "S",
+  "d": "Collect, sort, and organize data into two or three categories."
+ },
+ {
+  "code": "K.8B",
+  "mis": [
+   {
+    "m": "Places objects in a real-object graph with uneven spaces, so a shorter column looks taller.",
+    "why": "Students do not yet know each object needs one space.",
+    "fix": "Use a graph mat with boxes so each object fills one box."
+   },
+   {
+    "m": "Starts columns at different places on a picture graph.",
+    "why": "Students do not see the need for a common starting line.",
+    "fix": "Draw a bold start line and have students place every first picture on it."
+   },
+   {
+    "m": "Leaves out a category label on the graph.",
+    "why": "Students forget others need to know what each column shows.",
+    "fix": "Have students name and label each column with a picture or word before placing objects."
+   }
+  ],
+  "cra": {
+   "c": "Students build real-object graphs using shoes, blocks or snacks on a floor graph mat with labeled columns.",
+   "r": "Students make picture graphs by drawing or gluing one picture per box in labeled columns.",
+   "a": "Students tell how many are in each column and say what their graph shows.",
+   "look": "Students place one object or picture per box on a labeled graph mat and start each column on the line."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you make sure your graph is fair?",
+     "What does each picture stand for?"
+    ],
+    "advance": [
+     "What label would help someone read your graph?",
+     "If one more student chose apples, what would change?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me your start line.",
+     "Put one picture in each box."
+    ],
+    "advance": [
+     "Label each column.",
+     "How many pictures are in this column?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put your shoe in the box.",
+     "Which column is this?"
+    ],
+    "advance": [
+     "Put one in each box.",
+     "How many shoes here?"
+    ],
+    "support": [
+     "Use a two-column graph mat with picture labels.",
+     "Place the first object with the student to model."
+    ]
+   }
+  },
+  "stems": [
+   "My graph shows ___.",
+   "This column is ___.",
+   "I put one in each box.",
+   "There are ___.",
+   "I labeled ___."
+  ],
+  "t": "R",
+  "d": "Use data to create real-object and picture graphs."
+ },
+ {
+  "code": "K.8C",
+  "mis": [
+   {
+    "m": "Says the column with the biggest pictures has the most.",
+    "why": "Students judge by picture size instead of number.",
+    "fix": "Count each column and compare numbers, not size."
+   },
+   {
+    "m": "Reads one column but cannot compare columns.",
+    "why": "Students see each column alone.",
+    "fix": "Ask 'Which has more? How many more?' and line up cubes to compare."
+   },
+   {
+    "m": "Makes conclusions not in the graph, such as 'Everyone likes apples.'",
+    "why": "Students mix their opinions with data.",
+    "fix": "Point to the graph and ask 'Does the graph show that? Where?'"
+   }
+  ],
+  "cra": {
+   "c": "Students read real-object graphs, count each column and line up cubes to compare columns.",
+   "r": "Students read picture graphs and circle the column with the most and the least.",
+   "a": "Students say conclusions such as 'More friends like apples than bananas.'",
+   "look": "Students count columns, point to the graph and say what the graph shows."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does the graph tell us?",
+     "How many more chose apples than bananas?"
+    ],
+    "advance": [
+     "What question could we answer with this graph?",
+     "If 3 more chose bananas, which would have more?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which column has the most?",
+     "Count the pictures in this column."
+    ],
+    "advance": [
+     "Which has the fewest?",
+     "Are any columns the same?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the tallest column.",
+     "How many here?"
+    ],
+    "advance": [
+     "Which has more?",
+     "Count with me."
+    ],
+    "support": [
+     "Use graphs with only two columns.",
+     "Put cubes next to pictures to count."
+    ]
+   }
+  },
+  "stems": [
+   "Most friends like ___.",
+   "Fewer like ___.",
+   "___ has more than ___.",
+   "The graph shows ___.",
+   "___ and ___ are the same."
+  ],
+  "t": "R",
+  "d": "Draw conclusions from real-object and picture graphs."
+ },
+ {
+  "code": "K.9A",
+  "mis": [
+   {
+    "m": "Thinks money comes from an ATM or a parent's wallet, not from work.",
+    "why": "Students see where money comes from but not how it is earned.",
+    "fix": "Read a story about a worker and ask 'How did they get money? They worked.'"
+   },
+   {
+    "m": "Lists only one job, such as teacher.",
+    "why": "Students know only the jobs they see.",
+    "fix": "Do a community helper walk or picture sort and name ways each person earns income."
+   },
+   {
+    "m": "Says finding money on the ground is earning income.",
+    "why": "Students mix earning with getting money in other ways.",
+    "fix": "Sort picture cards into 'worked for it' and 'did not work for it'."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play jobs at a classroom store, bakery or vet clinic using play coins as pay for work done.",
+   "r": "Students draw a worker and the job they do, and sort job picture cards into a 'ways to earn income' chart.",
+   "a": "Students say 'People earn income by working' and name a job and the work that is done.",
+   "look": "Students act out jobs, name ways people earn income and connect pay to work."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do people earn income?",
+     "How does a firefighter earn income?"
+    ],
+    "advance": [
+     "What job would you like? How would you earn income?",
+     "Can a kid earn income? How?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Draw a person working. What is their job?",
+     "Sort these pictures. Which show earning income?"
+    ],
+    "advance": [
+     "Tell me two ways to earn income.",
+     "Why does the baker get paid?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Who works here?",
+     "What does a doctor do?"
+    ],
+    "advance": [
+     "Does she get money for working?",
+     "Point to a worker."
+    ],
+    "support": [
+     "Use picture cards of familiar jobs.",
+     "Role-play a simple job with the student."
+    ]
+   }
+  },
+  "stems": [
+   "People earn income by ___.",
+   "A ___ works by ___.",
+   "I can earn by ___.",
+   "They get paid for ___.",
+   "My job would be ___."
+  ],
+  "t": "S",
+  "d": "Identify ways to earn income."
+ },
+ {
+  "code": "K.9B",
+  "mis": [
+   {
+    "m": "Says a birthday present of money is income.",
+    "why": "Students see any money received as the same.",
+    "fix": "Sort cards with 'Did you work for it?' and model with stories."
+   },
+   {
+    "m": "Says allowance for doing chores is a gift.",
+    "why": "Students do not connect the chore with earning.",
+    "fix": "Act out a chore and payment and ask 'What did you do to get it?'"
+   },
+   {
+    "m": "Thinks gifts must be wrapped toys and not money.",
+    "why": "Students link gifts only to presents.",
+    "fix": "Show a birthday card with money and talk about it as a gift."
+   }
+  ],
+  "cra": {
+   "c": "Students act out short scenes, such as doing chores for coins or getting a birthday card with money, and decide income or gift.",
+   "r": "Students sort picture cards into 'income' and 'gift' columns.",
+   "a": "Students say whether money is income or a gift and tell why, such as 'It is income because she worked.'",
+   "look": "Students sort and act out money stories and tell whether work was done."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Is this income or a gift? How do you know?",
+     "What is the difference between income and a gift?"
+    ],
+    "advance": [
+     "Can the same money be a gift one time and income another time?",
+     "Tell me a story about income."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Sort this card. Did he work?",
+     "Show me an income card."
+    ],
+    "advance": [
+     "Draw a gift of money.",
+     "Why is allowance for chores income?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Did she work for it?",
+     "Is it a present?"
+    ],
+    "advance": [
+     "Is this a gift?",
+     "Point to the income card."
+    ],
+    "support": [
+     "Use only two picture cards at a time.",
+     "Ask the single question 'Did they work?' for every card."
+    ]
+   }
+  },
+  "stems": [
+   "It is income because ___.",
+   "It is a gift because ___.",
+   "She worked.",
+   "He did not work.",
+   "I got a gift of ___."
+  ],
+  "t": "S",
+  "d": "Differentiate between money received as income and money received as gifts."
+ },
+ {
+  "code": "K.9C",
+  "mis": [
+   {
+    "m": "Says a skill is a tool, such as 'a hammer' for a builder.",
+    "why": "Students mix up tools and skills.",
+    "fix": "Sort cards into 'things they use' and 'things they know how to do'."
+   },
+   {
+    "m": "Lists skills that do not match the job.",
+    "why": "Students do not know the job well.",
+    "fix": "Watch a short clip or read about a job and list what the worker does."
+   },
+   {
+    "m": "Names only one skill for every job, such as 'being nice'.",
+    "why": "Students use a general answer.",
+    "fix": "Ask 'What else must they know how to do?' and list on a chart."
+   }
+  ],
+  "cra": {
+   "c": "Students act out jobs and show skills, such as counting coins at a store or measuring at a bakery.",
+   "r": "Students draw a worker and pictures of skills, and match job and skill picture cards.",
+   "a": "Students name a job and list two skills, such as 'A cook must measure and read.'",
+   "look": "Students act out jobs and name skills each job needs."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What skills does a cashier need?",
+     "Why does a nurse need to count?"
+    ],
+    "advance": [
+     "What skill do you have that helps in a job?",
+     "Which jobs need math skills?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Match the skill to the job.",
+     "Draw a skill for a teacher."
+    ],
+    "advance": [
+     "Name two skills a farmer needs.",
+     "Is a hammer a skill or a tool?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What does a cook do?",
+     "Can she read?"
+    ],
+    "advance": [
+     "Point to a skill.",
+     "What does he know how to do?"
+    ],
+    "support": [
+     "Use picture cards of skills.",
+     "Act out one job and skill together."
+    ]
+   }
+  },
+  "stems": [
+   "A ___ needs to ___.",
+   "This job needs ___.",
+   "I can ___.",
+   "A skill is ___.",
+   "They know how to ___."
+  ],
+  "t": "S",
+  "d": "List simple skills required for jobs."
+ },
+ {
+  "code": "K.9D",
+  "mis": [
+   {
+    "m": "Says toys and candy are needs.",
+    "why": "Students think things they want very much are needs.",
+    "fix": "Ask 'Can you live without it?' and sort cards together."
+   },
+   {
+    "m": "Says all food is a want, including healthy food.",
+    "why": "Students link 'want' to liking something.",
+    "fix": "Sort food examples and talk about which keep us healthy."
+   },
+   {
+    "m": "Does not connect income to buying wants and needs.",
+    "why": "Students do not see how money gets to the store.",
+    "fix": "Act out earning coins at a job and spending them at the classroom store."
+   }
+  ],
+  "cra": {
+   "c": "Students sort real items or toy items into 'wants' and 'needs' bins and use play coins earned by job tasks to buy items at a classroom store.",
+   "r": "Students draw or glue pictures of wants and needs in two columns and draw a person earning money to buy a need.",
+   "a": "Students tell whether an item is a want or a need and explain that income helps people buy wants and needs.",
+   "look": "Students sort items, explain choices and connect income to buying wants and needs."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Is a coat a want or a need? Why?",
+     "How do people get money to buy needs?"
+    ],
+    "advance": [
+     "Can something be a need for one person and a want for another?",
+     "If you have a little money, should you buy a want or a need first?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Sort these cards. Tell me why.",
+     "Show me a need."
+    ],
+    "advance": [
+     "Draw something you want and something you need.",
+     "How did you get coins for the store?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Do we need water?",
+     "Is this toy a want?"
+    ],
+    "advance": [
+     "Can you live without it?",
+     "Point to a need."
+    ],
+    "support": [
+     "Use a small set of very clear wants and needs.",
+     "Use real objects for sorting."
+    ]
+   }
+  },
+  "stems": [
+   "I need ___.",
+   "I want ___.",
+   "It is a need because ___.",
+   "It is a want because ___.",
+   "Income buys ___."
+  ],
+  "t": "S",
+  "d": "Distinguish between wants and needs and identify income as a source to meet one's wants and needs."
+ }
+]

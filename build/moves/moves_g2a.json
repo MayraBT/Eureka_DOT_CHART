@@ -1,0 +1,1564 @@
+[
+ {
+  "code": "2.2A",
+  "mis": [
+   {
+    "m": "Thinks 1,045 can only be 1 thousand, 0 hundreds, 4 tens and 5 ones, and says '10 hundreds and 45 ones' is a different number.",
+    "why": "Students have practiced one standard way to build a number and do not yet see that trading keeps the value the same.",
+    "fix": "Build 1,045 with base-ten blocks, then trade the thousand cube for 10 flats while the class counts on; ask, 'Did the number change?'"
+   },
+   {
+    "m": "Builds 306 as 3 flats and 6 rods because the 6 is 'next to' the 3.",
+    "why": "Students read digits left to right without attending to the zero holding the tens place.",
+    "fix": "Use a place value mat with labeled columns and have students place blocks column by column, saying 'zero tens' out loud."
+   },
+   {
+    "m": "When decomposing 152 as 14 tens and 12 ones, writes 140 + 12 = 1,412 or loses track of the tens.",
+    "why": "Students are unsure how many ones are in a group of tens once there are more than 9 tens.",
+    "fix": "Bundle 14 rods into 1 flat and 4 rods on the mat, then record each version as a sum so students see 100 + 50 + 2 = 140 + 12."
+   }
+  ],
+  "cra": {
+   "c": "Students build a number up to 1,200 with base-ten blocks or place value disks on a place value mat, then trade one hundred for 10 tens or one ten for 10 ones to make a second way.",
+   "r": "Students sketch quick pictures (squares for hundreds, sticks for tens, dots for ones) for two different builds of the same number and label each part.",
+   "a": "Students write each build as a sum, such as 1,000 + 100 + 30 + 4 and 1,000 + 13 tens + 4, pointing to the matching part of their sketch.",
+   "look": "Partners trade blocks on mats, sketch two different builds of one number, and explain why both still show the same amount."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you build this number a second way?",
+     "What did you trade, and why is the number still the same?"
+    ],
+    "advance": [
+     "Can you show 1,200 using no thousand cube at all?",
+     "How many different ways can you build 250 using only hundreds and tens?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which part of your sketch shows the tens?",
+     "How many ones would you have if you broke this ten apart?"
+    ],
+    "advance": [
+     "Can you trade one more hundred and show the new way?",
+     "How would you write your new build as a sum?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the hundreds on your mat.",
+     "How many tens are in one flat?"
+    ],
+    "advance": [
+     "What happens if we trade this flat for rods? Count them with me.",
+     "Is 10 tens the same as 1 hundred? Show me."
+    ],
+    "support": [
+     "Start with numbers under 200 and only one trade at a time.",
+     "Give a mat with picture labels for hundreds, tens and ones."
+    ]
+   }
+  },
+  "stems": [
+   "I built ___ with ___ hundreds, ___ tens and ___ ones.",
+   "Another way to make ___ is ___.",
+   "I traded 1 ___ for 10 ___.",
+   "My number is still ___ because ___.",
+   "I agree with ___ because both builds show ___."
+  ],
+  "t": "S",
+  "d": "Use concrete and pictorial models to compose and decompose numbers up to 1,200 in more than one way as a sum of so many thousands, hundreds, tens, and ones."
+ },
+ {
+  "code": "2.2B",
+  "mis": [
+   {
+    "m": "Writes 'four hundred six' as 4006 or 46.",
+    "why": "Students write each spoken part as its own number instead of thinking about place value.",
+    "fix": "Have students place the number on a place value chart first, then write it in standard form, checking that the hundreds digit is in the third place from the right."
+   },
+   {
+    "m": "Writes 1,050 in expanded notation as 1,000 + 0 + 50 + 0 or as 1 + 0 + 5 + 0.",
+    "why": "Students list digits instead of the value of each digit and are unsure how to handle zeros.",
+    "fix": "Build the number with base-ten blocks and ask, 'What is this digit worth?' for each place; cross out parts worth zero."
+   },
+   {
+    "m": "Writes 'three hundred and twelve' in word form, adding 'and', or spells 'forty' as 'fourty'.",
+    "why": "Spoken habits carry into writing and number words are not on display.",
+    "fix": "Keep a number word wall and practice saying numbers without 'and' while pointing to each place on the chart."
+   }
+  ],
+  "cra": {
+   "c": "Students build a number with base-ten blocks or place value disks, then match it to cards showing its standard, word and expanded forms.",
+   "r": "Students fill in a four-way graphic organizer: quick picture, standard form, word form and expanded notation for the same number.",
+   "a": "Students convert between forms without models, such as writing 900 + 80 + 7 as 987 and in words, and explain how each digit's value shows up.",
+   "look": "Students hold up matching cards for one number in all three forms and point to the blocks that show each part."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you know what to write for the tens?",
+     "Why is there a zero in your standard form?"
+    ],
+    "advance": [
+     "How would the expanded notation change if the tens digit became zero?",
+     "Can you write 1,000 + 200 in standard form and in words?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which blocks match the 600 in your expanded notation?",
+     "How did you write this number in words?"
+    ],
+    "advance": [
+     "What number is 10 more? Write it in all three forms.",
+     "What would change if you added one more hundred?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the digit in the hundreds place.",
+     "What is this 4 worth?"
+    ],
+    "advance": [
+     "Can you say the number as you point to each block?",
+     "What goes in the tens place when there are no tens?"
+    ],
+    "support": [
+     "Use a place value chart with columns labeled hundreds, tens, ones.",
+     "Give a word bank with number words from one to twenty and the tens words."
+    ]
+   }
+  },
+  "stems": [
+   "The number ___ in words is ___.",
+   "In expanded notation, ___ is ___ + ___ + ___.",
+   "The digit ___ is worth ___.",
+   "I wrote a zero because there are no ___.",
+   "These cards match because ___."
+  ],
+  "t": "R",
+  "d": "Use standard, word, and expanded forms to represent numbers up to 1,200."
+ },
+ {
+  "code": "2.2C",
+  "mis": [
+   {
+    "m": "When asked for a number greater than 489, writes 480 because it 'has an 8' or shares digits.",
+    "why": "Students focus on familiar digits rather than comparing place values.",
+    "fix": "Build both numbers with base-ten blocks and ask, 'Which one has more hundreds? If the same, which has more tens?'"
+   },
+   {
+    "m": "Gives only the next counting number, 490, and says no other number can be greater.",
+    "why": "Students think 'greater than' means 'one more than'.",
+    "fix": "Use an open number line and ask students to mark three different numbers that land to the right of 489."
+   },
+   {
+    "m": "Writes a number less than 1,005 as 1,004 but then 999 seems 'bigger' because it has more nines.",
+    "why": "Students compare by the size of digits instead of the number of places.",
+    "fix": "Build 999 and 1,005 with blocks and line them up; ask which pile has a thousand."
+   }
+  ],
+  "cra": {
+   "c": "Students build a given number with base-ten blocks, then add or remove blocks to create a number that is greater or less and explain what they changed.",
+   "r": "Students mark the given number on an open number line and place their new numbers to the right for greater and to the left for less.",
+   "a": "Students write several numbers greater and less than a given number and use place value words to tell why each works.",
+   "look": "Students change blocks on a mat and place sticky notes on a class number line to show greater and less numbers."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know your number is greater?",
+     "What place did you change to make it less?"
+    ],
+    "advance": [
+     "Can you find a number that is greater but has fewer ones?",
+     "What is the greatest number you can make that is still less than 600?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you put your number on the number line?",
+     "What did you add to your blocks?"
+    ],
+    "advance": [
+     "Can you find a number greater by changing only the hundreds?",
+     "Is there a number between your two numbers?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me the given number with blocks.",
+     "Which is more, this pile or that pile?"
+    ],
+    "advance": [
+     "If I add one flat, is the number greater or less?",
+     "Can you take away a rod and tell me the new number?"
+    ],
+    "support": [
+     "Start with numbers under 100 before moving to hundreds.",
+     "Give a number line with the given number already marked."
+    ]
+   }
+  },
+  "stems": [
+   "A number greater than ___ is ___ because ___.",
+   "A number less than ___ is ___ because ___.",
+   "I changed the ___ place.",
+   "My number is to the ___ on the number line.",
+   "I agree with ___ because ___."
+  ],
+  "t": "S",
+  "d": "Generate a number that is greater than or less than a given whole number up to 1,200."
+ },
+ {
+  "code": "2.2D",
+  "mis": [
+   {
+    "m": "Says 98 is greater than 102 because 9 is bigger than 1.",
+    "why": "Students compare the first digits they see without lining up places.",
+    "fix": "Line up the numbers on a place value chart and compare hundreds first; build both with base-ten blocks."
+   },
+   {
+    "m": "Reverses the symbols, writing 345 > 543.",
+    "why": "Students memorize 'alligator' tricks without connecting the symbol to the words 'greater than' and 'less than'.",
+    "fix": "Have students read each statement aloud left to right, 'three hundred forty-five is less than five hundred forty-three', and check with blocks."
+   },
+   {
+    "m": "Orders 1,020, 1,002 and 1,200 by the last digits, putting 1,002 last.",
+    "why": "Students compare the ones digit first because it is the 'end' of the number.",
+    "fix": "Have students circle the first place where the digits differ and compare only that place."
+   }
+  ],
+  "cra": {
+   "c": "Students build two or three numbers with base-ten blocks side by side and compare thousands, then hundreds, then tens, then ones.",
+   "r": "Students place numbers on a place value chart or an open number line and order them from least to greatest.",
+   "a": "Students write comparison statements with >, < or = and in words, and order sets of three numbers.",
+   "look": "Students line up blocks or chart rows, circle the deciding place, and read comparison statements aloud."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which place helped you decide?",
+     "How do you know these numbers are equal?"
+    ],
+    "advance": [
+     "Can you change one digit to make the statement true the other way?",
+     "How would you order four numbers that all have the same hundreds?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which number is farther right on your number line?",
+     "Where do the digits first become different?"
+    ],
+    "advance": [
+     "Can you write the comparison in words too?",
+     "Where would 1,100 fit in your order?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which pile has more hundreds?",
+     "Read this symbol to me."
+    ],
+    "advance": [
+     "Is 120 greater or less than 210? Show me with blocks.",
+     "Which number would come first if we count up?"
+    ],
+    "support": [
+     "Compare two-digit numbers first, then add hundreds.",
+     "Give a symbol card with 'greater than' and 'less than' written under each symbol."
+    ]
+   }
+  },
+  "stems": [
+   "___ is greater than ___ because ___.",
+   "___ is less than ___ because ___.",
+   "I compared the ___ place first.",
+   "From least to greatest, the order is ___.",
+   "The numbers are equal because ___."
+  ],
+  "t": "R",
+  "d": "Use place value to compare and order whole numbers up to 1,200 using comparative language, numbers, and symbols (>, <, or =)."
+ },
+ {
+  "code": "2.2E",
+  "mis": [
+   {
+    "m": "Places 75 exactly halfway between 0 and 100 but then places 30 near 70 because the spacing is uneven.",
+    "why": "Students do not use benchmark numbers to keep distances consistent.",
+    "fix": "Have students mark benchmarks like 50 first, then place other numbers relative to them."
+   },
+   {
+    "m": "Starts every open number line at 0 even when the number is 840.",
+    "why": "Students have mostly seen number lines starting at zero.",
+    "fix": "Show that an open number line can start at any helpful number, such as 800 to 900, and mark the endpoints first."
+   },
+   {
+    "m": "Places 460 between 400 and 450 because 6 is 'small'.",
+    "why": "Students do not think about where the tens place puts the number.",
+    "fix": "Count by tens from 400 on the line, marking each jump, until students reach 460."
+   }
+  ],
+  "cra": {
+   "c": "Students stand on a floor number line made with tape and clothespins on a string to place number cards between benchmark cards.",
+   "r": "Students draw open number lines, choose endpoints, mark a benchmark in the middle and place the given number.",
+   "a": "Students explain the position using numbers: '460 is 60 more than 400 and 40 less than 500, so it is closer to 500.'",
+   "look": "Students choose endpoints, mark benchmarks and explain why their number is closer to one end."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you choose your endpoints?",
+     "Why did you put the number there and not closer to the other end?"
+    ],
+    "advance": [
+     "Where would a number 10 more go?",
+     "Can you use different endpoints and still place it correctly?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What benchmark did you mark first?",
+     "Is your number closer to the start or the end?"
+    ],
+    "advance": [
+     "Where would the halfway number go?",
+     "Can you place two more numbers on the same line?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the start of your line.",
+     "Is 460 more or less than 450?"
+    ],
+    "advance": [
+     "Count by tens with me from 400. Where do we stop?",
+     "Which end is your number closer to?"
+    ],
+    "support": [
+     "Give number lines with endpoints already labeled.",
+     "Use a clothesline with tens already clipped on."
+    ]
+   }
+  },
+  "stems": [
+   "I started my number line at ___ and ended at ___.",
+   "___ is between ___ and ___.",
+   "___ is closer to ___ because ___.",
+   "The halfway number is ___.",
+   "I placed ___ here because ___."
+  ],
+  "t": "S",
+  "d": "Locate the position of a given whole number on an open number line."
+ },
+ {
+  "code": "2.2F",
+  "mis": [
+   {
+    "m": "Counts tick marks instead of spaces and names the point 1 too many.",
+    "why": "Students count the starting tick as a jump.",
+    "fix": "Have students put a finger on the start and count each hop between ticks, saying the number as they land."
+   },
+   {
+    "m": "Assumes every tick mark counts by 1 even when the labels show 0, 10, 20.",
+    "why": "Students do not look at labels to find the jump size.",
+    "fix": "Ask, 'What are we counting by?' and have students skip count aloud between two labeled ticks before naming the point."
+   },
+   {
+    "m": "Names the point as the closest label rather than the exact value.",
+    "why": "Students round to a known number instead of counting on.",
+    "fix": "Have students count on from the nearest label to the exact tick and write the number above it."
+   }
+  ],
+  "cra": {
+   "c": "Students hop a token along a floor number line or a meter stick labeled by ones, fives or tens, saying the number at each landing.",
+   "r": "Students read number lines with some labels missing, write the jump size, and fill in the number for each marked point.",
+   "a": "Students name the point and write the counting pattern that proves it, such as 300, 310, 320, 330.",
+   "look": "Students skip count aloud while tracing the line and write the missing numbers above the marked points."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What are the jumps on this number line?",
+     "How did you know the point was 530?"
+    ],
+    "advance": [
+     "What number would be two ticks to the right?",
+     "How would the point change if each jump were 5?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which label did you start counting from?",
+     "How many jumps did you make?"
+    ],
+    "advance": [
+     "Can you name the point halfway between these two labels?",
+     "What if we count backward from the next label?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put your finger on 0. Count the hops with me.",
+     "What number is on this tick?"
+    ],
+    "advance": [
+     "Do the numbers go up by 1 or by 10 here?",
+     "What comes after 20 when we count by tens?"
+    ],
+    "support": [
+     "Start with number lines labeled at every tick, then remove some labels.",
+     "Use a skip counting chart beside the number line."
+    ]
+   }
+  },
+  "stems": [
+   "The number line counts by ___.",
+   "The point is at ___ because ___.",
+   "I started at ___ and counted ___ jumps.",
+   "The missing number is ___.",
+   "I checked by counting ___."
+  ],
+  "t": "S",
+  "d": "Name the whole number that corresponds to a specific point on a number line."
+ },
+ {
+  "code": "2.3A",
+  "mis": [
+   {
+    "m": "Cuts a rectangle into 4 pieces of different sizes and calls each piece 'one-fourth'.",
+    "why": "Students count pieces without checking that the parts are equal.",
+    "fix": "Fold paper shapes so parts match exactly, and ask, 'Are all the parts the same size?' before naming them."
+   },
+   {
+    "m": "Calls each part of a shape cut into 8 equal parts 'one-eight' or 'one-eighteen'.",
+    "why": "The fraction words are new and sound like counting numbers.",
+    "fix": "Post a word card for halves, fourths and eighths with a folded paper example, and have students say the name as they touch each part."
+   },
+   {
+    "m": "Thinks a fourth must be a square corner piece and does not accept four equal strips.",
+    "why": "Students have seen only one way to partition each shape.",
+    "fix": "Partition the same square two ways, into four strips and four small squares, and lay pieces on top of each other to compare."
+   }
+  ],
+  "cra": {
+   "c": "Students fold paper circles, squares and rectangles, cut sandwiches of paper or clay strips, and use fraction pieces into halves, fourths and eighths.",
+   "r": "Students draw lines to partition shapes into equal parts and label each part with a word, such as 'one-fourth'.",
+   "a": "Students name the parts in words and tell how many equal parts make the whole: 'There are 8 equal parts. Each part is one-eighth.'",
+   "look": "Students fold and check that parts match, and say fraction words while touching each part."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know the parts are equal?",
+     "What is the name of each part?"
+    ],
+    "advance": [
+     "Can you partition the same shape into fourths a different way?",
+     "How could you turn halves into fourths?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many equal parts did you draw?",
+     "Which word names one of these parts?"
+    ],
+    "advance": [
+     "What would happen if you folded it one more time?",
+     "Can you show eighths on a rectangle?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me one half.",
+     "Are these two parts the same size?"
+    ],
+    "advance": [
+     "Fold this square so both sides match. What did you make?",
+     "Touch each part and say its name with me."
+    ],
+    "support": [
+     "Use pre-folded shapes and let students trace the fold lines.",
+     "Give a picture word card for halves, fourths and eighths."
+    ]
+   }
+  },
+  "stems": [
+   "I cut the shape into ___ equal parts.",
+   "Each part is one-___.",
+   "The parts are equal because ___.",
+   "I made ___ another way by ___.",
+   "This is not fourths because ___."
+  ],
+  "t": "S",
+  "d": "Partition objects into equal parts and name the parts, including halves, fourths, and eighths, using words."
+ },
+ {
+  "code": "2.3B",
+  "mis": [
+   {
+    "m": "Says one-eighth is bigger than one-fourth because 8 is bigger than 4.",
+    "why": "Students apply whole-number thinking to fraction names.",
+    "fix": "Cut two same-size paper strips into fourths and eighths and lay one part of each side by side."
+   },
+   {
+    "m": "Compares one-half of a small cracker with one-fourth of a large pizza to say fourths can be bigger.",
+    "why": "Students do not hold the whole the same when comparing parts.",
+    "fix": "Insist on the same-size whole for every comparison and ask, 'Are the wholes the same?'"
+   },
+   {
+    "m": "Believes more parts means more to eat.",
+    "why": "Students focus on the number of pieces, not their size.",
+    "fix": "Share one paper cookie among 2 friends and another same-size cookie among 8 friends, and ask who gets the bigger piece."
+   }
+  ],
+  "cra": {
+   "c": "Students fold same-size paper strips into halves, fourths and eighths and stack the strips to compare one part of each.",
+   "r": "Students draw same-size rectangles partitioned into halves, fourths and eighths and shade one part of each.",
+   "a": "Students state the rule in words: 'The more equal parts in a whole, the smaller each part is.'",
+   "look": "Students line up folded strips that start the same length and point to the larger and smaller parts."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is one-half bigger than one-eighth?",
+     "What happens to each part when you fold again?"
+    ],
+    "advance": [
+     "If you shared a pizza with more friends, would your piece get bigger or smaller? Why?",
+     "Would this rule work for any whole? Show me."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Are your strips the same size to start?",
+     "Which strip has the most parts?"
+    ],
+    "advance": [
+     "Which part would be smaller, one-fourth or one-eighth? Prove it with strips.",
+     "What if you folded the eighths strip one more time?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which piece is bigger?",
+     "How many parts are in this strip?"
+    ],
+    "advance": [
+     "Lay these two pieces on top of each other. What do you see?",
+     "If I share with more friends, do I get more or less?"
+    ],
+    "support": [
+     "Start with halves and fourths only.",
+     "Provide strips already folded and cut."
+    ]
+   }
+  },
+  "stems": [
+   "One-___ is bigger than one-___ because ___.",
+   "The more parts, the ___ each part is.",
+   "The fewer parts, the ___ each part is.",
+   "I know because my strips show ___.",
+   "The wholes must be ___."
+  ],
+  "t": "R",
+  "d": "Explain that the more fractional parts used to make a whole, the smaller the part; and the fewer the fractional parts, the larger the part."
+ },
+ {
+  "code": "2.3C",
+  "mis": [
+   {
+    "m": "Counts 'one-fourth, two-fourths, three-fourths, four-fourths, five-fourths' but says five-fourths is less than one whole.",
+    "why": "Students think fractions are always less than one.",
+    "fix": "Count fourths onto a whole paper circle until it is full, then start a second circle and keep counting."
+   },
+   {
+    "m": "Counts fraction pieces as whole numbers: 'one, two, three' instead of 'one-half, two-halves, three-halves'.",
+    "why": "The counting habit from whole numbers takes over.",
+    "fix": "Have students say the unit name every time they place a piece, and write the count under each piece in words."
+   },
+   {
+    "m": "Says it takes 4 pieces to make a whole for any fraction.",
+    "why": "Students remember one example rather than the number of parts.",
+    "fix": "Ask, 'How many parts does the whole have?' and build a whole with halves, fourths and eighths side by side."
+   }
+  ],
+  "cra": {
+   "c": "Students place fraction pieces or fold paper circles, counting each piece aloud by its name, and keep going past one whole onto a second whole.",
+   "r": "Students draw two whole shapes partitioned into fourths or eighths and shade and count parts beyond one whole.",
+   "a": "Students tell the count in words and how many parts make one whole: 'Six-fourths is one whole and two more fourths.'",
+   "look": "Students count fraction pieces aloud by name and stop to say when they reach one whole."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How many fourths make one whole?",
+     "How do you know you have more than one whole?"
+    ],
+    "advance": [
+     "How many eighths are in two wholes?",
+     "Is ten-eighths more or less than one whole? Explain."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where your first whole is full.",
+     "How many pieces are left over?"
+    ],
+    "advance": [
+     "How many more pieces do you need to make two wholes?",
+     "Can you count the same amount using halves?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Count these pieces with me using their name.",
+     "Is this circle full?"
+    ],
+    "advance": [
+     "How many halves fill this circle?",
+     "If I add one more half, do we have more than one whole?"
+    ],
+    "support": [
+     "Start with halves before fourths and eighths.",
+     "Use a whole outline mat to place pieces on."
+    ]
+   }
+  },
+  "stems": [
+   "It takes ___ ___ to make one whole.",
+   "I counted ___.",
+   "I have one whole and ___ more.",
+   "This is more than one whole because ___.",
+   "I know because ___."
+  ],
+  "t": "S",
+  "d": "Use concrete models to count fractional parts beyond one whole using words and recognize how many parts it takes to equal one whole."
+ },
+ {
+  "code": "2.3D",
+  "mis": [
+   {
+    "m": "Accepts a shape split into 4 unequal pieces as an example of fourths.",
+    "why": "Students count parts without checking size.",
+    "fix": "Cut the parts out and stack them; if they do not match, the shape is a non-example."
+   },
+   {
+    "m": "Rejects a shape split into 2 equal triangles as a half because the parts 'don't look like halves'.",
+    "why": "Students expect halves to be split down the middle in a straight vertical line.",
+    "fix": "Show many ways to split the same square in half, including diagonal lines, and test by folding."
+   },
+   {
+    "m": "Calls a shape with 8 parts eighths even when some parts are left over or the whole is not used.",
+    "why": "Students do not check that the equal parts make the whole.",
+    "fix": "Have students trace each part and check that all parts together fill the whole shape."
+   }
+  ],
+  "cra": {
+   "c": "Students sort paper shapes into 'equal parts' and 'not equal parts' piles by folding and stacking cut pieces.",
+   "r": "Students sort picture cards into examples and non-examples of halves, fourths and eighths on a T-chart.",
+   "a": "Students explain each choice in words: 'This is not fourths because the parts are not the same size.'",
+   "look": "Students fold, stack and sort shapes, and tell a partner why a shape is or is not an example."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is this a non-example?",
+     "How did you check the parts are equal?"
+    ],
+    "advance": [
+     "Can you draw a non-example of eighths that has 8 parts?",
+     "Can you make two different-looking examples of halves?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which pile did you put this in?",
+     "Did you fold it to check?"
+    ],
+    "advance": [
+     "Can you fix this non-example so it shows fourths?",
+     "Draw one more example and one more non-example."
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Are these parts the same size?",
+     "How many parts are there?"
+    ],
+    "advance": [
+     "Fold it. Do the parts match?",
+     "Is this halves, yes or no?"
+    ],
+    "support": [
+     "Start with halves only.",
+     "Give shapes that can be cut out and stacked."
+    ]
+   }
+  },
+  "stems": [
+   "This is an example of ___ because ___.",
+   "This is not an example because ___.",
+   "The parts are equal because ___.",
+   "I can fix it by ___.",
+   "I agree with ___ because ___."
+  ],
+  "t": "S",
+  "d": "Identify examples and non-examples of halves, fourths, and eighths."
+ },
+ {
+  "code": "2.4A",
+  "mis": [
+   {
+    "m": "Counts on fingers for 8 + 7 and loses track, answering 14.",
+    "why": "Students rely on counting by ones instead of using a strategy.",
+    "fix": "Teach make-a-ten on a ten frame: move 2 counters from 7 to fill the 8, making 10 + 5."
+   },
+   {
+    "m": "Solves 13 − 9 by counting back and lands on 5.",
+    "why": "Students count the starting number as the first step back.",
+    "fix": "Use think-addition: '9 plus what makes 13?' and count up on a number line from 9."
+   },
+   {
+    "m": "Knows 6 + 4 = 10 but does not connect it to 10 − 4 = 6.",
+    "why": "Facts are memorized separately without seeing fact families.",
+    "fix": "Use a number bond or part-part-whole mat and write all four related facts."
+   }
+  ],
+  "cra": {
+   "c": "Students use double ten frames, counters and connecting cubes to make a ten and find doubles and near doubles.",
+   "r": "Students use number bonds, ten frame pictures and number lines to show the strategy they used for a fact.",
+   "a": "Students recall facts quickly in games and fact family lists, and name the strategy that helps for harder facts.",
+   "look": "Students play quick fact games, name strategies like make-a-ten or doubles, and check with ten frames."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What strategy did you use for 9 + 6?",
+     "How does knowing 7 + 7 help with 7 + 8?"
+    ],
+    "advance": [
+     "Which facts are hardest for you, and what strategy could help?",
+     "How can an addition fact help you subtract?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how you made a ten.",
+     "What fact family does this belong to?"
+    ],
+    "advance": [
+     "Can you solve 17 − 8 by thinking addition?",
+     "Which double is close to 6 + 7?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Fill this ten frame. How many more to 10?",
+     "What is 5 + 5?"
+    ],
+    "advance": [
+     "If 5 + 5 is 10, what is 5 + 6?",
+     "Use the counters. How many in all?"
+    ],
+    "support": [
+     "Practice a small set of facts with ten frames before mixing.",
+     "Give a fact strategy card with a ten frame picture."
+    ]
+   }
+  },
+  "stems": [
+   "I know ___ + ___ = ___ because ___.",
+   "I made a ten by ___.",
+   "A double that helps is ___.",
+   "Since ___ + ___ = ___, then ___ − ___ = ___.",
+   "My strategy was ___."
+  ],
+  "t": "S",
+  "d": "Recall basic facts to add and subtract within 20 with automaticity."
+ },
+ {
+  "code": "2.4B",
+  "mis": [
+   {
+    "m": "Lines up 46 + 7 + 23 with the 7 under the 4, getting a wrong total.",
+    "why": "Students do not line up numbers by place value.",
+    "fix": "Build each number with base-ten blocks on a place value mat and record in columns labeled tens and ones."
+   },
+   {
+    "m": "Subtracts the smaller digit from the larger in each place: 52 − 38 = 26.",
+    "why": "Students avoid regrouping by flipping the digits.",
+    "fix": "Build 52 with blocks, try to take away 8 ones, and trade a ten for 10 ones before subtracting."
+   },
+   {
+    "m": "Adds four two-digit numbers one at a time and loses partial sums.",
+    "why": "Students do not look for friendly pairs or keep a record.",
+    "fix": "Show how to group numbers that make tens first, like 25 + 15, and record partial sums on paper."
+   }
+  ],
+  "cra": {
+   "c": "Students build each addend with base-ten blocks or place value disks and combine tens and ones, trading 10 ones for a ten when needed.",
+   "r": "Students use open number lines to jump by tens and ones and record partial sums or regrouping in a place value chart.",
+   "a": "Students use mental strategies and algorithms, writing each step and explaining it with place value words.",
+   "look": "Students trade blocks, jump on open number lines, and explain why they regrouped."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide which numbers to add first?",
+     "Why did you need to regroup?"
+    ],
+    "advance": [
+     "Is there a faster way to add these four numbers? Show me.",
+     "How could you check your subtraction with addition?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me your jumps on the number line.",
+     "What did you trade?"
+    ],
+    "advance": [
+     "Can you solve it another way?",
+     "Which numbers make a ten together?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show 52 with blocks.",
+     "Do you have enough ones to take away 8?"
+    ],
+    "advance": [
+     "What can you trade so you have more ones?",
+     "How many tens now?"
+    ],
+    "support": [
+     "Start with two addends, then add more.",
+     "Give a place value mat with ten frames for ones."
+    ]
+   }
+  },
+  "stems": [
+   "I added the tens first: ___.",
+   "I regrouped because ___.",
+   "I made a ten with ___.",
+   "My answer is ___ because ___.",
+   "I checked by ___."
+  ],
+  "t": "S",
+  "d": "Add up to four two-digit numbers and subtract two-digit numbers using mental strategies and algorithms based on knowledge of place value and properties of operations."
+ },
+ {
+  "code": "2.4C",
+  "mis": [
+   {
+    "m": "Adds every number in the problem because of the word 'more', even in a compare problem asking how many more.",
+    "why": "Students hunt for key words instead of picturing the story.",
+    "fix": "Have students act out or draw a strip diagram before choosing to add or subtract."
+   },
+   {
+    "m": "Solves only the first step of a two-step problem and stops.",
+    "why": "Students do not reread the question after the first answer.",
+    "fix": "Have students underline the question and check off each part of the story as they use it."
+   },
+   {
+    "m": "Lines up 345 + 23 with the 2 under the 3 and gets 575 instead of 368.",
+    "why": "Students line up numbers on the left like words instead of by place value.",
+    "fix": "Build both numbers with place value disks on a hundreds, tens and ones mat and record in labeled columns."
+   }
+  ],
+  "cra": {
+   "c": "Students act out stories with counters or base-ten blocks and use place value disks for larger numbers.",
+   "r": "Students draw strip diagrams to show the parts and whole or the comparison, and use open number lines to solve.",
+   "a": "Students write a number sentence for each step and answer in a complete sentence with units.",
+   "look": "Students draw strip diagrams, label the known and unknown parts, and explain why they added or subtracted."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did your strip diagram help you decide to add or subtract?",
+     "How do you know your answer makes sense?"
+    ],
+    "advance": [
+     "What if the story had one more step? What would you do?",
+     "Can you solve it a different way and get the same answer?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which part of the strip diagram is unknown?",
+     "What is the first step?"
+    ],
+    "advance": [
+     "What is the second step?",
+     "Can you check your answer with the other operation?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Tell me the story in your own words.",
+     "Show me the parts with blocks."
+    ],
+    "advance": [
+     "Are we putting together or taking apart?",
+     "Which part is missing?"
+    ],
+    "support": [
+     "Use smaller numbers first with the same story.",
+     "Give a strip diagram with labels already drawn."
+    ]
+   }
+  },
+  "stems": [
+   "First I found ___.",
+   "Then I found ___.",
+   "My strip diagram shows ___.",
+   "I added because ___.",
+   "The answer is ___ because ___."
+  ],
+  "t": "R",
+  "d": "Solve one-step and multi-step word problems involving addition and subtraction within 1,000 using a variety of strategies based on place value, including algorithms."
+ },
+ {
+  "code": "2.4D",
+  "mis": [
+   {
+    "m": "For 450 − 120 = ___, writes a story about putting 450 and 120 together.",
+    "why": "Students write any story with the numbers without matching the action.",
+    "fix": "Have students act out the number sentence with blocks first, then tell what happened."
+   },
+   {
+    "m": "Writes a story with no question, so there is nothing to solve.",
+    "why": "Students think a story problem is just a story.",
+    "fix": "Give a frame with a 'question' line and ask partners to answer each other's question."
+   },
+   {
+    "m": "Writes a story where the numbers do not make sense, like 600 kids in a car.",
+    "why": "Students focus on numbers and not on real contexts.",
+    "fix": "Brainstorm a list of things that come in hundreds, like pages, stickers or points."
+   }
+  ],
+  "cra": {
+   "c": "Students use base-ten blocks to act out the number sentence, then tell a story that matches the action.",
+   "r": "Students draw a strip diagram for the number sentence and label it with story words.",
+   "a": "Students write the story problem, solve it, and check that the number sentence matches.",
+   "look": "Students trade stories, solve partner problems, and check that each story matches the number sentence."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How does your story match the number sentence?",
+     "What is the question in your story?"
+    ],
+    "advance": [
+     "Can you write a different kind of story for the same number sentence?",
+     "How would your story change if it were addition?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What does each part of your strip diagram stand for?",
+     "What is happening in your story?"
+    ],
+    "advance": [
+     "Can your partner solve your story?",
+     "Can you change the story so the unknown is at the start?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What are we doing with these numbers, adding or taking away?",
+     "What is your story about?"
+    ],
+    "advance": [
+     "Can you show it with blocks?",
+     "What question can you ask?"
+    ],
+    "support": [
+     "Use a story frame with blanks to fill in.",
+     "Start with smaller numbers."
+    ]
+   }
+  },
+  "stems": [
+   "My story is about ___.",
+   "The question is ___.",
+   "My story matches because ___.",
+   "The answer is ___.",
+   "I can change my story by ___."
+  ],
+  "t": "R",
+  "d": "Generate and solve problem situations for a given mathematical number sentence involving addition and subtraction of whole numbers within 1,000."
+ },
+ {
+  "code": "2.5A",
+  "mis": [
+   {
+    "m": "Counts each coin as 1 cent or by its size, saying a dime is worth less than a nickel.",
+    "why": "Students link value to coin size.",
+    "fix": "Use a coin chart with pictures and values, and sort real or play coins by value."
+   },
+   {
+    "m": "Counts a quarter, dime and nickel as 25, 26, 27.",
+    "why": "Students switch to counting by ones after the first coin.",
+    "fix": "Model counting on: start with the biggest value, then count on by tens, fives and ones."
+   },
+   {
+    "m": "Has 4 quarters or 10 dimes and does not recognize the collection is exactly one dollar.",
+    "why": "Students count to 100 cents but have not linked 100 cents to one dollar.",
+    "fix": "Build 100 cents several ways with play coins and trade each collection for a dollar bill while saying '100 cents is one dollar'."
+   }
+  ],
+  "cra": {
+   "c": "Students sort a handful of play coins by value, line them up from greatest to least, and count on: 25, 35, 45, 50, 51.",
+   "r": "Students draw the coins and show the counting-on jumps on an open number line or hundred chart, labeling each jump with the coin.",
+   "a": "Students write the total in cents and the counting sequence they used, and compare two collections to tell which is worth more.",
+   "look": "Students sort coins from greatest to least value, count on aloud by different amounts, and record each total."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you count these coins?",
+     "Why did you start with the quarter?"
+    ],
+    "advance": [
+     "Can you make the same amount a different way?",
+     "How many more cents to make a dollar?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me your jumps on the number line.",
+     "What is each coin worth?"
+    ],
+    "advance": [
+     "What if we add one more dime?",
+     "Can you make 50 cents with fewer coins?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which coin is this?",
+     "How much is a dime worth?"
+    ],
+    "advance": [
+     "Count on from 25 by fives with me.",
+     "Do we have a dollar yet?"
+    ],
+    "support": [
+     "Use only dimes and pennies first.",
+     "Give a coin value chart."
+    ]
+   }
+  },
+  "stems": [
+   "This coin is worth ___ cents.",
+   "I counted ___.",
+   "The total is ___ cents.",
+   "I can make ___ another way by ___.",
+   "I started with ___ because ___."
+  ],
+  "t": "S",
+  "d": "Determine the value of a collection of coins up to one dollar."
+ },
+ {
+  "code": "2.5B",
+  "mis": [
+   {
+    "m": "Writes 45 cents as $45 or 45$.",
+    "why": "Students use the dollar sign for any money amount.",
+    "fix": "Show 45 cents and $45 side by side with play money, and ask which one buys a toy and which buys a gum ball."
+   },
+   {
+    "m": "Writes 7 cents as $0.7.",
+    "why": "Students do not know the decimal point needs two places for cents.",
+    "fix": "Use a money place chart with dollars, a decimal point and two cents boxes, and write 0 in the dimes box."
+   },
+   {
+    "m": "Uses both symbols together, like $0.35¢.",
+    "why": "Students think more symbols make the amount clearer.",
+    "fix": "Post two examples, 35¢ and $0.35, and say they mean the same; choose one symbol, not both."
+   }
+  ],
+  "cra": {
+   "c": "Students count a collection of play coins and record the value two ways on a money mat: with the cent symbol and with the dollar sign and decimal point.",
+   "r": "Students draw coin collections and label the total on a price tag, then match tags that show the same value in different notation.",
+   "a": "Students write amounts like 68¢ and $0.68 and explain that the decimal point separates dollars from cents.",
+   "look": "Students count coins, write price tags in both notations, and match equal amounts."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why does $0.35 have a zero before the decimal point?",
+     "How are 35¢ and $0.35 the same?"
+    ],
+    "advance": [
+     "How would you write one dollar both ways?",
+     "How would you write 9 cents with the dollar sign?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where does the decimal point go?",
+     "What symbol did you use?"
+    ],
+    "advance": [
+     "Can you write this amount the other way?",
+     "Which price tag matches 50¢?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the cent symbol.",
+     "How many cents is this?"
+    ],
+    "advance": [
+     "Let's write it with the cent symbol first.",
+     "Do we have any whole dollars?"
+    ],
+    "support": [
+     "Give a money mat with boxes for each digit.",
+     "Use collections under 50 cents first."
+    ]
+   }
+  },
+  "stems": [
+   "The coins are worth ___ cents.",
+   "I can write it as ___ or ___.",
+   "The decimal point shows ___.",
+   "There are ___ dollars and ___ cents.",
+   "These match because ___."
+  ],
+  "t": "S",
+  "d": "Use the cent symbol, dollar sign, and the decimal point to name the value of a collection of coins."
+ },
+ {
+  "code": "2.6A",
+  "mis": [
+   {
+    "m": "Makes groups of different sizes and calls it 3 groups of 4.",
+    "why": "Students focus on the number of groups and not on equal groups.",
+    "fix": "Have students check every group by counting and fix any group that is not the same."
+   },
+   {
+    "m": "Counts the total by ones and cannot tell how many groups or how many in each group.",
+    "why": "Students do not yet see the structure of equal groups.",
+    "fix": "Use egg cartons or paper plates and ask students to say '3 groups of 4' before counting."
+   },
+   {
+    "m": "Confuses 4 groups of 3 with 3 groups of 4 in a story.",
+    "why": "Students do not match the story context to the groups.",
+    "fix": "Act out the story with real objects and label the groups with the story words."
+   }
+  ],
+  "cra": {
+   "c": "Students join equal sets of counters, cubes or real objects on plates or cups to act out stories like '4 bags with 5 apples each'.",
+   "r": "Students draw equal groups, arrays or skip counting jumps on a number line to show the story.",
+   "a": "Students describe the situation using 'groups of' and skip count to find the total, such as '4 groups of 5 is 5, 10, 15, 20'.",
+   "look": "Students build equal groups, skip count aloud and tell the story using 'groups of' language."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know the groups are equal?",
+     "How many groups and how many in each?"
+    ],
+    "advance": [
+     "What if we added one more group?",
+     "Can you write your own story for 5 groups of 2?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the groups in your drawing.",
+     "What did you skip count by?"
+    ],
+    "advance": [
+     "Can you show this story as an array?",
+     "How would the total change with 4 in each group?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many in this group?",
+     "Are all the groups the same?"
+    ],
+    "advance": [
+     "Let's count each group together.",
+     "Can you put 2 in each cup?"
+    ],
+    "support": [
+     "Use small numbers like 2 groups of 3.",
+     "Give cups or plates to hold each group."
+    ]
+   }
+  },
+  "stems": [
+   "There are ___ groups of ___.",
+   "I skip counted by ___.",
+   "In all, there are ___.",
+   "The groups are equal because ___.",
+   "My story is about ___."
+  ],
+  "t": "S",
+  "d": "Model, create, and describe contextual multiplication situations in which equivalent sets of concrete objects are joined."
+ },
+ {
+  "code": "2.6B",
+  "mis": [
+   {
+    "m": "Shares 12 counters into 3 groups but ends with 5, 4 and 3.",
+    "why": "Students hand out objects without checking for equal sets.",
+    "fix": "Use a 'one for you, one for you' dealing routine and check each group before answering."
+   },
+   {
+    "m": "Confuses 'how many groups' with 'how many in each group'.",
+    "why": "Students hear division stories but do not track what is unknown.",
+    "fix": "Act out both kinds of stories and ask, 'Do we know the number of groups or the number in each group?'"
+   },
+   {
+    "m": "Leaves extra objects and calls the answer correct.",
+    "why": "Students do not notice leftovers or think they do not matter.",
+    "fix": "Ask, 'Did every object get used? Are the groups still equal?' and choose numbers that share evenly."
+   }
+  ],
+  "cra": {
+   "c": "Students separate a set of counters, cubes or snacks into equal groups using plates or cups to act out sharing stories.",
+   "r": "Students draw circles for groups and deal dots into each one, or draw a strip diagram split into equal parts.",
+   "a": "Students describe the situation: '15 crayons shared into 3 boxes is 5 crayons in each box.'",
+   "look": "Students deal objects one at a time into groups and check that each group is equal."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you share the objects?",
+     "How do you know each group got the same amount?"
+    ],
+    "advance": [
+     "What if there were 2 more objects?",
+     "Can you share the same number into a different number of groups?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how many in each group.",
+     "Did you use all the objects?"
+    ],
+    "advance": [
+     "What if we made groups of 4 instead?",
+     "Can you draw the story another way?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Give one to each plate.",
+     "How many are on this plate?"
+    ],
+    "advance": [
+     "Are the plates the same?",
+     "Do we have any left?"
+    ],
+    "support": [
+     "Use small numbers like 6 shared by 2.",
+     "Provide plates or cups to sort into."
+    ]
+   }
+  },
+  "stems": [
+   "I shared ___ into ___ groups.",
+   "Each group has ___.",
+   "The groups are equal because ___.",
+   "I had ___ left over.",
+   "My story is about ___."
+  ],
+  "t": "S",
+  "d": "Model, create, and describe contextual division situations in which a set of concrete objects is separated into equivalent sets."
+ },
+ {
+  "code": "2.7A",
+  "mis": [
+   {
+    "m": "Says 23 is even because 2 is an even digit, or says 30 is odd because 3 is odd.",
+    "why": "Students look at the tens digit instead of pairing the objects.",
+    "fix": "Build the number with counters in two rows and check whether any counter is left without a partner."
+   },
+   {
+    "m": "Pairs objects quickly, misses one, and calls an odd number even.",
+    "why": "Students pair loosely without a way to keep track.",
+    "fix": "Use a two-row pairing mat or ten frames and have students touch each pair as they count."
+   },
+   {
+    "m": "Thinks 0 is neither even nor odd, or that even means 'small' and odd means 'big'.",
+    "why": "The words are new and students link them to everyday meanings.",
+    "fix": "Show cube trains for 0, 2, 4, 6 side by side and say, 'Every cube has a partner, so it is even.'"
+   }
+  ],
+  "cra": {
+   "c": "Students pair counters, linking cubes or even classmates for numbers up to 40, building two equal rows and checking for a leftover.",
+   "r": "Students draw dots in pairs or fill ten frames in pairs and circle any leftover dot.",
+   "a": "Students state whether a number is even or odd and explain using pairs: '27 is odd because 13 pairs leave 1 left over.'",
+   "look": "Students build two equal rows, point to any leftover, and explain their choice using the word pairs."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know 18 is even?",
+     "What happened when you paired 15?"
+    ],
+    "advance": [
+     "What do you notice about the ones digit of the even numbers you found?",
+     "If you add 1 to an even number, is the new number even or odd? Prove it."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me your pairs in two rows.",
+     "Is there a leftover?"
+    ],
+    "advance": [
+     "Can you predict if 25 is even or odd before you pair it?",
+     "What about 30 and 31?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put these counters in pairs.",
+     "Does every counter have a partner?"
+    ],
+    "advance": [
+     "Touch each pair with me. Is there one left?",
+     "If I add one more counter, does it get a partner?"
+    ],
+    "support": [
+     "Start with numbers up to 10, then go to 20 and 40.",
+     "Give a two-row pairing mat."
+    ]
+   }
+  },
+  "stems": [
+   "___ is even because ___.",
+   "___ is odd because ___.",
+   "I made ___ pairs.",
+   "There is ___ left over.",
+   "I noticed that ___."
+  ],
+  "t": "S",
+  "d": "Determine whether a number up to 40 is even or odd using pairings of objects to represent the number."
+ },
+ {
+  "code": "2.7B",
+  "mis": [
+   {
+    "m": "Writes 10 more than 345 as 346 or 445.",
+    "why": "Students change the ones or hundreds place instead of the tens.",
+    "fix": "Build 345 with base-ten blocks, add exactly one rod, and ask, 'Which digit changed? Which stayed the same?'"
+   },
+   {
+    "m": "Writes 100 less than 1,050 as 1,040 or 50.",
+    "why": "Students are unsure how to take a hundred when the hundreds digit is zero.",
+    "fix": "Use a place value mat to trade the thousand cube for 10 flats, then take one flat away and count what is left."
+   },
+   {
+    "m": "Writes 10 more than 495 as 4,105.",
+    "why": "Students write ten tens as '10' in the tens place instead of regrouping.",
+    "fix": "Build 495, add a rod, and trade 10 rods for a flat so students see 505."
+   }
+  ],
+  "cra": {
+   "c": "Students build a number up to 1,200 with base-ten blocks or place value disks and add or remove one rod or one flat, trading when needed.",
+   "r": "Students use a hundred chart or an open number line to show jumps of 10 or 100, writing the new number at each landing.",
+   "a": "Students write the new number and the pattern, such as 362, 372, 382, and explain which digit changed and why.",
+   "look": "Students add or remove one rod or flat, read the new number, and name the digit that changed."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which digit changed when you added 10? Why?",
+     "Why didn't the ones digit change?"
+    ],
+    "advance": [
+     "What is 100 more than 1,100?",
+     "What happens when you add 10 to 395? Show it with blocks."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the jump on your number line.",
+     "What did you add to your blocks?"
+    ],
+    "advance": [
+     "Can you find 10 less too?",
+     "What about 100 less? Which digit changes now?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me one rod. How much is it worth?",
+     "Which block is worth 100?"
+    ],
+    "advance": [
+     "Add one rod. What is the new number?",
+     "Count the rods with me. Which place changed?"
+    ],
+    "support": [
+     "Start with numbers under 100 on a hundred chart.",
+     "Give a place value mat with labeled columns."
+    ]
+   }
+  },
+  "stems": [
+   "10 more than ___ is ___.",
+   "100 less than ___ is ___.",
+   "The ___ digit changed because ___.",
+   "The other digits stayed the same because ___.",
+   "I checked with ___."
+  ],
+  "t": "S",
+  "d": "Use an understanding of place value to determine the number that is 10 or 100 more or less than a given number up to 1,200."
+ },
+ {
+  "code": "2.7C",
+  "mis": [
+   {
+    "m": "For '___ + 7 = 15', adds 7 and 15 to get 22.",
+    "why": "Students add all the numbers they see without thinking about the story.",
+    "fix": "Act out the story with counters in a cup, keep the start amount hidden, and ask, 'How many were there at first?'"
+   },
+   {
+    "m": "Expects the unknown to always be the answer at the end, and is stuck when the change or start is missing.",
+    "why": "Students have mostly seen result-unknown problems.",
+    "fix": "Use a strip diagram with a question mark in different places and practice result-, change- and start-unknown stories side by side."
+   },
+   {
+    "m": "Subtracts in a compare story when the bigger amount is unknown.",
+    "why": "Students hear 'fewer' or 'less' and choose subtraction as a key word.",
+    "fix": "Draw two strips for a compare problem, label which is longer, and decide whether to find the whole or a part."
+   }
+  ],
+  "cra": {
+   "c": "Students act out stories with counters and cups, hiding the unknown amount under a cup until they solve it.",
+   "r": "Students draw strip diagrams with a question mark in the unknown spot, then solve using an open number line by counting up or back.",
+   "a": "Students write a number sentence with a box or blank for the unknown, such as ___ − 12 = 30, solve it, and check with the related fact.",
+   "look": "Students draw strip diagrams, mark the unknown with a question mark, and explain whether it is a part or the whole."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Which part of the story is unknown?",
+     "How did your strip diagram help you choose to add or subtract?"
+    ],
+    "advance": [
+     "Can you change the story so the start is unknown?",
+     "Can you write two number sentences that match your strip diagram?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Point to the unknown in your drawing.",
+     "Is the unknown a part or the whole?"
+    ],
+    "advance": [
+     "Can you solve it by counting up on a number line?",
+     "What number sentence matches your drawing?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What do we know in this story?",
+     "What are we trying to find?"
+    ],
+    "advance": [
+     "Let's act it out with counters. How many are hiding?",
+     "Is the cup holding the start or the end?"
+    ],
+    "support": [
+     "Use numbers within 20 first with the same story types.",
+     "Give a strip diagram with the whole and parts already labeled."
+    ]
+   }
+  },
+  "stems": [
+   "The unknown is ___.",
+   "The whole is ___.",
+   "The missing part is ___.",
+   "My number sentence is ___.",
+   "I solved it by ___ and checked by ___."
+  ],
+  "t": "S",
+  "d": "Represent and solve addition and subtraction word problems where unknowns may be any one of the terms in the problem."
+ },
+ {
+  "code": "2.8A",
+  "mis": [
+   {
+    "m": "Draws 4 lines that do not all meet and calls it a quadrilateral.",
+    "why": "Students do not yet know that a polygon must be closed with sides meeting at vertices.",
+    "fix": "Build shapes with straws and connectors or on geoboards, and check that every end meets another end."
+   },
+   {
+    "m": "Counts a side twice or mixes up sides and vertices, saying a triangle has 6 sides.",
+    "why": "The words side and vertex are new and students count around without a starting mark.",
+    "fix": "Trace each side with a finger while counting, then put a sticker or dot on each vertex and count again."
+   },
+   {
+    "m": "Will not call a tilted or long thin shape a triangle or hexagon.",
+    "why": "Students have mostly seen shapes in one position and size.",
+    "fix": "Turn and stretch shapes on a geoboard and ask, 'How many sides and vertices now? Is it still the same kind of shape?'"
+   }
+  ],
+  "cra": {
+   "c": "Students build shapes with geoboards, straws and connectors, or craft sticks to match attribute cards such as '5 sides and 5 vertices'.",
+   "r": "Students draw shapes on dot paper to match given attributes, marking each vertex with a dot and numbering each side.",
+   "a": "Students name and describe shapes by attributes: 'This is a pentagon because it has 5 sides and 5 vertices.'",
+   "look": "Students build and draw shapes from attribute cards and count sides and vertices aloud while pointing."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you make sure your shape has 5 vertices?",
+     "Why is your shape a hexagon?"
+    ],
+    "advance": [
+     "Can you make a different-looking shape with the same number of sides?",
+     "Can you make a shape where the number of sides and vertices are not the same? Why not?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me each vertex on your drawing.",
+     "How many sides did you count?"
+    ],
+    "advance": [
+     "Can you draw the same kind of shape another way?",
+     "What shape would you have if you added one more side?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to a side. Point to a vertex.",
+     "Do all the sides meet?"
+    ],
+    "advance": [
+     "Count the sides with me while you trace them.",
+     "Put a dot on each corner. How many dots?"
+    ],
+    "support": [
+     "Use a geoboard with a model shape to copy first.",
+     "Give an attribute card with pictures of a side and a vertex."
+    ]
+   }
+  },
+  "stems": [
+   "My shape has ___ sides and ___ vertices.",
+   "It is a ___ because ___.",
+   "I made it by ___.",
+   "Another shape with ___ sides is ___.",
+   "I agree with ___ because ___."
+  ],
+  "t": "S",
+  "d": "Create two-dimensional shapes based on given attributes, including number of sides and vertices."
+ }
+]

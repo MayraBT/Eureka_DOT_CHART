@@ -1,0 +1,947 @@
+{
+ "grade": 1,
+ "weeks": [
+  {
+   "q": 3,
+   "wk": 19,
+   "start": "2027-01-04",
+   "title": "Q3:W1 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Staff/Student Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L1"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.2C",
+      "1.2D",
+      "1.5A",
+      "1.5B",
+      "1.5C"
+     ],
+     "bundled": [
+      "1.4A"
+     ],
+     "lo": "I am learning to compare the efficiency of counting by ones and counting by tens.",
+     "sc": [
+      "I can determine when to skip count in groups of ten."
+     ],
+     "te": {
+      "M4.L1": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_si3DN8"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L2"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.2C",
+      "1.2D",
+      "1.5A",
+      "1.5B",
+      "1.5C"
+     ],
+     "bundled": [
+      "1.4A"
+     ],
+     "lo": "I am learning to use the place value chart to record and name tens and oneswithin a two-digit number.",
+     "sc": [
+      "I can use linking cubes to the value of a two-digit number.",
+      "I can show the value of each digit in a number."
+     ],
+     "te": {
+      "M4.L2": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_si3DOQ"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L3"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.2C",
+      "1.2D",
+      "1.5A",
+      "1.5B",
+      "1.5C"
+     ],
+     "bundled": [
+      "1.4A"
+     ],
+     "lo": "I am learning to interpret two-digit numbers as either tens and some ones or as all ones.",
+     "sc": [
+      "I can show two-digit numbers are a group of ones.",
+      "I can show a two-digit number as tens and ones."
+     ],
+     "te": {
+      "M4.L3": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_si3DO4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 20,
+   "start": "2027-01-11",
+   "title": "Q3:W2 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.2C",
+      "1.2D",
+      "1.5A",
+      "1.5B",
+      "1.5C"
+     ],
+     "bundled": [
+      "1.4A"
+     ],
+     "lo": "I am learning to write and interpret two-digit numbers as addition sentences that combine tens and ones.",
+     "sc": [
+      "I can write an addition number sentence to combine ones and tens."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_si3DPM"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L5"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.2C",
+      "1.2D",
+      "1.5A",
+      "1.5B",
+      "1.5C"
+     ],
+     "bundled": [
+      "1.4A"
+     ],
+     "lo": "I am learning to identify 10 more, 10 less, 1 more, and 1 less than a two-digitNumber.",
+     "sc": [
+      "I can increase a number by adding one more or ten more.",
+      "I can decrease a number by one less or ten less."
+     ],
+     "te": {
+      "M4.L5": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zk4"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L6"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.2C",
+      "1.2D",
+      "1.5A",
+      "1.5B",
+      "1.5C"
+     ],
+     "bundled": [
+      "1.4A"
+     ],
+     "lo": "I am learning to use dimes and pennies as representations of tens and ones.",
+     "sc": [
+      "I can use linking cubes to show the value of two-digits.",
+      "I can use pennies to represent ones and tens.",
+      "I can use dimes and pennies to represent ones and tens."
+     ],
+     "te": {
+      "M4.L6": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zlU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L7"
+     ],
+     "teks": [
+      "1.2E",
+      "1.2F",
+      "1.2G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B"
+     ],
+     "lo": "I am learning to compare two quantities, and identify the greater or lesser of the two given numerals.",
+     "sc": [
+      "I can use objects to determine which set of two-digits is greater or lesser.",
+      "I can use place value to determine a value greater or lesser."
+     ],
+     "te": {
+      "M4.L7": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zmU"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L8"
+     ],
+     "teks": [
+      "1.2E",
+      "1.2F",
+      "1.2G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B"
+     ],
+     "lo": "I am learning to compare quantities and numerals from left to right.",
+     "sc": [
+      "I can compare numbers using greater than, less than or equal to.",
+      "I can place numbers in order from least to greatest or greatest to least."
+     ],
+     "te": {
+      "M4.L8": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zms"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 21,
+   "start": "2027-01-18",
+   "title": "Q3:W3 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Staff/Student Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L9"
+     ],
+     "teks": [
+      "1.2E",
+      "1.2F",
+      "1.2G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B"
+     ],
+     "lo": "I am learning to use the symbols >, =, and < to compare quantities andNumerals.",
+     "sc": [
+      "I can use a symbol to compare numbers.",
+      "I can use a place value chart to compare numbers."
+     ],
+     "te": {
+      "M4.L9": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zno"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L10"
+     ],
+     "teks": [
+      "1.2E",
+      "1.2F",
+      "1.2G"
+     ],
+     "bundled": [
+      "1.2A",
+      "1.2B"
+     ],
+     "lo": "I am learning to use the symbols >, =, and < to compare quantities andNumerals.",
+     "sc": [
+      "I can use a symbol to compare numbers.",
+      "I can use comparing words with numbers."
+     ],
+     "te": {
+      "M4.L10": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zoI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "Learning Check #7",
+     "note": "OMIT TOPIC C"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L13"
+     ],
+     "teks": [
+      "1.3A",
+      "1.3E"
+     ],
+     "lo": "I am learning to use counting on and the make ten strategy when adding across a ten.",
+     "sc": [
+      "I can use the make a ten strategy to add.",
+      "I can use “quick tens” to solve a problem.",
+      "I can use number bonds to solve a problem."
+     ],
+     "te": {
+      "M4.L13": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zok"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 22,
+   "start": "2027-01-25",
+   "title": "Q3:W4 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L14"
+     ],
+     "teks": [
+      "1.3A",
+      "1.3E"
+     ],
+     "lo": "I am learning to use counting on and the make ten strategy when adding across a ten.",
+     "sc": [
+      "I can use linking cubes to use the make ten strategy.",
+      "I can use the number bond to make a ten for horizontal addition."
+     ],
+     "te": {
+      "M4.L14": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALF9zo8"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L15"
+     ],
+     "teks": [
+      "1.3A",
+      "1.3E"
+     ],
+     "lo": "I am learning to use single-digit sums to support solutions for patterned sums to 40.",
+     "sc": [
+      "I can use a number pattern to add."
+     ],
+     "te": {
+      "M4.L15": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_nx6eoc"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L16",
+      "M4.L17"
+     ],
+     "teks": [
+      "1.3A",
+      "1.3E"
+     ],
+     "lo": "I am learning to add ones and ones or tens and tens.",
+     "sc": [
+      "I can  use the quick ten method to add tens and ones.",
+      "I can use a number bond to add ones and tens together."
+     ],
+     "te": {
+      "M4.L16": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_nx6eo8",
+      "M4.L17": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_nx6epQ"
+     },
+     "note": "lessons combined"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L19"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3E",
+      "1.3F",
+      "1.5D"
+     ],
+     "lo": "I am learning to use strip diagrams as representations to solve put together/ take apart with total unknown and add to with result unknown word problems.",
+     "sc": [
+      "I can use a strip diagram to model number stories."
+     ],
+     "te": {
+      "M4.L19": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_nx6eus"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L20"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3E",
+      "1.3F",
+      "1.5D"
+     ],
+     "lo": "I am learning to recognize and make use of part–whole relationships within strip diagrams when solving a variety of problem types.",
+     "sc": [
+      "I can use a strip diagram to model a number story.",
+      "I can write a statement that matches my number story."
+     ],
+     "te": {
+      "M4.L20": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAAA_sooHmY"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 23,
+   "start": "2027-02-01",
+   "title": "Q3:W5 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L21"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3E",
+      "1.3F",
+      "1.5D"
+     ],
+     "lo": "I am learning to recognize and make use of part–whole relationships within strip diagrams when solving a variety of problem types.",
+     "sc": [
+      "I can use a strip diagram to model a number story.",
+      "I can write a statement that matches my number story."
+     ],
+     "te": {
+      "M4.L21": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABAJ3wfu8"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L22"
+     ],
+     "teks": [
+      "1.3B",
+      "1.3E",
+      "1.3F",
+      "1.5D"
+     ],
+     "lo": "I am learning to write word problems of varied types.",
+     "sc": [
+      "I can use strip diagrams to solve different word problems."
+     ],
+     "te": {
+      "M4.L22": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABAJ3wfvM"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L23"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to interpret two-digit numbers as tens and ones, including cases with more than 9 ones.",
+     "sc": [
+      "I can use pictures to write two-digit numbers."
+     ],
+     "te": {
+      "M4.L23": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABAJ3wfvc"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L24"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to add a pair of two-digit numbers when the ones digits have asum less than or equal to 10.",
+     "sc": [
+      "I can use linking cubes to add two-digit numbers.",
+      "I can use quick ten and number bonds to add two digit numbers."
+     ],
+     "te": {
+      "M4.L24": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABAJ3wfvs"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L25"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to add a pair of two-digit numbers when the ones digits have asum less than or equal to 10.",
+     "sc": [
+      "I can use linking cubes to add two-digit numbers.",
+      "I can use quick ten and number bonds to add two digit numbers."
+     ],
+     "te": {
+      "M4.L25": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALX15jg"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 24,
+   "start": "2027-02-08",
+   "title": "Q3:W6 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L26"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to add a pair of two-digit numbers when the ones digits have asum greater than 10.",
+     "sc": [
+      "I can use linking cubes to add two-digit numbers.",
+      "I can use quick ten and number bonds to add two digit numbers."
+     ],
+     "te": {
+      "M4.L26": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALX15kc"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L27"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to add a pair of two-digit numbers when the ones digits have asum greater than 10.",
+     "sc": [
+      "I can use linking cubes to add two-digit numbers.",
+      "I can use quick ten, number bonds or arrow way to add two digit numbers."
+     ],
+     "te": {
+      "M4.L27": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALX15lo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L28"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to add a pair of two-digit numbers with varied sums in the ones.",
+     "sc": [
+      "I can use linking cubes to add two-digit numbers.",
+      "I can use number bonds or arrow way to add two digit numbers."
+     ],
+     "te": {
+      "M4.L28": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALX15mQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L29"
+     ],
+     "teks": [
+      "1.2A",
+      "1.2B",
+      "1.3A"
+     ],
+     "lo": "I am learning to add a pair of two-digit numbers with varied sums in the ones.",
+     "sc": [
+      "I can use linking cubes to add two-digit numbers.",
+      "I can use different methods to add two digit numbers."
+     ],
+     "te": {
+      "M4.L29": "https://drive.google.com/open?id=1ILO1Xjfc7YurMMK5AKqWjZSV_sei_X3i&disco=AAABALX15nE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #8"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 25,
+   "start": "2027-02-15",
+   "title": "Q3:W7 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L1"
+     ],
+     "teks": [
+      "1.6A",
+      "1.6B",
+      "1.6D",
+      "1.6E"
+     ],
+     "lo": "I am learning to classify shapes based on defining attributes using examples, variants, and non-examples.",
+     "sc": [
+      "I can create a closed shape.",
+      "I can name the attributes of the shapes."
+     ],
+     "te": {
+      "M5.L1": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABAJhRCvk"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L2"
+     ],
+     "teks": [
+      "1.6A",
+      "1.6B",
+      "1.6D",
+      "1.6E"
+     ],
+     "bundled": [
+      "1.6D",
+      "1.6E"
+     ],
+     "lo": "I am learning to find and name two-dimensional shapes including trapezoid, rhombus, and a square as a special rectangle, based on defining attributes of sides and corners.",
+     "sc": [
+      "I can name 2-D shapes based on their attributes.",
+      "I can find and name shapes."
+     ],
+     "te": {
+      "M5.L2": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABBN37A7M"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L3"
+     ],
+     "teks": [
+      "1.6A",
+      "1.6B",
+      "1.6D",
+      "1.6E"
+     ],
+     "bundled": [
+      "1.6D",
+      "1.6E"
+     ],
+     "lo": "I am learning to find and name three-dimensional shapes including coneand rectangular prism, based on defining attributes of faces and points.",
+     "sc": [
+      "I can name 3-D shapes based on attributes.",
+      "I can identify 3-D shapes in everyday life."
+     ],
+     "te": {
+      "M5.L3": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABBN37A7c"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L4"
+     ],
+     "teks": [
+      "1.6C",
+      "1.6F"
+     ],
+     "bundled": [
+      "1.6D",
+      "1.6E"
+     ],
+     "lo": "I am learning to create 2-D shapes by combining shapes.",
+     "sc": [
+      "I can create shapes from smaller shapes.",
+      "I can use pattern blocks to create shapes."
+     ],
+     "te": {
+      "M5.L4": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABBN37A7s"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 26,
+   "start": "2027-02-22",
+   "title": "Q3:W8 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L5"
+     ],
+     "teks": [
+      "1.6C",
+      "1.6F"
+     ],
+     "bundled": [
+      "1.6D",
+      "1.6E"
+     ],
+     "lo": "I am learning to compose a new shape by joining two, three, or four figures to produce a target shape.",
+     "sc": [
+      "I can use tangrams to find different shapes.",
+      "I can use tangrams to make shapes."
+     ],
+     "te": {
+      "M5.L5": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABBN37A8A"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L6"
+     ],
+     "teks": [
+      "1.6C",
+      "1.6F"
+     ],
+     "bundled": [
+      "1.6D",
+      "1.6E"
+     ],
+     "lo": "I am learning to create a composite shape from three-dimensional shapesand describe the composite shape using shape names and position words.",
+     "sc": [
+      "I can create 3-D shapes from other shapes.",
+      "I can name 3-D shapes."
+     ],
+     "te": {
+      "M5.L6": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABBNoxN80"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L7"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H"
+     ],
+     "lo": "I am learning to name and count shapes as parts of a whole, recognizing relative sizes of the parts.",
+     "sc": [
+      "I can identify if a shape is made of equal parts.",
+      "I can identify the number of equal parts that make a shape."
+     ],
+     "te": {
+      "M5.L7": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABALixtUY"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L8"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H"
+     ],
+     "lo": "I am learning to partition shapes and identify halves and quarters of circles and rectangles.",
+     "sc": [
+      "I can determine if a shape is equally divided.",
+      "I can determine halves and fourths of a shape."
+     ],
+     "te": {
+      "M5.L8": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABALixtUs"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L9"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H"
+     ],
+     "lo": "I am learning to partition shapes and identify halves and quarters of circles and rectangles.",
+     "sc": [
+      "I can identify partitioned shapes in halves.",
+      "I can identify partitioned shapes in one-fourths."
+     ],
+     "te": {
+      "M5.L9": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABALixtVE"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 27,
+   "start": "2027-03-01",
+   "title": "Q3:W9 Eureka Math IPC 1st Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L10"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H",
+      "1.7E"
+     ],
+     "lo": "I am learning to construct a paper clock by partitioning a circle and tell time to the hour.",
+     "sc": [
+      "I can partition parts of a clock to tell time.",
+      "I can tell time to the hour on an analog clock.",
+      "I can tell time to the hour on a digital clock."
+     ],
+     "te": {
+      "M5.L10": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABAJhtk4Y"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L11"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H",
+      "1.7E"
+     ],
+     "lo": "I am learning to recognize halves within a circular clock face and tell time to the half hour.",
+     "sc": [
+      "I can partition parts of a clock to tell time.",
+      "I can tell time to the half hour on an analog clock.",
+      "I can tell time to the half hour on a digital clock."
+     ],
+     "te": {
+      "M5.L11": "https://drive.google.com/open?id=1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA&disco=AAABAJhtk4o"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L12"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H",
+      "1.7E"
+     ],
+     "lo": "I am learning to recognize halves within a circular clock face and tell time to thehalf hour.",
+     "sc": [
+      "I can tell time to half past an hour."
+     ],
+     "te": {
+      "M5.L12": "https://drive.google.com/file/d/1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA/edit?disco=AAABEwtBckU"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L13"
+     ],
+     "teks": [
+      "1.6G",
+      "1.6H",
+      "1.7E"
+     ],
+     "lo": "I am learning to recognize halves within a circular clock face and tell time to thehalf hour.",
+     "sc": [
+      "I can tell time to half past an hour on a variety of clocks."
+     ],
+     "te": {
+      "M5.L13": "https://drive.google.com/file/d/1sssC6zSXmmj34n2kZrk1E1D7NaMoFBRA/edit?disco=AAABEwtBclQ"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #9"
+    }
+   ]
+  }
+ ]
+}

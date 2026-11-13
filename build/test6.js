@@ -1,0 +1,11 @@
+const { chromium } = require('playwright');
+(async()=>{ const b=await chromium.launch(); const p=await b.newPage({viewport:{width:1440,height:900}}); const errs=[]; p.on('pageerror',e=>errs.push(e.message));
+ await p.goto('http://localhost:8765/index.html#gk/K.2E'); await p.waitForTimeout(500);
+ await p.click('#detail .secbar button[data-a="1"]'); await p.waitForTimeout(200);
+ await p.screenshot({path:'/tmp/claude-0/-home-claude/78bf741d-87e3-5321-ab17-c985254f55e2/scratchpad/k_std.png'});
+ const perfShown=await p.evaluate(()=>getComputedStyle(document.querySelector('.tabs button[data-view="perf"]')).display);
+ await p.click('.tabs button[data-view="les"]'); await p.waitForTimeout(300);
+ await p.screenshot({path:'/tmp/claude-0/-home-claude/78bf741d-87e3-5321-ab17-c985254f55e2/scratchpad/k_les.png'});
+ await p.selectOption('#courseSel','g3'); await p.waitForTimeout(300);
+ const perf3=await p.evaluate(()=>getComputedStyle(document.querySelector('.tabs button[data-view="perf"]')).display);
+ console.log('perf tab K:',perfShown,'G3:',perf3, errs); await b.close(); })();

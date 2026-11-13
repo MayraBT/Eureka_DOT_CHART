@@ -1,0 +1,1493 @@
+[
+ {
+  "code": "2.8B",
+  "mis": [
+   {
+    "m": "Calls a cylinder a 'circle' or a cube a 'square,' naming the face instead of the solid.",
+    "why": "Students learned flat shape names first and name the part they see facing them.",
+    "fix": "Hand the student the solid and ask, 'Can you hold it all the way around? Flat shapes are only on paper.' Then name the face and the solid in two separate sentences."
+   },
+   {
+    "m": "Sorts a cube away from the rectangular prisms because 'it is a square box, not a rectangle box.'",
+    "why": "Students judge by the look of the faces, not by the rule that all faces are rectangles.",
+    "fix": "Line up a long box, a shorter box and a cube; ask after each, 'Six faces? All rectangles? Then it is a rectangular prism.' Name the cube as a special one."
+   },
+   {
+    "m": "Says a cone has 2 vertices or calls the round edge of a cylinder a vertex.",
+    "why": "Students count anything that looks like a corner or a point.",
+    "fix": "Define a vertex as a point where edges meet; have students run a finger along the curved edge and notice it never ends at a point."
+   }
+  ],
+  "cra": {
+   "c": "Students sort a tub of geometric solids and real objects, such as cans, balls, party hats, cereal boxes and dice, into labeled hoops. They count faces, edges and vertices by touching and marking each with a sticky dot.",
+   "r": "Students draw or glue pictures of solids into a sorting chart with columns such as 'rolls,' 'stacks,' 'has a curved surface,' and record the number of faces, edges and vertices for each.",
+   "a": "Students state the sorting rule with formal words: 'All of these are triangular prisms because they have 2 triangle faces and 3 rectangle faces.' They write the counts in a table next to each solid name.",
+   "look": "Students hold and turn solids while counting, use words like face, edge and vertex, and explain their sorting rule to a partner."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you sort these solids? What is your rule?",
+     "How do you know this one is a triangular prism?"
+    ],
+    "advance": [
+     "Can you sort the same solids a different way?",
+     "Why does the cube belong with the rectangular prisms?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many faces does this solid have? Show me how you counted.",
+     "Which solids have a curved surface?"
+    ],
+    "advance": [
+     "Which solid has no vertices at all?",
+     "How are a cylinder and a cone the same and different?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to a face on this solid.",
+     "Can this solid roll, yes or no?"
+    ],
+    "advance": [
+     "Is this face a circle or a square?",
+     "Is this solid a cone or a cylinder?"
+    ],
+    "support": [
+     "Give only three solids at a time and a picture card with the name of each.",
+     "Put sticky dots on each vertex so the student can count them."
+    ]
+   }
+  },
+  "stems": [
+   "This solid is a ___.",
+   "It has ___ faces.",
+   "I put it here because ___.",
+   "A cube is a rectangular prism because ___.",
+   "My rule is ___."
+  ],
+  "t": "R",
+  "d": "Classify and sort three-dimensional solids, including spheres, cones, cylinders, rectangular prisms (including cubes as special rectangular prisms), and triangular prisms, based on attributes using formal geometric language."
+ },
+ {
+  "code": "2.8C",
+  "mis": [
+   {
+    "m": "Says a shape is not a hexagon because it does not look like the yellow pattern block.",
+    "why": "Students have seen only one example of each polygon and treat that picture as the definition.",
+    "fix": "Show many hexagons, tall, skinny, uneven, and count sides together each time: '6 sides, 6 vertices, it is a hexagon.'"
+   },
+   {
+    "m": "Loses count of sides on a 10- or 12-sided polygon and gets a number that is too big or too small.",
+    "why": "Students do not mark a starting side and keep counting around past the start.",
+    "fix": "Have students put a dot or a tally on each side as they count, starting at a marked side."
+   },
+   {
+    "m": "Calls a shape with a curved side a polygon, or calls an open shape a triangle.",
+    "why": "Students think any closed-looking shape with corners is a polygon.",
+    "fix": "Sort examples and non-examples together and state the rule: a polygon is closed and has only straight sides."
+   }
+  ],
+  "cra": {
+   "c": "Students build polygons on geoboards or with straws and connectors, then count sides and vertices by touching each one. They sort pattern blocks and paper polygons into groups by number of sides.",
+   "r": "Students sort polygon cards into a chart with columns for number of sides and vertices, dotting each vertex and tallying each side as they count.",
+   "a": "Students name the polygon and write the counts: 'octagon, 8 sides, 8 vertices.' They notice and state that the number of sides equals the number of vertices.",
+   "look": "Students mark sides and vertices as they count, sort shapes that look very different into the same group, and name polygons with formal words."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know this is a pentagon?",
+     "What rule did you use to sort these?"
+    ],
+    "advance": [
+     "What do you notice about the number of sides and vertices?",
+     "Can you draw a hexagon that looks different from your partner's?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me how you counted the sides.",
+     "How many vertices does this shape have?"
+    ],
+    "advance": [
+     "Is this shape a polygon? Why or why not?",
+     "What would you call a shape with 10 sides?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to one side.",
+     "Point to one vertex."
+    ],
+    "advance": [
+     "Count the sides with me. How many?",
+     "Does it have 4 sides or 5 sides?"
+    ],
+    "support": [
+     "Give a dry-erase marker so the student can tally each side as it is counted.",
+     "Start with triangles, squares and pentagons before shapes with more sides."
+    ]
+   }
+  },
+  "stems": [
+   "This shape has ___ sides.",
+   "It has ___ vertices.",
+   "It is a ___.",
+   "It is a polygon because ___.",
+   "These shapes go together because ___."
+  ],
+  "t": "R",
+  "d": "Classify and sort polygons with 12 or fewer sides according to attributes, including identifying the number of sides and number of vertices."
+ },
+ {
+  "code": "2.8D",
+  "mis": [
+   {
+    "m": "Builds a new shape that looks right but does not have the given attribute, such as 5 sides.",
+    "why": "Students focus on making a picture instead of checking the attribute.",
+    "fix": "After building, have students count the sides or faces of the new outside shape and check it against the task card."
+   },
+   {
+    "m": "Counts the sides of each small piece instead of the sides of the whole composed shape.",
+    "why": "Students see the parts more easily than the outline of the new shape.",
+    "fix": "Have students trace around the outside of the composed shape with a finger or marker, then count only the traced sides."
+   },
+   {
+    "m": "Thinks only one combination of pieces can make a shape with the given attribute.",
+    "why": "Students stop after their first answer.",
+    "fix": "Ask, 'Can you make a different shape that still has 4 sides?' and display several student answers side by side."
+   }
+  ],
+  "cra": {
+   "c": "Students use pattern blocks, tangrams, linking cubes and clay to build 2D shapes and 3D solids that match a task card, such as 'a shape with 4 sides' or 'a solid with 6 faces.'",
+   "r": "Students trace their composed shapes on paper and outline the new outside shape in a different color, labeling the number of sides or vertices.",
+   "a": "Students record the attribute in words and numbers: 'I used 2 triangles to make a shape with 4 sides.' They compare different ways to meet the same rule.",
+   "look": "Students build, check the attribute by counting, and change their shapes until they match the rule on the card."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know your shape has exactly 5 sides?",
+     "Which pieces did you use and why?"
+    ],
+    "advance": [
+     "Can you make a shape with the same number of sides using fewer pieces?",
+     "Can you build a solid with 6 faces that is not a cube?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me the outside of your new shape.",
+     "How many sides does the new shape have?"
+    ],
+    "advance": [
+     "What happens if you add one more triangle?",
+     "Can you make a different shape that still follows the rule?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the outside edge of your shape.",
+     "How many pieces did you use?"
+    ],
+    "advance": [
+     "Does your shape have 4 sides? Count with me.",
+     "Put two triangles together. What shape did you make?"
+    ],
+    "support": [
+     "Give an outline puzzle to fill with pattern blocks before building freely.",
+     "Give only two kinds of pieces at first."
+    ]
+   }
+  },
+  "stems": [
+   "I used ___ to make a ___.",
+   "My new shape has ___ sides.",
+   "I know it follows the rule because ___.",
+   "I made it a different way by ___.",
+   "My solid has ___ faces."
+  ],
+  "t": "S",
+  "d": "Compose two-dimensional shapes and three-dimensional solids with given properties or attributes."
+ },
+ {
+  "code": "2.8E",
+  "mis": [
+   {
+    "m": "Cuts a shape into two parts that are not the same size and calls them halves.",
+    "why": "Students think 'two pieces' means halves.",
+    "fix": "Fold or place one part on top of the other to check: 'Do they match exactly? Then they are halves.'"
+   },
+   {
+    "m": "Cuts a square out of a rectangle and cannot name the leftover part.",
+    "why": "Students attend to the square and ignore the piece that remains.",
+    "fix": "After each cut, ask students to count sides and vertices of every resulting piece and name each one."
+   },
+   {
+    "m": "Thinks a rectangle can be cut into identical triangles only one way.",
+    "why": "Students see one diagonal cut and do not try others.",
+    "fix": "Give several paper rectangles and challenge students to cut each into identical triangles a different way, then compare."
+   }
+  ],
+  "cra": {
+   "c": "Students fold and cut paper rectangles, squares and circles, and take apart pattern block shapes, then name each resulting part.",
+   "r": "Students draw lines on shape outlines to show cuts and label each part with its name, such as 'square' and 'rectangle' or 'two triangles.'",
+   "a": "Students describe the decomposition in a sentence: 'I cut the rectangle into a square and a smaller rectangle.' They state when the parts are halves and why.",
+   "look": "Students fold, cut or draw lines, check whether parts match, and name every resulting shape with geometric words."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What shapes did you get when you cut this rectangle?",
+     "How do you know these two parts are halves?"
+    ],
+    "advance": [
+     "Can you cut a square into 4 identical triangles?",
+     "What other ways can you cut this rectangle into identical triangles?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Show me where you cut.",
+     "What is the name of the leftover part?"
+    ],
+    "advance": [
+     "How can you check if the parts are the same size?",
+     "If you cut out a square, what is left?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many parts do you have?",
+     "Point to the triangle."
+    ],
+    "advance": [
+     "Are these parts the same size? Put one on top to check.",
+     "Is this part a square or a triangle?"
+    ],
+    "support": [
+     "Pre-draw a dotted cut line for the student to cut on.",
+     "Start with folding a square in half before cutting."
+    ]
+   }
+  },
+  "stems": [
+   "I cut the ___ into ___.",
+   "The new parts are ___.",
+   "These are halves because ___.",
+   "I can cut it another way by ___.",
+   "The leftover part is a ___."
+  ],
+  "t": "S",
+  "d": "Decompose two-dimensional shapes such as cutting out a square from a rectangle, dividing a shape in half, or partitioning a rectangle into identical triangles and identify the resulting geometric parts."
+ },
+ {
+  "code": "2.9A",
+  "mis": [
+   {
+    "m": "Leaves gaps or overlaps between unit cubes or paper clips when measuring.",
+    "why": "Students do not yet see that units must touch end to end with no space.",
+    "fix": "Model a measurement with big gaps and ask, 'Did I measure all of it?' Then have students line up units tightly against a starting line."
+   },
+   {
+    "m": "Starts measuring from somewhere other than the end of the object.",
+    "why": "Students place the first unit wherever it fits.",
+    "fix": "Have students line the object and the first unit up against a book or wall so both start at the same place."
+   },
+   {
+    "m": "Writes only a number, such as '7,' with no unit.",
+    "why": "Students see the count as the answer.",
+    "fix": "Ask, 'Seven what?' every time and keep a word bank of units on the board."
+   }
+  ],
+  "cra": {
+   "c": "Students measure classroom objects with inch tiles, centimeter cubes and foot-long strips laid end to end with no gaps or overlaps.",
+   "r": "Students draw the object and the row of units beneath it, then label the total with a number and a unit.",
+   "a": "Students record measurements in a table, such as 'pencil, 6 inches,' and compare lengths using the numbers.",
+   "look": "Students line up units starting at one end with no gaps and say the length with a number and a unit."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you make sure your measurement is correct?",
+     "Why do the cubes need to touch?"
+    ],
+    "advance": [
+     "How would your measurement change if you left gaps?",
+     "Which object is longer, and by how many units?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you start measuring?",
+     "How many inch tiles long is your pencil?"
+    ],
+    "advance": [
+     "What should you write after the number?",
+     "Can you measure it again to check?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me the first tile.",
+     "Are there any gaps?"
+    ],
+    "advance": [
+     "Count the tiles with me. How many?",
+     "Is it 5 inches or 5 cubes?"
+    ],
+    "support": [
+     "Give a strip of tape as a start line on the desk.",
+     "Use larger units first, like foot-long strips, before small cubes."
+    ]
+   }
+  },
+  "stems": [
+   "The ___ is ___ inches long.",
+   "I started at ___.",
+   "I made sure there were no ___.",
+   "The ___ is longer than the ___.",
+   "I measured with ___."
+  ],
+  "t": "S",
+  "d": "Find the length of objects using concrete models for standard units of length."
+ },
+ {
+  "code": "2.9B",
+  "mis": [
+   {
+    "m": "Says it takes fewer paper clips than cubes to measure a desk because paper clips are 'smaller numbers.'",
+    "why": "Students do not connect the size of the unit to the count.",
+    "fix": "Measure the same object with both units side by side and ask, 'Which unit is longer? Which took more?'"
+   },
+   {
+    "m": "Thinks the object changed length because the count changed.",
+    "why": "Students see the number as the length itself, no matter the unit.",
+    "fix": "Put both rows of units next to the object and ask, 'Did the desk grow? What changed?'"
+   },
+   {
+    "m": "Predicts more of the bigger unit will be needed.",
+    "why": "Students think bigger units mean a bigger number.",
+    "fix": "Have students predict, measure and record in a table, then state the pattern: bigger unit, fewer units."
+   }
+  ],
+  "cra": {
+   "c": "Students measure one object, such as a book, with three different units: centimeter cubes, inch tiles and craft sticks.",
+   "r": "Students draw the object with rows of each unit beneath it and record the counts in a table with columns for unit and number of units.",
+   "a": "Students write the rule in words: 'The longer the unit, the fewer units I need.' They use it to predict before measuring a new object.",
+   "look": "Students measure one object with different units, compare counts, and explain why the bigger unit needed fewer."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you need more cubes than craft sticks?",
+     "What pattern do you see in your table?"
+    ],
+    "advance": [
+     "If you used a unit twice as long, how many would you need?",
+     "Could you predict the number of craft sticks before you measure?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which unit is the longest?",
+     "Which unit did you need the most of?"
+    ],
+    "advance": [
+     "What do you think will happen with an even smaller unit?",
+     "Did the book change length?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Which is longer, a cube or a stick?",
+     "How many sticks did you use?"
+    ],
+    "advance": [
+     "Did you need more cubes or more sticks?",
+     "Is the book the same length both times?"
+    ],
+    "support": [
+     "Use only two units that are very different in size.",
+     "Line the two rows of units next to each other to compare."
+    ]
+   }
+  },
+  "stems": [
+   "The bigger unit needs ___ units.",
+   "The smaller unit needs ___ units.",
+   "I needed more ___ because ___.",
+   "I predict ___.",
+   "The ___ did not change length because ___."
+  ],
+  "t": "S",
+  "d": "Describe the inverse relationship between the size of the unit and the number of units needed to equal the length of an object."
+ },
+ {
+  "code": "2.9C",
+  "mis": [
+   {
+    "m": "Counts tick marks instead of the spaces between them to find a distance.",
+    "why": "Students count each mark, including the starting one.",
+    "fix": "Draw hops above the number line from mark to mark and count the hops, not the marks."
+   },
+   {
+    "m": "Thinks distance always starts at 0.",
+    "why": "Students have mostly seen number lines that start at 0.",
+    "fix": "Give number lines that start at 30 or 125 and ask, 'How far is it from 30 to 45?'"
+   },
+   {
+    "m": "Says the distance from 15 to 40 is 40.",
+    "why": "Students read the end number as the distance.",
+    "fix": "Have students draw the jump and label it: 'I jumped 25 from 15 to land on 40.'"
+   }
+  ],
+  "cra": {
+   "c": "Students walk on a floor number line made with tape and take steps from one number to another, counting the steps as they go.",
+   "r": "Students draw open number lines and show distances as jumps from any starting number, such as jumping 10 then 5 from 30 to 45.",
+   "a": "Students write the distance in a sentence and an equation: '45 - 30 = 15. It is 15 from 30 to 45.'",
+   "look": "Students draw hops between marks, start at numbers other than 0, and label each jump with its distance."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How far is it from 28 to 50? How did you figure it out?",
+     "Why did you jump 10 first?"
+    ],
+    "advance": [
+     "Is the distance from 50 to 28 the same? Why?",
+     "Can you find the distance with fewer jumps?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you start?",
+     "How big was each jump?"
+    ],
+    "advance": [
+     "What equation matches your jumps?",
+     "What if you started at 30 instead?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put your finger on 20.",
+     "Hop to 25. How many hops?"
+    ],
+    "advance": [
+     "Are you counting the hops or the marks?",
+     "Did you land on 25?"
+    ],
+    "support": [
+     "Walk the floor number line before drawing jumps.",
+     "Give a number line with every mark labeled."
+    ]
+   }
+  },
+  "stems": [
+   "I started at ___.",
+   "I jumped ___ to get to ___.",
+   "The distance is ___.",
+   "I counted the hops, not the ___.",
+   "My equation is ___."
+  ],
+  "t": "S",
+  "d": "Represent whole numbers as distances from any given location on a number line."
+ },
+ {
+  "code": "2.9D",
+  "mis": [
+   {
+    "m": "Lines up the object with the edge of the ruler instead of the 0 mark.",
+    "why": "Many rulers have a space before 0, and students start at the physical end.",
+    "fix": "Have students put a finger on the 0 mark and line the object up there every time."
+   },
+   {
+    "m": "Reads the ruler starting at 1 instead of 0, so every length is 1 too long.",
+    "why": "Students count numbers instead of spaces.",
+    "fix": "Use a broken ruler start like 3 and ask how many inch spaces the object covers."
+   },
+   {
+    "m": "Reads the length when the end of the object is between marks without choosing the nearest one.",
+    "why": "Students are not sure whether to round up or down.",
+    "fix": "Ask, 'Which mark is the end closer to?' and have students point to both nearby marks before choosing."
+   }
+  ],
+  "cra": {
+   "c": "Students measure objects with rulers, yardsticks, meter sticks and measuring tapes, choosing the tool that fits the object's size.",
+   "r": "Students draw the object above a ruler picture and circle the nearest marked unit at the end of the object.",
+   "a": "Students record each length as a number and a unit, such as '8 centimeters' or '3 feet,' in a class table.",
+   "look": "Students line up objects at 0, find the nearest mark, and choose a tool that fits the object."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide the length?",
+     "Why did you choose a yardstick for the door?"
+    ],
+    "advance": [
+     "What if the object did not start at 0? How could you still measure?",
+     "Is it closer to 6 inches or 7 inches? How do you know?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Where did you line up the object?",
+     "What unit is on this side of the ruler?"
+    ],
+    "advance": [
+     "Which mark is the end closest to?",
+     "What tool would you use for the hallway?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me the 0 on your ruler.",
+     "What number is at the end?"
+    ],
+    "advance": [
+     "Is the end closer to 4 or 5?",
+     "Is it 4 inches or 4 centimeters?"
+    ],
+    "support": [
+     "Put a colored dot on the 0 mark of the ruler.",
+     "Use rulers marked only in whole units first."
+    ]
+   }
+  },
+  "stems": [
+   "The ___ is about ___ long.",
+   "I lined it up at ___.",
+   "It is closer to ___.",
+   "I used a ___ because ___.",
+   "I measured in ___."
+  ],
+  "t": "S",
+  "d": "Determine the length of an object to the nearest marked unit using rulers, yardsticks, meter sticks, or measuring tapes."
+ },
+ {
+  "code": "2.9E",
+  "mis": [
+   {
+    "m": "Adds all the numbers in a length word problem, even when the problem asks how much longer.",
+    "why": "Students grab numbers and add without picturing the situation.",
+    "fix": "Have students draw a strip diagram showing the two lengths and the difference before solving."
+   },
+   {
+    "m": "Gives an estimate that is far off, such as saying a pencil is 50 inches long.",
+    "why": "Students do not have a feel for how long one unit is.",
+    "fix": "Build benchmarks: 'An inch is about the width of a thumb; a foot is about a sheet of paper's long side.'"
+   },
+   {
+    "m": "Mixes units in one problem, such as adding 3 feet and 12 inches to get 15.",
+    "why": "Students see numbers and ignore the units.",
+    "fix": "Circle the units in every problem and ask, 'Are these the same unit?' before solving."
+   }
+  ],
+  "cra": {
+   "c": "Students estimate lengths with body benchmarks and then check with rulers and measuring tapes. They act out length problems with strips of paper or ribbon.",
+   "r": "Students use strip diagrams and open number lines to show lengths joined together or compared.",
+   "a": "Students write and solve equations such as 48 + 25 = ? or 60 - 35 = ? and label the answer with a unit.",
+   "look": "Students estimate before measuring, draw strip diagrams for length problems, and label answers with units."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did your strip diagram help you solve this?",
+     "Is your answer reasonable? How do you know?"
+    ],
+    "advance": [
+     "How would the problem change if the ribbon were cut in half?",
+     "Can you write your own length problem for a partner?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What is the problem asking?",
+     "Do you need to join or compare?"
+    ],
+    "advance": [
+     "What does each part of your strip diagram show?",
+     "How close was your estimate?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How long is the first ribbon?",
+     "Point to the unit."
+    ],
+    "advance": [
+     "Are we putting the ribbons together or comparing them?",
+     "Is your answer in inches or feet?"
+    ],
+    "support": [
+     "Give real ribbons to act out the problem first.",
+     "Give a strip diagram with the parts already labeled."
+    ]
+   }
+  },
+  "stems": [
+   "I estimate it is about ___.",
+   "My strip diagram shows ___.",
+   "The answer is ___ inches.",
+   "My answer makes sense because ___.",
+   "I added because ___."
+  ],
+  "t": "R",
+  "d": "Determine a solution to a problem involving length, including estimating lengths."
+ },
+ {
+  "code": "2.9F",
+  "mis": [
+   {
+    "m": "Leaves gaps or overlaps tiles when covering a rectangle.",
+    "why": "Students place tiles loosely without lining up rows.",
+    "fix": "Have students start in a corner and push each tile snug against the last one, row by row."
+   },
+   {
+    "m": "Counts only the tiles around the edge.",
+    "why": "Students confuse covering the inside with going around the outside.",
+    "fix": "Shade the inside of the rectangle and ask students to cover all the shaded space before counting."
+   },
+   {
+    "m": "Writes '12' without 'square units.'",
+    "why": "Students see the count as the full answer.",
+    "fix": "Ask, '12 what?' and model the answer: '12 square units.'"
+   }
+  ],
+  "cra": {
+   "c": "Students cover rectangles drawn on paper with square color tiles or sticky notes, with no gaps or overlaps, and count the tiles.",
+   "r": "Students draw grid lines inside rectangles on grid paper to show the square units and count by rows.",
+   "a": "Students record the area with a number and the unit: 'The rectangle covers 15 square units.' Some may notice and say '3 rows of 5.'",
+   "look": "Students cover rectangles completely with tiles, count carefully by rows, and state the area as a number of square units."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How do you know you covered the whole rectangle?",
+     "How did you count your tiles?"
+    ],
+    "advance": [
+     "Can you count faster by rows?",
+     "Can you make a different rectangle with the same number of square units?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Are there any gaps or overlaps?",
+     "How many tiles are in one row?"
+    ],
+    "advance": [
+     "How many rows did you make?",
+     "What would happen if you left a gap?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Put a tile in the corner.",
+     "How many tiles did you use?"
+    ],
+    "advance": [
+     "Is there a gap here?",
+     "Is it 10 or 10 square units?"
+    ],
+    "support": [
+     "Give a rectangle with the grid already drawn inside.",
+     "Start with small rectangles, like 2 by 3."
+    ]
+   }
+  },
+  "stems": [
+   "The area is ___ square units.",
+   "I covered it with no ___.",
+   "I counted ___ rows.",
+   "Each row has ___.",
+   "I know it is covered because ___."
+  ],
+  "t": "S",
+  "d": "Use concrete models of square units to find the area of a rectangle by covering it with no gaps or overlaps, counting to find the total number of square units, and describing the measurement using a number and the unit."
+ },
+ {
+  "code": "2.9G",
+  "mis": [
+   {
+    "m": "Reads the hour hand as the minute hand, such as reading 3:20 as 4:15.",
+    "why": "Both hands look alike and students do not check which is shorter.",
+    "fix": "Use clocks with color-coded hands and have students name the short hand first: 'The hour hand is past 3.'"
+   },
+   {
+    "m": "Reads the minute hand by the number it points to, such as saying 4 minutes for the 4.",
+    "why": "Students forget that each number on the clock stands for 5 minutes.",
+    "fix": "Count by fives around the clock together and label minute values outside the numbers."
+   },
+   {
+    "m": "Uses a.m. for evening activities or p.m. for breakfast.",
+    "why": "Students do not connect a.m. and p.m. to parts of the day.",
+    "fix": "Build a daily schedule anchor chart with a.m. activities and p.m. activities split at noon."
+   }
+  ],
+  "cra": {
+   "c": "Students set geared analog clocks to match digital times and daily events, moving the minute hand one minute at a time.",
+   "r": "Students draw hands on clock faces and match them to digital time cards, labeling each with a.m. or p.m. and an event.",
+   "a": "Students write times in digital form, such as 7:42 a.m., and explain which hand shows the hour and which shows the minutes.",
+   "look": "Students count by fives and ones on analog clocks, match analog and digital times, and use a.m. and p.m. with real events."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you figure out the minutes?",
+     "How do you know this is p.m.?"
+    ],
+    "advance": [
+     "What time will it be in 10 minutes?",
+     "Why is the hour hand between 8 and 9?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which hand is the hour hand?",
+     "How did you count the minutes?"
+    ],
+    "advance": [
+     "Can you show 4:37 on your clock?",
+     "Is lunch a.m. or p.m.?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the short hand.",
+     "Count by fives with me."
+    ],
+    "advance": [
+     "Is the hour hand closer to 2 or 3?",
+     "Do we eat breakfast in the a.m. or p.m.?"
+    ],
+    "support": [
+     "Use a clock with minute numbers printed outside the hours.",
+     "Start with times to five minutes before one-minute times."
+    ]
+   }
+  },
+  "stems": [
+   "The time is ___.",
+   "The hour hand is ___.",
+   "The minute hand shows ___ minutes.",
+   "It is a.m. because ___.",
+   "It is p.m. because ___."
+  ],
+  "t": "R",
+  "d": "Read and write time to the nearest one-minute increment using analog and digital clocks and distinguish between a.m. and p.m."
+ },
+ {
+  "code": "2.10A",
+  "mis": [
+   {
+    "m": "Thinks a bar's height shows how big or important the category is, not how many data points it has.",
+    "why": "Students see the bar as a picture instead of a count.",
+    "fix": "Build bars with cubes, one cube per vote, and ask, 'What does each cube stand for?'"
+   },
+   {
+    "m": "Counts the pictures in a pictograph but forgets that one picture may stand for more than one.",
+    "why": "Students do not read the key.",
+    "fix": "Have students point to the key and say, 'Each picture means ___,' before counting."
+   },
+   {
+    "m": "Reads the number from the bar's side or middle instead of the top.",
+    "why": "Students are not sure where the bar ends on the scale.",
+    "fix": "Have students slide a ruler or strip from the bar's top straight across to the scale."
+   }
+  ],
+  "cra": {
+   "c": "Students build real graphs with linking cubes or sticky notes, one per student vote, then turn them into bars and pictures.",
+   "r": "Students compare a cube tower, a bar graph and a pictograph of the same data and match each part to the count it shows.",
+   "a": "Students explain in words, 'The bar for dogs reaches 7, so 7 students chose dogs,' and write the number for each category.",
+   "look": "Students connect each picture or each unit of a bar to one data point and read counts using the scale or key."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What does the length of this bar tell you?",
+     "How do you know how many pictures equal one vote?"
+    ],
+    "advance": [
+     "If 3 more students chose cats, how would the bar change?",
+     "Why is the pictograph key important?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many students chose apples?",
+     "What does one cube stand for?"
+    ],
+    "advance": [
+     "How can you check the number with the scale?",
+     "Which category has the longest bar? What does that mean?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the bar for dogs.",
+     "How many pictures are there?"
+    ],
+    "advance": [
+     "Does each picture stand for 1 or 2?",
+     "Where does this bar stop?"
+    ],
+    "support": [
+     "Build the data with cubes before reading the graph.",
+     "Use graphs where each picture stands for 1."
+    ]
+   }
+  },
+  "stems": [
+   "The bar for ___ shows ___.",
+   "Each picture stands for ___.",
+   "___ students chose ___.",
+   "This bar is longer because ___.",
+   "The key tells me ___."
+  ],
+  "t": "S",
+  "d": "Explain that the length of a bar in a bar graph or the number of pictures in a pictograph represents the number of data points for a given category."
+ },
+ {
+  "code": "2.10B",
+  "mis": [
+   {
+    "m": "Draws bars of different widths or leaves uneven spaces between categories.",
+    "why": "Students focus on color and not on equal parts.",
+    "fix": "Provide grid paper and show that bars have the same width so only the length shows the count."
+   },
+   {
+    "m": "Uses a scale that skips unevenly, such as 0, 2, 5, 6.",
+    "why": "Students write numbers they need instead of equal intervals.",
+    "fix": "Have students count by the interval aloud, such as by 2s, while labeling the scale."
+   },
+   {
+    "m": "Draws one picture for every data point even when the key says each picture stands for 2.",
+    "why": "Students forget to use the key while making the pictograph.",
+    "fix": "Have students write the key first and circle data in groups of 2 before drawing."
+   }
+  ],
+  "cra": {
+   "c": "Students collect data with tally marks or objects, then sort the objects into up to four groups before graphing.",
+   "r": "Students make bar graphs and pictographs on grid paper with titles, labels, keys and equal intervals of one or more.",
+   "a": "Students write the count for each category and check that each bar or row of pictures matches the data.",
+   "look": "Students organize data into categories, choose an interval, label graphs completely and check bars against tallies."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you choose to count by 2s on your scale?",
+     "How do you know your graph matches your tally chart?"
+    ],
+    "advance": [
+     "How would your graph change if each picture stood for 5?",
+     "What title tells the reader what your graph is about?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many categories do you have?",
+     "What does your key say?"
+    ],
+    "advance": [
+     "Are your intervals equal?",
+     "How tall should this bar be?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How many tallies are in this group?",
+     "Color one box for each tally."
+    ],
+    "advance": [
+     "Does each picture stand for 1 or 2?",
+     "Did you label the bottom of the graph?"
+    ],
+    "support": [
+     "Give a graph frame with the title and scale already labeled.",
+     "Start with an interval of one."
+    ]
+   }
+  },
+  "stems": [
+   "My graph is about ___.",
+   "Each picture stands for ___.",
+   "I counted by ___ on my scale.",
+   "My bar for ___ is ___ long.",
+   "I know my graph is right because ___."
+  ],
+  "t": "S",
+  "d": "Organize a collection of data with up to four categories using pictographs and bar graphs with intervals of one or more."
+ },
+ {
+  "code": "2.10C",
+  "mis": [
+   {
+    "m": "Adds every category on the graph when the question asks about only two.",
+    "why": "Students do not read the question closely.",
+    "fix": "Have students underline the categories named in the question and point to only those bars."
+   },
+   {
+    "m": "Adds when the problem asks 'how many more,' instead of comparing.",
+    "why": "Students link the word 'more' to adding.",
+    "fix": "Line up the two bars and show the difference with cubes or a strip diagram."
+   },
+   {
+    "m": "Writes a word problem that cannot be answered from the graph.",
+    "why": "Students make up numbers that are not on the graph.",
+    "fix": "Ask, 'Where on the graph can I find that number?' and point to it together."
+   }
+  ],
+  "cra": {
+   "c": "Students build bar graph data with linking cube towers and compare or join towers to answer questions.",
+   "r": "Students use strip diagrams beside the graph to show joining or comparing two categories.",
+   "a": "Students write and solve equations such as 12 + 8 = 20 or 12 - 8 = 4, then answer in a full sentence.",
+   "look": "Students read values from graphs, choose addition or subtraction, show their thinking with strip diagrams and write their own problems."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How did you decide to add or subtract?",
+     "Which bars did you use?"
+    ],
+    "advance": [
+     "Can you write a different question using this graph?",
+     "How many students voted in all?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How many chose red? How many chose blue?",
+     "What does the question ask you to find?"
+    ],
+    "advance": [
+     "How does your strip diagram match the graph?",
+     "How many more chose red than blue?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the bar for red.",
+     "How many is that?"
+    ],
+    "advance": [
+     "Are we putting together or comparing?",
+     "Count the cubes in the red tower."
+    ],
+    "support": [
+     "Build the two bars with cube towers side by side.",
+     "Give a problem with the two categories highlighted on the graph."
+    ]
+   }
+  },
+  "stems": [
+   "The graph shows ___.",
+   "I added because ___.",
+   "I subtracted because ___.",
+   "___ more students chose ___.",
+   "My question is ___."
+  ],
+  "t": "R",
+  "d": "Write and solve one-step word problems involving addition or subtraction using data represented within pictographs and bar graphs with intervals of one."
+ },
+ {
+  "code": "2.10D",
+  "mis": [
+   {
+    "m": "States a fact from the graph but does not draw a conclusion.",
+    "why": "Students are not sure how a fact differs from a conclusion.",
+    "fix": "Use two stems: 'The graph shows ___' and 'So I think ___,' and model both."
+   },
+   {
+    "m": "Makes a prediction based on personal favorites, not the data.",
+    "why": "Students draw on their own experience.",
+    "fix": "Ask, 'What on the graph makes you think that?' and have the student point to the evidence."
+   },
+   {
+    "m": "Predicts the least popular category will win next time.",
+    "why": "Students do not use patterns in the data.",
+    "fix": "Compare categories with cubes and ask, 'If we asked another class, which do you think would have the most?'"
+   }
+  ],
+  "cra": {
+   "c": "Students use cube towers of class data to compare and talk about what the data shows before making predictions.",
+   "r": "Students read bar graphs and pictographs and mark the evidence they use, such as the longest bar.",
+   "a": "Students write conclusions and predictions with evidence: 'Most students chose pizza, so I predict pizza will be the top choice in another class.'",
+   "look": "Students point to the graph as evidence, compare categories and make predictions that match the data."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What can you conclude from this graph?",
+     "What evidence supports your prediction?"
+    ],
+    "advance": [
+     "What would happen if 10 more students voted?",
+     "Why might another class have different results?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Which category has the most?",
+     "What does that tell you?"
+    ],
+    "advance": [
+     "What do you predict for another class?",
+     "Which bar helps you predict?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the longest bar.",
+     "What did most students choose?"
+    ],
+    "advance": [
+     "Which has the most, pizza or tacos?",
+     "Do you think pizza would win again?"
+    ],
+    "support": [
+     "Give a graph with only two categories.",
+     "Use a picture graph with each picture standing for 1."
+    ]
+   }
+  },
+  "stems": [
+   "The graph shows ___.",
+   "Most students chose ___.",
+   "I predict ___ because ___.",
+   "The evidence is ___.",
+   "I think ___ because the graph ___."
+  ],
+  "t": "S",
+  "d": "Draw conclusions and make predictions from information in a graph."
+ },
+ {
+  "code": "2.11A",
+  "mis": [
+   {
+    "m": "Adds the saving amount only once instead of for each week.",
+    "why": "Students do not see saving as a pattern over time.",
+    "fix": "Use a table with one row for each week and add the same amount to each row."
+   },
+   {
+    "m": "Thinks saving $1 a week cannot become a large amount.",
+    "why": "Students see each small amount by itself.",
+    "fix": "Count coins into a jar each week and show the total growing over several weeks."
+   },
+   {
+    "m": "Loses track of the weeks or skips a week while counting.",
+    "why": "Students count mentally without recording each step.",
+    "fix": "Mark each week on a calendar or number line as you add the savings."
+   }
+  ],
+  "cra": {
+   "c": "Students put play coins or bills in a pretend savings jar each 'week' and count the total after several weeks.",
+   "r": "Students use a table or open number line to show savings growing, with one jump for each week.",
+   "a": "Students write repeated addition such as $5 + $5 + $5 + $5 = $20 and explain how many weeks it takes to reach a goal.",
+   "look": "Students track savings over time with coins, tables and number lines and explain how a small amount grows."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "How much will you have after 6 weeks?",
+     "How did you find the total?"
+    ],
+    "advance": [
+     "How many weeks to save $30 if you save $5 each week?",
+     "What if you saved $10 each week instead?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "How much do you save each week?",
+     "How much do you have after 2 weeks?"
+    ],
+    "advance": [
+     "What pattern do you see in your table?",
+     "How many weeks until you reach $20?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "How much is in the jar now?",
+     "Add one more week. How much now?"
+    ],
+    "advance": [
+     "Is it $5 or $10 after two weeks?",
+     "Count the coins with me."
+    ],
+    "support": [
+     "Use real play coins and a jar.",
+     "Give a table with the weeks already labeled."
+    ]
+   }
+  },
+  "stems": [
+   "I save ___ each week.",
+   "After ___ weeks I have ___.",
+   "My savings grow because ___.",
+   "It will take ___ weeks to save ___.",
+   "I added ___ each time."
+  ],
+  "t": "S",
+  "d": "Calculate how money saved can accumulate into a larger amount over time."
+ },
+ {
+  "code": "2.11B",
+  "mis": [
+   {
+    "m": "Thinks saving means never spending money at all.",
+    "why": "Students see saving and spending as all or nothing.",
+    "fix": "Use a story where a child saves some and spends some; sort the money into two jars."
+   },
+   {
+    "m": "Thinks saving is only for adults.",
+    "why": "Students do not see saving in their own lives.",
+    "fix": "Share kid-sized examples, such as saving birthday money for a toy."
+   },
+   {
+    "m": "Cannot explain why someone might choose to save instead of spend.",
+    "why": "Students focus on wanting things now.",
+    "fix": "Ask, 'What could you buy later if you wait?' and compare a small item now with a bigger item later."
+   }
+  ],
+  "cra": {
+   "c": "Students get play money and decide whether to spend it at a class store or save it in a jar for a bigger item.",
+   "r": "Students draw two jars, 'spend' and 'save,' and show how they would split money between them.",
+   "a": "Students explain choices in words: 'I saved $5 instead of spending it so I can buy a ball later.'",
+   "look": "Students make choices between spending and saving and explain the reasons for their choices."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why did you choose to save?",
+     "What is the difference between saving and spending?"
+    ],
+    "advance": [
+     "What might happen if you spend all your money now?",
+     "When is it a good idea to spend instead of save?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What would you buy if you spent your money?",
+     "What could you buy if you saved?"
+    ],
+    "advance": [
+     "Which jar would you put this money in? Why?",
+     "How long would you need to save?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Is this money for spending or saving?",
+     "Put this coin in the save jar."
+    ],
+    "advance": [
+     "Do you want the sticker now or the ball later?",
+     "Saving or spending?"
+    ],
+    "support": [
+     "Use two labeled jars with pictures.",
+     "Give a short story with one clear choice."
+    ]
+   }
+  },
+  "stems": [
+   "I chose to save because ___.",
+   "I chose to spend because ___.",
+   "Saving means ___.",
+   "If I save, I can ___.",
+   "Instead of spending, I can ___."
+  ],
+  "t": "S",
+  "d": "Explain that saving is an alternative to spending."
+ },
+ {
+  "code": "2.11C",
+  "mis": [
+   {
+    "m": "Mixes up the words deposit and withdrawal.",
+    "why": "Both are new words and sound unusual.",
+    "fix": "Act it out with a pretend bank: 'Deposit means put in. Withdrawal means take out.' Use hand motions."
+   },
+   {
+    "m": "Thinks a withdrawal adds money to the account because the person gets money.",
+    "why": "Students focus on the money in their hand.",
+    "fix": "Ask, 'What happened to the money in the bank?' and show the bank balance going down."
+   },
+   {
+    "m": "Thinks a deposit means spending money.",
+    "why": "Students link giving money away with spending.",
+    "fix": "Show that a deposit keeps the money safe in the account, then count it again."
+   }
+  ],
+  "cra": {
+   "c": "Students use a pretend bank and play money to make deposits and withdrawals, counting the account before and after.",
+   "r": "Students record deposits and withdrawals on a simple chart with plus and minus signs and a picture of money going in or out.",
+   "a": "Students write equations to show account changes, such as $20 + $5 = $25 for a deposit and $25 - $10 = $15 for a withdrawal.",
+   "look": "Students act out deposits and withdrawals and explain how each one changes the money in the account."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Is this a deposit or a withdrawal? How do you know?",
+     "How did the account change?"
+    ],
+    "advance": [
+     "What happens after two deposits and one withdrawal?",
+     "Why might someone make a withdrawal?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Did money go into or out of the bank?",
+     "How much is in the account now?"
+    ],
+    "advance": [
+     "What equation shows this deposit?",
+     "What word means taking money out?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Show me a deposit.",
+     "Show me a withdrawal."
+    ],
+    "advance": [
+     "Did the money go in or out?",
+     "Is it a deposit or a withdrawal?"
+    ],
+    "support": [
+     "Use arrows into and out of a bank picture.",
+     "Act out each word with a hand motion."
+    ]
+   }
+  },
+  "stems": [
+   "A deposit means ___.",
+   "A withdrawal means ___.",
+   "This is a ___ because ___.",
+   "The bank has ___ now.",
+   "I made a ___."
+  ],
+  "t": "S",
+  "d": "Distinguish between a deposit and a withdrawal."
+ },
+ {
+  "code": "2.11D",
+  "mis": [
+   {
+    "m": "Thinks borrowing means you get to keep the item.",
+    "why": "Students confuse borrowing with getting a gift.",
+    "fix": "Use classroom examples, such as borrowing a pencil, and stress, 'Borrowing means you give it back.'"
+   },
+   {
+    "m": "Thinks all borrowing is bad.",
+    "why": "Students hear warnings about borrowing.",
+    "fix": "Sort scenarios into responsible and irresponsible borrowing and talk about what makes each one so."
+   },
+   {
+    "m": "Cannot tell what makes borrowing responsible.",
+    "why": "Students do not connect borrowing with a plan to pay back.",
+    "fix": "Use a checklist: 'Did they ask? Did they return it on time? Did they take care of it?'"
+   }
+  ],
+  "cra": {
+   "c": "Students act out borrowing scenarios with classroom items, such as books, crayons and play money, and return them on time.",
+   "r": "Students sort scenario cards into a T-chart labeled responsible borrowing and irresponsible borrowing.",
+   "a": "Students explain each sort: 'Ana borrowed $2 and paid it back on Friday, so that is responsible borrowing.'",
+   "look": "Students act out and sort borrowing examples and give reasons for calling them responsible or irresponsible."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "Why is this borrowing responsible?",
+     "What could make this borrowing irresponsible?"
+    ],
+    "advance": [
+     "What should someone think about before borrowing money?",
+     "How can someone show they are a responsible borrower?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What did the person borrow?",
+     "Did they give it back?"
+    ],
+    "advance": [
+     "Which side of the chart does this go on?",
+     "What does borrowing mean?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Did she give the book back?",
+     "Is that responsible?"
+    ],
+    "advance": [
+     "Responsible or irresponsible?",
+     "Do you keep something you borrowed?"
+    ],
+    "support": [
+     "Use picture cards for each scenario.",
+     "Act out one example before sorting."
+    ]
+   }
+  },
+  "stems": [
+   "Borrowing means ___.",
+   "This is responsible because ___.",
+   "This is irresponsible because ___.",
+   "A responsible borrower ___.",
+   "I would ___ before borrowing."
+  ],
+  "t": "S",
+  "d": "Identify examples of borrowing and distinguish between responsible and irresponsible borrowing."
+ },
+ {
+  "code": "2.11E",
+  "mis": [
+   {
+    "m": "Thinks lending means giving something away for good.",
+    "why": "Students confuse lending with giving.",
+    "fix": "Act out lending a book and getting it back: 'Lending means you get it back.'"
+   },
+   {
+    "m": "Says yes to every lending request without thinking about costs.",
+    "why": "Students want to be kind and do not see possible risks.",
+    "fix": "Make a two-column list of benefits and costs before deciding."
+   },
+   {
+    "m": "Cannot name a cost of lending.",
+    "why": "Costs like not getting something back or not having it when you need it are not visible.",
+    "fix": "Ask, 'What could happen if you lend your only pencil?' and list possible costs together."
+   }
+  ],
+  "cra": {
+   "c": "Students role-play lending classroom items and play money, deciding whether to lend based on who is asking and what they need.",
+   "r": "Students fill in a benefits and costs chart for each lending scenario.",
+   "a": "Students explain a decision: 'I would lend $3 to my brother because he paid me back last time. The cost is I can't buy a snack today.'",
+   "look": "Students identify lending examples, weigh benefits and costs, and explain their lending decisions."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What are the benefits of lending this?",
+     "What are the costs?"
+    ],
+    "advance": [
+     "Would you lend to someone who did not return something before? Why?",
+     "How could you make lending less risky?"
+    ]
+   },
+   "t2": {
+    "assess": [
+     "Who is lending in this story?",
+     "What could go wrong?"
+    ],
+    "advance": [
+     "What is one benefit?",
+     "Would you lend it? Why?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "What does lending mean?",
+     "Did he get it back?"
+    ],
+    "advance": [
+     "Is this a benefit or a cost?",
+     "Would you lend it, yes or no?"
+    ],
+    "support": [
+     "Use picture cards showing benefits and costs.",
+     "Role-play with a partner before writing."
+    ]
+   }
+  },
+  "stems": [
+   "Lending means ___.",
+   "A benefit is ___.",
+   "A cost is ___.",
+   "I would lend because ___.",
+   "I would not lend because ___."
+  ],
+  "t": "S",
+  "d": "Identify examples of lending and use concepts of benefits and costs to evaluate lending decisions."
+ },
+ {
+  "code": "2.11F",
+  "mis": [
+   {
+    "m": "Thinks a person is only a producer or only a consumer.",
+    "why": "Students see the two roles as separate kinds of people.",
+    "fix": "Show that a baker makes bread and also buys flour; ask, 'When is she a producer? When is she a consumer?'"
+   },
+   {
+    "m": "Leaves out materials when finding the cost to produce an item.",
+    "why": "Students count only the main part, such as the bracelet beads, and forget the string.",
+    "fix": "Have students list every material on a recipe card before adding costs."
+   },
+   {
+    "m": "Confuses the cost to make an item with the price it sells for.",
+    "why": "Students hear both as how much it costs.",
+    "fix": "Use a T-chart: 'cost to make' and 'price to sell,' and talk about the difference."
+   }
+  ],
+  "cra": {
+   "c": "Students make simple items, such as bookmarks or bracelets, buying materials with play money from a class store.",
+   "r": "Students list materials and their costs in a table or strip diagram that shows each part of the total cost.",
+   "a": "Students add costs to find the total, such as 25¢ + 10¢ + 15¢ = 50¢, and explain who is the producer and who is the consumer.",
+   "look": "Students list materials, add their costs, and use the words producer and consumer correctly."
+  },
+  "q": {
+   "t1": {
+    "assess": [
+     "What is the total cost to make your bookmark?",
+     "Who is the producer and who is the consumer?"
+    ],
+    "advance": [
+     "If the ribbon cost more, how would the total change?",
+     "Can a person be both a producer and a consumer? Give an example."
+    ]
+   },
+   "t2": {
+    "assess": [
+     "What materials did you use?",
+     "How much did each material cost?"
+    ],
+    "advance": [
+     "How did you find the total cost?",
+     "Are you a producer or a consumer right now?"
+    ]
+   },
+   "t3": {
+    "assess": [
+     "Point to the cost of the string.",
+     "Who made the bookmark?"
+    ],
+    "advance": [
+     "Is the baker a producer or a consumer?",
+     "Did you add all the costs?"
+    ],
+    "support": [
+     "Give a materials list with prices already filled in.",
+     "Use only two materials at first."
+    ]
+   }
+  },
+  "stems": [
+   "A producer ___.",
+   "A consumer ___.",
+   "It costs ___ to make.",
+   "I added ___ to find the cost.",
+   "I am a ___ when I ___."
+  ],
+  "t": "S",
+  "d": "Differentiate between producers and consumers and calculate the cost to produce a simple item."
+ }
+]

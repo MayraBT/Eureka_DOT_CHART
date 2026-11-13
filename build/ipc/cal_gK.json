@@ -1,0 +1,997 @@
+{
+ "grade": "K",
+ "ss": {
+  "modules": [
+   {
+    "n": 1,
+    "name": "Numbers to 10",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Attributes of Two Related Objects"
+     },
+     {
+      "t": "B",
+      "name": "Classify to Make Categories and Count"
+     },
+     {
+      "t": "C",
+      "name": "Numbers to 5 in Different Configurations, Math Drawings and Expressions"
+     },
+     {
+      "t": "D",
+      "name": "Concept of Zero and Working with Numbers 0-5"
+     },
+     {
+      "t": "E",
+      "name": "Working with Numbers 6-8 in Different Configurations"
+     },
+     {
+      "t": "F",
+      "name": "Working with Numbers 9-10 in Different Configurations"
+     },
+     {
+      "t": "G",
+      "name": "One More with Numbers 0-10"
+     },
+     {
+      "t": "H",
+      "name": "One Less with Numbers 0-10"
+     }
+    ],
+    "focus": [
+     "K.2A",
+     "K.2B",
+     "K.2C",
+     "K.2D",
+     "K.2E",
+     "K.2F",
+     "K.2I",
+     "K.8A"
+    ],
+    "included": [
+     "K.2D",
+     "K.2E",
+     "K.5"
+    ],
+    "omit": [
+     25,
+     34,
+     36,
+     37
+    ],
+    "combine": [
+     "15-16"
+    ],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 32,
+     "assess": 9,
+     "total": 41
+    },
+    "notes": [
+     "K.2F focus is '(through 10)'",
+     "S&S says 'Assessments: 3' but names only Mid-Module and End-of-Module",
+     "Original Eureka counts struck through: Lesson Days 37, Assessment Days 6, Total 42",
+     "BOY i-Ready: 8/19 - 8/21"
+    ]
+   },
+   {
+    "n": 2,
+    "name": "Two-Dimensional and Three-Dimensional Shapes",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Two-Dimensional Flat Shapes"
+     },
+     {
+      "t": "B",
+      "name": "Three-Dimensional Solid Shapes"
+     },
+     {
+      "t": "C",
+      "name": "Two-Dimensional and Three-Dimensional Shapes"
+     }
+    ],
+    "focus": [
+     "K.6A",
+     "K.6B",
+     "K.6C",
+     "K.6D",
+     "K.6E",
+     "K.8A",
+     "K.8B",
+     "K.8C"
+    ],
+    "included": [],
+    "omit": [
+     10
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 9,
+     "assess": 2,
+     "total": 11
+    },
+    "notes": [
+     "Original Eureka counts struck through: Lesson Days 10, Assessment Days 3, Total 10"
+    ]
+   },
+   {
+    "n": 3,
+    "name": "Comparison of Length, Weight, Capacity, and Numbers to 10",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Comparison of Length and Height"
+     },
+     {
+      "t": "B",
+      "name": "Comparison of Length and Height of Linking Cube Sticks Within 10"
+     },
+     {
+      "t": "C",
+      "name": "Comparison of Weight"
+     },
+     {
+      "t": "D",
+      "name": "Comparison of Volume"
+     },
+     {
+      "t": "E",
+      "name": "Are There Enough?"
+     },
+     {
+      "t": "F",
+      "name": "Comparison of Sets Within 10"
+     },
+     {
+      "t": "G",
+      "name": "Comparison of Numerals"
+     }
+    ],
+    "focus": [
+     "K.2E",
+     "K.2G",
+     "K.2H",
+     "K.7A",
+     "K.7B"
+    ],
+    "included": [
+     "K.2D",
+     "K.2E",
+     "K.2F",
+     "K.2G",
+     "K.2I",
+     "K.4"
+    ],
+    "omit": [
+     7
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 25,
+     "assess": 7,
+     "total": 32
+    },
+    "notes": [
+     "K.2E, K.2G, K.2H focus '(1-10)'; K.4 included '(penny)'",
+     "S&S says 'Assessments: 3' but names only Mid-Module and End-of-Module",
+     "Q2 calendar and weekly IPC also skip Lesson 14 (not listed as omitted in the S&S)",
+     "Original Eureka counts struck through: Lesson Days 27, Assessment Days 6, Total 33",
+     "MOY i-Ready: 12/2 - 12/3"
+    ]
+   },
+   {
+    "n": 4,
+    "name": "Number Pairs, Addition and Subtraction to 10",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Compositions and Decompositions of 2, 3, 4, and 5"
+     },
+     {
+      "t": "B",
+      "name": "Decompositions of 6, 7, and 8 into Number Pairs"
+     },
+     {
+      "t": "C",
+      "name": "Addition with Totals of 6, 7, 8"
+     },
+     {
+      "t": "D",
+      "name": "Subtraction from Numbers to 8"
+     },
+     {
+      "t": "E",
+      "name": "Decompositions of 9 and 10 into Number Pairs"
+     },
+     {
+      "t": "F",
+      "name": "Addition with Totals of 9 and 10"
+     },
+     {
+      "t": "G",
+      "name": "Subtraction from 9 and 10"
+     },
+     {
+      "t": "H",
+      "name": "Patterns with Adding 0 and 1 and Making 10"
+     }
+    ],
+    "focus": [
+     "K.2I",
+     "K.3A",
+     "K.3B",
+     "K.3C"
+    ],
+    "included": [
+     "K.4"
+    ],
+    "omit": [
+     41
+    ],
+    "combine": [
+     "29-30",
+     "35-36",
+     "39-40"
+    ],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 37,
+     "assess": 4,
+     "total": 41
+    },
+    "notes": [
+     "K.4 included '(nickel)'",
+     "Original Eureka counts struck through: Lesson Days 41, Assessment Days 6, Total 42"
+    ]
+   },
+   {
+    "n": 5,
+    "name": "Numbers 10-20, Counting to 100 and Understanding Work",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Count 10 Ones and Some Ones"
+     },
+     {
+      "t": "B",
+      "name": "Compose Numbers 11-20 from 10 Ones and Some Ones; Represent and Write Teen Numbers"
+     },
+     {
+      "t": "C",
+      "name": "Decompose Numbers 11-20 and Count to Answer “How Many?” Questions in Varied Configurations"
+     },
+     {
+      "t": "D",
+      "name": "Extend the Say Ten and Regular Count Sequence to 100"
+     },
+     {
+      "t": "E",
+      "name": "Represent and Apply Compositions and Decompositions of Teen Numbers"
+     },
+     {
+      "t": "F",
+      "name": "Understanding Work"
+     }
+    ],
+    "focus": [
+     "K.2A",
+     "K.2B",
+     "K.2C",
+     "K.2D",
+     "K.2E",
+     "K.2F",
+     "K.2G",
+     "K.2H",
+     "K.5",
+     "K.4",
+     "K.9A",
+     "K.9B",
+     "K.9C",
+     "K.9D"
+    ],
+    "included": [],
+    "omit": [
+     15,
+     16,
+     17,
+     18,
+     19,
+     24
+    ],
+    "combine": [
+     "4-5",
+     "11-12"
+    ],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 20,
+     "assess": 4,
+     "total": 24
+    },
+    "notes": [
+     "K.2E, K.2G, K.2H '(through 20)'; K.4 '(all coins)'",
+     "Omit Lessons listed as '15 - 19, 24'",
+     "End-of-Module Assessment is listed before Topic F (Understanding Work)",
+     "Original Eureka counts struck through: Lesson Days 27, Assessment Days 6, Total 34"
+    ]
+   },
+   {
+    "n": 6,
+    "name": "Analyzing, Comparing, and Composing Shapes",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Building and Drawing Flat and Solid Shapes"
+     },
+     {
+      "t": "B",
+      "name": "Composing and Decomposing Shapes"
+     }
+    ],
+    "focus": [
+     "K.6C",
+     "K.6D",
+     "K.6F"
+    ],
+    "included": [
+     "K.6A",
+     "K.6B",
+     "K.6E"
+    ],
+    "omit": [
+     8
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 7,
+     "assess": 2,
+     "total": 9
+    },
+    "notes": [
+     "Included list written 'K6b' in the S&S",
+     "Original Eureka counts struck through: Lesson Days 8, Assessment Days 3, Total 13"
+    ]
+   }
+  ]
+ },
+ "lessons": {
+  "M1.L1": "Analyze to find two objects that are exactly the same or not exactly the same.",
+  "M1.L2": "Analyze to find two similar objects—these are the same but…",
+  "M1.L3": "Classify to find two objects that share a visual pattern, color, and use.",
+  "M1.L4": "Classify items into two predetermined categories.",
+  "M1.L5": "Classify items into three categories, determine the count in each, and reason about how the last number named determines the total.",
+  "M1.L6": "Sort categories by count. Identify categories with 2, 3, and 4 within a given scenario.",
+  "M1.L7": "Sort by count in vertical columns and horizontal rows (linear configurations to 5). Match to numerals on cards.",
+  "M1.L8": "Answer how many questions to 5 in linear configurations (5-group), with 4 in an array configuration. Compare ways to count five fingers.",
+  "M1.L9": "Within linear and array dot configurations of numbers 3, 4, and 5, find hidden partners.",
+  "M1.L10": "Within circular and scattered dot configurations of numbers 3, 4, and 5, find hidden partners.",
+  "M1.L11": "Model decompositions of 3 with materials, drawings, and expressions. Represent the decomposition as 1 + 2 and 2 + 1.",
+  "M1.L12": "Understand the meaning of zero. Write the numeral 0.",
+  "M1.L13": "Order and write numerals 0–3 to answer how many questions.",
+  "M1.L14": "Write numerals 1–3. Represent decompositions with materials, drawings, and equations, 3 = 2 + 1 and 3 = 1 + 2.",
+  "M1.L15": "Order and write numerals 4 and 5 to answer how many questions in categories; sort by count.",
+  "M1.L16": "Write numerals 1–5 in order. Answer and make drawings of decompositions with totals of 4 and 5 without equations.",
+  "M1.L17": "Count 4–6 objects in vertical and horizontal linear configurations and array configurations. Match 6 objects to the numeral 6.",
+  "M1.L18": "Count 4–6 objects in circular and scattered configurations. Count 6 items out of a larger set. Write numerals 1–6 in order.",
+  "M1.L19": "Count 5–7 linking cubes in linear configurations. Match with numeral 7. Count on fingers from 1 to 7, and connect to 5-group images.",
+  "M1.L20": "Reason about sets of 7 varied objects in circular and scattered configurations. Find a path through the scattered configuration. Write numeral 7. Ask, “How is your seven different than mine?”",
+  "M1.L21": "Compare counts of 8 in linear and array configurations. Match with numeral 8.",
+  "M1.L22": "Arrange and strategize to count 8 beans in circular (around a cup) and scattered configurations. Write numeral 8. Find a path through the scattered set, and compare paths with a partner.",
+  "M1.L23": "Organize and count 9 varied geometric objects in linear and array (3 threes) configurations. Place objects on 5-group mat. Match with numeral 9.",
+  "M1.L24": "Strategize to count 9 objects in circular (around a paper plate) and scattered configurations printed on paper. Write numeral 9. Represent a path through the scatter count with a pencil. Number each object.",
+  "M1.L26": "Count 10 objects in linear and array configurations (2 fives). Match with numeral 10. Place on the 5-group mat. Dialogue about 9 and 10. Write numeral 10.",
+  "M1.L27": "Count 10 objects, and move between all configurations.",
+  "M1.L28": "Act out result unknown story problems without equations.",
+  "M1.L29": "Order and match numeral and dot cards from 1 to 10. State 1 more than a given number.",
+  "M1.L30": "Make math stairs from 1 to 10 in cooperative groups.",
+  "M1.L31": "Arrange, analyze, and draw 1 more up to 10 in configurations other than towers.",
+  "M1.L32": "Arrange, analyze, and draw sequences of quantities of 1 more, beginning with numbers other than 1.",
+  "M1.L33": "Order quantities from 10 to 1, and match numerals.",
+  "M1.L35": "Arrange number towers in order from 10 to 1, and describe the pattern.",
+  "M2.L1": "Find and describe flat triangles, squares, rectangles, hexagons, and circles using informal language without naming them.",
+  "M2.L2": "Explain decisions about classifications of triangles into categories using variants and non-examples and record on a picture graph. Identify shapes as triangles.",
+  "M2.L3": "Explain decisions about classifications of rectangles into categories using variants and non-examples and record on a picture graph. Identify shapes as rectangles.",
+  "M2.L4": "Explain decisions about classifications of hexagons and circles identify them by name, and record on a picture graph. Make observations using variants and non-examples.",
+  "M2.L5": "Describe and communicate positions of all flat shapes using the words above, below, beside, in front of, next to, and behind",
+  "M2.L6": "Find and describe solid shapes using informal language without naming them.",
+  "M2.L7": "Explain decisions about classification of solid shapes into categories and record on a picture graph. Name the solid shapes.",
+  "M2.L8": "Describe and communicate positions of all flat shapes using the words above, below, beside, in front of, next to, and behind.",
+  "M2.L9": "Identify and sort shapes as two-dimensional or three-dimensional, and recognize two-dimensional and three-dimensional shapes in different orientations and sizes.",
+  "M3.L1": "Compare lengths using taller than and shorter than with aligned and non-aligned-endpoints.",
+  "M3.L2": "Compare length measurements with string.",
+  "M3.L3": "Make a series of longer than and shorter than comparisons.",
+  "M3.L4": "Compare the length of linking cube sticks to a 5-stick.",
+  "M3.L5": "Determine which linking cube stick is longer than or shorter than the other.",
+  "M3.L6": "Compare the length of linking cube sticks to various objects.",
+  "M3.L8": "Compare using heavier than and lighter than with classroom Objects.",
+  "M3.L9": "Compare objects using heavier than, lighter than, and the same as with the balance scales",
+  "M3.L10": "Compare the weight of an object to a set of unit weights on a balance scale.",
+  "M3.L11": "Observe conservation of weight on the balance scale.",
+  "M3.L12": "Compare the weight of an object with sets of different objects on a balance scale.",
+  "M3.L13": "Compare volume using more than, less than, and the same as by pouring.",
+  "M3.L15": "Compare using the same as with units.",
+  "M3.L16": "Compare to find if there are enough.",
+  "M3.L17": "Compare using more than and the same as.",
+  "M3.L18": "Compare using fewer than and the same as.",
+  "M3.L19": "Relate more and less to length.",
+  "M3.L20": "Compare sets informally using more, less, and fewer.",
+  "M3.L21": "Identify and create a set that has the same number of objects.",
+  "M3.L22": "Reason to identify and make a set that has 1 more.",
+  "M3.L23": "Reason to identify and make a set that has 1 less.",
+  "M3.L24": "Match and count to compare a number of objects. State which quantity is more.",
+  "M3.L25": "Match and count to compare two sets of objects. State which quantity is less.",
+  "M3.L26": "Strategize to compare two sets.",
+  "M3.L27": "Visualize quantities to compare two numerals.",
+  "M4.L1": "Model composition and decomposition of numbers to 5 using actions, objects, and drawings.",
+  "M4.L2": "Model composition and decomposition of numbers to 5 using fingers and linking cube sticks.",
+  "M4.L3": "Represent composition story situations with drawings using numeric number bonds.",
+  "M4.L4": "Represent decomposition story situations with drawings using numeric number bonds.",
+  "M4.L5": "Represent composition and decomposition of numbers to 5 using pictorial and numeric number bonds.",
+  "M4.L6": "Represent number bonds with composition and decomposition story situations.",
+  "M4.L7": "Model decompositions of 6 using a story situation, objects, and number bonds.",
+  "M4.L8": "Model decompositions of 7 using a story situation, sets, and number bonds.",
+  "M4.L9": "Model decompositions of 8 using a story situation, arrays, and number bonds.",
+  "M4.L10": "Model decompositions of 6–8 using linking cube sticks to see patterns.",
+  "M4.L11": "Represent decompositions for 6–8 using horizontal and vertical number bonds.",
+  "M4.L12": "Use 5-groups to represent the 5 + n pattern to 8.",
+  "M4.L13": "Represent decomposition and composition addition stories to 6 with drawings and equations with no unknown.",
+  "M4.L14": "Represent decomposition and composition addition stories to 7 with drawings and equations with no unknown.",
+  "M4.L15": "Represent decomposition and composition addition stories to 8 with drawings and equations with no unknown.",
+  "M4.L16": "Solve add to with result unknown word problems to 8 with equations. Box the unknown.",
+  "M4.L17": "Solve put together with total unknown word problems to 8 using objects and drawings.",
+  "M4.L18": "Solve both addends unknown word problems to 8 to find addition patterns in number pairs.",
+  "M4.L19": "Use objects and drawings to find how many are left.",
+  "M4.L20": "Solve take from with result unknown expressions and equations using the minus sign with no unknown.",
+  "M4.L21": "Represent subtraction story problems using objects, drawings, expressions, and equations.",
+  "M4.L22": "Decompose the number 6 using 5-group drawings by breaking off or removing a part, and record each decomposition with a drawing and subtraction equation.",
+  "M4.L23": "Decompose the number 7 using 5-group drawings by hiding a part, and record each decomposition with a drawing and subtraction equation.",
+  "M4.L24": "Decompose the number 8 using 5-group drawings and crossing off a part, and record each decomposition with a drawing and subtraction equation.",
+  "M4.L25": "Model decompositions of 9 using a story situation, objects, and number bonds.",
+  "M4.L26": "Model decompositions of 9 using fingers, linking cubes, and number bonds.",
+  "M4.L27": "Model decompositions of 10 using a story situation, objects, and number bonds.",
+  "M4.L28": "Model decompositions of 10 using fingers, linking cubes, and number bonds.",
+  "M4.L29": "Represent pictorial decomposition and composition addition stories to 9 with 5-group drawings and equations with no unknown.",
+  "M4.L30": "Represent pictorial decomposition and composition addition stories to 10 with 5-group drawings and equations with no unknown.",
+  "M4.L31": "Solve add to with total unknown and put together with total unknown problems with totals of 9 and 10.",
+  "M4.L32": "Solve both addends unknown word problems with totals of 9 and 10 using 5-group drawings.",
+  "M4.L33": "Solve take from equations with no unknown using numbers to 10.",
+  "M4.L34": "Represent subtraction story problems by breaking off, crossing out, and hiding a part.",
+  "M4.L35": "Decompose the number 9 using 5-group drawings, and record each decomposition with a subtraction equation.",
+  "M4.L36": "Decompose the number 10 using 5-group drawings, and record each decomposition with a subtraction equation.",
+  "M4.L37": "Add or subtract 0 to get the same number and relate to word problems wherein the same quantity that joins a set, separates.",
+  "M4.L38": "Add 1 to numbers 1-9 to see the pattern of the next number using 5-group drawings and equations.",
+  "M4.L39": "Find the number that makes 10 for numbers 1-9, and record each with a 5-group drawing.",
+  "M4.L40": "Find the number that makes 10 for numbers 1-9, and record each with an addition equation."
+ },
+ "q3": {
+  "weeks": [
+   {
+    "q": 3,
+    "wk": 19,
+    "start": "2027-01-04",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Staff/Student Holiday"
+     },
+     {
+      "dow": "Tue",
+      "kind": "off",
+      "text": "Professional Development"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L1"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L2"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L3"
+      ],
+      "topic": "M4 Topic A"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 20,
+    "start": "2027-01-11",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L4"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L5"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L6"
+      ],
+      "topic": "M4 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L7"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L8"
+      ],
+      "topic": "M4 Topic B"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 21,
+    "start": "2027-01-18",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Staff/Student Holiday"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L9"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L10"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L11"
+      ],
+      "topic": "M4 Topic B"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L12"
+      ],
+      "topic": "M4 Topic B"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 22,
+    "start": "2027-01-25",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L13"
+      ],
+      "topic": "M4 Topic C"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L14"
+      ],
+      "topic": "M4 Topic C"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L15"
+      ],
+      "topic": "M4 Topic C"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L16"
+      ],
+      "topic": "M4 Topic C"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L17"
+      ],
+      "topic": "M4 Topic C"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 23,
+    "start": "2027-02-01",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L18"
+      ],
+      "topic": "M4 Topic C"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L19"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L20"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L21"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L22"
+      ],
+      "topic": "M4 Topic D"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 24,
+    "start": "2027-02-08",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L23"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L24"
+      ],
+      "topic": "M4 Topic D"
+     },
+     {
+      "dow": "Wed",
+      "kind": "assess",
+      "text": "Mid-Module 4 Observational Assessment (Review, Assessment, Reteach)"
+     },
+     {
+      "dow": "Thu",
+      "kind": "assess",
+      "text": "Mid-Module 4 Observational Assessment (Review, Assessment, Reteach)"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L25"
+      ],
+      "topic": "M4 Topic E"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 25,
+    "start": "2027-02-15",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Professional Development"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L26"
+      ],
+      "topic": "M4 Topic E"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L27"
+      ],
+      "topic": "M4 Topic E"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L28"
+      ],
+      "topic": "M4 Topic E"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L29",
+       "M4.L30"
+      ],
+      "topic": "M4 Topic F",
+      "text": "Lessons 29 and 30 combined"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 26,
+    "start": "2027-02-22",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L31"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L32"
+      ],
+      "topic": "M4 Topic F"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L33"
+      ],
+      "topic": "M4 Topic G"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M4.L34"
+      ],
+      "topic": "M4 Topic G"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M4.L35",
+       "M4.L36"
+      ],
+      "topic": "M4 Topic G",
+      "text": "Lessons 35 and 36 combined"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 27,
+    "start": "2027-03-01",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M4.L37"
+      ],
+      "topic": "M4 Topic H"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M4.L38"
+      ],
+      "topic": "M4 Topic H"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M4.L39",
+       "M4.L40"
+      ],
+      "topic": "M4 Topic H",
+      "text": "Lessons 39 and 40 combined"
+     },
+     {
+      "dow": "Thu",
+      "kind": "assess",
+      "text": "End-of-Module 4 Observational Assessment (Assessment/Review/Reteach)"
+     },
+     {
+      "dow": "Fri",
+      "kind": "assess",
+      "text": "End-of-Module 4 Observational Assessment (Assessment/Review/Reteach)"
+     }
+    ]
+   }
+  ]
+ },
+ "events": [
+  {
+   "date": "2026-08-10",
+   "label": "Teacher Work Day"
+  },
+  {
+   "date": "2026-08-11",
+   "label": "Quarter 1 Starts"
+  },
+  {
+   "date": "2026-08-19",
+   "label": "i-Ready BOY Inform (S&S: 8/19 - 8/21; Q1 calendar places it in week of Aug 17)"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Labor Day"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Mid-Module 1 Observational Assessment (Assessment/Review/Reteach)"
+  },
+  {
+   "date": "2026-10-05",
+   "label": "End of Module 1 Observational Assessment (Assessment/Review/Reteach)"
+  },
+  {
+   "date": "2026-10-08",
+   "label": "Student/Staff Holidays (Oct 8 - 9; calendar cell not day-aligned)"
+  },
+  {
+   "date": "2026-10-12",
+   "label": "Quarter 2 Starts / Professional Development"
+  },
+  {
+   "date": "2026-10-26",
+   "label": "End-of-Module 2 Observational Assessment (Assessment/Review/Reteach)"
+  },
+  {
+   "date": "2026-11-03",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2026-11-17",
+   "label": "Mid-Module 3 Assessment/Review/Reteach"
+  },
+  {
+   "date": "2026-11-23",
+   "label": "Thanksgiving Break (Nov 23 - 27)"
+  },
+  {
+   "date": "2026-12-01",
+   "label": "iReady MOY Inform Window (S&S: 12/2 - 12/3)"
+  },
+  {
+   "date": "2026-12-15",
+   "label": "End-of-Module 3 Observational Assessment (Assessment/Review/Reteach)"
+  },
+  {
+   "date": "2026-12-18",
+   "label": "Early Release"
+  },
+  {
+   "date": "2027-01-04",
+   "label": "Staff/Student Holiday (calendar header: Quarter 3 Starts January 4, 2027)"
+  },
+  {
+   "date": "2027-01-05",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2027-01-18",
+   "label": "Staff/Student Holiday"
+  },
+  {
+   "date": "2027-02-10",
+   "label": "Mid-Module 4 Observational Assessment (Review, Assessment, Reteach)"
+  },
+  {
+   "date": "2027-02-15",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2027-03-04",
+   "label": "End-of-Module 4 Observational Assessment (Assessment/Review/Reteach)"
+  },
+  {
+   "date": "2027-05-11",
+   "label": "EOY i-Ready (5/11 - 5/12)"
+  }
+ ],
+ "notes": [
+  "Previewing Next Grade Level's Content: DISD Lesson Days 16, Assessment Days 2, Total Instructional Days 18",
+  "Dallas ISD Total Instructional Days: 176"
+ ]
+}

@@ -1,0 +1,925 @@
+{
+ "grade": "K",
+ "weeks": [
+  {
+   "q": 3,
+   "wk": 19,
+   "start": "2027-01-04",
+   "title": "Q3:W1 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L1"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A"
+     ],
+     "bundled": [
+      "K.3B",
+      "K.4"
+     ],
+     "lo": "I am learning to model composition and decomposition of numbers to 5 using actions, objects, and drawings.",
+     "sc": [
+      "I can compose five using objects or people.",
+      "I can use a number bond to compose five.",
+      "I can use a number bond to decompose five."
+     ],
+     "te": {
+      "M4.L1": "https://drive.google.com/file/d/1XP_FBW35HFjn33juw_m-TLZqJBs2jdda/edit?disco=AAABATbFK_A"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L2"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A"
+     ],
+     "bundled": [
+      "K.3B",
+      "K.4"
+     ],
+     "lo": "I am learning to model composition and decomposition of numbers to 5 using fingers and linking cube sticks.",
+     "sc": [
+      "I can compose five using linking cubes or fingers.",
+      "I can use a number bond to compose five.",
+      "I can use a number bond to decompose to five."
+     ],
+     "te": {
+      "M4.L2": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABASPOMME"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L3"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A"
+     ],
+     "bundled": [
+      "K.3B",
+      "K.4"
+     ],
+     "lo": "I am learning to represent composition story situations with drawings usingnumeric number bonds.",
+     "sc": [
+      "I can create a number bond from a story problem."
+     ],
+     "te": {
+      "M4.L3": "https://drive.google.com/file/d/1XP_FBW35HFjn33juw_m-TLZqJBs2jdda/edit?disco=AAABASPOMP8"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 20,
+   "start": "2027-01-11",
+   "title": "Q3:W2 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L4"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A"
+     ],
+     "bundled": [
+      "K.3B",
+      "K.4"
+     ],
+     "lo": "I am learning to represent decomposition story situations with drawings using numeric number bonds.",
+     "sc": [
+      "I can decompose a number bond from a story problem."
+     ],
+     "te": {
+      "M4.L4": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABASPOMQg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L5"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A"
+     ],
+     "bundled": [
+      "K.3B",
+      "K.4"
+     ],
+     "lo": "I am learning to represent composition and decomposition of numbers to 5 using pictorial and numeric number bonds.",
+     "sc": [
+      "I can represent compose with number bonds.",
+      "I can represent decomposition with number bonds."
+     ],
+     "te": {
+      "M4.L5": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABASPOMdU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L6"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A"
+     ],
+     "bundled": [
+      "K.3B",
+      "K.4"
+     ],
+     "lo": "I am learning to represent number bonds with composition and decomposition story situations.",
+     "sc": [
+      "I can create a number bond to match a number story.",
+      "I can tell a story with a number bond."
+     ],
+     "te": {
+      "M4.L6": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABASPOMg4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L7"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B"
+     ],
+     "bundled": [
+      "K.3A"
+     ],
+     "lo": "I am learning to model decompositions of 6 using a story situation, objects, andnumber bonds.",
+     "sc": [
+      "I can use linking cubes to model a number story.",
+      "I can create different ways to decompose 6 using a number story."
+     ],
+     "te": {
+      "M4.L7": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABASPOMhc"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L8"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B"
+     ],
+     "bundled": [
+      "K.3A"
+     ],
+     "lo": "I am learning to model decompositions of 7 using a story situation, sets, andnumber bonds.",
+     "sc": [
+      "I can create a number bond with triangles and circles.",
+      "I can create a number to match the number bond."
+     ],
+     "te": {
+      "M4.L8": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABASPOMhs"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 21,
+   "start": "2027-01-18",
+   "title": "Q3:W3 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L9"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B"
+     ],
+     "bundled": [
+      "K.3A"
+     ],
+     "lo": "I am learning to model decompositions of 8 using a story situation, arrays, andnumber bonds.",
+     "sc": [
+      "I can decompose 8 using pictures and arrays.",
+      "I can use a number bond to decompose 8."
+     ],
+     "te": {
+      "M4.L9": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_eZyjEo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L10"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B"
+     ],
+     "bundled": [
+      "K.3A"
+     ],
+     "lo": "I am learning to model decompositions of 6–8 using linking cube sticks to see patterns.",
+     "sc": [
+      "I can use linking cubes to decompose numbers 6, 7 and 8.",
+      "I can use linking cubes to create a pattern to create numbers."
+     ],
+     "te": {
+      "M4.L10": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_eZyjHg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L11"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B"
+     ],
+     "bundled": [
+      "K.3A"
+     ],
+     "lo": "I am learning to represent decompositions for 6–8 using horizontal and verticalnumber bonds.",
+     "sc": [
+      "I can use a linking stick to make horizontal number bonds.",
+      "I can use linking cubes to make vertical number bonds."
+     ],
+     "te": {
+      "M4.L11": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_eZyjJE"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L12"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B"
+     ],
+     "bundled": [
+      "K.3A"
+     ],
+     "lo": "I am learning to use 5-groups to represent the 5 + n pattern to 8.",
+     "sc": [
+      "I can use number bonds to add on from five.",
+      "I can use linking cubes to add on from five."
+     ],
+     "te": {
+      "M4.L12": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_eZyjRw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 22,
+   "start": "2027-01-25",
+   "title": "Q3:W4 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L13"
+     ],
+     "teks": [
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "bundled": [
+      "K.2I"
+     ],
+     "lo": "I am learning to represent decomposition and composition addition stories to 6 with drawings and equations with no unknown.",
+     "sc": [
+      "I can create a number bond from a number story using number 6.",
+      "I can find the unknown of a number story."
+     ],
+     "te": {
+      "M4.L13": "https://drive.google.com/file/d/1XP_FBW35HFjn33juw_m-TLZqJBs2jdda/edit?disco=AAABAINZ_jc"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L14"
+     ],
+     "teks": [
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "bundled": [
+      "K.2I"
+     ],
+     "lo": "I am learning to  represent decomposition and composition addition stories to 7 with drawings and equations with no unknown.",
+     "sc": [
+      "I can create a number bond from a number story using number 7 and linking cubes.",
+      "I can find the unknown of a number story."
+     ],
+     "te": {
+      "M4.L14": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_nyxLYY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L15"
+     ],
+     "teks": [
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "bundled": [
+      "K.2I"
+     ],
+     "lo": "I am learning to represent decomposition and composition addition stories to 8 with drawings and equations with no unknown.",
+     "sc": [
+      "I can create a number bond from a number story using number 8 and linking cubes.",
+      "I can find the unknown of a number story."
+     ],
+     "te": {
+      "M4.L15": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_nyxLd4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L16"
+     ],
+     "teks": [
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "bundled": [
+      "K.2I"
+     ],
+     "lo": "I am learning how to add to solve with the result unknown word problems to 8 with equations and box the unknown.",
+     "sc": [
+      "I can draw pictures to show a word problem.",
+      "I can use pictures to solve a problem."
+     ],
+     "te": {
+      "M4.L16": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_nyxLeQ"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L17"
+     ],
+     "teks": [
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "bundled": [
+      "K.2I"
+     ],
+     "lo": "I am learning to solve put together with total unknown word problems to 8 using objects and drawings.",
+     "sc": [
+      "I can solve “put together” word problems with objects.",
+      "I can solve “put together” word problems with drawings."
+     ],
+     "te": {
+      "M4.L17": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_nyxLlA"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 23,
+   "start": "2027-02-01",
+   "title": "Q3:W5 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L18"
+     ],
+     "teks": [
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "bundled": [
+      "K.2I"
+     ],
+     "lo": "I am learning to solve both addends unknown word problems to 8 to find addition patterns in number pairs.",
+     "sc": [
+      "I can draw a picture to tell a number story.",
+      "I can write a number sentence to match a number story."
+     ],
+     "te": {
+      "M4.L18": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_nyxLmg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L19"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to use objects and drawings to find how many are left.",
+     "sc": [
+      "I can use a picture to tell how many are left.",
+      "I can use objects to show how many are left."
+     ],
+     "te": {
+      "M4.L19": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA8m13r1k"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L20"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to solve take from with result unknown expressions and equations using the minus sign with no unknown.",
+     "sc": [
+      "I can use linking cubes to show take away.",
+      "I can write a number sentence using the minus sign."
+     ],
+     "te": {
+      "M4.L20": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAIERzHs"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L21"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to represent subtraction story problems using objects, drawings, expressions, and equations.",
+     "sc": [
+      "I can show a subtraction problem using pictures.",
+      "I can use a number sentence to show subtraction from a story."
+     ],
+     "te": {
+      "M4.L21": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAIERzIM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L22"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to decompose the number 6 using 5-group drawings by hiding a part, and record with a drawing or number sentence.",
+     "sc": [
+      "I can draw a subtraction picture from 7 linking cubes.",
+      "I can use linking cubes to create a number sentence."
+     ],
+     "te": {
+      "M4.L22": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAIERzI0"
+     },
+     "note": "Lesson Highlights include notes on combining lessons; IPC lists only Lesson 22"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 24,
+   "start": "2027-02-08",
+   "title": "Q3:W6 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L23"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to decompose the numbers 6 and 7 using 5-group drawings by hiding a part, and record with a drawing or number sentence.",
+     "sc": [
+      "I can draw a subtraction picture from 7 linking cubes.",
+      "I can use linking cubes to create a number sentence."
+     ],
+     "te": {
+      "M4.L23": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAIBTkeU"
+     },
+     "note": "Lesson Highlights include notes on combining lessons; IPC lists only Lesson 23"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L24"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to decompose the number 8 using 5-group drawings by hiding a part, and record with a drawing or number sentence.",
+     "sc": [
+      "I can draw a subtraction picture from 8 linking cubes.",
+      "I can use linking cubes to create a number sentence."
+     ],
+     "te": {
+      "M4.L24": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAIBTkis"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Mid-Module 4 Assessment (review content- 1 day and assessment- 1 day)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "Mid-Module 4 Assessment (review content- 1 day and assessment- 1 day)"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L25"
+     ],
+     "teks": [
+      "K.2I"
+     ],
+     "lo": "I am learning to model decompositions of 9 using objects, story situations, and number bonds.",
+     "sc": [
+      "I can use 9 linking cubes to show a number story.",
+      "I can use a number bond to show a number story."
+     ],
+     "te": {
+      "M4.L25": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABBLyQcSo"
+     },
+     "note": "Lesson Highlights include notes on combining lessons; IPC lists only Lesson 25"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 25,
+   "start": "2027-02-15",
+   "title": "Q3:W7 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "No School"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L26"
+     ],
+     "teks": [
+      "K.2I"
+     ],
+     "lo": "I am learning to model decompositions of 9 using fingers, linking cubes, and number bonds.",
+     "sc": [
+      "I can use 9 linking cubes to show a number story.",
+      "I can use a number bond to show a number story."
+     ],
+     "te": {
+      "M4.L26": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABBLyQcUA"
+     },
+     "note": "Lesson Highlights include notes on combining lessons; IPC lists only Lesson 26"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L27"
+     ],
+     "teks": [
+      "K.2I"
+     ],
+     "lo": "I am learning to model decompositions of 10 using objects, story situations, and number bonds.",
+     "sc": [
+      "I can draw a subtraction picture from 10 linking cubes.",
+      "I can use linking cubes to create a number sentence."
+     ],
+     "te": {
+      "M4.L27": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABBLyQcWQ"
+     },
+     "note": "Lesson Highlights include notes on combining lessons; IPC lists only Lesson 27"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L28"
+     ],
+     "teks": [
+      "K.2I"
+     ],
+     "lo": "I am learning to model decompositions of 10 using fingers, linking cubes, and number bonds.",
+     "sc": [
+      "I can draw a subtraction picture from 10 linking cubes.",
+      "I can use linking cubes to create a number sentence."
+     ],
+     "te": {
+      "M4.L28": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_sYaYcA"
+     },
+     "note": "Lesson Highlights include notes on combining lessons; IPC lists only Lesson 28"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L29",
+      "M4.L30"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to represent pictorial decomposition and composition addition stories to 9 and 10 with 5-group drawings and equations with no unknown.",
+     "sc": [
+      "I can use pictures to show addition stories up to 10.",
+      "I can create an addition number bond."
+     ],
+     "te": {
+      "M4.L29": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_sYaYdo",
+      "M4.L30": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_sYaYeI"
+     },
+     "note": "lessons combined"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 26,
+   "start": "2027-02-22",
+   "title": "Q3:W8 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L31"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to solve “add to” with total unknown and put together with total unknown problems with totals of 9 and 10.",
+     "sc": [
+      "I can use objects to solve addition number stories with pictures."
+     ],
+     "te": {
+      "M4.L31": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_sYaYfQ"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L32"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to solve both addends unknown word problems with totals of 9 and 10 using 5-group drawings.",
+     "sc": [
+      "I can use pictures to solve number stories with unknown addends."
+     ],
+     "te": {
+      "M4.L32": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_sYaYfg"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L33"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to solve take from equations with no unknown using numbers to 10.",
+     "sc": [
+      "I can use objects to find a number sentence.",
+      "I can model subtraction with linking cubes."
+     ],
+     "te": {
+      "M4.L33": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_d15LX0"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M4.L34"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to represent subtraction story problems by breaking off, crossing out, and hiding a part.",
+     "sc": [
+      "I can use linking to model a number bond.",
+      "I can use linking cubes to draw pictures of a number story.",
+      "I can use objects to model number stories."
+     ],
+     "te": {
+      "M4.L34": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_d15LaI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M4.L35",
+      "M4.L36"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to decompose the numbers 9 and 10 using 5-group drawings, and record each decomposition with a subtraction equation.",
+     "sc": [
+      "I can use pictures to show a number store.",
+      "I can number bonds to show a number story.",
+      "I can use a number to show a number story."
+     ],
+     "te": {
+      "M4.L35": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_d15Lbk",
+      "M4.L36": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAJhQ9Y4"
+     },
+     "note": "lessons combined"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 27,
+   "start": "2027-03-01",
+   "title": "Q3:W9 Eureka Math IPC Kindergarten 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M4.L37"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to add or subtract 0 to get the same number and relate to word problems wherein the same quantity that joins a set, separates.",
+     "sc": [
+      "I can use objects to count on from 5.",
+      "I can use objects to count back from 5.",
+      "I can create a number sentence from objects."
+     ],
+     "te": {
+      "M4.L37": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAJhQ9ZE"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M4.L38"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to add 1 to numbers 1-9 to see the pattern of the next numberusing 5-group drawings and equations.",
+     "sc": [
+      "I can create a number sentence from a number pattern."
+     ],
+     "te": {
+      "M4.L38": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAJhQ9bw"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M4.L39",
+      "M4.L40"
+     ],
+     "teks": [
+      "K.2I",
+      "K.3A",
+      "K.3B",
+      "K.3C"
+     ],
+     "lo": "I am learning to find the number that makes 10 for numbers 1-9, and record each with a drawing and addition equation.",
+     "sc": [
+      "I can make the number 10 with a drawing.",
+      "I can make the number and write a number sentence."
+     ],
+     "te": {
+      "M4.L39": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAAA_p7iJd0",
+      "M4.L40": "https://drive.google.com/open?id=1XP_FBW35HFjn33juw_m-TLZqJBs2jdda&disco=AAABAIbT-Pg"
+     },
+     "note": "lessons combined"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "End of Module 4 Assessment (review content 1 day and, assessment 1 day)"
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "End of Module 4 Assessment (review content 1 day and, assessment 1 day)",
+     "note": "The Bridge (for Dual Language only)"
+    }
+   ]
+  }
+ ]
+}

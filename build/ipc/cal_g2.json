@@ -1,0 +1,1067 @@
+{
+ "grade": 2,
+ "ss": {
+  "modules": [
+   {
+    "n": 1,
+    "name": "Sums and Differences to 100",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Foundations for Fluency with Sums and Differences Within 100"
+     },
+     {
+      "t": "B",
+      "name": "Initiating Fluency with Addition and Subtraction Within 100"
+     }
+    ],
+    "focus": [
+     "2.4A",
+     "2.4B",
+     "2.4C",
+     "2.7C"
+    ],
+    "included": [],
+    "omit": [
+     1
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 8,
+     "assess": 2,
+     "total": 10
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "omit inferred from the 2026-27 Q1-Q3 calendars (lessons skipped in sequence), not stated in a S&S",
+     "Calendar: Learning Check (1)",
+     "Topic A also lists prior-grade TEKS K.2E, K.2F, K.2I, 1.2A, 1.2B, 1.3D, 1.3E, 1.3F, 1.3G, 1.5G; Topic B lists 1.3A, 1.3D, 1.5C"
+    ]
+   },
+   {
+    "n": 2,
+    "name": "Addition and Subtraction of Length Units",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Understand Concepts About the Ruler"
+     },
+     {
+      "t": "B",
+      "name": "Measure and Estimate Length Using Different Measurement Tools and Measure"
+     },
+     {
+      "t": "C",
+      "name": "Measure and Compare Lengths Using Different Length Units"
+     },
+     {
+      "t": "D",
+      "name": "Relate Addition and Subtraction to Length"
+     }
+    ],
+    "focus": [
+     "2.2E",
+     "2.2F",
+     "2.9A",
+     "2.9B",
+     "2.9C",
+     "2.9D",
+     "2.9E"
+    ],
+    "included": [],
+    "omit": [
+     8
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 10,
+     "assess": 2,
+     "total": 12
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "omit inferred from the 2026-27 Q1-Q3 calendars (lessons skipped in sequence), not stated in a S&S",
+     "Calendar: Learning Check (2) (weekly IPC: 'Learning Check (2) M2; EOM 2')"
+    ]
+   },
+   {
+    "n": 3,
+    "name": "Place Value, Counting, and Comparison of Numbers to 1,200",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Forming Base Ten Units of Ten, a Hundred, and a Thousand"
+     },
+     {
+      "t": "B",
+      "name": "Understanding Place Value Units of One, Ten, a Hundred, and a Thousand"
+     },
+     {
+      "t": "C",
+      "name": "Numbers to 1,200 in Unit, Standard, Expanded, and Word Forms"
+     },
+     {
+      "t": "D",
+      "name": "Modeling Base Ten Numbers Within 1,200 with Money"
+     },
+     {
+      "t": "E",
+      "name": "Modeling Numbers Up to 1,200 with Place Value Disks"
+     },
+     {
+      "t": "F",
+      "name": "Comparing Numbers to 1,200"
+     },
+     {
+      "t": "G",
+      "name": "Finding 1, 10, and 100 More or Less Than a Number"
+     }
+    ],
+    "focus": [
+     "2.2A",
+     "2.2B",
+     "2.2C",
+     "2.2D",
+     "2.2E",
+     "2.7B",
+     "2.7C"
+    ],
+    "included": [
+     "2.4C"
+    ],
+    "omit": [
+     10,
+     18
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 20,
+     "assess": 4,
+     "total": 24
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "omit inferred from the 2026-27 Q1-Q3 calendars (lessons skipped in sequence), not stated in a S&S",
+     "Calendar: Learning Check (3) after Lesson 9, Learning Check (4) after Lesson 20",
+     "Calendar marks Topics F and G '(3 Days)'"
+    ]
+   },
+   {
+    "n": 4,
+    "name": "Addition and Subtraction Within 200 with Word Problems to 100",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Sums and Differences Within 100"
+     },
+     {
+      "t": "B",
+      "name": "Strategies for Composing a Ten"
+     },
+     {
+      "t": "C",
+      "name": "Strategies for Decomposing a Ten"
+     },
+     {
+      "t": "D",
+      "name": "Strategies for Composing Tens and Hundreds"
+     },
+     {
+      "t": "E",
+      "name": "Strategies for Decomposing Tens and Hundreds"
+     },
+     {
+      "t": "F",
+      "name": ""
+     }
+    ],
+    "focus": [
+     "2.4B",
+     "2.4C",
+     "2.4D",
+     "2.7B",
+     "2.7C"
+    ],
+    "included": [
+     "2.2A",
+     "2.2C",
+     "2.4A"
+    ],
+    "omit": [
+     29,
+     30,
+     31
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 31,
+     "assess": 4,
+     "total": 35
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "omit inferred from the 2026-27 Q1-Q3 calendars (lessons skipped in sequence), not stated in a S&S (Q2 calendar goes from Lesson 28 to Learning Check (6) End of Module; Topic F, Lessons 29-31, not scheduled)",
+     "Topic F: Topic name not given in any source read (calendars only name topics they reach)",
+     "Calendar: Learning Check (5) Mid-Module 4, Learning Check (6) End of Module",
+     "Guide prints Topic B focus as '2.BB' (typo, presumably 2.4B)",
+     "Calendar marks Topics A-B '(5 Days)', C-E '(6 Days)'"
+    ]
+   },
+   {
+    "n": 5,
+    "name": "Addition and Subtraction Within 1,000 with Word Problems Within 1,000",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Strategies for Adding and Subtracting Within 1,000"
+     },
+     {
+      "t": "B",
+      "name": "Strategies for Composing Tens and Hundreds Within 1,000"
+     },
+     {
+      "t": "C",
+      "name": "Strategies for Decomposing Tens and Hundreds Within 1,000"
+     },
+     {
+      "t": "D",
+      "name": "Student Explanations for Choice Solution Methods"
+     }
+    ],
+    "focus": [
+     "2.4B",
+     "2.4C",
+     "2.4D",
+     "2.7B"
+    ],
+    "included": [
+     "2.2A",
+     "2.2C"
+    ],
+    "omit": [
+     10
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 20,
+     "assess": 4,
+     "total": 24
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "omit inferred from the 2026-27 Q1-Q3 calendars (lessons skipped in sequence), not stated in a S&S",
+     "Calendar: Learning Check (7) Mid-Module, Learning Check (8) EOM 5"
+    ]
+   },
+   {
+    "n": 6,
+    "name": "Foundations of Multiplication, Division, and Area",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Formation of Equal Groups"
+     },
+     {
+      "t": "B",
+      "name": "Array and Equal Groups"
+     },
+     {
+      "t": "C",
+      "name": "Rectangular Arrays as a Foundation for Multiplication and Division"
+     },
+     {
+      "t": "D",
+      "name": "The Meaning of Even and Odd Numbers"
+     }
+    ],
+    "focus": [
+     "2.6A",
+     "2.6B",
+     "2.7A",
+     "2.9F"
+    ],
+    "included": [
+     "2.4B",
+     "2.4C",
+     "2.4D",
+     "2.8E"
+    ],
+    "omit": [
+     3,
+     8,
+     11
+    ],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 20,
+     "assess": 4,
+     "total": 24
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "omit inferred from the 2026-27 Q1-Q3 calendars (lessons skipped in sequence), not stated in a S&S",
+     "Calendar: Learning Check (9) Mid-Module 6, Learning Check (10) End-of-Module 6",
+     "Guide puts Lesson 10 in Topic C; Q3 calendar first shows the Topic C header at Lesson 12"
+    ]
+   },
+   {
+    "n": 7,
+    "name": "Problem Solving with Length, Money, and Data",
+    "topics": [
+     {
+      "t": "A",
+      "name": "Problem Solving with Categorical Data"
+     },
+     {
+      "t": "B",
+      "name": "Problem Solving with Coins and Bills"
+     },
+     {
+      "t": "C",
+      "name": ""
+     },
+     {
+      "t": "D",
+      "name": ""
+     },
+     {
+      "t": "E",
+      "name": ""
+     },
+     {
+      "t": "F",
+      "name": ""
+     }
+    ],
+    "focus": [
+     "2.2E",
+     "2.2F",
+     "2.4A",
+     "2.4B",
+     "2.4C",
+     "2.5A",
+     "2.5B",
+     "2.9A",
+     "2.9B",
+     "2.9C",
+     "2.9D",
+     "2.9E",
+     "2.10A",
+     "2.10B",
+     "2.10C",
+     "2.10D",
+     "2.11A",
+     "2.11B",
+     "2.11C",
+     "2.11D",
+     "2.11E",
+     "2.11F"
+    ],
+    "included": [
+     "2.2C",
+     "2.2D"
+    ],
+    "omit": [],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 25,
+     "assess": 6,
+     "total": 31
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "Topics C-F: Topic name not given in any source read (calendars only name topics they reach)",
+     "Only Lessons 1-9 appear in the Q1-Q3 calendars; omissions after that unknown"
+    ]
+   },
+   {
+    "n": 8,
+    "name": "Time, Shapes, and Fractions as Equal Parts of Shapes",
+    "topics": [
+     {
+      "t": "A",
+      "name": ""
+     },
+     {
+      "t": "B",
+      "name": ""
+     },
+     {
+      "t": "C",
+      "name": ""
+     },
+     {
+      "t": "D",
+      "name": ""
+     }
+    ],
+    "focus": [
+     "2.3A",
+     "2.3B",
+     "2.3C",
+     "2.3D",
+     "2.8A",
+     "2.8B",
+     "2.8C",
+     "2.8D",
+     "2.8E",
+     "2.9G"
+    ],
+    "included": [
+     "2.2C",
+     "2.4A",
+     "2.4B",
+     "2.9A",
+     "2.9B"
+    ],
+    "omit": [],
+    "combine": [],
+    "after_staar": [],
+    "assessments": [
+     "Mid-Module Assessment",
+     "End-of-Module Assessment"
+    ],
+    "days": {
+     "lessons": 16,
+     "assess": 4,
+     "total": 20
+    },
+    "notes": [
+     "Source is the Great Minds 'Guide to Content for Grade 2' (Year at a Glance + Scope and Sequence; doc title 'G2_EM_YAG 2-2025.2026'), not a Dallas ISD S&S: no DISD omit/combine lists or DISD day counts; days = guide 'Total number of days', lessons = guide lesson count, assess = difference",
+     "Topics A-D: Topic name not given in any source read (calendars only name topics they reach)",
+     "Module 8 is not in the Q1-Q3 calendars"
+    ]
+   }
+  ]
+ },
+ "lessons": {
+  "M1.L2": "Practice making the next ten and adding to a multiple of ten.",
+  "M1.L3": "Add and subtract like units.",
+  "M1.L4": "Make a ten to add within 20.",
+  "M1.L5": "Make a ten to add within 100.",
+  "M1.L6": "Subtract single-digit numbers from multiples of 10 within 100.",
+  "M1.L7": "Take from ten within 20.",
+  "M1.L8": "Take from ten within 100.",
+  "M2.L1": "Connect measurement with physical units by using multiple copies of the same physical unit to measure.",
+  "M2.L2": "Use iteration with one physical unit to measure.",
+  "M2.L3": "Apply concepts to create unit rulers and measure lengths using unit rulers.",
+  "M2.L4": "Measure various objects using centimeter rulers and meter sticks.",
+  "M2.L5": "Develop estimation strategies by applying prior knowledge of length and using mental benchmarks.",
+  "M2.L6": "Measure and compare lengths using centimeters and meters.",
+  "M2.L7": "Measure and compare lengths using standard metric length units and non-standard length units; relate measurement to unit size.",
+  "M2.L9": "Measure lengths of string using measurement tools, and use strip diagrams to represent and compare the lengths.",
+  "M2.L10": "Apply conceptual understanding of measurements by solving two-step word problems.",
+  "M3.L1": "Bundle and count ones, tens, and hundreds to 1,200",
+  "M3.L2": "Count up and down between 100 and 220 using ones, tens.",
+  "M3.L3": "Count up and down between 90 and 1,200 using ones, tens, and hundreds.",
+  "M3.L4": "Write base ten three-digit numbers in unit form; show the value of each digit.",
+  "M3.L5": "Write base ten numbers in expanded form.",
+  "M3.L6": "Write, read, and relate base ten numbers in all forms.",
+  "M3.L7": "Count the total value of $1, $10, and $100 bills up to $1,200.",
+  "M3.L8": "Count from $10 to $1,200 on the place value chart and the empty number line.",
+  "M3.L9": "Explore $1,000. How many $10 bills can we change for a thousand dollar bill?",
+  "M3.L11": "Change 10 ones for 1 ten, 10 tens for 1 hundred, and 10 hundreds for 1 thousand.",
+  "M3.L12": "Read and Write numbers up to 1,200 after modeling with place value disks.",
+  "M3.L13": "Model numbers with more than 9 ones or 9 tens; write in expanded, unit, standard, and word forms.",
+  "M3.L14": "Explore a situation with more than 9 groups of ten.",
+  "M3.L15": "Compare numbers to 1,200 with <, >, and =.",
+  "M3.L16": "Compare numbers to 1,200 with <, >, and = when there are more than 9 ones, 9 tens, or 9 hundreds.",
+  "M3.L17": "Order numbers in different forms.",
+  "M3.L19": "Model 1 more and 1 less, 10 more and 10 less, and 100 more and 100 less when changing the hundreds place.",
+  "M3.L20": "Complete a pattern counting up and down.",
+  "M4.L1": "Relate 1 more, 1 less, 10 more, and 10 less to addition and subtraction of 1 and 10.",
+  "M4.L2": "Add and Subtract multiples of 10 including counting on to subtract.",
+  "M4.L3": "Add and subtract multiples of 10 and some ones within 100.",
+  "M4.L4": "Add and subtract multiples of 10 and some ones within 100.",
+  "M4.L5": "Solve one- and two-step word problems within 100 using strategies based on place value.",
+  "M4.L6": "Use manipulatives to represent the composition of 10 ones as 1 ten with two-digit addends.",
+  "M4.L7": "Relate addition using manipulatives to a written vertical method.",
+  "M4.L8": "Use math drawings to represent the composition and relate drawings to a written method.",
+  "M4.L9": "Use math drawings to represent the composition when adding a two-digit to a three-digit addend.",
+  "M4.L10": "Use math drawings to represent the composition when adding a two-digit to a three-digit addend.",
+  "M4.L11": "Represent subtraction with and without the decomposition of 1 ten as 10 ones with manipulatives.",
+  "M4.L12": "Relate manipulative representations to a written method.",
+  "M4.L13": "Use math drawings to represent subtraction with and without decomposition and relate drawings to a written method.",
+  "M4.L14": "Represent subtraction with and without the decomposition when there is a three-digit minuend.",
+  "M4.L15": "Represent subtraction with and without the decomposition when there is a three-digit minuend.",
+  "M4.L16": "Solve and create one- and two-step word problems within 100 using strategies based on place value.",
+  "M4.L17": "Use mental strategies to relate compositions of 10 tens as 1 hundred to 10 ones as 1 ten.",
+  "M4.L18": "Use manipulatives to represent additions with two compositions.",
+  "M4.L19": "Relate manipulative representations to a written method.",
+  "M4.L20": "Use math drawings to represent additions with up to two compositions and relate drawings to a written method.",
+  "M4.L21": "Use math drawings to represent additions with up to two compositions and relate drawings to a written method.",
+  "M4.L22": "Solve additions with up to four addends with totals within 200 with and without two compositions of larger units.",
+  "M4.L23": "Use number bonds to break apart three-digit minuends and subtract from the hundred.",
+  "M4.L24": "Use manipulatives to represent subtraction with decompositions of 1 hundred as 10 tens and 1 ten as 10 ones.",
+  "M4.L25": "Relate manipulative representations to a written method.",
+  "M4.L26": "Use math drawings to represent subtraction with up to two decompositions and relate drawings to a written method.",
+  "M4.L27": "Subtract from 200 and from numbers with zeros in the tens place.",
+  "M4.L28": "Subtract from 200 and from numbers with zeros in the tens place.",
+  "M5.L1": "Relate 10 more, 10 less, 100 more, and 100 less to addition and subtraction of 10 and 100.",
+  "M5.L2": "Add and subtract multiples of 100, including counting on to subtract.",
+  "M5.L3": "Add multiples of 100 and some tens within 1,000.",
+  "M5.L4": "Subtract multiples of 100 and some tens within 1,000.",
+  "M5.L5": "Use the associative property to make a hundred in one addend.",
+  "M5.L6": "Use the associative property to subtract from three-digit numbers and verify solutions with addition.",
+  "M5.L7": "Share and critique solution strategies for varied addition and subtraction problems within 1,000.",
+  "M5.L8": "Relate manipulative representations to the addition algorithm.",
+  "M5.L9": "Relate manipulative representations to the addition algorithm.",
+  "M5.L11": "Use math drawings to represent additions with up to two compositions and relate drawings to the addition algorithm.",
+  "M5.L12": "Choose and explain solution strategies and record with a written addition method.",
+  "M5.L13": "Relate manipulative representations to the subtraction algorithm, and use addition to explain why the subtraction method works.",
+  "M5.L14": "Use math drawings to represent subtraction with up to two decompositions, relate drawings to the algorithm, and use addition to explain why the subtraction method works.",
+  "M5.L15": "Use math drawings to represent subtraction with up to two decompositions, relate drawings to the algorithm, and use addition to explain why the subtraction method works.",
+  "M5.L16": "Subtract from multiples of 100 and from numbers with zero in the tens place.",
+  "M5.L17": "Subtract from multiples of 100 and from numbers with zero in the tens place.",
+  "M5.L18": "Apply and explain alternate methods for subtracting from multiples of 100 and from numbers with zero in the tens place.",
+  "M5.L19": "Choose and explain solution strategies and record with a written addition or subtraction method.",
+  "M5.L20": "Solve and generate multi-step word problem",
+  "M6.L1": "Use manipulatives to create equal groups.",
+  "M6.L2": "Use math drawings to represent equal groups, and relate to repeated addition.",
+  "M6.L4": "Represent equal groups with strip diagrams, and relate to repeated addition.",
+  "M6.L5": "Compose arrays from rows and columns, and count to find the total using objects.",
+  "M6.L6": "Decompose arrays into rows and columns, and relate to repeated addition.",
+  "M6.L7": "Represent arrays and distinguish rows and columns using math drawings.",
+  "M6.L9": "Solve word problems involving addition of equal groups in rows and columns.",
+  "M6.L10": "Use square tiles to compose a rectangle, and relate to the array model.",
+  "M6.L12": "Understand area as an attribute of plane figures.",
+  "M6.L13": "Decompose and recompose shapes to compare areas.",
+  "M6.L14": "Model tiling with centimeter and inch unit squares as a strategy to measure area.",
+  "M6.L15": "Use math drawings to partition a rectangle with square tiles, and relate to repeated addition.",
+  "M6.L16": "Use grid paper to create designs to develop spatial structuring.",
+  "M6.L17": "Relate doubles to even numbers, and write number sentences to express the sums.",
+  "M6.L18": "Pair objects and skip-count to relate to even numbers.",
+  "M6.L19": "Investigate the pattern of even numbers: 0, 2, 4, 6, and 8 in the ones place, and relate to odd numbers.",
+  "M6.L20": "Use rectangular arrays to investigate odd and even numbers.",
+  "M7.L1": "Sort and record data into a table using up to four categories; use category counts to solve word problems.",
+  "M7.L2": "Draw and label a picture graph to represent data with up to four categories.",
+  "M7.L3": "Draw and label a bar graph to represent data; relate the count scale to the number line.",
+  "M7.L4": "Draw a bar graph to represent a given data set",
+  "M7.L5": "Solve word problems using data presented in a bar graph.",
+  "M7.L6": "Recognize the value of coins and count up to find their total value.",
+  "M7.L7": "Solve word problems involving the total value of a group of coins.",
+  "M7.L8": "Solve word problems involving the total value of a group of bills.",
+  "M7.L9": "Solve word problems involving different combinations of coins with the same total value."
+ },
+ "q3": {
+  "weeks": [
+   {
+    "q": 3,
+    "wk": 19,
+    "start": "2027-01-04",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Winter Break (Q2 calendar: December 21 - January 5); Q3 week labelled 'Jan. 6-8'"
+     },
+     {
+      "dow": "Tue",
+      "kind": "off",
+      "text": "Professional Development"
+     },
+     {
+      "dow": "Wed",
+      "kind": "assess",
+      "text": "Learning Check (7) Mid-Module 5"
+     },
+     {
+      "dow": "Thu",
+      "kind": "blank",
+      "text": "Module 5 Topic C header; no lesson listed"
+     },
+     {
+      "dow": "Fri",
+      "kind": "blank",
+      "text": "Module 5 Topic C header; no lesson listed"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 20,
+    "start": "2027-01-11",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "assess",
+      "text": "Learning Check (7) Mid-Module 5"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M5.L13"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M5.L14"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M5.L15"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M5.L16"
+      ],
+      "topic": "M5 Topic C"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 21,
+    "start": "2027-01-18",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Student and Staff Holiday"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M5.L17"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M5.L18"
+      ],
+      "topic": "M5 Topic C"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M5.L19"
+      ],
+      "topic": "M5 Topic D"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M5.L20"
+      ],
+      "topic": "M5 Topic D"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 22,
+    "start": "2027-01-25",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "assess",
+      "text": "Learning Check (8) EOM 5"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M6.L1"
+      ],
+      "topic": "M6 Topic A"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M6.L2"
+      ],
+      "topic": "M6 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M6.L4"
+      ],
+      "topic": "M6 Topic A"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M6.L5"
+      ],
+      "topic": "M6 Topic B"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 23,
+    "start": "2027-02-01",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M6.L6"
+      ],
+      "topic": "M6 Topic B"
+     },
+     {
+      "dow": "Tue",
+      "kind": "assess",
+      "text": "Learning Check (9) Mid-Module 6"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M6.L7"
+      ],
+      "topic": "M6 Topic B"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M6.L9"
+      ],
+      "topic": "M6 Topic B"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M6.L10"
+      ],
+      "topic": "M6 Topic C"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 24,
+    "start": "2027-02-08",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M6.L12"
+      ],
+      "topic": "M6 Topic C"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M6.L13"
+      ],
+      "topic": "M6 Topic C"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M6.L14"
+      ],
+      "topic": "M6 Topic C"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M6.L15"
+      ],
+      "topic": "M6 Topic C"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M6.L16"
+      ],
+      "topic": "M6 Topic C"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 25,
+    "start": "2027-02-15",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "off",
+      "text": "Staff / Student Holiday"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M6.L17"
+      ],
+      "topic": "M6 Topic D"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M6.L18"
+      ],
+      "topic": "M6 Topic D"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M6.L19"
+      ],
+      "topic": "M6 Topic D"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M6.L20"
+      ],
+      "topic": "M6 Topic D"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 26,
+    "start": "2027-02-22",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "assess",
+      "text": "Learning Check (10) End-of-Module 6"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M7.L1"
+      ],
+      "topic": "M7 Topic A"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M7.L2"
+      ],
+      "topic": "M7 Topic A"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M7.L3"
+      ],
+      "topic": "M7 Topic A"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M7.L4"
+      ],
+      "topic": "M7 Topic A"
+     }
+    ]
+   },
+   {
+    "q": 3,
+    "wk": 27,
+    "start": "2027-03-01",
+    "days": [
+     {
+      "dow": "Mon",
+      "kind": "lesson",
+      "les": [
+       "M7.L5"
+      ],
+      "topic": "M7 Topic A"
+     },
+     {
+      "dow": "Tue",
+      "kind": "lesson",
+      "les": [
+       "M7.L6"
+      ],
+      "topic": "M7 Topic B"
+     },
+     {
+      "dow": "Wed",
+      "kind": "lesson",
+      "les": [
+       "M7.L7"
+      ],
+      "topic": "M7 Topic B"
+     },
+     {
+      "dow": "Thu",
+      "kind": "lesson",
+      "les": [
+       "M7.L8"
+      ],
+      "topic": "M7 Topic B"
+     },
+     {
+      "dow": "Fri",
+      "kind": "lesson",
+      "les": [
+       "M7.L9"
+      ],
+      "topic": "M7 Topic B"
+     }
+    ]
+   }
+  ]
+ },
+ "events": [
+  {
+   "date": "2026-08-10",
+   "label": "Teacher Work Day (calendar header: Quarter 1 Starts August 10, 2026)"
+  },
+  {
+   "date": "2026-08-19",
+   "label": "i-Ready Inform (Aug 19 - 21)"
+  },
+  {
+   "date": "2026-08-25",
+   "label": "Learning Check (1)"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Labor Day"
+  },
+  {
+   "date": "2026-09-09",
+   "label": "Learning Check (2)"
+  },
+  {
+   "date": "2026-09-23",
+   "label": "Learning Check (3)"
+  },
+  {
+   "date": "2026-10-07",
+   "label": "Learning Check (4)"
+  },
+  {
+   "date": "2026-10-08",
+   "label": "Fair Day (calendar cell not day-aligned; weekly IPC: Student and Staff Holiday Oct 8 - 9)"
+  },
+  {
+   "date": "2026-10-12",
+   "label": "Quarter 2 Starts / Staff PD"
+  },
+  {
+   "date": "2026-11-03",
+   "label": "Professional Development"
+  },
+  {
+   "date": "2026-11-05",
+   "label": "Learning Check (5) Mid-Module 4"
+  },
+  {
+   "date": "2026-11-23",
+   "label": "Thanksgiving Break (Nov 23 - 27)"
+  },
+  {
+   "date": "2026-11-30",
+   "label": "i-Ready MOY Inform"
+  },
+  {
+   "date": "2026-12-03",
+   "label": "Learning Check (6) End of Module 4"
+  },
+  {
+   "date": "2026-12-21",
+   "label": "Winter Break (December 21 - January 5, 2027)"
+  },
+  {
+   "date": "2027-01-05",
+   "label": "Quarter 3 Starts (calendar header: 'January 5, 2026'; week labelled Jan. 6-8)"
+  },
+  {
+   "date": "2027-01-06",
+   "label": "Learning Check (7) Mid-Module 5 (placement uncertain; repeated Mon Jan 11)"
+  },
+  {
+   "date": "2027-01-18",
+   "label": "Student and Staff Holiday"
+  },
+  {
+   "date": "2027-01-25",
+   "label": "Learning Check (8) EOM 5"
+  },
+  {
+   "date": "2027-02-02",
+   "label": "Learning Check (9) Mid-Module 6"
+  },
+  {
+   "date": "2027-02-15",
+   "label": "Staff / Student Holiday"
+  },
+  {
+   "date": "2027-02-22",
+   "label": "Learning Check (10) End-of-Module 6"
+  }
+ ],
+ "notes": [
+  "No Dallas ISD Grade 2 Scope & Sequence was found; the provided S&S id is the Great Minds Guide to Content (2025.2026). Module days, focus/included TEKS and topic ranges come from it; omit lists are inferred from calendars.",
+  "Q2 calendar header: '(Updated 10/26/2026)'"
+ ]
+}

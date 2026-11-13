@@ -1,0 +1,958 @@
+{
+ "grade": 2,
+ "weeks": [
+  {
+   "q": 1,
+   "wk": 1,
+   "start": "2026-08-10",
+   "title": "Q1:W1 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Teacher Work Day"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L2"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B"
+     ],
+     "bundled": [
+      "K.2E",
+      "K.2F",
+      "K.2I",
+      "1.2A",
+      "1.2B",
+      "1.3D",
+      "1.3E",
+      "1.3F",
+      "1.5G"
+     ],
+     "lo": "I’m practicing how to get to the next ten and how to add to numbers like 10, 20, or 30",
+     "sc": [
+      "I can find the sum when adding ones to a multiple of ten.",
+      "I can say the number needed to make the next ten."
+     ],
+     "te": {
+      "M1.L2": "https://drive.google.com/open?id=1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC&disco=AAAAtUZNOXY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M1.L3"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B",
+      "2.4C",
+      "2.7C"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I am learning to add and subtract like units.",
+     "sc": [
+      "I can show how I add like units, tens and ones, to find the sum in an addition expression.",
+      "I can show how I subtract like units, tens and ones, to find the difference in a subtraction expression.",
+      "I can represent and solve one step word problems by adding and subtracting like units"
+     ],
+     "te": {
+      "M1.L3": "https://drive.google.com/open?id=1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC&disco=AAAAtUZNOXg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M1.L4"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B",
+      "2.4C",
+      "2.7C"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I am learning to make a ten to add within 20.",
+     "sc": [
+      "I can make a ten from one of the two addends in an addition expression to find sums within 20.",
+      "I can use a strip diagram and/or drawings to show how to make a ten to add within 20.",
+      "I can represent and solve one step word problems by making a ten to add within 20"
+     ],
+     "te": {
+      "M1.L4": "https://drive.google.com/open?id=1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC&disco=AAAAtUZNOXo"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M1.L5"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B",
+      "2.4C",
+      "2.7C"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I am learning to make a ten to add within 100.",
+     "sc": [
+      "I can make a ten from one of the two addends in an addition expression to find sums within 100.",
+      "I can use a strip diagram and/or drawings to show how I make ten to add within 100.",
+      "I can represent and solve one step word problems by making a ten to add within 100"
+     ],
+     "te": {
+      "M1.L5": "https://drive.google.com/open?id=1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC&disco=AAAAtUZNOXw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 2,
+   "start": "2026-08-17",
+   "title": "Q1:W2 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L6"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B",
+      "2.4C",
+      "2.7B"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I will describe how taking from ten helps me subtract from multiples of ten.",
+     "sc": [
+      "I can create a number bond to subtract a single digit number from multiples of ten.",
+      "I can use the “take from ten” strategy when subtracting single digit numbers from multiples of ten."
+     ],
+     "te": {
+      "M1.L6": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuNGosmg"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M1.L7"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B",
+      "2.4C",
+      "2.7B"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I am learning to take from 10 within 20 when subtracting.",
+     "sc": [
+      "I can draw a 5-group column to subtract a single digit number from a teen number.",
+      "I can create a number bond to subtract a single digit number from a teen number."
+     ],
+     "te": {
+      "M1.L7": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuNGosmo"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "i-Ready Inform Day 1"
+    },
+    {
+     "dow": "Thu",
+     "kind": "assess",
+     "text": "i-Ready Inform Day 2"
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "i-Ready Inform Day 3"
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 3,
+   "start": "2026-08-24",
+   "title": "Q1:W3 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M1.L8"
+     ],
+     "teks": [
+      "2.4A",
+      "2.4B",
+      "2.4C",
+      "2.7B"
+     ],
+     "bundled": [
+      "1.3A",
+      "1.3D",
+      "1.5C"
+     ],
+     "lo": "I am learning to take from 10 within 100.",
+     "sc": [
+      "I can draw a pictorial model or strip diagram to subtract a single digit from a double digit number by taking from ten.",
+      "I can create a number bond to show the take from ten strategy when subtracting single digit numbers from two digit numbers."
+     ],
+     "te": {
+      "M1.L8": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuNGosmw"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "assess",
+     "text": "Learning Check (1) Module 1",
+     "note": "The Bridge (for Dual Language only)"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L1"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9D"
+     ],
+     "bundled": [
+      "2.9B"
+     ],
+     "lo": "I am learning how to use physical manipulatives to measure objects.",
+     "sc": [
+      "I can measure the length of objects using centimeter cubes end to end.",
+      "I can compare and describe lengths using addition and subtraction."
+     ],
+     "te": {
+      "M2.L1": "https://drive.google.com/open?id=1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC&disco=AAAAuKl2LkI"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L2"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9D"
+     ],
+     "bundled": [
+      "2.9B"
+     ],
+     "lo": "I am learning how to use one physical unit to measure the length of an object using iteration (repetition).",
+     "sc": [
+      "I can measure the length of an object by placing centimeter cubes end to end.",
+      "I can explain how to measure length accurately using centimeter cubes."
+     ],
+     "te": {
+      "M2.L2": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2Lkw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L3"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9D"
+     ],
+     "bundled": [
+      "2.9B"
+     ],
+     "lo": "I am learning to apply concepts to create unit rulers and measure lengths using unit rulers.",
+     "sc": [
+      "I can use centimeter cubes and sentence strip to create a unit ruler.",
+      "I can use my created unit ruler to measure length."
+     ],
+     "te": {
+      "M2.L3": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2Lk4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 4,
+   "start": "2026-08-31",
+   "title": "Q1:W4 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M2.L4"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9D",
+      "2.9E"
+     ],
+     "bundled": [
+      "2.2E",
+      "2.2F"
+     ],
+     "lo": "I am learning to measure various objects using centimeter rulers and meter sticks.",
+     "sc": [
+      "I can determine which measurement tool to use based on the object.",
+      "I can measure the length of objects using centimeter rulers and meter sticks."
+     ],
+     "te": {
+      "M2.L4": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2LlA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L5"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9D",
+      "2.9E"
+     ],
+     "bundled": [
+      "2.2E",
+      "2.2F"
+     ],
+     "lo": "I am learning how to use mental benchmarks when measuring length of objects.",
+     "sc": [
+      "I can explain how to use mental benchmarks when estimating length in centimeters and meters.",
+      "I can determine which unit of measurement (cm. or m.) is correct using my knowledge of mental benchmarks.",
+      "I can estimate the length of an object using mental benchmarks."
+     ],
+     "te": {
+      "M2.L5": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2LmI"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M2.L6"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9B",
+      "2.9D"
+     ],
+     "bundled": [
+      "2.2E",
+      "2.2F"
+     ],
+     "lo": "I am learning to measure and compare lengths using centimeters and meters.",
+     "sc": [
+      "I can use centimeter rules and meter strips to measure lengths of objects in cm. and m.",
+      "I can compare the lengths of objects that I have measured.",
+      "I can explain the relationship between centimeters and meters."
+     ],
+     "te": {
+      "M2.L6": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2LmQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M2.L7"
+     ],
+     "teks": [
+      "2.9A",
+      "2.9B",
+      "2.9D"
+     ],
+     "bundled": [
+      "2.2E",
+      "2.2F"
+     ],
+     "lo": "I am learning how to measure and compare lengths using both standard metric length units and non-standard length units.",
+     "sc": [
+      "I can use physical units to measure the lengths of a line.",
+      "I can use a ruler to measure the length of a line.",
+      "I can explain the relationship between unit size and measurement."
+     ],
+     "te": {
+      "M2.L7": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2LmY"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M2.L9"
+     ],
+     "teks": [
+      "2.2E",
+      "2.2F",
+      "2.9C",
+      "2.9D",
+      "2.9E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to measure length of string using measurement tools, and use strip diagrams to represent and compare lengths.",
+     "sc": [
+      "I can estimate and accurately measure the length of string using a meter stick.",
+      "I can draw a strip diagram to represent and compare the lengths of objects."
+     ],
+     "te": {
+      "M2.L9": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2Lmo"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 5,
+   "start": "2026-09-07",
+   "title": "Q1:W5 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Labor Day"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M2.L10"
+     ],
+     "teks": [
+      "2.2E",
+      "2.2F",
+      "2.9C",
+      "2.9D",
+      "2.9E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to  apply conceptual understanding of measurement by solving two-step word problems.",
+     "sc": [
+      "I can draw strip diagrams to solve two-step, measurement word problems.",
+      "I can explain what strategies I use to solve two-step, measurement word problems."
+     ],
+     "te": {
+      "M2.L10": "https://drive.google.com/file/d/1uzcvSNFz83ejkP9I7SCDWJzePEy3wBzC/edit?disco=AAAAuKl2Lmw"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Learning Check (2) M2; EOM 2 Assessment, Day 1"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L1"
+     ],
+     "teks": [
+      "2.2A"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to bundle and count ones, tens, and hundred up to 1,200.",
+     "sc": [
+      "I can represent a number by drawing bundles of ones, tens, and hundreds.",
+      "I can determine a number by counting its ones, tens, and hundreds.",
+      "I can order place value units from smallest to largest and vice versa."
+     ],
+     "te": {
+      "M3.L1": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqORo"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L2"
+     ],
+     "teks": [
+      "2.2C",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4C"
+     ],
+     "lo": "I am learning how to count up and down between 100 and 220 using ones and tens.",
+     "sc": [
+      "I can count up and down from two target numbers between 100 and 220 using ones and tens using words and/or drawings.",
+      "I can look  at bundles of hundreds, tens, and ones and determine the value."
+     ],
+     "te": {
+      "M3.L2": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOR0"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 6,
+   "start": "2026-09-14",
+   "title": "Q1:W6 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L3"
+     ],
+     "teks": [
+      "2.2C",
+      "2.7C"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.4C"
+     ],
+     "lo": "I am learning how to count up and down between 90 and 1,200 using ones, tens, and hundreds.",
+     "sc": [
+      "I can count up and down from a given number between 90 and 1,200 uses ones, tens, and hundreds using words and/or drawings.",
+      "I can look  at bundles of hundreds, tens, and ones and determine the value."
+     ],
+     "te": {
+      "M3.L3": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOSA"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L4"
+     ],
+     "teks": [
+      "2.2B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C"
+     ],
+     "lo": "I am learning how to write base ten three-digit numbers in unit form and show the value of each digit.",
+     "sc": [
+      "I can write three digit numbers in unit form.",
+      "I can use a number bond to show the value of each digit in three-digit numbers."
+     ],
+     "te": {
+      "M3.L4": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOSM"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L5"
+     ],
+     "teks": [
+      "2.2B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C"
+     ],
+     "lo": "I am learning how to write base ten numbers in expanded form.",
+     "sc": [
+      "I can write base ten numbers in expanded form.",
+      "I can look at a number in expanded form (in unit order and out of unit order) and write it in number form."
+     ],
+     "te": {
+      "M3.L5": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOSc"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L6"
+     ],
+     "teks": [
+      "2.2B"
+     ],
+     "bundled": [
+      "2.2A",
+      "2.2C"
+     ],
+     "lo": "I am learning how to write, read, and relate base ten numbers in all forms.",
+     "sc": [
+      "I can read and write base ten numbers in unit, word, standard, and expanded form.",
+      "I can describe the relation between unit, standard, word, and expanded forms.",
+      "I can determine the value of each digit in a number."
+     ],
+     "te": {
+      "M3.L6": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOSk"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L7"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C"
+     ],
+     "bundled": [
+      "2.7B"
+     ],
+     "lo": "I am learning how to count the total value of $1, $10, and $100 bills up to $1,200.",
+     "sc": [
+      "I can represent a given amount of money using 10 bills: $100, $10, and $1 bills.",
+      "I can write the total value of a set of bills as a number bond.",
+      "I can write and say each amount of money in instead 9⁹9n expanded form."
+     ],
+     "te": {
+      "M3.L7": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOS4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 7,
+   "start": "2026-09-21",
+   "title": "Q1:W7 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L8"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C"
+     ],
+     "bundled": [
+      "2.7B"
+     ],
+     "lo": "I am learning how to count from $10 to $1,200 on the place value chart and the empty number line.",
+     "sc": [
+      "I can model counting from $10 to $1,200 using ones, tens, and hundreds on my place value chart.",
+      "I can record my count from $10 to $1,200 using ones, tens, and hundreds on an empty number line."
+     ],
+     "te": {
+      "M3.L8": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOTQ"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L9"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C"
+     ],
+     "bundled": [
+      "2.7B"
+     ],
+     "lo": "I am exploring the value of $1,000 using base-ten and place-value.",
+     "sc": [
+      "I can answer, “How many $10 bills are equal to a $1,000 bill?” using words, pictures, and/or numbers"
+     ],
+     "te": {
+      "M3.L9": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOTY"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Learning Check 3"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L11"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C",
+      "2.2D",
+      "2.2E"
+     ],
+     "bundled": [],
+     "lo": "I am learning about place value relationships.",
+     "sc": [
+      "I can correctly model counting on between two numbers by changing 10 ones for 1 ten, 10 tens for 1 hundred, and 10 hundreds for 1 thousand.",
+      "I can explain how many ones make a ten, tens make a hundred, and hundreds make a thousand.",
+      "I can represent numbers using place value disks."
+     ],
+     "te": {
+      "M3.L11": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOVs"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L12"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C",
+      "2.2D",
+      "2.2E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to read and write numbers up to 1,200 after modeling with place value disks.",
+     "sc": [
+      "I can draw place value disks to represent numbers up to 1,200.",
+      "I can read and write numbers up to 1,200 in unit and word form.",
+      "I can draw and label the jumps on an empty number line when counting on between numbers."
+     ],
+     "te": {
+      "M3.L12": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOV4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 8,
+   "start": "2026-09-28",
+   "title": "Q1:W8 Eureka Math IPC 2nd Grade 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L13"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C",
+      "2.2D",
+      "2.2E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to write numbers in expanded, unit, standard, and word forms.",
+     "sc": [
+      "I can determine the amount of hundreds, tens, and ones in a number.",
+      "I can draw place value disks to represent the hundreds, tens, and ones in a number."
+     ],
+     "te": {
+      "M3.L13": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOWM"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L14"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C",
+      "2.2D",
+      "2.2E"
+     ],
+     "bundled": [],
+     "lo": "I am exploring word problem situations with more than 9 groups of ten.",
+     "sc": [
+      "I can solve word problems situations with more than 9 groups of ten using words, pictures, and numbers.",
+      "I can explain the strategy I used to solve word problem situations with more than 9 groups of tens."
+     ],
+     "te": {
+      "M3.L14": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOWU"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M3.L15"
+     ],
+     "teks": [
+      "2.2C",
+      "2.2D",
+      "2.2E"
+     ],
+     "bundled": [],
+     "lo": "I am learning how to compare numbers to 1,200.",
+     "sc": [
+      "I can use a place value chart to compare numbers to 1,200.",
+      "I can use the symbols <, >, and = to compare numbers to 1,200.",
+      "I can explain my thinking when comparing numbers to 1,200."
+     ],
+     "te": {
+      "M3.L15": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOWc"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M3.L16"
+     ],
+     "teks": [
+      "2.2C",
+      "2.2D"
+     ],
+     "bundled": [],
+     "lo": "I am learning to compare numbers to 1,200 with <, >, and = when there are more than 9 ones, 9 tens, or 9 hundreds.",
+     "sc": [
+      "I can use place value disk to compare numbers using the <, >, = symbols.",
+      "I can use a place value chart to compare numbers.",
+      "I can compare numbers in standard form.",
+      "I can compare numbers in expanded form.",
+      "I can compare numbers in unit form.",
+      "I can draw pictures to represent its value and compare using the <, >, = symbols.",
+      "I can use greater than, less than and equal to in a sentence."
+     ],
+     "te": {
+      "M3.L16": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOWo"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M3.L17"
+     ],
+     "teks": [
+      "2.2C",
+      "2.2D",
+      "2.2E"
+     ],
+     "bundled": [],
+     "lo": "I am learning to order numbers in different forms.",
+     "sc": [
+      "I can use place value disk to compare numbers using the <, >, = symbols.",
+      "I can use a place value chart to compare numbers.",
+      "I can compare numbers in standard form.",
+      "I can compare numbers in expanded form.",
+      "I can compare numbers in unit form.",
+      "I can draw pictures to represent its value and compare using the <, >, = symbols.",
+      "I can order three numbers from least to greatest."
+     ],
+     "te": {
+      "M3.L17": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOWw"
+     }
+    }
+   ]
+  },
+  {
+   "q": 1,
+   "wk": 9,
+   "start": "2026-10-05",
+   "title": "Q1:W9 Math IPC Gr2 Eureka Math 26-27",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M3.L19"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.7C"
+     ],
+     "lo": "I am learning to model 1 more and 1 less, 10 more and 10 less, and 100 more and 100 less when changing the hundreds place.",
+     "sc": [
+      "I can use place value disk to show the value having 10 more and 10 less.",
+      "I can use place value disk to show the value having 1 more and 1 less.",
+      "I can use place value disk to show the value having 100 more and 100 less.",
+      "I can draw pictures to represent a value showing 1 more, 10 more and 100 more.",
+      "I can draw pictures to represent a value showing 1 less, 10 less and 100 less.",
+      "I can use a word box to make a sentence that describes the value.",
+      "I can explain how to compose a new number that shows more or less than the beginning number."
+     ],
+     "te": {
+      "M3.L19": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOXQ"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M3.L20"
+     ],
+     "teks": [
+      "2.2A",
+      "2.2B",
+      "2.2C",
+      "2.7B"
+     ],
+     "bundled": [
+      "2.7C"
+     ],
+     "lo": "I am learning to complete a pattern counting up and down.",
+     "sc": [
+      "I can use place value disk to show the value the value of a number.",
+      "I can complete a pattern using place value disk.",
+      "I can create a pattern that shows counting by ones, tens, and hundreds.",
+      "I can write the numbers in a pattern.",
+      "I can complete a pattern using numbers."
+     ],
+     "te": {
+      "M3.L20": "https://drive.google.com/open?id=1Z8ELrWVE9h-WRYh32rik-e7XU6hWeidT&disco=AAAAuJdqOXc"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Learning Check (4) End of Module 3"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    },
+    {
+     "dow": "Fri",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    }
+   ]
+  }
+ ]
+}
