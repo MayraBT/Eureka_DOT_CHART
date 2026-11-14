@@ -201,5 +201,8 @@ data = open('data.js').read()
 moves = open('data_moves.js').read()
 out = (head + '</style>\n</head>\n' + b + '<script>\n' + moves + moves_code_fix if False else None)
 out = head + '</style>\n</head>\n' + b + '<script>\n' + moves + mc + '</script>\n<script>\n' + data + glue + t
+lb = open('lightbox.html').read()
+k = out.rfind('</body>')
+out = (out[:k] + lb + '\n' + out[k:]) if k > 0 else out + lb
 open('out/index.html', 'w').write(out)
 print('size', len(out)); print('FAILED:', *fails, sep='\n  ')
