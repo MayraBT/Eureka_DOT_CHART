@@ -204,5 +204,6 @@ out = head + '</style>\n</head>\n' + b + '<script>\n' + moves + mc + '</script>\
 lb = open('lightbox.html').read()
 k = out.rfind('</body>')
 out = (out[:k] + lb + '\n' + out[k:]) if k > 0 else out + lb
+from dechart import dechart; out = dechart(out)
 open('out/index.html', 'w').write(out)
 print('size', len(out)); print('FAILED:', *fails, sep='\n  ')

@@ -1,6 +1,6 @@
 # Eureka TEKS Lookup: maintainer notes
 
-This is a dot chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarten through Grade 5** (Dallas ISD 2026-27). Eureka doesn't publish a dot chart, so this tool builds one from the district's weekly IPCs. The views are the same as in the Carnegie tool (`MayraBT/Carnegie_DOT_CHART`): Calendar, By lesson, By standard, STAAR performance, Teaching moves and Full grid.
+This is a TEKS chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarten through Grade 5** (Dallas ISD 2026-27). Eureka doesn't publish a lesson-by-TEKS chart, so this tool builds one from the district's weekly IPCs. The views are the same as in the Carnegie tool (`MayraBT/Carnegie_DOT_CHART`): Calendar, By lesson, By standard, STAAR performance, Teaching moves and Full grid.
 
 - `index.html` holds everything. It has no build step at runtime.
 - `items/` holds the released STAAR item images (`g<grade>_<year>_Q<n>.jpg`, 192 files).
