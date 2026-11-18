@@ -37,7 +37,7 @@ This is a TEKS chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarte
 
 ## Open items
 
-- **Q3.** Grade 5 uses the 2026-27 Q3 weekly IPCs. Grades 3 and 4 are paced from the 2026-27 Q3 calendar, and each lesson takes its TEKS and Teacher link from the 2025-26 Q3 weekly IPC for the same Eureka lesson (`ipc/g3_q3_2526.json`, `g4_q3_2526.json`); lessons not on last year's Q3 IPC (G3: M6 L5, L6, L9, M7 L14, L19; G4: M5 L25, M7 L9, L10, L12) have no TEKS yet. When the 2026-27 weeklies are updated, extract them as `g<N>_w19-27.json` and rebuild.
+- **Q3.** K, Grade 1, Grade 4 and Grade 5 use the 2026-27 Q3 weekly IPCs for all nine weeks (TEKS, pacing and Teacher links). Grades 2 and 3 use the 2026-27 Q3 weeklies for weeks 1–4 (`ipc/g2_w19-22.json`, `g3_w19-22.json`); weeks 5–9 were not posted yet (checked Nov 17), so they are paced from the Q3 calendar. Grade 3 lessons in those weeks take TEKS and Teacher links from the 2025-26 Q3 IPC for the same lesson (`ipc/g3_q3_2526.json`); Grade 2 lessons there have no TEKS or Teacher link yet. Grade 2 week 4 Friday is listed as Module 6 Lesson 8 (omitted in the S&S) with Lesson 7's Teacher link and a blank LO, so it is treated as a second day of M6 L7. Grade 3 week 4 shows Tue–Thu as "Snow Day" on the posted IPC. When the remaining weeklies are posted, extract them per `ipc/SPEC.md` and rebuild.
 - **Q4.** Eureka instruction ends in March. Q4 uses district-created materials, so it has no lessons in the tool.
 - **STAAR dates.** None of the source documents give 2027 Grade 3–5 STAAR dates, so no lesson is flagged "after STAAR".
 - **Cut-off items.** A few IQ Tool items run past the page in the PDF export, so their images are cut off at the bottom (e.g. Grade 4 2025 Q4).

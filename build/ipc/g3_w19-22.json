@@ -1,0 +1,291 @@
+{
+ "grade": 3,
+ "weeks": [
+  {
+   "q": 3,
+   "wk": 19,
+   "start": "2027-01-04",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L17"
+     ],
+     "teks": [
+      "3.3A"
+     ],
+     "bundled": [
+      "3.3B"
+     ],
+     "te": {
+      "M5.L17": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA9fj3BKg"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L18"
+     ],
+     "teks": [
+      "3.7A"
+     ],
+     "bundled": [
+      "3.3A",
+      "3.3B"
+     ],
+     "te": {
+      "M5.L18": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA9fj3BK4"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L19"
+     ],
+     "teks": [
+      "3.7A",
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3A"
+     ],
+     "te": {
+      "M5.L19": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZsw"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L21"
+     ],
+     "teks": [
+      "3.3A"
+     ],
+     "bundled": [
+      "3.7A"
+     ],
+     "te": {
+      "M5.L21": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZs8"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 20,
+   "start": "2027-01-11",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L22"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L22": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZtI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L23"
+     ],
+     "teks": [
+      "3.3G"
+     ],
+     "bundled": [
+      "3.3F"
+     ],
+     "te": {
+      "M5.L23": "https://drive.google.com/open?id=1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT&disco=AAABEwnAH0o"
+     },
+     "text": "Flex Day (Lessons 23-24 combined plan)"
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L24"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L24": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-IpQZtg"
+     },
+     "text": "Flex Day (Lessons 23-24 combined plan)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L25"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L25": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA_UvloUI"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L26"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L26": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-KcWRW4"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 21,
+   "start": "2027-01-18",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Student and Staff Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L27"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L27": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAABEwnAH04"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L28"
+     ],
+     "teks": [
+      "3.3F"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L28": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-KcWRXQ"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L29"
+     ],
+     "teks": [
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L29": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAAA-KcWRXU"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "assess",
+     "text": "Learning Check #5"
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 22,
+   "start": "2027-01-25",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L30"
+     ],
+     "teks": [
+      "3.3H"
+     ],
+     "bundled": [
+      "3.3G"
+     ],
+     "te": {
+      "M5.L30": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAABD-LjePI"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Wed",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Thu",
+     "kind": "off",
+     "text": "Snow Day"
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L31"
+     ],
+     "teks": [
+      "3.3G"
+     ],
+     "bundled": [
+      "3.3F"
+     ],
+     "te": {
+      "M5.L31": "https://drive.google.com/file/d/1XLCHoBFqGvIGKe3nCJ11K-ETydvGWcsT/edit?disco=AAABEwnAH1Q"
+     }
+    }
+   ]
+  }
+ ]
+}

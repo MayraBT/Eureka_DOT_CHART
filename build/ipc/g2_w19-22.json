@@ -1,0 +1,305 @@
+{
+ "grade": 2,
+ "weeks": [
+  {
+   "q": 3,
+   "wk": 19,
+   "start": "2027-01-04",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "off",
+     "text": "Professional Development"
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Learning Check 8 (End of Module)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L13"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4C"
+     ],
+     "te": {
+      "M5.L13": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABAPLOC28"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L14"
+     ],
+     "teks": [
+      "2.4B"
+     ],
+     "bundled": [
+      "2.4C"
+     ],
+     "te": {
+      "M5.L14": "https://drive.google.com/open?id=1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn&disco=AAABAPLOC4A"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 20,
+   "start": "2027-01-11",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M5.L15"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "te": {
+      "M5.L15": "https://drive.google.com/file/d/1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn/edit?disco=AAABBt8SViY"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L16"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "te": {
+      "M5.L16": "https://drive.google.com/file/d/1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn/edit?disco=AAABBt8SVio"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M5.L17"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C"
+     ],
+     "te": {
+      "M5.L17": "https://drive.google.com/file/d/1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn/edit?disco=AAABBt8SVjA"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M5.L18"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D"
+     ],
+     "bundled": [
+      "2.7B"
+     ],
+     "te": {
+      "M5.L18": "https://drive.google.com/file/d/1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn/edit?disco=AAABBt8SVj0"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M5.L19"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D"
+     ],
+     "bundled": [
+      "2.7B"
+     ],
+     "te": {
+      "M5.L19": "https://drive.google.com/file/d/1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn/edit?disco=AAABBt8SVkM"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 21,
+   "start": "2027-01-18",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "off",
+     "text": "Holiday"
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M5.L20"
+     ],
+     "teks": [
+      "2.4B",
+      "2.4C",
+      "2.4D"
+     ],
+     "bundled": [
+      "2.7B"
+     ],
+     "te": {
+      "M5.L20": "https://drive.google.com/file/d/1GuwA8TkJPVF6OWXuGSXA4C1_hNS5eETn/edit?disco=AAABCeqoebI"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "assess",
+     "text": "Learning Check 9 (End of Module)"
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L1"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.6B"
+     ],
+     "te": {
+      "M6.L1": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCar3CsM"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M6.L2"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.6B"
+     ],
+     "te": {
+      "M6.L2": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCar3Cso"
+     }
+    }
+   ]
+  },
+  {
+   "q": 3,
+   "wk": 22,
+   "start": "2027-01-25",
+   "days": [
+    {
+     "dow": "Mon",
+     "kind": "lesson",
+     "les": [
+      "M6.L4"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.6B"
+     ],
+     "te": {
+      "M6.L4": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCfAfy44"
+     }
+    },
+    {
+     "dow": "Tue",
+     "kind": "lesson",
+     "les": [
+      "M6.L5"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.6B"
+     ],
+     "te": {
+      "M6.L5": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCccGors"
+     }
+    },
+    {
+     "dow": "Wed",
+     "kind": "lesson",
+     "les": [
+      "M6.L6"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.4C",
+      "2.4D",
+      "2.6B"
+     ],
+     "te": {
+      "M6.L6": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCccGosg"
+     }
+    },
+    {
+     "dow": "Thu",
+     "kind": "lesson",
+     "les": [
+      "M6.L7"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.4C",
+      "2.4D",
+      "2.6B"
+     ],
+     "te": {
+      "M6.L7": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCccGotU"
+     }
+    },
+    {
+     "dow": "Fri",
+     "kind": "lesson",
+     "les": [
+      "M6.L7"
+     ],
+     "teks": [
+      "2.6A"
+     ],
+     "bundled": [
+      "2.4C",
+      "2.4D",
+      "2.6B"
+     ],
+     "te": {
+      "M6.L7": "https://drive.google.com/open?id=1zIwfcSZC-WM-nDxcq9Km7kAQ4GGA6aOb&disco=AAABCccGotU"
+     },
+     "note": "IPC says Module 6 Lesson 8 but links Lesson 7 and leaves the LO blank; L8 is omitted in the Scope and Sequence"
+    }
+   ]
+  }
+ ]
+}
