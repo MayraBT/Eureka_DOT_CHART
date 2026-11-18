@@ -187,6 +187,12 @@ for g in GRADES:
                         'grade': g, 'q3note': (' · 2026-27 weekly IPCs' if all(w in have for w in range(19,28)) else (' · 2026-27 weekly IPCs for Q3 weeks 1–%d; later weeks paced from the 2026-27 Q3 calendar' % (max(w for w in have if w>=19)-18) + ('; their TEKS and Teacher links come from the 2025-26 Q3 weekly IPCs' if os.path.exists(f'ipc/g{g}_q3_2526.json') else '; their TEKS and Teacher links will come from the Q3 weekly IPCs when posted')) if any(w>=19 for w in have) else (' · paced from the 2026-27 Q3 calendar; lesson TEKS and Teacher links from the 2025-26 Q3 weekly IPCs until the 2026-27 weeklies are posted' if os.path.exists(f'ipc/g{g}_q3_2526.json') else ' · paced from the 2026-27 Q3 calendar; lesson TEKS and Teacher links will come from the Q3 weekly IPCs when posted')), 'unsched': 'not on the 2026-27 IPC (Q1–Q3)', 'notes': cal.get('notes', []),
                         'data': {'modules': modules, 'standards': standards, 'lessons': out_lessons},
                         'pace': {'lessons': pace, 'cal': {'quarters': QUARTERS, 'events': events}}, 'cal': calweeks}
+    TEMOD = json.load(open('ipc/te_module.json')).get(g, {}) if os.path.exists('ipc/te_module.json') else {}
+    for L in out_lessons:
+        mod = L['id'].split('.')[0]
+        if L['id'] not in tig and mod in TEMOD:
+            tig[L['id']] = [TEMOD[mod]]
+            report.append(f'G{g} {L["id"]}: Teacher link is the module TE file (no weekly IPC link)')
     TIG['g' + g.lower()] = tig
     report.append(f'G{g}: {len(out_lessons)} lessons, {sum(1 for L in out_lessons if L["marks"])} with TEKS, {len(calweeks)} weeks, {len(tig)} teacher links, modules {used_mods}')
 

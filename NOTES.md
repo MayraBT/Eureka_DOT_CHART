@@ -14,7 +14,7 @@ This is a TEKS chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarte
 | lesson titles | Eureka lesson objective | Quarterly calendars Q1–Q3 (`build/ipc/cal_g*.json`) |
 | modules, topics, focus/included TEKS, omitted lessons | Scope & Sequence 2026-27 | `cal_g*.json` → `ss`; lesson→topic map in `ipc/topics.json` |
 | `pace`, `cal` | Day-by-day pacing. Q3 comes from the Q3 quarterly calendar | weekly IPCs + Q3 calendar |
-| `TIG` | Teacher-edition link for each lesson, as linked on the weekly IPC | weekly IPCs |
+| `TIG` | Teacher-edition link for every lesson: the lesson link from the weekly IPC, or, for lessons no weekly IPC links yet (Grade 2 M6 L9–M7, Grade 3 M2 L8, M6 L5/L6/L9, M7 L14/L19), the module Teacher Edition file (`ipc/te_module.json`) | weekly IPCs, module TE files |
 | `PERF` | Released STAAR items 2025 and 2026, % of Texas students | lead4ward IQ Tool exports (`build/perf.json`) |
 | `SCAF`, `TEKS` | Vertical alignment K–8, SE text, R/S/not-tested | lead4ward TEKS Scaffold, Grades 3–5 |
 | `VOCAB` | Academic vocabulary, English with the matching Spanish block | lead4ward Academic Vocabulary, EN + SP |

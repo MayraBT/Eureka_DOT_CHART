@@ -7,10 +7,36 @@ G2 M1.L5: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
 G2 M1.L6: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
 G2 M1.L7: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
 G2 M1.L8: TEKS not in Grade 2 list, dropped: ['1.3A', '1.3D', '1.5C']
-G2: 107 lessons, 73 with TEKS, 27 weeks, 73 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
-G3: 32 Q3 lessons take TEKS from the 2025-26 Q3 IPC
-G3: 115 lessons, 110 with TEKS, 27 weeks, 109 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
-G4: 35 Q3 lessons take TEKS from the 2025-26 Q3 IPC
-G4: 112 lessons, 108 with TEKS, 27 weeks, 108 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
+G2 M6.L9: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L10: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L12: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L13: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L14: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L15: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L16: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L17: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L18: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L19: Teacher link is the module TE file (no weekly IPC link)
+G2 M6.L20: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L1: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L2: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L3: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L4: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L5: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L6: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L7: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L8: Teacher link is the module TE file (no weekly IPC link)
+G2 M7.L9: Teacher link is the module TE file (no weekly IPC link)
+G2: 107 lessons, 87 with TEKS, 27 weeks, 107 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
+G3: 15 Q3 lessons take TEKS from the 2025-26 Q3 IPC
+G3 M2.L8: Teacher link is the module TE file (no weekly IPC link)
+G3 M6.L5: Teacher link is the module TE file (no weekly IPC link)
+G3 M6.L6: Teacher link is the module TE file (no weekly IPC link)
+G3 M6.L9: Teacher link is the module TE file (no weekly IPC link)
+G3 M7.L14: Teacher link is the module TE file (no weekly IPC link)
+G3 M7.L19: Teacher link is the module TE file (no weekly IPC link)
+G3: 112 lessons, 107 with TEKS, 27 weeks, 112 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
+G4: 0 Q3 lessons take TEKS from the 2025-26 Q3 IPC
+G4: 112 lessons, 112 with TEKS, 27 weeks, 112 teacher links, modules [1, 2, 3, 4, 5, 6, 7]
 G5: 107 lessons, 107 with TEKS, 27 weeks, 107 teacher links, modules [1, 2, 3, 4, 5, 6]
 MOVES: 246 standards
