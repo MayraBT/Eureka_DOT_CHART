@@ -1,0 +1,38 @@
+{
+"M1.S4-1": {
+"topic": "",
+"title": "Classify items into two predetermined categories and then create and analyze a real object graph.",
+"teks": [
+"K.8B",
+"K.8C"
+],
+"kind": "F"
+},
+"M1.S5-1": {
+"topic": "",
+"title": "Classify to find objects that share a pattern, color, or shape and then create and analyze a real object graph.",
+"teks": [
+"K.8B",
+"K.8C"
+],
+"kind": "F"
+},
+"M2.S9-1": {
+"topic": "",
+"title": "Sort shapes as two-dimensional and three-dimensional and then create and analyze a real object graph.",
+"teks": [
+"K.8B",
+"K.8C"
+],
+"kind": "F"
+},
+"M6.S5-1": {
+"topic": "",
+"title": "Compose flat shapes and then create and analyze real object graphs.",
+"teks": [
+"K.8B",
+"K.8C"
+],
+"kind": "F"
+}
+}

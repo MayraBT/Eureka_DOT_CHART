@@ -139,6 +139,19 @@ for g in GRADES:
     titles = cal['lessons']
     # topics
     tmap = topics.get(g, {})
+    # lessons no IPC lists yet: add them from the module Teacher Editions (topic overview TEKS)
+    import glob as _glob
+    _om = {m['n']: set(m.get('omit', [])) for m in mods}
+    for _f in sorted(_glob.glob(f'ipc/te_overview/{g}_M*.json')) + sorted(_glob.glob(f'ipc/te_overview/{g}_supp.json')):
+        for lid, X in json.load(open(_f)).items():
+            _m = int(lid.split('.')[0][1:]); _n = int(lid.split('.L')[1]) if '.L' in lid else -1
+            if lid in lessons or _n in _om.get(_m, set()): continue
+            _codes = []
+            for c in X['teks']:
+                if not re.search(r'[A-Z]$', c): c = c + 'A' if (c + 'A') in TEKS_TXT and (c + 'B') not in TEKS_TXT else None
+                if c and c not in _codes: _codes.append(c)
+            lessons[lid] = {'lo': X['title'], 'marks': {c: X.get('kind', 'O') for c in _codes}, 'days': [], 'te': True}
+            report.append(f'G{g} {lid}: added from the Teacher Edition overview')
     out_lessons = []
     modnames = {m['n']: m for m in mods}
     for lid in sorted(lessons, key=lid_key):
@@ -159,7 +172,7 @@ for g in GRADES:
         marks = sorted(L['marks'].items(), key=lambda kv: (kv[1] != 'F', int(kv[0].split('.')[1][:-1]), kv[0][-1]))
         lab = str(num) if not sup else f"{num}-{sub}"
         out_lessons.append({'id': lid, 'm': m, 't': t, 'l': lab, 'title': title.rstrip('.') + '.', 'sub': '',
-                            'note': ('Supplemental lesson' if sup else '') + (('; ' if sup else '') + 'TEKS from the 2025-26 Q3 weekly IPC (2026-27 not posted yet)' if L.get('prev') else ''), 'prev': bool(L.get('prev')), 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
+                            'note': ('Supplemental lesson' if sup else '') + (('; ' if sup else '') + ('TEKS from the Eureka Teacher Edition ' + ('Supplement overview' if sup else 'topic overview')) if L.get('te') else '') + (('; ' if sup else '') + 'TEKS from the 2025-26 Q3 weekly IPC (2026-27 not posted yet)' if L.get('prev') else ''), 'prev': bool(L.get('prev')), 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
     used_mods = sorted({L['m'] for L in out_lessons})
     modules = []
     for n in used_mods:

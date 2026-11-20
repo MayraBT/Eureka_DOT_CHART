@@ -1,0 +1,403 @@
+{
+"M1.L1": {
+"topic": "A",
+"title": "Analyze to find two objects that are exactly the same  or not exactly the same .",
+"teks": [
+"K.8A"
+]
+},
+"M1.L2": {
+"topic": "A",
+"title": "Analyze to find two similar objects\u2014these  are the same but \u2026",
+"teks": [
+"K.8A"
+]
+},
+"M1.L3": {
+"topic": "A",
+"title": "Classify to find two objects that share a visual pattern, color, and use.",
+"teks": [
+"K.8A"
+]
+},
+"M1.L4": {
+"topic": "B",
+"title": "Classify items into two pre-determined categories.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.8A"
+]
+},
+"M1.L5": {
+"topic": "B",
+"title": "Classify items into three categories, determine the count in each, and reason about how the last number named determines the total.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.8A"
+]
+},
+"M1.L6": {
+"topic": "B",
+"title": "Sort categories by count. Identify categories with 2, 3, and 4 within a given scenario.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.8A"
+]
+},
+"M1.L7": {
+"topic": "C",
+"title": "Sort by count in vertical columns and horizontal rows (linear configurations to 5). Match to numerals on cards.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.2I"
+]
+},
+"M1.L8": {
+"topic": "C",
+"title": "Answer how many  questions to 5 in linear configurations (5-group), with 4 in an array configuration. Compare ways to count five fingers.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.2I"
+]
+},
+"M1.L9": {
+"topic": "C",
+"title": "Within linear and array dot configurations of numbers 3,",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.2I"
+]
+},
+"M1.L10": {
+"topic": "C",
+"title": "Within circular and scattered dot configurations of numbers 3, 4, and 5, find hidden partners .",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.2I"
+]
+},
+"M1.L11": {
+"topic": "C",
+"title": "Model decompositions of 3 with materials, drawings, and expressions. Represent the decomposition as 1 +  2 and 2 +  1.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2D",
+"K.2I"
+]
+},
+"M1.L12": {
+"topic": "D",
+"title": "Understand the meaning of zero. Write the numeral 0.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E",
+"K.2I",
+"K.8A"
+]
+},
+"M1.L13": {
+"topic": "D",
+"title": "Order and write numerals 0\u20133 to answer how many questions.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E",
+"K.2I",
+"K.8A"
+]
+},
+"M1.L14": {
+"topic": "D",
+"title": "Write numerals 1\u20133. Represent decompositions with materials, drawings, and equations, 3 =  2 +  1 and 3 =  1 +  2.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E",
+"K.2I",
+"K.8A"
+]
+},
+"M1.L15": {
+"topic": "D",
+"title": "Order and write numerals 4 and 5 to answer how many questions in categories; sort by count.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E",
+"K.2I",
+"K.8A"
+]
+},
+"M1.L16": {
+"topic": "D",
+"title": "Write numerals 1\u20135 in order. Answer and make drawings of decompositions with totals of 4 and 5 without equations.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E",
+"K.2I",
+"K.8A"
+]
+},
+"M1.L17": {
+"topic": "E",
+"title": "Count 4\u20136 objects in vertical and horizontal linear configurations and array configurations. Match 6 objects to the numeral 6.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L18": {
+"topic": "E",
+"title": "Count 4\u20136 objects in circular and scattered configurations.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L19": {
+"topic": "E",
+"title": "Count 5\u20137 linking cubes in linear configurations. Match with numeral 7. Count on fingers from 1 to 7, and connect to 5-group images.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L20": {
+"topic": "E",
+"title": "Reason about sets of 7 varied objects in circular and scattered configurations. Find a path through the scattered configuration. Write numeral 7. Ask, \u201cHow is your seven different than mine?\u201d",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L21": {
+"topic": "E",
+"title": "Compare counts of 8 in linear and array configurations.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L22": {
+"topic": "E",
+"title": "Arrange and strategize to count 8 beans in circular (around a cup) and scattered configurations. Write numeral 8. Find a path through the scattered set, and compare paths with a partner.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L23": {
+"topic": "F",
+"title": "Organize and count 9 varied geometric objects in linear and array (3 threes) configurations. Place objects on",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L24": {
+"topic": "F",
+"title": "Strategize to count 9 objects in circular (around a paper plate) and scattered configurations printed on paper.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L25": {
+"topic": "F",
+"title": "Count 10 objects in linear and array configurations (2 fives). Match with numeral 10. Place on the 5-group mat. Dialogue about 9 and 10. Write numeral 10.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L26": {
+"topic": "F",
+"title": "Count 10 objects in linear and array configurations (2 fives). Match with numeral 10. Place on the 5-group mat. Dialogue about 9 and 10. Write numeral 10.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L27": {
+"topic": "F",
+"title": "Count 10 objects, and move between all configurations.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L28": {
+"topic": "F",
+"title": "Act out result unknown  story problems without equations.",
+"teks": [
+"K.2A",
+"K.2B",
+"K.2C",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L29": {
+"topic": "G",
+"title": "Order and match numeral and dot cards from 1 to 10.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E",
+"K.5"
+]
+},
+"M1.L30": {
+"topic": "G",
+"title": "Make math stairs from 1 to 10 in cooperative groups.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E",
+"K.5"
+]
+},
+"M1.L31": {
+"topic": "G",
+"title": "Arrange, analyze, and draw 1 more up to 10 in configurations other than towers.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E",
+"K.5"
+]
+},
+"M1.L32": {
+"topic": "G",
+"title": "Arrange, analyze, and draw sequences of quantities of 1 more, beginning with numbers other than 1.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E",
+"K.5"
+]
+},
+"M1.L33": {
+"topic": "H",
+"title": "Order quantities from 10 to 1, and match numerals.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L34": {
+"topic": "H",
+"title": "Count down from 10 to 1, and state 1 less than a given number.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L35": {
+"topic": "H",
+"title": "Arrange number towers in order from 10 to 1, and describe the pattern.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L36": {
+"topic": "H",
+"title": "Arrange, analyze, and draw sequences of quantities that are 1 less in configurations other than towers.",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E"
+]
+},
+"M1.L37": {
+"topic": "H",
+"title": "Culminating Task",
+"teks": [
+"K.2A",
+"K.2C",
+"K.2F",
+"K.2D",
+"K.2E"
+]
+}
+}

@@ -1,0 +1,402 @@
+{
+"M4.L1": {
+"topic": "A",
+"title": "Model composition and decomposition of numbers to 5 using actions, objects, and drawings.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.4"
+]
+},
+"M4.L2": {
+"topic": "A",
+"title": "Model composition and decomposition of numbers to 5 using fingers and linking cube sticks.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.4"
+]
+},
+"M4.L3": {
+"topic": "A",
+"title": "Represent composition story situations with drawings using numeric number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.4"
+]
+},
+"M4.L4": {
+"topic": "A",
+"title": "Represent decomposition story situations with drawings using numeric number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.4"
+]
+},
+"M4.L5": {
+"topic": "A",
+"title": "Represent composition and decomposition of numbers to 5 using pictorial and numeric number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.4"
+]
+},
+"M4.L6": {
+"topic": "A",
+"title": "Represent number bonds with composition and decomposition story situations.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.4"
+]
+},
+"M4.L7": {
+"topic": "B",
+"title": "Model decompositions of 6 using a story situation, objects, and number bonds.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3A"
+]
+},
+"M4.L8": {
+"topic": "B",
+"title": "Model decompositions of 7 using a story situation, sets, and number bonds.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3A"
+]
+},
+"M4.L9": {
+"topic": "B",
+"title": "Model decompositions of 8 using a story situation, arrays, and number bonds.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3A"
+]
+},
+"M4.L10": {
+"topic": "B",
+"title": "Model decompositions of 6\u20138 using linking cube sticks to see patterns.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3A"
+]
+},
+"M4.L11": {
+"topic": "B",
+"title": "Represent decompositions for 6\u20138 using horizontal and vertical number bonds.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3A"
+]
+},
+"M4.L12": {
+"topic": "B",
+"title": "Use 5-groups to represent the 5 +  n  pattern to 8.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3A"
+]
+},
+"M4.L13": {
+"topic": "C",
+"title": "Represent decomposition and composition addition stories to",
+"teks": [
+"K.3A",
+"K.3B",
+"K.3C",
+"K.2I"
+]
+},
+"M4.L14": {
+"topic": "C",
+"title": "Represent decomposition and composition addition stories to",
+"teks": [
+"K.3A",
+"K.3B",
+"K.3C",
+"K.2I"
+]
+},
+"M4.L15": {
+"topic": "C",
+"title": "Represent decomposition and composition addition stories to",
+"teks": [
+"K.3A",
+"K.3B",
+"K.3C",
+"K.2I"
+]
+},
+"M4.L16": {
+"topic": "C",
+"title": "Solve add to with result unknown  word problems to 8 with equations. Box the unknown.",
+"teks": [
+"K.3A",
+"K.3B",
+"K.3C",
+"K.2I"
+]
+},
+"M4.L17": {
+"topic": "C",
+"title": "Solve put together with total unknown  word problems to 8 using objects and drawings.",
+"teks": [
+"K.3A",
+"K.3B",
+"K.3C",
+"K.2I"
+]
+},
+"M4.L18": {
+"topic": "C",
+"title": "Solve both addends unknown  word problems to 8 to find addition patterns in number pairs.",
+"teks": [
+"K.3A",
+"K.3B",
+"K.3C",
+"K.2I"
+]
+},
+"M4.L19": {
+"topic": "D",
+"title": "Use objects and drawings to find how many are left .",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L20": {
+"topic": "D",
+"title": "Solve take from with result unknown  expressions and equations using the minus sign with no unknown.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L21": {
+"topic": "D",
+"title": "Represent subtraction story problems using objects, drawings, expressions, and equations.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L22": {
+"topic": "D",
+"title": "Decompose the number 6 using 5-group drawings by breaking off or removing a part, and record each decomposition with a drawing and subtraction equation.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L23": {
+"topic": "D",
+"title": "Decompose the number 7 using 5-group drawings by hiding a part, and record each decomposition with a drawing and subtraction equation.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L24": {
+"topic": "D",
+"title": "Decompose the number 8 using 5-group drawings and crossing off a part, and record each decomposition with a drawing and subtraction equation.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L25": {
+"topic": "D",
+"title": "Model decompositions of 9 using a story situation, objects, and number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L26": {
+"topic": "D",
+"title": "Model decompositions of 9 using fingers, linking cubes, and number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L27": {
+"topic": "D",
+"title": "Model decompositions of 10 using a story situation, objects, and number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L28": {
+"topic": "D",
+"title": "Model decompositions of 10 using fingers, sets, linking cubes, and number bonds.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L29": {
+"topic": "F",
+"title": "Represent pictorial decomposition and composition addition stories to 9 with 5-group drawings and equations with no unknown.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L30": {
+"topic": "F",
+"title": "Represent pictorial decomposition and composition addition stories to 10 with 5-group drawings and equations with no unknown.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L31": {
+"topic": "F",
+"title": "Solve add to with total unknown  and put together with total unknown  problems with totals of 9 and 10.",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L32": {
+"topic": "F",
+"title": "Solve both addends unknown  word problems with totals of 9 and",
+"teks": [
+"K.2I",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L33": {
+"topic": "G",
+"title": "Solve take from  equations with no unknown using numbers to 10.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L34": {
+"topic": "G",
+"title": "Represent subtraction story problems by breaking off, crossing out, and hiding a part.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L35": {
+"topic": "G",
+"title": "Decompose the number 9 using 5-group drawings, and record each decomposition with a subtraction equation.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L36": {
+"topic": "G",
+"title": "Decompose the number 10 using 5-group drawings, and record each decomposition with a subtraction equation.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L37": {
+"topic": "H",
+"title": "Add or subtract 0 to get the same number and relate to word problems wherein the same quantity that joins a set, separates.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L38": {
+"topic": "H",
+"title": "Add 1 to numbers 1-9 to see the pattern of the next number using 5-group drawings and equations.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L39": {
+"topic": "H",
+"title": "Find the number that makes 10 for numbers 1-9, and record each with a 5-group drawing.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L40": {
+"topic": "H",
+"title": "Find the number that makes 10 for numbers 1-9, and record each with an addition equation.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+},
+"M4.L41": {
+"topic": "H",
+"title": "Culminating task\u2014choose tools strategically to model and represent a stick of 10 cubes broken into two parts.",
+"teks": [
+"K.2I",
+"K.3A",
+"K.3B",
+"K.3C"
+]
+}
+}
