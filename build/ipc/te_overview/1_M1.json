@@ -322,5 +322,68 @@
    "1.5D",
    "1.5F"
   ]
+ },
+ "M1.L33": {
+  "topic": "I",
+  "title": "Model 0 less and 1 less pictorially and as subtraction number sentences.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
+ },
+ "M1.L34": {
+  "topic": "I",
+  "title": "Model n \u2013 n and n \u2013 (n \u2013 1) pictorially and as subtraction sentences.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
+ },
+ "M1.L35": {
+  "topic": "I",
+  "title": "Relate subtraction facts involving fives and doubles to corresponding decompositions.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
+ },
+ "M1.L36": {
+  "topic": "I",
+  "title": "Relate subtraction from 10 to corresponding decompositions.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
+ },
+ "M1.L37": {
+  "topic": "I",
+  "title": "Relate subtraction from 9 to corresponding decompositions.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
+ },
+ "M1.L38": {
+  "topic": "J",
+  "title": "Look for and make use of repeated reasoning and structure, using the addition chart to solve subtraction problems.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
+ },
+ "M1.L39": {
+  "topic": "J",
+  "title": "Analyze the addition chart to create sets of related addition and subtraction facts.",
+  "teks": [
+   "1.3D",
+   "1.3E",
+   "1.5G"
+  ]
  }
 }

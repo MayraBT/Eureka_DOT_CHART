@@ -1,121 +1,121 @@
 {
-"M2.L1": {
-"topic": "A",
-"title": "Find and describe flat triangles, squares, rectangles, hexagons, and circles using informal language without naming them.",
-"teks": [
-"K.6A",
-"K.6D",
-"K.6E",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L2": {
-"topic": "A",
-"title": "Explain decisions about classifications of triangles into categories using variants and non-examples and record on a picture graph.",
-"teks": [
-"K.6A",
-"K.6D",
-"K.6E",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L3": {
-"topic": "A",
-"title": "Explain decisions about classifications of rectangles into categories using variants and non-examples and record on a picture graph. Identify shapes as rectangles.",
-"teks": [
-"K.6A",
-"K.6D",
-"K.6E",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L4": {
-"topic": "A",
-"title": "Explain decisions about classifications of hexagons and circles identify them by name, and record on a picture graph. Make observations using variants and non-examples.",
-"teks": [
-"K.6A",
-"K.6D",
-"K.6E",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L5": {
-"topic": "A",
-"title": "Describe and communicate positions of all flat shapes using the words above, below, beside, in front of, next to , and behind .",
-"teks": [
-"K.6A",
-"K.6D",
-"K.6E",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L6": {
-"topic": "B",
-"title": "Find and describe solid shapes using informal language without naming them.",
-"teks": [
-"K.6A",
-"K.6B",
-"K.6C",
-"K.6D",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L7": {
-"topic": "B",
-"title": "Explain decisions about classification of solid shapes into categories and record on a picture graph. Name the solid shapes.",
-"teks": [
-"K.6A",
-"K.6B",
-"K.6C",
-"K.6D",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L8": {
-"topic": "B",
-"title": "Describe and communicate positions of all solid shapes using the words above, below, beside, in front of, next to , and behind .",
-"teks": [
-"K.6A",
-"K.6B",
-"K.6C",
-"K.6D",
-"K.8A",
-"K.8B",
-"K.8C"
-]
-},
-"M2.L9": {
-"topic": "C",
-"title": "Identify and sort shapes as two-dimensional or three- dimensional, and recognize two-dimensional and three- dimensional shapes in different orientations and sizes.",
-"teks": [
-"K.6A",
-"K.6B",
-"K.6C",
-"K.6E"
-]
-},
-"M2.L10": {
-"topic": "C",
-"title": "Culminating Task",
-"teks": [
-"K.6A",
-"K.6B",
-"K.6C",
-"K.6E"
-]
-}
+ "M2.L1": {
+  "topic": "A",
+  "title": "Find and describe flat triangles, squares, rectangles, hexagons, and circles using informal language without naming them.",
+  "teks": [
+   "K.6A",
+   "K.6D",
+   "K.6E",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L2": {
+  "topic": "A",
+  "title": "Explain decisions about classifications of triangles into categories using variants and non-examples and record on a picture graph.",
+  "teks": [
+   "K.6A",
+   "K.6D",
+   "K.6E",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L3": {
+  "topic": "A",
+  "title": "Explain decisions about classifications of rectangles into categories using variants and non-examples and record on a picture graph. Identify shapes as rectangles.",
+  "teks": [
+   "K.6A",
+   "K.6D",
+   "K.6E",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L4": {
+  "topic": "A",
+  "title": "Explain decisions about classifications of hexagons and circles identify them by name, and record on a picture graph. Make observations using variants and non-examples.",
+  "teks": [
+   "K.6A",
+   "K.6D",
+   "K.6E",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L5": {
+  "topic": "A",
+  "title": "Describe and communicate positions of all flat shapes using the words above, below, beside, in front of, next to , and behind .",
+  "teks": [
+   "K.6A",
+   "K.6D",
+   "K.6E",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L6": {
+  "topic": "B",
+  "title": "Find and describe solid shapes using informal language without naming them.",
+  "teks": [
+   "K.6A",
+   "K.6B",
+   "K.6C",
+   "K.6D",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L7": {
+  "topic": "B",
+  "title": "Explain decisions about classification of solid shapes into categories and record on a picture graph. Name the solid shapes.",
+  "teks": [
+   "K.6A",
+   "K.6B",
+   "K.6C",
+   "K.6D",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L8": {
+  "topic": "B",
+  "title": "Describe and communicate positions of all solid shapes using the words above, below, beside, in front of, next to , and behind .",
+  "teks": [
+   "K.6A",
+   "K.6B",
+   "K.6C",
+   "K.6D",
+   "K.8A",
+   "K.8B",
+   "K.8C"
+  ]
+ },
+ "M2.L9": {
+  "topic": "C",
+  "title": "Identify and sort shapes as two-dimensional or three- dimensional, and recognize two-dimensional and three- dimensional shapes in different orientations and sizes.",
+  "teks": [
+   "K.6A",
+   "K.6B",
+   "K.6C",
+   "K.6E"
+  ]
+ },
+ "M2.L10": {
+  "topic": "C",
+  "title": "Culminating Task",
+  "teks": [
+   "K.6A",
+   "K.6B",
+   "K.6C",
+   "K.6E"
+  ]
+ }
 }

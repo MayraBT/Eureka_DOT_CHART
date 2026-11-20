@@ -216,6 +216,30 @@
    "2.4D"
   ]
  },
+ "M4.L20": {
+  "topic": "D",
+  "title": "Use math drawings to represent additions with up to two compositions and relate drawings to a written method.",
+  "teks": [
+   "2.4B",
+   "2.7B",
+   "2.2A",
+   "2.4A",
+   "2.4C",
+   "2.4D"
+  ]
+ },
+ "M4.L21": {
+  "topic": "D",
+  "title": "Use math drawings to represent additions with up to two compositions and relate drawings to a written method.",
+  "teks": [
+   "2.4B",
+   "2.7B",
+   "2.2A",
+   "2.4A",
+   "2.4C",
+   "2.4D"
+  ]
+ },
  "M4.L22": {
   "topic": "D",
   "title": "Solve additions with up to four addends with totals within 200 with and without two compositions of larger units.",
@@ -255,6 +279,22 @@
  "M4.L26": {
   "topic": "E",
   "title": "Use math drawings to represent subtraction with up to two decompositions and relate drawings to a written method.",
+  "teks": [
+   "2.4B",
+   "2.4A"
+  ]
+ },
+ "M4.L27": {
+  "topic": "E",
+  "title": "Subtract from 200 and from numbers with zeros in the tens place.",
+  "teks": [
+   "2.4B",
+   "2.4A"
+  ]
+ },
+ "M4.L28": {
+  "topic": "E",
+  "title": "Subtract from 200 and from numbers with zeros in the tens place.",
   "teks": [
    "2.4B",
    "2.4A"

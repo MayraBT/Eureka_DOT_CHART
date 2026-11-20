@@ -1,332 +1,332 @@
 {
-"M5.L1": {
-"topic": "A",
-"title": "Count straws into piles of ten; count the piles as 10 ones.",
-"teks": [
-"K.2A",
-"K.2E",
-"K.2F",
-"K.5",
-"K.2C",
-"K.2D"
-]
-},
-"M5.L2": {
-"topic": "A",
-"title": "Count 10 objects within counts of 10 to 20 objects, and describe as 10 ones and ___ ones.",
-"teks": [
-"K.2A",
-"K.2E",
-"K.2F",
-"K.5",
-"K.2C",
-"K.2D"
-]
-},
-"M5.L3": {
-"topic": "A",
-"title": "Count and circle 10 objects within images of 10 to 20 objects, and describe as 10 ones and ___ ones.",
-"teks": [
-"K.2A",
-"K.2E",
-"K.2F",
-"K.5",
-"K.2C",
-"K.2D"
-]
-},
-"M5.L4": {
-"topic": "A",
-"title": "Count straws the Say Ten way to 19; make a pile for each ten.",
-"teks": [
-"K.2A",
-"K.2E",
-"K.2F",
-"K.5",
-"K.2C",
-"K.2D"
-]
-},
-"M5.L5": {
-"topic": "A",
-"title": "Count straws the Say Ten way to 20; make a pile for each ten.",
-"teks": [
-"K.2A",
-"K.2E",
-"K.2F",
-"K.5",
-"K.2C",
-"K.2D"
-]
-},
-"M5.L6": {
-"topic": "B",
-"title": "Model with objects and represent numbers 10 to 20 with place value or Hide Zero cards.",
-"teks": [
-"K.2A",
-"K.2B",
-"K.2E",
-"K.2F",
-"K.2C",
-"K.2D",
-"K.5"
-]
-},
-"M5.L7": {
-"topic": "B",
-"title": "Model and write numbers 10 to 20 as number bonds.",
-"teks": [
-"K.2A",
-"K.2B",
-"K.2E",
-"K.2F",
-"K.2C",
-"K.2D",
-"K.5"
-]
-},
-"M5.L8": {
-"topic": "B",
-"title": "Model teen numbers with materials from abstract to concrete.",
-"teks": [
-"K.2A",
-"K.2B",
-"K.2E",
-"K.2F",
-"K.2C",
-"K.2D",
-"K.5"
-]
-},
-"M5.L9": {
-"topic": "B",
-"title": "Draw teen numbers from abstract to pictorial.",
-"teks": [
-"K.2A",
-"K.2B",
-"K.2E",
-"K.2F",
-"K.2C",
-"K.2D",
-"K.5"
-]
-},
-"M5.L10": {
-"topic": "C",
-"title": "Build a Rekenrek to 20.",
-"teks": [
-"K.2A",
-"K.2C",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2B"
-]
-},
-"M5.L11": {
-"topic": "C",
-"title": "Show, count, and write numbers 11 to 20 in tower configurations increasing by 1\u2014a pattern of 1 larger .",
-"teks": [
-"K.2A",
-"K.2C",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2B"
-]
-},
-"M5.L12": {
-"topic": "C",
-"title": "Represent numbers 20 to 11 in tower configurations decreasing by 1\u2014a pattern of 1 smaller .",
-"teks": [
-"K.2A",
-"K.2C",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2B"
-]
-},
-"M5.L13": {
-"topic": "C",
-"title": "Show, count, and write to answer how many  questions in linear and array configurations.",
-"teks": [
-"K.2A",
-"K.2C",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2B"
-]
-},
-"M5.L14": {
-"topic": "C",
-"title": "Show, count, and write to answer how many  questions with up to 20 objects in circular configurations.",
-"teks": [
-"K.2A",
-"K.2C",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2B"
-]
-},
-"M5.L15": {
-"topic": "D",
-"title": "Count up and down by tens to 100 with Say Ten and regular counting.",
-"teks": [
-"K.5",
-"K.2B",
-"K.2D",
-"K.2E",
-"K.2F"
-]
-},
-"M5.L16": {
-"topic": "D",
-"title": "Count within tens by ones.",
-"teks": [
-"K.5",
-"K.2B",
-"K.2D",
-"K.2E",
-"K.2F"
-]
-},
-"M5.L17": {
-"topic": "D",
-"title": "Count across tens when counting by ones through 40.",
-"teks": [
-"K.5",
-"K.2B",
-"K.2D",
-"K.2E",
-"K.2F"
-]
-},
-"M5.L18": {
-"topic": "D",
-"title": "Count across tens by ones to 100 with and without objects.",
-"teks": [
-"K.5",
-"K.2B",
-"K.2D",
-"K.2E",
-"K.2F"
-]
-},
-"M5.L19": {
-"topic": "D",
-"title": "Explore numbers on the Rekenrek. (Optional)",
-"teks": [
-"K.5",
-"K.2B",
-"K.2D",
-"K.2E",
-"K.2F"
-]
-},
-"M5.L20": {
-"topic": "E",
-"title": "Represent teen number compositions and decompositions as addition sentences.",
-"teks": [
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2H",
-"K.2B",
-"K.5"
-]
-},
-"M5.L21": {
-"topic": "E",
-"title": "Represent teen number decompositions as 10 ones and some ones, and find a hidden part.",
-"teks": [
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2H",
-"K.2B",
-"K.5"
-]
-},
-"M5.L22": {
-"topic": "E",
-"title": "Decompose teen numbers as 10 ones and some ones; compare some ones  to compare the teen numbers.",
-"teks": [
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2H",
-"K.2B",
-"K.5"
-]
-},
-"M5.L23": {
-"topic": "E",
-"title": "Reason about and represent situations, decomposing teen numbers into 10 ones and some ones and composing 10 ones and some ones into a teen number.",
-"teks": [
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2H",
-"K.2B",
-"K.5"
-]
-},
-"M5.L24": {
-"topic": "E",
-"title": "Culminating Task\u2014Represent teen number decompositions in various ways.",
-"teks": [
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2H",
-"K.2B",
-"K.5"
-]
-},
-"M5.L25": {
-"topic": "F",
-"title": "Understand gifts, income, and ways to earn income.",
-"teks": [
-"K.4",
-"K.9A",
-"K.9B",
-"K.9C",
-"K.9D"
-]
-},
-"M5.L26": {
-"topic": "F",
-"title": "Define jobs as sources of income.",
-"teks": [
-"K.4",
-"K.9A",
-"K.9B",
-"K.9C",
-"K.9D"
-]
-},
-"M5.L27": {
-"topic": "F",
-"title": "Understand the difference between needs and wants.",
-"teks": [
-"K.4",
-"K.9A",
-"K.9B",
-"K.9C",
-"K.9D"
-]
-}
+ "M5.L1": {
+  "topic": "A",
+  "title": "Count straws into piles of ten; count the piles as 10 ones.",
+  "teks": [
+   "K.2A",
+   "K.2E",
+   "K.2F",
+   "K.5",
+   "K.2C",
+   "K.2D"
+  ]
+ },
+ "M5.L2": {
+  "topic": "A",
+  "title": "Count 10 objects within counts of 10 to 20 objects, and describe as 10 ones and ___ ones.",
+  "teks": [
+   "K.2A",
+   "K.2E",
+   "K.2F",
+   "K.5",
+   "K.2C",
+   "K.2D"
+  ]
+ },
+ "M5.L3": {
+  "topic": "A",
+  "title": "Count and circle 10 objects within images of 10 to 20 objects, and describe as 10 ones and ___ ones.",
+  "teks": [
+   "K.2A",
+   "K.2E",
+   "K.2F",
+   "K.5",
+   "K.2C",
+   "K.2D"
+  ]
+ },
+ "M5.L4": {
+  "topic": "A",
+  "title": "Count straws the Say Ten way to 19; make a pile for each ten.",
+  "teks": [
+   "K.2A",
+   "K.2E",
+   "K.2F",
+   "K.5",
+   "K.2C",
+   "K.2D"
+  ]
+ },
+ "M5.L5": {
+  "topic": "A",
+  "title": "Count straws the Say Ten way to 20; make a pile for each ten.",
+  "teks": [
+   "K.2A",
+   "K.2E",
+   "K.2F",
+   "K.5",
+   "K.2C",
+   "K.2D"
+  ]
+ },
+ "M5.L6": {
+  "topic": "B",
+  "title": "Model with objects and represent numbers 10 to 20 with place value or Hide Zero cards.",
+  "teks": [
+   "K.2A",
+   "K.2B",
+   "K.2E",
+   "K.2F",
+   "K.2C",
+   "K.2D",
+   "K.5"
+  ]
+ },
+ "M5.L7": {
+  "topic": "B",
+  "title": "Model and write numbers 10 to 20 as number bonds.",
+  "teks": [
+   "K.2A",
+   "K.2B",
+   "K.2E",
+   "K.2F",
+   "K.2C",
+   "K.2D",
+   "K.5"
+  ]
+ },
+ "M5.L8": {
+  "topic": "B",
+  "title": "Model teen numbers with materials from abstract to concrete.",
+  "teks": [
+   "K.2A",
+   "K.2B",
+   "K.2E",
+   "K.2F",
+   "K.2C",
+   "K.2D",
+   "K.5"
+  ]
+ },
+ "M5.L9": {
+  "topic": "B",
+  "title": "Draw teen numbers from abstract to pictorial.",
+  "teks": [
+   "K.2A",
+   "K.2B",
+   "K.2E",
+   "K.2F",
+   "K.2C",
+   "K.2D",
+   "K.5"
+  ]
+ },
+ "M5.L10": {
+  "topic": "C",
+  "title": "Build a Rekenrek to 20.",
+  "teks": [
+   "K.2A",
+   "K.2C",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2B"
+  ]
+ },
+ "M5.L11": {
+  "topic": "C",
+  "title": "Show, count, and write numbers 11 to 20 in tower configurations increasing by 1\u2014a pattern of 1 larger .",
+  "teks": [
+   "K.2A",
+   "K.2C",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2B"
+  ]
+ },
+ "M5.L12": {
+  "topic": "C",
+  "title": "Represent numbers 20 to 11 in tower configurations decreasing by 1\u2014a pattern of 1 smaller .",
+  "teks": [
+   "K.2A",
+   "K.2C",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2B"
+  ]
+ },
+ "M5.L13": {
+  "topic": "C",
+  "title": "Show, count, and write to answer how many questions in linear and array configurations.",
+  "teks": [
+   "K.2A",
+   "K.2C",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2B"
+  ]
+ },
+ "M5.L14": {
+  "topic": "C",
+  "title": "Show, count, and write to answer how many questions with up to 20 objects in circular configurations.",
+  "teks": [
+   "K.2A",
+   "K.2C",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2B"
+  ]
+ },
+ "M5.L15": {
+  "topic": "D",
+  "title": "Count up and down by tens to 100 with Say Ten and regular counting.",
+  "teks": [
+   "K.5",
+   "K.2B",
+   "K.2D",
+   "K.2E",
+   "K.2F"
+  ]
+ },
+ "M5.L16": {
+  "topic": "D",
+  "title": "Count within tens by ones.",
+  "teks": [
+   "K.5",
+   "K.2B",
+   "K.2D",
+   "K.2E",
+   "K.2F"
+  ]
+ },
+ "M5.L17": {
+  "topic": "D",
+  "title": "Count across tens when counting by ones through 40.",
+  "teks": [
+   "K.5",
+   "K.2B",
+   "K.2D",
+   "K.2E",
+   "K.2F"
+  ]
+ },
+ "M5.L18": {
+  "topic": "D",
+  "title": "Count across tens by ones to 100 with and without objects.",
+  "teks": [
+   "K.5",
+   "K.2B",
+   "K.2D",
+   "K.2E",
+   "K.2F"
+  ]
+ },
+ "M5.L19": {
+  "topic": "D",
+  "title": "Explore numbers on the Rekenrek. (Optional)",
+  "teks": [
+   "K.5",
+   "K.2B",
+   "K.2D",
+   "K.2E",
+   "K.2F"
+  ]
+ },
+ "M5.L20": {
+  "topic": "E",
+  "title": "Represent teen number compositions and decompositions as addition sentences.",
+  "teks": [
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2H",
+   "K.2B",
+   "K.5"
+  ]
+ },
+ "M5.L21": {
+  "topic": "E",
+  "title": "Represent teen number decompositions as 10 ones and some ones, and find a hidden part.",
+  "teks": [
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2H",
+   "K.2B",
+   "K.5"
+  ]
+ },
+ "M5.L22": {
+  "topic": "E",
+  "title": "Decompose teen numbers as 10 ones and some ones; compare some ones to compare the teen numbers.",
+  "teks": [
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2H",
+   "K.2B",
+   "K.5"
+  ]
+ },
+ "M5.L23": {
+  "topic": "E",
+  "title": "Reason about and represent situations, decomposing teen numbers into 10 ones and some ones and composing 10 ones and some ones into a teen number.",
+  "teks": [
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2H",
+   "K.2B",
+   "K.5"
+  ]
+ },
+ "M5.L24": {
+  "topic": "E",
+  "title": "Culminating Task\u2014Represent teen number decompositions in various ways.",
+  "teks": [
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2H",
+   "K.2B",
+   "K.5"
+  ]
+ },
+ "M5.L25": {
+  "topic": "F",
+  "title": "Understand gifts, income, and ways to earn income.",
+  "teks": [
+   "K.4",
+   "K.9A",
+   "K.9B",
+   "K.9C",
+   "K.9D"
+  ]
+ },
+ "M5.L26": {
+  "topic": "F",
+  "title": "Define jobs as sources of income.",
+  "teks": [
+   "K.4",
+   "K.9A",
+   "K.9B",
+   "K.9C",
+   "K.9D"
+  ]
+ },
+ "M5.L27": {
+  "topic": "F",
+  "title": "Understand the difference between needs and wants.",
+  "teks": [
+   "K.4",
+   "K.9A",
+   "K.9B",
+   "K.9C",
+   "K.9D"
+  ]
+ }
 }

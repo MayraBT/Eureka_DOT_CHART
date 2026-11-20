@@ -41,10 +41,13 @@ def load_weeks(g):
 
 
 COURSES = {}; TIG = {}
+# TE_ONLY=1: teacher build that lists every Eureka lesson with the TEKS from its Teacher Edition
+# topic overview (or Supplement overview); no IPC pacing, TEKS or links.
+TE_ONLY = os.environ.get('TE_ONLY') == '1'
 for g in GRADES:
     cal = json.load(open(f'ipc/cal_g{g}.json'))
     mods = cal['ss']['modules']
-    weeks = load_weeks(g)
+    weeks = [] if TE_ONLY else load_weeks(g)
     have = {w['W'] for w in weeks}
     missing = [w for w in range(1, 19) if w not in have]
     if missing: report.append(f'G{g}: weekly IPC missing for weeks {missing}')
@@ -90,7 +93,7 @@ for g in GRADES:
                 days.append({'date': date, 'dow': DOW[i], 'lid': None, 'act': '', 'text': txt, 'kind': k})
         calweeks.append({'q': q, 'wk': wkq, 'start': w['start'], 'days': days})
     # Q3 from the quarterly calendar (lesson-level TEKS not yet posted)
-    for w in cal['q3']['weeks']:
+    for w in ([] if TE_ONLY else cal['q3']['weeks']):
         if w['wk'] in have: continue   # the 2026-27 weekly IPC replaces the calendar for this week
         q, wkq = 3, w['wk'] - 18
         start = D(w['start']); days = []
@@ -111,12 +114,12 @@ for g in GRADES:
                 days.append({'date': date, 'dow': DOW[i], 'lid': None, 'act': '', 'text': txt, 'kind': k})
         calweeks.append({'q': q, 'wk': wkq, 'start': w['start'], 'days': days})
     # G3 weeks 1-4: teacher links from the anchor map
-    if g == '3':
+    if g == '3' and not TE_ONLY:
         for lid, disco in TE_FILE['disco'].items():
             tig.setdefault(lid, [f"https://drive.google.com/file/d/{TE_FILE['file']}/edit?disco={disco}"])
     # Q3 lessons still without TEKS: use last year's (2025-26) weekly IPC for the same Eureka lesson
     prevf = f'ipc/g{g}_q3_2526.json'
-    if os.path.exists(prevf):
+    if os.path.exists(prevf) and not TE_ONLY:
         n = 0
         for w in json.load(open(prevf))['weeks']:
             for d in w['days']:
@@ -155,8 +158,8 @@ for g in GRADES:
                     lessons[lid]['marks'] = {c: X.get('kind', 'O') for c in _codes}; lessons[lid]['te'] = True
                     report.append(f'G{g} {lid}: TEKS filled from the Teacher Edition overview')
                 continue
-            if _n in _om.get(_m, set()): continue
-            lessons[lid] = {'lo': X['title'], 'marks': {c: X.get('kind', 'O') for c in _codes}, 'days': [], 'te': True, 'review': not _codes}
+            if _n in _om.get(_m, set()) and not TE_ONLY: continue
+            lessons[lid] = {'lo': X['title'], 'marks': {c: ('F' if TE_ONLY else X.get('kind', 'O')) for c in _codes}, 'days': [], 'te': True, 'review': not _codes, 'topic': X.get('topic')}
             report.append(f'G{g} {lid}: added from the Teacher Edition overview')
     out_lessons = []
     modnames = {m['n']: m for m in mods}
@@ -165,6 +168,7 @@ for g in GRADES:
         L = lessons[lid]
         tp = tmap.get(f'M{m}', {})
         letter = next((t for t, (a, b) in tp.items() if a <= num <= b), None)
+        if TE_ONLY and L.get('topic'): letter = L['topic']
         mod = modnames.get(m)
         letters = [t['t'] for t in mod['topics']] if mod else []
         if letter is None:
@@ -174,11 +178,14 @@ for g in GRADES:
             report.append(f'G{g} {lid}: topic not mapped, used {letter}')
         t = letters.index(letter) + 1 if letter in letters else 1
         title = titles.get(lid) or L['lo'] or ''
-        if not titles.get(lid): report.append(f'G{g} {lid}: no calendar objective; title from IPC LO')
+        if TE_ONLY and not titles.get(lid): title = L['lo'] or ''
+        if not titles.get(lid) and not TE_ONLY: report.append(f'G{g} {lid}: no calendar objective; title from IPC LO')
         marks = sorted(L['marks'].items(), key=lambda kv: (kv[1] != 'F', int(kv[0].split('.')[1][:-1]), kv[0][-1]))
         lab = str(num) if not sup else f"{num}-{sub}"
         out_lessons.append({'id': lid, 'm': m, 't': t, 'l': lab, 'title': title.rstrip('.') + '.', 'sub': '',
                             'note': ('Supplemental lesson' if sup else '') + (('; ' if sup else '') + ('TEKS from the Eureka Teacher Edition ' + ('Supplement overview' if sup else 'topic overview')) if L.get('te') else '') + (('; ' if sup else '') + 'TEKS from the 2025-26 Q3 weekly IPC (2026-27 not posted yet)' if L.get('prev') else ''), 'prev': bool(L.get('prev')), 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
+    if TE_ONLY:
+        for L in out_lessons: L['note'] = 'Supplemental lesson' if '.S' in L['id'] else ''
     for L in out_lessons:
         if lessons[L['id']].get('review'):
             L['note'] = 'Year in Review: spiral review of the grade’s major work; the Teacher Edition lists no TEKS for it'
@@ -187,7 +194,7 @@ for g in GRADES:
     for n in used_mods:
         mm = modnames.get(n, {'name': f'Module {n}', 'topics': []})
         modules.append({'n': n, 'name': mm['name'], 'topics': [t['name'] for t in mm['topics']], 'letters': [t['t'] for t in mm['topics']],
-                        'focus': mm.get('focus', []), 'included': mm.get('included', []), 'omit': mm.get('omit', []), 'after_staar': mm.get('after_staar', [])})
+                        'focus': [] if TE_ONLY else mm.get('focus', []), 'included': [] if TE_ONLY else mm.get('included', []), 'omit': [] if TE_ONLY else mm.get('omit', []), 'after_staar': [] if TE_ONLY else mm.get('after_staar', [])})
     # standards: every TEKS of the grade (scaffold), in code order
     codes = sorted([c for c in TEKS_TXT if c.startswith(g + '.')], key=lambda c: (int(c.split('.')[1][:-1]), c[-1]))
     standards = [{'code': c, 'type': TYPE[c], 'g7': False, 'desc': TEKS_TXT[c]} for c in codes]
@@ -197,7 +204,7 @@ for g in GRADES:
         if bad:
             report.append(f'G{g} {L["id"]}: TEKS not in Grade {g} list, dropped: {bad}')
             L['marks'] = [mk for mk in L['marks'] if mk[0] in known]
-            L['note'] = (L['note'] + '; ' if L['note'] else '') + 'The IPC also lists earlier-grade TEKS: ' + ', '.join(bad)
+            L['note'] = (L['note'] + '; ' if L['note'] else '') + ('The Teacher Edition also lists earlier-grade TEKS: ' if TE_ONLY else 'The IPC also lists earlier-grade TEKS: ') + ', '.join(bad)
     pace = {}
     for lid, L in lessons.items():
         if not L['days']: continue
@@ -210,6 +217,7 @@ for g in GRADES:
                         'data': {'modules': modules, 'standards': standards, 'lessons': out_lessons},
                         'pace': {'lessons': pace, 'cal': {'quarters': QUARTERS, 'events': events}}, 'cal': calweeks}
     TEMOD = json.load(open('ipc/te_module.json')).get(g, {}) if os.path.exists('ipc/te_module.json') else {}
+    if TE_ONLY: tig = {}
     for L in out_lessons:
         mod = L['id'].split('.')[0]
         if L['id'] not in tig and mod in TEMOD:
@@ -277,7 +285,8 @@ STRAND_NAMES.update(STRAND_K2)
 J = lambda o: json.dumps(o, ensure_ascii=False, separators=(',', ':')).replace('divide jump to', 'divide up to')
 with open('data_moves.js', 'w') as f:
     f.write('const MOVES = ' + J(MOVES) + ';\n')
-with open('data.js', 'w') as f:
+DATA_OUT = 'data_te.js' if TE_ONLY else 'data.js'
+with open(DATA_OUT, 'w') as f:
     f.write('const COURSES = ' + J(COURSES) + ';\n')
     f.write('const TIG = ' + J(TIG) + ';\n')
     f.write('const STRAND_NAMES0 = ' + J(STRAND_NAMES) + ';\n')
@@ -285,6 +294,6 @@ with open('data.js', 'w') as f:
     f.write('const VOCAB = ' + J(VOCAB) + ';\n')
     f.write('const SCAF = ' + J(SCAF) + ';\n')
     f.write('const TEKS = ' + J(TEKS) + ';\n')
-open('report.txt', 'w').write('\n'.join(report))
+open('report_te.txt' if TE_ONLY else 'report.txt', 'w').write('\n'.join(report))
 print('\n'.join(report[-12:]))
-print('data.js', os.path.getsize('data.js'), 'moves', os.path.getsize('data_moves.js'))
+print(DATA_OUT, os.path.getsize(DATA_OUT), 'moves', os.path.getsize('data_moves.js'))

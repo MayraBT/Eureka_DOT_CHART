@@ -1,78 +1,106 @@
 {
  "M2.L1": {
   "topic": "A",
-  "title": "Practice making ten and adding to ten.",
+  "title": "Connect measurement with physical units by using multiple copies of the same physical unit to measure.",
   "teks": [
-   "2.4A",
-   "2.4B"
+   "2.9A",
+   "2.9D",
+   "2.9B"
   ]
  },
  "M2.L2": {
   "topic": "A",
-  "title": "Practice making the next ten and adding to a multiple of ten.",
+  "title": "Use iteration with one physical unit to measure.",
   "teks": [
-   "2.4A",
-   "2.4B"
+   "2.9A",
+   "2.9D",
+   "2.9B"
   ]
  },
  "M2.L3": {
-  "topic": "B",
-  "title": "Add and subtract like units.",
+  "topic": "A",
+  "title": "Apply concepts to create unit rulers and measure lengths using unit rulers.",
   "teks": [
-   "2.4A",
-   "2.4B",
-   "2.4C",
-   "2.7C"
+   "2.9A",
+   "2.9D",
+   "2.9B"
   ]
  },
  "M2.L4": {
   "topic": "B",
-  "title": "Make a ten to add within 20.",
+  "title": "Measure various objects using centimeter rulers and meter sticks.",
   "teks": [
-   "2.4A",
-   "2.4B",
-   "2.4C",
-   "2.7C"
+   "2.9A",
+   "2.9D",
+   "2.9E",
+   "2.2E",
+   "2.2F"
   ]
  },
  "M2.L5": {
   "topic": "B",
-  "title": "Make a ten to add within 100.",
+  "title": "Develop estimation strategies by applying prior knowledge of length and using mental benchmarks.",
   "teks": [
-   "2.4A",
-   "2.4B",
-   "2.4C",
-   "2.7C"
+   "2.9A",
+   "2.9D",
+   "2.9E",
+   "2.2E",
+   "2.2F"
   ]
  },
  "M2.L6": {
-  "topic": "B",
-  "title": "Subtract single-digit numbers from multiples of 10 within 100.",
+  "topic": "C",
+  "title": "Measure and compare lengths using centimeters and meters.",
   "teks": [
-   "2.4A",
-   "2.4B",
-   "2.4C",
-   "2.7C"
+   "2.9A",
+   "2.9B",
+   "2.9D",
+   "2.2E",
+   "2.2F"
   ]
  },
  "M2.L7": {
-  "topic": "B",
-  "title": "Take from ten within 20.",
+  "topic": "C",
+  "title": "Measure and compare lengths using standard metric length units and non-standard length units; relate measurement to unit size.",
   "teks": [
-   "2.4A",
-   "2.4B",
-   "2.4C",
-   "2.7C"
+   "2.9A",
+   "2.9B",
+   "2.9D",
+   "2.2E",
+   "2.2F"
   ]
  },
  "M2.L8": {
-  "topic": "B",
-  "title": "Take from ten within 100.",
+  "topic": "D",
+  "title": "Solve addition and subtraction word problems using the ruler as a number line.",
   "teks": [
-   "2.4A",
-   "2.4B",
-   "2.4C",
-   "2.7C"
+   "2.2E",
+   "2.2F",
+   "2.9C",
+   "2.9D",
+   "2.9E"
+  ]
+ },
+ "M2.L9": {
+  "topic": "D",
+  "title": "Measure lengths of string using measurement tools, and use strip diagrams to represent and compare the lengths.",
+  "teks": [
+   "2.2E",
+   "2.2F",
+   "2.9C",
+   "2.9D",
+   "2.9E"
+  ]
+ },
+ "M2.L10": {
+  "topic": "D",
+  "title": "Apply conceptual understanding of measurement by solving two-step word problems.",
+  "teks": [
+   "2.2E",
+   "2.2F",
+   "2.9C",
+   "2.9D",
+   "2.9E"
   ]
  }
 }

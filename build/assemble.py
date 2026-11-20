@@ -197,7 +197,9 @@ t = rep(t, "  buildStrands(); buildModList(); lesMarked=null;", "  { const st=CO
 
 t = rep(t, "html+=`<tr class=\"modhead\"><th colspan=\"${cols.length+1}\">Module ${L.m}: ${esc(MOD.get(L.m).name)}</th></tr>`;", "html+=`<tr class=\"modhead\"><th colspan=\"${cols.length+1}\"><span class=\"mh\">Module ${L.m}: ${esc(MOD.get(L.m).name)}</span></th></tr>`;")
 
-data = open('data.js').read()
+import os as _os
+TE_ONLY = _os.environ.get('TE_ONLY') == '1'
+data = open('data_te.js' if TE_ONLY else 'data.js').read()
 moves = open('data_moves.js').read()
 out = (head + '</style>\n</head>\n' + b + '<script>\n' + moves + moves_code_fix if False else None)
 out = head + '</style>\n</head>\n' + b + '<script>\n' + moves + mc + '</script>\n<script>\n' + data + glue + t
@@ -233,5 +235,5 @@ out = rep(out, "<button class=\"chip ${s.type}${BY_STD.get(s.code).length?'':' n
 out = rep(out, "</style>", ".chip.ssonly{border-style:dashed}\n</style>")
 from retheme import retheme
 out = retheme(out.replace('None of these lessons is scheduled on the 2026-27 IPC.', 'None of these lessons is on the 2026-27 IPC calendars posted so far.'), 'eureka')
-open('out/index.html', 'w').write(out)
+open('out/index_te.html' if TE_ONLY else 'out/index.html', 'w').write(out)
 print('size', len(out)); print('FAILED:', *fails, sep='\n  ')

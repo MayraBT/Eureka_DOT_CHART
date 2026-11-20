@@ -1,266 +1,266 @@
 {
-"M3.L1": {
-"topic": "A",
-"title": "Compare lengths using taller than  and shorter than  with aligned and non-aligned endpoints.",
-"teks": [
-"K.7A",
-"K.7B"
-]
-},
-"M3.L2": {
-"topic": "A",
-"title": "Compare length measurements with string.",
-"teks": [
-"K.7A",
-"K.7B"
-]
-},
-"M3.L3": {
-"topic": "A",
-"title": "Make a series of longer than  and shorter than  comparisons.",
-"teks": [
-"K.7A",
-"K.7B"
-]
-},
-"M3.L4": {
-"topic": "B",
-"title": "Compare the length of linking cube sticks to a 5-stick.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2I"
-]
-},
-"M3.L5": {
-"topic": "B",
-"title": "Determine which linking cube stick is longer than  or shorter than the other.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2I"
-]
-},
-"M3.L6": {
-"topic": "B",
-"title": "Compare the length of linking cube sticks to various objects.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2I"
-]
-},
-"M3.L7": {
-"topic": "B",
-"title": "Compare objects using the same as .",
-"teks": [
-"K.7A",
-"K.7B",
-"K.2D",
-"K.2E",
-"K.2F",
-"K.2G",
-"K.2I"
-]
-},
-"M3.L8": {
-"topic": "C",
-"title": "Compare using heavier than  and lighter than  with classroom objects.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.4"
-]
-},
-"M3.L9": {
-"topic": "C",
-"title": "Compare objects using heavier than, lighter than , and the same as  with balance scales.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.4"
-]
-},
-"M3.L10": {
-"topic": "C",
-"title": "Compare the weight of an object to a set of unit weights on a balance scale.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.4"
-]
-},
-"M3.L11": {
-"topic": "C",
-"title": "Observe conservation of weight on the balance scale.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.4"
-]
-},
-"M3.L12": {
-"topic": "C",
-"title": "Compare the weight of an object with sets of different objects on a balance scale.",
-"teks": [
-"K.7A",
-"K.7B",
-"K.4"
-]
-},
-"M3.L13": {
-"topic": "D",
-"title": "Compare volume using more than, less than , and the same as by pouring.",
-"teks": [
-"K.7A",
-"K.7B"
-]
-},
-"M3.L14": {
-"topic": "D",
-"title": "Explore conservation of volume by pouring.",
-"teks": [
-"K.7A",
-"K.7B"
-]
-},
-"M3.L15": {
-"topic": "D",
-"title": "Compare using the same as  with units.",
-"teks": [
-"K.7A",
-"K.7B"
-]
-},
-"M3.L16": {
-"topic": "E",
-"title": "Compare to find if there are enough.",
-"teks": [
-"K.2E",
-"K.2G"
-]
-},
-"M3.L17": {
-"topic": "E",
-"title": "Compare using more than  and the same as .",
-"teks": [
-"K.2E",
-"K.2G"
-]
-},
-"M3.L18": {
-"topic": "E",
-"title": "Compare using fewer than  and the same as .",
-"teks": [
-"K.2E",
-"K.2G"
-]
-},
-"M3.L19": {
-"topic": "F",
-"title": "Relate more  and less  to length.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F",
-"K.7B"
-]
-},
-"M3.L20": {
-"topic": "F",
-"title": "Compare sets informally using more, less , and fewer .",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F",
-"K.7B"
-]
-},
-"M3.L21": {
-"topic": "F",
-"title": "Identify and create a set that has the same number of objects.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F",
-"K.7B"
-]
-},
-"M3.L22": {
-"topic": "F",
-"title": "Reason to identify and make a set that has 1 more.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F",
-"K.7B"
-]
-},
-"M3.L23": {
-"topic": "F",
-"title": "Reason to identify and make a set that has 1 less.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F",
-"K.7B"
-]
-},
-"M3.L24": {
-"topic": "G",
-"title": "Match and count to compare a number of objects. State which quantity is more.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F"
-]
-},
-"M3.L25": {
-"topic": "G",
-"title": "Match and count to compare two sets of objects. State which quantity is less.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F"
-]
-},
-"M3.L26": {
-"topic": "G",
-"title": "Strategize to compare two sets.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F"
-]
-},
-"M3.L27": {
-"topic": "G",
-"title": "Visualize quantities to compare two numerals.",
-"teks": [
-"K.2E",
-"K.2G",
-"K.2H",
-"K.2F"
-]
-}
+ "M3.L1": {
+  "topic": "A",
+  "title": "Compare lengths using taller than and shorter than with aligned and non-aligned endpoints.",
+  "teks": [
+   "K.7A",
+   "K.7B"
+  ]
+ },
+ "M3.L2": {
+  "topic": "A",
+  "title": "Compare length measurements with string.",
+  "teks": [
+   "K.7A",
+   "K.7B"
+  ]
+ },
+ "M3.L3": {
+  "topic": "A",
+  "title": "Make a series of longer than and shorter than comparisons.",
+  "teks": [
+   "K.7A",
+   "K.7B"
+  ]
+ },
+ "M3.L4": {
+  "topic": "B",
+  "title": "Compare the length of linking cube sticks to a 5-stick.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2I"
+  ]
+ },
+ "M3.L5": {
+  "topic": "B",
+  "title": "Determine which linking cube stick is longer than or shorter than the other.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2I"
+  ]
+ },
+ "M3.L6": {
+  "topic": "B",
+  "title": "Compare the length of linking cube sticks to various objects.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2I"
+  ]
+ },
+ "M3.L7": {
+  "topic": "B",
+  "title": "Compare objects using the same as .",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.2D",
+   "K.2E",
+   "K.2F",
+   "K.2G",
+   "K.2I"
+  ]
+ },
+ "M3.L8": {
+  "topic": "C",
+  "title": "Compare using heavier than and lighter than with classroom objects.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.4"
+  ]
+ },
+ "M3.L9": {
+  "topic": "C",
+  "title": "Compare objects using heavier than, lighter than , and the same as with balance scales.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.4"
+  ]
+ },
+ "M3.L10": {
+  "topic": "C",
+  "title": "Compare the weight of an object to a set of unit weights on a balance scale.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.4"
+  ]
+ },
+ "M3.L11": {
+  "topic": "C",
+  "title": "Observe conservation of weight on the balance scale.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.4"
+  ]
+ },
+ "M3.L12": {
+  "topic": "C",
+  "title": "Compare the weight of an object with sets of different objects on a balance scale.",
+  "teks": [
+   "K.7A",
+   "K.7B",
+   "K.4"
+  ]
+ },
+ "M3.L13": {
+  "topic": "D",
+  "title": "Compare volume using more than, less than , and the same as by pouring.",
+  "teks": [
+   "K.7A",
+   "K.7B"
+  ]
+ },
+ "M3.L14": {
+  "topic": "D",
+  "title": "Explore conservation of volume by pouring.",
+  "teks": [
+   "K.7A",
+   "K.7B"
+  ]
+ },
+ "M3.L15": {
+  "topic": "D",
+  "title": "Compare using the same as with units.",
+  "teks": [
+   "K.7A",
+   "K.7B"
+  ]
+ },
+ "M3.L16": {
+  "topic": "E",
+  "title": "Compare to find if there are enough.",
+  "teks": [
+   "K.2E",
+   "K.2G"
+  ]
+ },
+ "M3.L17": {
+  "topic": "E",
+  "title": "Compare using more than and the same as .",
+  "teks": [
+   "K.2E",
+   "K.2G"
+  ]
+ },
+ "M3.L18": {
+  "topic": "E",
+  "title": "Compare using fewer than and the same as .",
+  "teks": [
+   "K.2E",
+   "K.2G"
+  ]
+ },
+ "M3.L19": {
+  "topic": "F",
+  "title": "Relate more and less to length.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F",
+   "K.7B"
+  ]
+ },
+ "M3.L20": {
+  "topic": "F",
+  "title": "Compare sets informally using more, less , and fewer .",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F",
+   "K.7B"
+  ]
+ },
+ "M3.L21": {
+  "topic": "F",
+  "title": "Identify and create a set that has the same number of objects.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F",
+   "K.7B"
+  ]
+ },
+ "M3.L22": {
+  "topic": "F",
+  "title": "Reason to identify and make a set that has 1 more.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F",
+   "K.7B"
+  ]
+ },
+ "M3.L23": {
+  "topic": "F",
+  "title": "Reason to identify and make a set that has 1 less.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F",
+   "K.7B"
+  ]
+ },
+ "M3.L24": {
+  "topic": "G",
+  "title": "Match and count to compare a number of objects. State which quantity is more.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F"
+  ]
+ },
+ "M3.L25": {
+  "topic": "G",
+  "title": "Match and count to compare two sets of objects. State which quantity is less.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F"
+  ]
+ },
+ "M3.L26": {
+  "topic": "G",
+  "title": "Strategize to compare two sets.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F"
+  ]
+ },
+ "M3.L27": {
+  "topic": "G",
+  "title": "Visualize quantities to compare two numerals.",
+  "teks": [
+   "K.2E",
+   "K.2G",
+   "K.2H",
+   "K.2F"
+  ]
+ }
 }

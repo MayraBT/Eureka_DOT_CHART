@@ -1,130 +1,128 @@
 {
-"M1.L1": {
-"topic": "A",
-"title": "Use place value patterns to understand the thousandths place.",
-"teks": [
-"5.2A",
-"5.7A"
-]
-},
-"M1.L2": {
-"topic": "A",
-"title": "Use place value understanding to reason abstractly about values of digits in decimal fractions.",
-"teks": [
-"5.2A",
-"5.7A"
-]
-},
-"M1.L3": {
-"topic": "A",
-"title": "Use place value understanding to convert metric units.",
-"teks": [
-"5.2A",
-"5.7A"
-]
-},
-"M1.L4": {
-"topic": "B",
-"title": "Name decimal fractions in expanded notation, unit form, and word form by applying place value reasoning.",
-"teks": [
-"5.2A",
-"5.2B"
-]
-},
-"M1.L5": {
-"topic": "B",
-"title": "Compare decimal fractions to the thousandths using like units, and express comparisons with > , < , = .",
-"teks": [
-"5.2A",
-"5.2B"
-]
-},
-"M1.L6": {
-"topic": "B",
-"title": "Round a given decimal to any place using place value understanding and the vertical number line.",
-"teks": [
-"5.2A",
-"5.2B"
-]
-},
-"M1.L7": {
-"topic": "B",
-"title": "Round a given decimal to any place using place value understanding and the vertical number line.",
-"teks": [
-"5.2A",
-"5.2B"
-]
-},
-"M1.L8": {
-"topic": "D",
-"title": "Add decimals using place value strategies, and relate those strategies to a written method.",
-"teks": [
-"5.3K",
-"5.2A"
-]
-},
-"M1.L9": {
-"topic": "D",
-"title": "Subtract decimals using place value strategies, and relate those strategies to a written method.",
-"teks": [
-"5.3K",
-"5.2A"
-]
-},
-"M1.L10": {
-"topic": "E",
-"title": "Multiply a decimal fraction by single-digit whole numbers, relate to a written method through application of the area model and place value understanding, and explain the reasoning used.",
-"teks": [
-"5.3A",
-"5.3D",
-"5.3E",
-"5.2A"
-]
-},
-"M1.L11": {
-"topic": "E",
-"title": "Multiply a decimal fraction by single-digit whole numbers, including using estimation to confirm the placement of the decimal point.",
-"teks": [
-"5.3A",
-"5.3D",
-"5.3E",
-"5.2A"
-]
-},
-"M1.L12": {
-"topic": "F",
-"title": "Divide decimals by single-digit whole numbers involving easily identifiable multiples using place value understanding and relate to a written method.",
-"teks": [
-"5.3F",
-"5.3G",
-"5.3K"
-]
-},
-"M1.L13": {
-"topic": "F",
-"title": "Divide decimals with a remainder using place value understanding and relate to a written method.",
-"teks": [
-"5.3F",
-"5.3G",
-"5.3K"
-]
-},
-"M1.L14": {
-"topic": "F",
-"title": "Divide decimals using place value understanding, including remainders in the smallest unit.",
-"teks": [
-"5.3F",
-"5.3G",
-"5.3K"
-]
-},
-"M1.L15": {
-"topic": "F",
-"title": "Solve word problems using decimal operations.",
-"teks": [
-"5.3F",
-"5.3G",
-"5.3K"
-]
-}
+ "M1.L1": {
+  "topic": "A",
+  "title": "Use place value patterns to understand the thousandths place.",
+  "teks": [
+   "5.2A",
+   "5.7"
+  ]
+ },
+ "M1.L2": {
+  "topic": "A",
+  "title": "Use place value understanding to reason abstractly about values of digits in decimal fractions.",
+  "teks": [
+   "5.2A",
+   "5.7"
+  ]
+ },
+ "M1.L3": {
+  "topic": "A",
+  "title": "Use place value understanding to convert metric units.",
+  "teks": [
+   "5.2A",
+   "5.7"
+  ]
+ },
+ "M1.L4": {
+  "topic": "B",
+  "title": "Name decimal fractions in expanded notation, unit form, and word form by applying place value reasoning.",
+  "teks": [
+   "5.2A",
+   "5.2B"
+  ]
+ },
+ "M1.L5": {
+  "topic": "B",
+  "title": "Compare decimal fractions to the thousandths using like units, and express comparisons with > , < , = .",
+  "teks": [
+   "5.2A",
+   "5.2B"
+  ]
+ },
+ "M1.L6": {
+  "topic": "C",
+  "title": "Round a given decimal to any place using place value understanding and the vertical number line.",
+  "teks": [
+   "5.2C"
+  ]
+ },
+ "M1.L7": {
+  "topic": "C",
+  "title": "Round a given decimal to any place using place value understanding and the vertical number line.",
+  "teks": [
+   "5.2C"
+  ]
+ },
+ "M1.L8": {
+  "topic": "D",
+  "title": "Add decimals using place value strategies, and relate those strategies to a written method.",
+  "teks": [
+   "5.3K",
+   "5.2A"
+  ]
+ },
+ "M1.L9": {
+  "topic": "D",
+  "title": "Subtract decimals using place value strategies, and relate those strategies to a written method.",
+  "teks": [
+   "5.3K",
+   "5.2A"
+  ]
+ },
+ "M1.L10": {
+  "topic": "E",
+  "title": "Multiply a decimal fraction by single-digit whole numbers, relate to a written method through application of the area model and place value understanding, and explain the reasoning used.",
+  "teks": [
+   "5.3A",
+   "5.3D",
+   "5.3E",
+   "5.2A"
+  ]
+ },
+ "M1.L11": {
+  "topic": "E",
+  "title": "Multiply a decimal fraction by single-digit whole numbers, including using estimation to confirm the placement of the decimal point.",
+  "teks": [
+   "5.3A",
+   "5.3D",
+   "5.3E",
+   "5.2A"
+  ]
+ },
+ "M1.L12": {
+  "topic": "F",
+  "title": "Divide decimals by single-digit whole numbers involving easily identifiable multiples using place value understanding and relate to a written method.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.3K"
+  ]
+ },
+ "M1.L13": {
+  "topic": "F",
+  "title": "Divide decimals with a remainder using place value understanding and relate to a written method.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.3K"
+  ]
+ },
+ "M1.L14": {
+  "topic": "F",
+  "title": "Divide decimals using place value understanding, including remainders in the smallest unit.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.3K"
+  ]
+ },
+ "M1.L15": {
+  "topic": "F",
+  "title": "Solve word problems using decimal operations.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.3K"
+  ]
+ }
 }

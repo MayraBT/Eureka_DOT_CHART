@@ -1,4 +1,25 @@
 {
+ "M3.L1": {
+  "topic": "A",
+  "title": "Compare length directly and consider the importance of aligning endpoints.",
+  "teks": [
+   "1.7A"
+  ]
+ },
+ "M3.L2": {
+  "topic": "A",
+  "title": "Compare length using indirect comparison by finding objects longer than, shorter than, and equal in length to that of a string.",
+  "teks": [
+   "1.7A"
+  ]
+ },
+ "M3.L3": {
+  "topic": "A",
+  "title": "Order three lengths using indirect comparison.",
+  "teks": [
+   "1.7A"
+  ]
+ },
  "M3.L4": {
   "topic": "B",
   "title": "Express the length of an object using centimeter cubes as length units to measure with no gaps or overlaps.",
