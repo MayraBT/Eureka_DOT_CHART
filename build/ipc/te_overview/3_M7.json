@@ -1,0 +1,283 @@
+{
+ "M7.L1": {
+  "topic": "A",
+  "title": "Solve word problems in varied contexts.",
+  "teks": [
+   "3.4K",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M7.L2": {
+  "topic": "A",
+  "title": "Solve word problems in varied contexts.",
+  "teks": [
+   "3.4K",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M7.L3": {
+  "topic": "A",
+  "title": "Share and critique peer solution strategies to varied word problems.",
+  "teks": [
+   "3.4K",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M7.L4": {
+  "topic": "B",
+  "title": "Compare and classify quadrilaterals.",
+  "teks": [
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L5": {
+  "topic": "B",
+  "title": "Compare and classify other polygons.",
+  "teks": [
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L6": {
+  "topic": "B",
+  "title": "Draw polygons with specified attributes to solve problems.",
+  "teks": [
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L7": {
+  "topic": "B",
+  "title": "Classify and sort three-dimensional figures according to their attributes.",
+  "teks": [
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L8": {
+  "topic": "B",
+  "title": "Classify and sort three-dimensional figures according to their attributes.",
+  "teks": [
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L9": {
+  "topic": "C",
+  "title": "Decompose quadrilaterals to understand perimeter as the boundary of a shape.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L10": {
+  "topic": "C",
+  "title": "Tessellate to understand perimeter as the boundary of a shape. (Optional)",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L11": {
+  "topic": "C",
+  "title": "Measure side lengths in whole number units to determine the perimeter of polygons.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L12": {
+  "topic": "C",
+  "title": "Explore perimeter as an attribute of plane figures and solve problems.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L13": {
+  "topic": "C",
+  "title": "Determine the perimeter of regular polygons and rectangles when whole number measurements are unknown.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L14": {
+  "topic": "C",
+  "title": "Solve word problems to determine perimeter with given side lengths.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L15": {
+  "topic": "C",
+  "title": "Use string to measure the perimeter of various circles to the nearest quarter inch.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L16": {
+  "topic": "C",
+  "title": "Use all four operations to solve problems involving perimeter and unknown measurements.",
+  "teks": [
+   "3.7B",
+   "3.5A",
+   "3.5B",
+   "3.6B"
+  ]
+ },
+ "M7.L17": {
+  "topic": "D",
+  "title": "Construct rectangles from a given number of unit squares and determine the perimeters.",
+  "teks": [
+   "3.7A",
+   "3.7B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L18": {
+  "topic": "D",
+  "title": "Use a dot plot to record the number of rectangles constructed from a given number of unit squares.",
+  "teks": [
+   "3.7A",
+   "3.7B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L19": {
+  "topic": "D",
+  "title": "Construct rectangles with a given perimeter using unit squares and determine their areas.",
+  "teks": [
+   "3.7A",
+   "3.7B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L20": {
+  "topic": "D",
+  "title": "Construct rectangles with a given perimeter using unit squares and determine their areas.",
+  "teks": [
+   "3.7A",
+   "3.7B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L21": {
+  "topic": "D",
+  "title": "Use a dot plot to record the number of rectangles constructed in Lessons 19 and 20.",
+  "teks": [
+   "3.7A",
+   "3.7B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L22": {
+  "topic": "E",
+  "title": "Solve a variety of word problems with perimeter.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L23": {
+  "topic": "E",
+  "title": "Solve a variety of word problems involving area and perimeter using all four operations.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L24": {
+  "topic": "E",
+  "title": "Solve a variety of word problems involving area and perimeter using all four operations.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L25": {
+  "topic": "E",
+  "title": "Explore and create unconventional representations of one-half.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L26": {
+  "topic": "E",
+  "title": "Explore and create unconventional representations of one-half.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L27": {
+  "topic": "E",
+  "title": "Solidify fluency with Grade 3 skills.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ },
+ "M7.L28": {
+  "topic": "E",
+  "title": "Create resource booklets to support fluency with Grade 3 skills.",
+  "teks": [
+   "3.7B",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.6A",
+   "3.6B"
+  ]
+ }
+}

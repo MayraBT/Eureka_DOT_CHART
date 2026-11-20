@@ -1,0 +1,256 @@
+{
+ "M1.L1": {
+  "topic": "A",
+  "title": "Understand equal groups of as multiplication.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K"
+  ]
+ },
+ "M1.L2": {
+  "topic": "A",
+  "title": "Relate multiplication to the array model.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K"
+  ]
+ },
+ "M1.L3": {
+  "topic": "A",
+  "title": "Interpret the meaning of factors\u2014the size of the group or the number of groups.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K"
+  ]
+ },
+ "M1.L4": {
+  "topic": "B",
+  "title": "Understand the meaning of the unknown as the size of the group in division.",
+  "teks": [
+   "3.4H",
+   "3.4J",
+   "3.5D",
+   "3.4K"
+  ]
+ },
+ "M1.L5": {
+  "topic": "B",
+  "title": "Understand the meaning of the unknown as the number of groups in division.",
+  "teks": [
+   "3.4H",
+   "3.4J",
+   "3.5D",
+   "3.4K"
+  ]
+ },
+ "M1.L6": {
+  "topic": "B",
+  "title": "Interpret the unknown in division using the array model.",
+  "teks": [
+   "3.4H",
+   "3.4J",
+   "3.5D",
+   "3.4K"
+  ]
+ },
+ "M1.L7": {
+  "topic": "C",
+  "title": "Demonstrate the commutativity of multiplication, and practice related facts by skip-counting objects in array models.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5D"
+  ]
+ },
+ "M1.L8": {
+  "topic": "C",
+  "title": "Demonstrate the commutativity of multiplication, and practice related facts by skip-counting objects in array models.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5D"
+  ]
+ },
+ "M1.L9": {
+  "topic": "C",
+  "title": "Find related multiplication facts by adding and subtracting equal groups in array models.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5D"
+  ]
+ },
+ "M1.L10": {
+  "topic": "C",
+  "title": "Model the distributive property with arrays to decompose units as a strategy to multiply.",
+  "teks": [
+   "3.4D",
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5D"
+  ]
+ },
+ "M1.L11": {
+  "topic": "D",
+  "title": "Model division as the unknown factor in multiplication using arrays and strip diagrams.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4H",
+   "3.4J",
+   "3.5D",
+   "3.4K",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M1.L12": {
+  "topic": "D",
+  "title": "Interpret the quotient as the number of groups or the number of objects in each group using units of 2.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4H",
+   "3.4J",
+   "3.5D",
+   "3.4K",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M1.L13": {
+  "topic": "D",
+  "title": "Interpret the quotient as the number of groups or the number of objects in each group using units of 3.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4H",
+   "3.4J",
+   "3.5D",
+   "3.4K",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M1.L14": {
+  "topic": "E",
+  "title": "Skip-count objects in models to build fluency with multiplication facts using units of 4.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L15": {
+  "topic": "E",
+  "title": "Relate arrays to strip diagrams to model the commutative property of multiplication.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L16": {
+  "topic": "E",
+  "title": "Use the distributive property as a strategy to find related multiplication facts.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L17": {
+  "topic": "E",
+  "title": "Model the relationship between multiplication and division.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L18": {
+  "topic": "F",
+  "title": "Apply the distributive property to decompose units.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L19": {
+  "topic": "F",
+  "title": "Apply the distributive property to decompose units.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L20": {
+  "topic": "F",
+  "title": "Solve two-step word problems involving multiplication and division, and assess the reasonableness of answers.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ },
+ "M1.L21": {
+  "topic": "F",
+  "title": "Solve two-step word problems involving all four operations, and assess the reasonableness of answers.",
+  "teks": [
+   "3.4E",
+   "3.4F",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.4D",
+   "3.4H",
+   "3.4J",
+   "3.5D"
+  ]
+ }
+}

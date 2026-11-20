@@ -232,6 +232,6 @@ out = rep(out, "<button class=\"chip ${s.type}${BY_STD.get(s.code).length?'':' n
         "<button class=\"chip ${s.type}${BY_STD.get(s.code).length?'':(ssFocusOf(COURSE,[s.code]).length?' ssonly':' none')}\" data-code=\"${s.code}\" title=\"${esc(s.desc)}${!BY_STD.get(s.code).length&&ssFocusOf(COURSE,[s.code]).length?' · module focus; see How it is addressed':''}\">")
 out = rep(out, "</style>", ".chip.ssonly{border-style:dashed}\n</style>")
 from retheme import retheme
-out = retheme(out, 'eureka')
+out = retheme(out.replace('None of these lessons is scheduled on the 2026-27 IPC.', 'None of these lessons is on the 2026-27 IPC calendars posted so far.'), 'eureka')
 open('out/index.html', 'w').write(out)
 print('size', len(out)); print('FAILED:', *fails, sep='\n  ')

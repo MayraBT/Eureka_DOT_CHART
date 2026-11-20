@@ -1,0 +1,286 @@
+{
+ "M3.L1": {
+  "topic": "A",
+  "title": "Use multiplication to compare.",
+  "teks": [
+   "3.5C",
+   "3.5E",
+   "3.4F"
+  ]
+ },
+ "M3.L2": {
+  "topic": "A",
+  "title": "Use multiplication to compare.",
+  "teks": [
+   "3.5C",
+   "3.5E",
+   "3.4F"
+  ]
+ },
+ "M3.L3": {
+  "topic": "A",
+  "title": "Use tables to record multiplicative relationships.",
+  "teks": [
+   "3.5C",
+   "3.5E",
+   "3.4F"
+  ]
+ },
+ "M3.L4": {
+  "topic": "A",
+  "title": "Solve multiplicative comparison word problems.",
+  "teks": [
+   "3.5C",
+   "3.5E",
+   "3.4F"
+  ]
+ },
+ "M3.L5": {
+  "topic": "B",
+  "title": "Study commutativity to find known facts of 6, 7, 8, and 9.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.5E",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L6": {
+  "topic": "B",
+  "title": "Apply the distributive and commutative properties to relate multiplication facts 5 \u00d7 n + n to 6 \u00d7 n and n \u00d7 6 where n is the size of the unit.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.5E",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L7": {
+  "topic": "B",
+  "title": "Multiply and divide with familiar facts using a box to represent the unknown.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.5E",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L8": {
+  "topic": "C",
+  "title": "Count by units of 6 to multiply and divide using number bonds to decompose.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L9": {
+  "topic": "C",
+  "title": "Count by units of 7 to multiply and divide using number bonds to decompose.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L10": {
+  "topic": "C",
+  "title": "Interpret the unknown in multiplication and division to model and solve problems using units of 6 and 7.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L11": {
+  "topic": "D",
+  "title": "Understand the function of parentheses and apply to solving problems.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.4D",
+   "3.4H",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M3.L12": {
+  "topic": "D",
+  "title": "Model the associative property as a strategy to multiply.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.4D",
+   "3.4H",
+   "3.5A",
+   "3.5B"
+  ]
+ },
+ "M3.L13": {
+  "topic": "E",
+  "title": "Apply the distributive property and the fact 9 = 10 \u2013 1 as a strategy to multiply.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.5E",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L14": {
+  "topic": "E",
+  "title": "Interpret the unknown in multiplication and division to model and solve problems.",
+  "teks": [
+   "3.4E",
+   "3.4K",
+   "3.5D",
+   "3.5E",
+   "3.4D",
+   "3.4H"
+  ]
+ },
+ "M3.L15": {
+  "topic": "F",
+  "title": "Reason about and explain arithmetic patterns using units of 0 and 1 as they relate to multiplication and division.",
+  "teks": [
+   "3.4E",
+   "3.4I",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4H",
+   "3.5D"
+  ]
+ },
+ "M3.L16": {
+  "topic": "F",
+  "title": "Identify patterns in multiplication and division facts using the multiplication table.",
+  "teks": [
+   "3.4E",
+   "3.4I",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4H",
+   "3.5D"
+  ]
+ },
+ "M3.L17": {
+  "topic": "F",
+  "title": "Solve two-step word problems involving all four operations and assess the reasonableness of solutions.",
+  "teks": [
+   "3.4E",
+   "3.4I",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4H",
+   "3.5D"
+  ]
+ },
+ "M3.L18": {
+  "topic": "G",
+  "title": "Multiply by multiples of 10 using the place value chart.",
+  "teks": [
+   "3.4F",
+   "3.4G",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4E"
+  ]
+ },
+ "M3.L19": {
+  "topic": "G",
+  "title": "Use place value strategies and the associative property n \u00d7 (m \u00d7 10) = (n \u00d7 m ) \u00d7 10 (where n and m are less than 10) to multiply by multiples of 10.",
+  "teks": [
+   "3.4F",
+   "3.4G",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4E"
+  ]
+ },
+ "M3.L20": {
+  "topic": "G",
+  "title": "Use concrete models to represent two-digit by one-digit multiplication.",
+  "teks": [
+   "3.4F",
+   "3.4G",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4E"
+  ]
+ },
+ "M3.L21": {
+  "topic": "G",
+  "title": "Draw models to represent two-digit by one-digit multiplication.",
+  "teks": [
+   "3.4F",
+   "3.4G",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4E"
+  ]
+ },
+ "M3.L22": {
+  "topic": "G",
+  "title": "Multiply two-digit numbers by one-digit numbers using the standard algorithm.",
+  "teks": [
+   "3.4F",
+   "3.4G",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4E"
+  ]
+ },
+ "M3.L23": {
+  "topic": "G",
+  "title": "Solve two-step word problems involving multiplying single-digit factors by multiples of 10 and two-digit factors.",
+  "teks": [
+   "3.4F",
+   "3.4G",
+   "3.4K",
+   "3.5A",
+   "3.5B",
+   "3.5E",
+   "3.4D",
+   "3.4E"
+  ]
+ }
+}

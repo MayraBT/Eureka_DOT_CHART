@@ -1,0 +1,251 @@
+{
+ "M2.L1": {
+  "topic": "A",
+  "title": "Explore time as a continuous measurement using a stopwatch.",
+  "teks": [
+   "3.4A",
+   "3.7C"
+  ]
+ },
+ "M2.L2": {
+  "topic": "A",
+  "title": "Solve word problems involving time intervals within 1 hour by counting backward and forward using the number line and clock.",
+  "teks": [
+   "3.4A",
+   "3.7C"
+  ]
+ },
+ "M2.L3": {
+  "topic": "A",
+  "title": "Solve word problems involving time intervals within 1 hour by adding and subtracting on the number line.",
+  "teks": [
+   "3.4A",
+   "3.7C"
+  ]
+ },
+ "M2.L4": {
+  "topic": "B",
+  "title": "Build and decompose a kilogram to reason about the size and weight of 1 kilogram, 100 grams, 10 grams, and 1 gram.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L5": {
+  "topic": "B",
+  "title": "Develop estimation strategies by reasoning about the weight in kilograms of a series of familiar objects to establish mental benchmark measures.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L6": {
+  "topic": "B",
+  "title": "Solve one-step word problems involving metric weights within",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L7": {
+  "topic": "B",
+  "title": "Decompose a liter to reason about the size of 1 liter, 100 milliliters, 10 milliliters, and 1 milliliter.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L8": {
+  "topic": "B",
+  "title": "Estimate and measure liquid volume in liters and milliliters using the vertical number line.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L9": {
+  "topic": "B",
+  "title": "Solve mixed word problems involving all four operations with grams, kilograms, liters, and milliliters given in the same units.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L10": {
+  "topic": "C",
+  "title": "Name numbers up to 100,000 by building understanding of the place value chart and placement of commas for naming base thousand units.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2D"
+  ]
+ },
+ "M2.L11": {
+  "topic": "C",
+  "title": "Read and write numbers to 100,000 using base ten numerals, number names, expanded form, and expanded notation.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2D"
+  ]
+ },
+ "M2.L12": {
+  "topic": "C",
+  "title": "Compare numbers based on the meaning of the digits using <, >, or = to record the comparison.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2D"
+  ]
+ },
+ "M2.L13": {
+  "topic": "D",
+  "title": "Round two-digit measurements to the nearest ten on the vertical number line.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2C",
+   "3.4B"
+  ]
+ },
+ "M2.L14": {
+  "topic": "D",
+  "title": "Round two- and three-digit numbers to the nearest ten on the vertical number line.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2C",
+   "3.4B"
+  ]
+ },
+ "M2.L15": {
+  "topic": "D",
+  "title": "Round to the nearest hundred on the vertical number line.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2C",
+   "3.4B"
+  ]
+ },
+ "M2.L16": {
+  "topic": "D",
+  "title": "Round four- and five-digit numbers using the vertical number line.",
+  "teks": [
+   "3.2A",
+   "3.2B",
+   "3.2C",
+   "3.4B"
+  ]
+ },
+ "M2.L17": {
+  "topic": "E",
+  "title": "Add measurements using the standard algorithm to compose larger units once.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L18": {
+  "topic": "E",
+  "title": "Add measurements using the standard algorithm to compose larger units twice.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L19": {
+  "topic": "E",
+  "title": "Estimate sums by rounding and apply to solve measurement word problems.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L20": {
+  "topic": "F",
+  "title": "Decompose once to subtract measurements including three- digit minuends with zeros in the tens or ones place.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L21": {
+  "topic": "F",
+  "title": "Decompose twice to subtract measurements including three- digit minuends with zeros in the tens and ones places.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L22": {
+  "topic": "F",
+  "title": "Estimate differences by rounding and apply to solve measurement word problems.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ },
+ "M2.L23": {
+  "topic": "F",
+  "title": "Estimate sums and differences of measurements by rounding, and then solve mixed word problems.",
+  "teks": [
+   "3.2A",
+   "3.4A",
+   "3.4B",
+   "3.2B",
+   "3.2C",
+   "3.7C",
+   "3.7D",
+   "3.7E"
+  ]
+ }
+}

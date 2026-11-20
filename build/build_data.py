@@ -145,11 +145,17 @@ for g in GRADES:
     for _f in sorted(_glob.glob(f'ipc/te_overview/{g}_M*.json')) + sorted(_glob.glob(f'ipc/te_overview/{g}_supp.json')):
         for lid, X in json.load(open(_f)).items():
             _m = int(lid.split('.')[0][1:]); _n = int(lid.split('.L')[1]) if '.L' in lid else -1
-            if lid in lessons or _n in _om.get(_m, set()): continue
             _codes = []
             for c in X['teks']:
                 if not re.search(r'[A-Z]$', c): c = c + 'A' if (c + 'A') in TEKS_TXT and (c + 'B') not in TEKS_TXT else None
                 if c and c not in _codes: _codes.append(c)
+            if lid in lessons:
+                # lesson is on the IPC but no IPC lists its TEKS yet: use the Teacher Edition's
+                if not lessons[lid]['marks'] and not lessons[lid].get('pmarks'):
+                    lessons[lid]['marks'] = {c: X.get('kind', 'O') for c in _codes}; lessons[lid]['te'] = True
+                    report.append(f'G{g} {lid}: TEKS filled from the Teacher Edition overview')
+                continue
+            if _n in _om.get(_m, set()): continue
             lessons[lid] = {'lo': X['title'], 'marks': {c: X.get('kind', 'O') for c in _codes}, 'days': [], 'te': True}
             report.append(f'G{g} {lid}: added from the Teacher Edition overview')
     out_lessons = []
