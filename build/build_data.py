@@ -193,6 +193,12 @@ for g in GRADES:
         if L['id'] not in tig and mod in TEMOD:
             tig[L['id']] = [TEMOD[mod]]
             report.append(f'G{g} {L["id"]}: Teacher link is the module TE file (no weekly IPC link)')
+    TELES = json.load(open('ipc/te_lesson.json')).get(g, {}) if os.path.exists('ipc/te_lesson.json') else {}
+    nles = 0
+    for L in out_lessons:
+        if L['id'] in TELES:
+            tig[L['id']] = [f"https://drive.google.com/file/d/{TELES[L['id']]}/view"]; nles += 1
+    if nles: report.append(f'G{g}: {nles} lessons link a single-lesson TE PDF')
     TIG['g' + g.lower()] = tig
     report.append(f'G{g}: {len(out_lessons)} lessons, {sum(1 for L in out_lessons if L["marks"])} with TEKS, {len(calweeks)} weeks, {len(tig)} teacher links, modules {used_mods}')
 

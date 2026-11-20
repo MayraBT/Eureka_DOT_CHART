@@ -41,6 +41,8 @@ def retheme(s, kind):
                      ('#f2faf9', 'pale'), ('#e9f0ef', 'wash'), ('#e8eeed', 'gl'), ('#b9c6c5', 'k50'),
                      ('#eceff0', 'gl')]:
         s = re.sub(re.escape(old), t[key], s, flags=re.I)
+    # the select-arrow icon is an encoded SVG
+    s = re.sub(r'%23147c78', '%23' + t['brand'][1:], s, flags=re.I)
     # Eureka: its plum section headings and sage accents, as in the TE
     if kind == 'eureka' and '/*eureka-accents*/' not in s:
         extra = ('/*eureka-accents*/ .modlist>details>summary{color:#98204e;border-left:4px solid #98204e}'

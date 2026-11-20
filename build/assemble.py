@@ -205,5 +205,33 @@ lb = open('lightbox.html').read()
 k = out.rfind('</body>')
 out = (out[:k] + lb + '\n' + out[k:]) if k > 0 else out + lb
 from dechart import dechart; out = dechart(out)
+
+# ---------- "How it's addressed" for standards no lesson lists (Aaron, Nov 20) ----------
+out = rep(out, "html+=`<p class=\"empty\">No lesson in ${COURSE.name} lists ${s.code} on the weekly IPC.${ssModsFor(s.code)}</p>`;",
+        "html+=`<p class=\"empty\">No ${COURSE.name} lesson lists ${s.code} as its lesson TEKS yet. Plan it through the module focus and the supports in “How ${s.code} is addressed” above.</p>`;")
+out = rep(out, "  html+=renderVocab(code);\n  html+=renderAlign(code);",
+        "  if(!hits.length) html+=renderAddressed(code);\n  html+=renderVocab(code);\n  html+=renderAlign(code);")
+out = rep(out, "function ssModsFor(code){",
+        r"""function ssFocusOf(C,codes){ const ms=((C&&C.data&&C.data.modules)||[]).filter(m=>codes.some(x=>(m.focus||[]).includes(x)||(m.included||[]).includes(x))); return ms; }
+function renderAddressed(code){
+  const ms=ssFocusOf(COURSE,[code]); const items=[];
+  if(ms.length) items.push(`<li><b>Scope &amp; Sequence:</b> ${ms.map(m=>`Module ${m.n}: ${esc(m.name)} (${(m.focus||[]).includes(code)?'focus standard':'included standard'})`).join('; ')}</li>`);
+  if(MOVES_IDX.has(code)) items.push(`<li><b>Teaching moves:</b> misconceptions, CRA, probing questions and sentence stems for ${code}. <button class="chip" onclick="openMoves('${code}')">Open →</button></li>`);
+  if(renderVocab(code)) items.push(`<li><b>Academic vocabulary:</b> English and Spanish word lists, below.</li>`);
+  if(renderAlign(code)) items.push(`<li><b>Vertical alignment:</b> what students bring from earlier grades and where ${code} leads, below.</li>`);
+  const nx=acrossRows(code).filter(r=>r.k!==COURSE.key&&r.les.length);
+  if(nx.length) items.push(`<li><b>Related lessons in other grades:</b> ${nx.map(r=>`${esc(r.C.name)} (${r.les.length})`).join(', ')}, under “Across grades”.</li>`);
+  if(!items.length) return '';
+  return `<div class="addressed"><h4>How ${code} is addressed</h4><ul>${items.join('')}</ul></div>`;
+}
+function ssModsFor(code){""")
+out = rep(out, "<td>${r.les.length}</td><td>${r.first?fd(r.first):'—'}</td>",
+        "<td>${r.les.length?r.les.length:(ms=>ms.length?`<span class=\"qs\">${ms.map(m=>'Module '+m.n).join(', ')} focus</span>`:'0')(ssFocusOf(r.C,r.rel.map(x=>x.code)))}</td><td>${r.first?fd(r.first):(r.rel.length&&ssFocusOf(r.C,r.rel.map(x=>x.code)).length?'<span class=\"qs\">see module</span>':'—')}</td>")
+out = rep(out, "</style>", ".addressed{border:1px solid var(--line);border-left:4px solid var(--teal);background:var(--teal-ghost);border-radius:10px;padding:12px 16px;margin:14px 0}.addressed h4{margin:0 0 6px;font-size:15px}.addressed ul{margin:0;padding-left:18px}.addressed li{margin:4px 0;line-height:1.45}.addressed .chip{margin-left:4px}\n</style>")
+out = rep(out, "<button class=\"chip ${s.type}${BY_STD.get(s.code).length?'':' none'}\" data-code=\"${s.code}\" title=\"${esc(s.desc)}\">",
+        "<button class=\"chip ${s.type}${BY_STD.get(s.code).length?'':(ssFocusOf(COURSE,[s.code]).length?' ssonly':' none')}\" data-code=\"${s.code}\" title=\"${esc(s.desc)}${!BY_STD.get(s.code).length&&ssFocusOf(COURSE,[s.code]).length?' · module focus; see How it is addressed':''}\">")
+out = rep(out, "</style>", ".chip.ssonly{border-style:dashed}\n</style>")
+from retheme import retheme
+out = retheme(out, 'eureka')
 open('out/index.html', 'w').write(out)
 print('size', len(out)); print('FAILED:', *fails, sep='\n  ')
