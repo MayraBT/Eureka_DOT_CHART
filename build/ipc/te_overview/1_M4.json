@@ -1,0 +1,299 @@
+{
+ "M4.L1": {
+  "topic": "A",
+  "title": "Compare the efficiency of counting by ones and counting by tens.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.5A",
+   "1.5B",
+   "1.5C",
+   "1.4A"
+  ]
+ },
+ "M4.L2": {
+  "topic": "A",
+  "title": "Use the place value chart to record and name tens and ones within a two-digit number.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.5A",
+   "1.5B",
+   "1.5C",
+   "1.4A"
+  ]
+ },
+ "M4.L3": {
+  "topic": "A",
+  "title": "Interpret two-digit numbers as either tens and some ones or as all ones.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.5A",
+   "1.5B",
+   "1.5C",
+   "1.4A"
+  ]
+ },
+ "M4.L4": {
+  "topic": "A",
+  "title": "Write and interpret two-digit numbers as addition sentences that combine tens and ones.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.5A",
+   "1.5B",
+   "1.5C",
+   "1.4A"
+  ]
+ },
+ "M4.L5": {
+  "topic": "A",
+  "title": "Identify 10 more, 10 less, 1 more, and 1 less than a two-digit number.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.5A",
+   "1.5B",
+   "1.5C",
+   "1.4A"
+  ]
+ },
+ "M4.L6": {
+  "topic": "A",
+  "title": "Use dimes and pennies as representations of tens and ones.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.5A",
+   "1.5B",
+   "1.5C",
+   "1.4A"
+  ]
+ },
+ "M4.L7": {
+  "topic": "B",
+  "title": "Compare two quantities, and identify the greater or lesser of the two given numerals.",
+  "teks": [
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.2A",
+   "1.2B"
+  ]
+ },
+ "M4.L8": {
+  "topic": "B",
+  "title": "Compare quantities and numerals from left to right.",
+  "teks": [
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.2A",
+   "1.2B"
+  ]
+ },
+ "M4.L9": {
+  "topic": "B",
+  "title": "Use the symbols >, = , and < to compare quantities and numerals.",
+  "teks": [
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.2A",
+   "1.2B"
+  ]
+ },
+ "M4.L10": {
+  "topic": "B",
+  "title": "Use the symbols >, = , and < to compare quantities and numerals.",
+  "teks": [
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.2A",
+   "1.2B"
+  ]
+ },
+ "M4.L11": {
+  "topic": "C",
+  "title": "Add and subtract tens from a multiple of 10.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5C"
+  ]
+ },
+ "M4.L12": {
+  "topic": "C",
+  "title": "Add tens to a two-digit number.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5C"
+  ]
+ },
+ "M4.L13": {
+  "topic": "D",
+  "title": "Use counting on and the make ten strategy when adding across a ten.",
+  "teks": [
+   "1.3A",
+   "1.3E"
+  ]
+ },
+ "M4.L14": {
+  "topic": "D",
+  "title": "Use counting on and the make ten strategy when adding across a ten.",
+  "teks": [
+   "1.3A",
+   "1.3E"
+  ]
+ },
+ "M4.L15": {
+  "topic": "D",
+  "title": "Use single-digit sums to support solutions for analogous sums to 40.",
+  "teks": [
+   "1.3A",
+   "1.3E"
+  ]
+ },
+ "M4.L16": {
+  "topic": "D",
+  "title": "Add ones and ones or tens and tens.",
+  "teks": [
+   "1.3A",
+   "1.3E"
+  ]
+ },
+ "M4.L17": {
+  "topic": "D",
+  "title": "Add ones and ones or tens and tens.",
+  "teks": [
+   "1.3A",
+   "1.3E"
+  ]
+ },
+ "M4.L18": {
+  "topic": "D",
+  "title": "Share and critique peer strategies for adding two-digit numbers.",
+  "teks": [
+   "1.3A",
+   "1.3E"
+  ]
+ },
+ "M4.L19": {
+  "topic": "E",
+  "title": "Use strip diagrams as representations to solve put together/ take apart with total unknown and add to with result unknown word problems.",
+  "teks": [
+   "1.3B",
+   "1.3E",
+   "1.3F",
+   "1.5D"
+  ]
+ },
+ "M4.L20": {
+  "topic": "E",
+  "title": "Recognize and make use of part\u2013whole relationships within strip diagrams when solving a variety of problem types.",
+  "teks": [
+   "1.3B",
+   "1.3E",
+   "1.3F",
+   "1.5D"
+  ]
+ },
+ "M4.L21": {
+  "topic": "E",
+  "title": "Recognize and make use of part\u2013whole relationships within strip diagrams when solving a variety of problem types.",
+  "teks": [
+   "1.3B",
+   "1.3E",
+   "1.3F",
+   "1.5D"
+  ]
+ },
+ "M4.L22": {
+  "topic": "E",
+  "title": "Write word problems of varied types.",
+  "teks": [
+   "1.3B",
+   "1.3E",
+   "1.3F",
+   "1.5D"
+  ]
+ },
+ "M4.L23": {
+  "topic": "F",
+  "title": "Interpret two-digit numbers as tens and ones, including cases with more than 9 ones.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ },
+ "M4.L24": {
+  "topic": "F",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum less than or equal to 10.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ },
+ "M4.L25": {
+  "topic": "F",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum less than or equal to 10.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ },
+ "M4.L26": {
+  "topic": "F",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ },
+ "M4.L27": {
+  "topic": "F",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ },
+ "M4.L28": {
+  "topic": "F",
+  "title": "Add a pair of two-digit numbers with varied sums in the ones.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ },
+ "M4.L29": {
+  "topic": "F",
+  "title": "Add a pair of two-digit numbers with varied sums in the ones.",
+  "teks": [
+   "1.2A",
+   "1.2B",
+   "1.3A"
+  ]
+ }
+}

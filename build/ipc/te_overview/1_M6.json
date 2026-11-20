@@ -1,0 +1,338 @@
+{
+ "M6.L1": {
+  "topic": "A",
+  "title": "Solve compare with difference unknown problem types.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ },
+ "M6.L2": {
+  "topic": "A",
+  "title": "Solve compare with bigger or smaller unknown problem types.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ },
+ "M6.L3": {
+  "topic": "B",
+  "title": "Use the place value chart to record and name tens and ones within a two-digit number up to 100.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L4": {
+  "topic": "B",
+  "title": "Write and interpret two-digit numbers to 100 as addition sentences that combine tens and ones.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L5": {
+  "topic": "B",
+  "title": "Identify 10 more, 10 less, 1 more, and 1 less than a two-digit number within 100.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L6": {
+  "topic": "B",
+  "title": "Use the symbols > , = , and < to compare quantities and numerals to 100.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L7": {
+  "topic": "B",
+  "title": "Count and write numbers to 120. Use Hide Zero cards to relate numbers 0 to 20 to 100 to 120.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L8": {
+  "topic": "B",
+  "title": "Count to 120 in unit form using only tens and ones. Represent numbers to 120 as tens and ones on the place value chart.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L9": {
+  "topic": "B",
+  "title": "Represent up to 120 objects with a written numeral.",
+  "teks": [
+   "1.2B",
+   "1.2C",
+   "1.2D",
+   "1.2E",
+   "1.2F",
+   "1.2G",
+   "1.5A",
+   "1.5B",
+   "1.5C"
+  ]
+ },
+ "M6.L10": {
+  "topic": "C",
+  "title": "Add and subtract multiples of 10 from multiples of 10 to",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L11": {
+  "topic": "C",
+  "title": "Add a multiple of 10 to any two-digit number within 100.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L12": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum less than or equal to 10.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L13": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10 using decomposition.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L14": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10 using decomposition.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L15": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10 with drawing. Record the total below.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L16": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10 with drawing. Record the new ten below.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L17": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers when the ones digits have a sum greater than 10 with drawing. Record the new ten below.",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L18": {
+  "topic": "C",
+  "title": "Add a pair of two-digit numbers with varied sums in the ones, and compare the results of different recording methods. (Optional)",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L19": {
+  "topic": "C",
+  "title": "Solve and share strategies for adding two-digit numbers with varied sums. (Optional) remediation or further applications \u00bd day)",
+  "teks": [
+   "1.3A",
+   "1.3D",
+   "1.5A",
+   "1.5C"
+  ]
+ },
+ "M6.L20": {
+  "topic": "E",
+  "title": "Identify pennies, nickels, and dimes by their image, name, or value. Decompose the values of nickels and dimes using pennies and nickels. Recognize and write the cent symbol (\u00a2).",
+  "teks": [
+   "1.4A",
+   "1.4B",
+   "1.4C"
+  ]
+ },
+ "M6.L21": {
+  "topic": "E",
+  "title": "Identify quarters by their image, name, or value. Decompose the value of a quarter using pennies, nickels, and dimes.",
+  "teks": [
+   "1.4A",
+   "1.4B",
+   "1.4C"
+  ]
+ },
+ "M6.L22": {
+  "topic": "E",
+  "title": "Identify varied coins by their image, name, or value. Add one cent to the value of any coin.",
+  "teks": [
+   "1.4A",
+   "1.4B",
+   "1.4C"
+  ]
+ },
+ "M6.L23": {
+  "topic": "E",
+  "title": "Count on using pennies from any single coin.",
+  "teks": [
+   "1.4A",
+   "1.4B",
+   "1.4C"
+  ]
+ },
+ "M6.L24": {
+  "topic": "E",
+  "title": "Use dimes and pennies as representations of numbers to 120.",
+  "teks": [
+   "1.4A",
+   "1.4B",
+   "1.4C"
+  ]
+ },
+ "M6.L25": {
+  "topic": "F",
+  "title": "Understand spending and saving income.",
+  "teks": [
+   "1.9A",
+   "1.9B",
+   "1.9C",
+   "1.9D"
+  ]
+ },
+ "M6.L26": {
+  "topic": "F",
+  "title": "Understand the difference between wants and needs.",
+  "teks": [
+   "1.9A",
+   "1.9B",
+   "1.9C",
+   "1.9D"
+  ]
+ },
+ "M6.L27": {
+  "topic": "F",
+  "title": "Consider charitable giving as an option for spending money.",
+  "teks": [
+   "1.9A",
+   "1.9B",
+   "1.9C",
+   "1.9D"
+  ]
+ },
+ "M6.L28": {
+  "topic": "G",
+  "title": "Solve compare with bigger or smaller unknown problem types.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ },
+ "M6.L29": {
+  "topic": "G",
+  "title": "Solve compare with bigger or smaller unknown problem types.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ },
+ "M6.L30": {
+  "topic": "G",
+  "title": "Share and critique peer strategies for solving problems of varied types.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ },
+ "M6.L31": {
+  "topic": "G",
+  "title": "Celebrate progress in fluency with adding and subtracting within 10 (and 20). Organize engaging summer practice.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ },
+ "M6.L32": {
+  "topic": "G",
+  "title": "Celebrate progress in fluency with adding and subtracting within 10 (and 20). Organize engaging summer practice.",
+  "teks": [
+   "1.3B",
+   "1.5D"
+  ]
+ }
+}

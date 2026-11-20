@@ -1,0 +1,122 @@
+{
+ "M5.L1": {
+  "topic": "A",
+  "title": "Classify shapes based on defining attributes using examples, variants, and non-examples.",
+  "teks": [
+   "1.6A",
+   "1.6B",
+   "1.6D",
+   "1.6E"
+  ]
+ },
+ "M5.L2": {
+  "topic": "A",
+  "title": "Find and name two-dimensional shapes including trapezoid, rhombus, and a square as a special rectangle, based on defining attributes of sides and corners.",
+  "teks": [
+   "1.6A",
+   "1.6B",
+   "1.6D",
+   "1.6E"
+  ]
+ },
+ "M5.L3": {
+  "topic": "A",
+  "title": "Find and name three-dimensional shapes including cone and rectangular prism, based on defining attributes of faces and points.",
+  "teks": [
+   "1.6A",
+   "1.6B",
+   "1.6D",
+   "1.6E"
+  ]
+ },
+ "M5.L4": {
+  "topic": "B",
+  "title": "Create composite shapes from two-dimensional shapes.",
+  "teks": [
+   "1.6C",
+   "1.6F",
+   "1.6D",
+   "1.6E"
+  ]
+ },
+ "M5.L5": {
+  "topic": "B",
+  "title": "Compose a new shape from composite shapes.",
+  "teks": [
+   "1.6C",
+   "1.6F",
+   "1.6D",
+   "1.6E"
+  ]
+ },
+ "M5.L6": {
+  "topic": "B",
+  "title": "Create a composite shape from three-dimensional shapes and describe the composite shape using shape names and positions.",
+  "teks": [
+   "1.6C",
+   "1.6F",
+   "1.6D",
+   "1.6E"
+  ]
+ },
+ "M5.L7": {
+  "topic": "C",
+  "title": "Name and count shapes as parts of a whole, recognizing relative sizes of the parts.",
+  "teks": [
+   "1.6G",
+   "1.6H"
+  ]
+ },
+ "M5.L8": {
+  "topic": "C",
+  "title": "Partition shapes and identify halves and quarters of circles and rectangles.",
+  "teks": [
+   "1.6G",
+   "1.6H"
+  ]
+ },
+ "M5.L9": {
+  "topic": "C",
+  "title": "Partition shapes and identify halves and quarters of circles and rectangles.",
+  "teks": [
+   "1.6G",
+   "1.6H"
+  ]
+ },
+ "M5.L10": {
+  "topic": "D",
+  "title": "Construct a paper clock by partitioning a circle and tell time to the hour.",
+  "teks": [
+   "1.6G",
+   "1.6H",
+   "1.7E"
+  ]
+ },
+ "M5.L11": {
+  "topic": "D",
+  "title": "Recognize halves within a circular clock face and tell time to the half hour.",
+  "teks": [
+   "1.6G",
+   "1.6H",
+   "1.7E"
+  ]
+ },
+ "M5.L12": {
+  "topic": "D",
+  "title": "Recognize halves within a circular clock face and tell time to the half hour.",
+  "teks": [
+   "1.6G",
+   "1.6H",
+   "1.7E"
+  ]
+ },
+ "M5.L13": {
+  "topic": "D",
+  "title": "Recognize halves within a circular clock face and tell time to the half hour.",
+  "teks": [
+   "1.6G",
+   "1.6H",
+   "1.7E"
+  ]
+ }
+}
