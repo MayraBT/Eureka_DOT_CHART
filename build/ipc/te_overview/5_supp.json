@@ -1,0 +1,53 @@
+{
+ "M1.S11-1": {
+  "topic": "",
+  "title": "Divide decimals by single-digit whole numbers using hundredths grid area models.",
+  "teks": [
+   "5.3F"
+  ],
+  "kind": "F"
+ },
+ "M2.S7-1": {
+  "topic": "",
+  "title": "Describe the meaning of parentheses in a numeric expression and evaluate.",
+  "teks": [
+   "5.4E",
+   "5.4F"
+  ],
+  "kind": "F"
+ },
+ "M2.S7-2": {
+  "topic": "",
+  "title": "Describe the meaning of brackets and find the value of numeric expressions with up to two levels of grouping.",
+  "teks": [
+   "5.4E",
+   "5.4F"
+  ],
+  "kind": "F"
+ },
+ "M2.S16-1": {
+  "topic": "",
+  "title": "Represent the product of decimals with tenths using hundredths grid area models.",
+  "teks": [
+   "5.3E"
+  ],
+  "kind": "F"
+ },
+ "M2.S16-2": {
+  "topic": "",
+  "title": "Reason about the product of decimals with tenths using area models.",
+  "teks": [
+   "5.3E"
+  ],
+  "kind": "F"
+ },
+ "M4.S25-1": {
+  "topic": "",
+  "title": "Describe the meaning of grouping symbols in expressions involving fractions and decimals and evaluate.",
+  "teks": [
+   "5.4E",
+   "5.4F"
+  ],
+  "kind": "F"
+ }
+}

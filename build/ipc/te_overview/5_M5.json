@@ -1,0 +1,190 @@
+{
+"M5.L1": {
+"topic": "A",
+"title": "Explore volume by building with and counting unit cubes.",
+"teks": [
+"5.6A",
+"5.6B"
+]
+},
+"M5.L2": {
+"topic": "A",
+"title": "Find the volume of a right rectangular prism by packing with cubic units and counting.",
+"teks": [
+"5.6A",
+"5.6B"
+]
+},
+"M5.L3": {
+"topic": "A",
+"title": "Compose and decompose right rectangular prisms using layers.",
+"teks": [
+"5.6A",
+"5.6B"
+]
+},
+"M5.L4": {
+"topic": "B",
+"title": "Use multiplication to calculate volume.",
+"teks": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+]
+},
+"M5.L5": {
+"topic": "B",
+"title": "Use multiplication to connect volume as packing  with volume as filling .",
+"teks": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+]
+},
+"M5.L6": {
+"topic": "B",
+"title": "Find the total volume of solid figures composed of two non-overlapping rectangular prisms.",
+"teks": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+]
+},
+"M5.L7": {
+"topic": "B",
+"title": "Solve word problems involving the volume of rectangular prisms with whole number edge lengths.",
+"teks": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+]
+},
+"M5.L8": {
+"topic": "B",
+"title": "Apply concepts and formulas of volume to design a sculpture using rectangular prisms within given parameters.",
+"teks": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+]
+},
+"M5.L9": {
+"topic": "B",
+"title": "Apply concepts and formulas of volume to design a sculpture using rectangular prisms within given parameters.",
+"teks": [
+"5.4G",
+"5.4H",
+"5.6A",
+"5.6B"
+]
+},
+"M5.L10": {
+"topic": "C",
+"title": "Find the area of rectangles with whole-by-mixed and whole-by-fractional number side lengths by tiling, record by drawing, and relate to fraction multiplication.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L11": {
+"topic": "C",
+"title": "Measure to find the area of rectangles with fractional side lengths.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L12": {
+"topic": "C",
+"title": "Multiply mixed number factors, and relate to the distributive property and the area model.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L13": {
+"topic": "C",
+"title": "Solve real-world problems involving area of figures with fractional side lengths using visual models and/or equations.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L14": {
+"topic": "C",
+"title": "Solve real-world problems involving area of figures with fractional side lengths using visual models and/or equations.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L15": {
+"topic": "C",
+"title": "Analyze and classify triangles based on side length, angle measure, or both.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L16": {
+"topic": "C",
+"title": "Define and construct triangles from given criteria.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L17": {
+"topic": "C",
+"title": "Draw trapezoids to clarify their attributes, and define trapezoids based on those attributes.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L18": {
+"topic": "C",
+"title": "Draw parallelograms to clarify their attributes, and define parallelograms based on those attributes.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L19": {
+"topic": "C",
+"title": "Draw rectangles and rhombuses to clarify their attributes, and define rectangles and rhombuses based on those attributes.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L20": {
+"topic": "C",
+"title": "Draw kites and squares to clarify their attributes, and define kites and squares based on those attributes.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L21": {
+"topic": "C",
+"title": "Classify two-dimensional figures in a hierarchy based on properties.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+},
+"M5.L22": {
+"topic": "C",
+"title": "Draw and identify varied two-dimensional figures from given attributes.",
+"teks": [
+"5.3I",
+"5.4H"
+]
+}
+}

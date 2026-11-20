@@ -1,0 +1,318 @@
+{
+ "M2.L1": {
+  "topic": "A",
+  "title": "Find factor pairs for numbers to 100, and use understanding of factors to define prime and composite.",
+  "teks": [
+   "5.4A"
+  ]
+ },
+ "M2.L2": {
+  "topic": "A",
+  "title": "Use division and the associative property to test for factors and observe patterns.",
+  "teks": [
+   "5.4A"
+  ]
+ },
+ "M2.L3": {
+  "topic": "A",
+  "title": "Determine if a whole number is a multiple of another number.",
+  "teks": [
+   "5.4A"
+  ]
+ },
+ "M2.L4": {
+  "topic": "A",
+  "title": "Explore properties of prime and composite numbers to 100 by using multiples.",
+  "teks": [
+   "5.4A"
+  ]
+ },
+ "M2.L5": {
+  "topic": "B",
+  "title": "Multiply multi-digit whole numbers and multiples of 10 using place value patterns and the distributive and associative properties.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4F"
+  ]
+ },
+ "M2.L6": {
+  "topic": "B",
+  "title": "Estimate multi-digit products by rounding factors to a basic fact and using place value patterns.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4F"
+  ]
+ },
+ "M2.L7": {
+  "topic": "C",
+  "title": "Write and interpret numerical expressions, and compare expressions using a visual model.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L8": {
+  "topic": "C",
+  "title": "Convert numerical expressions into unit form as a mental strategy for multi-digit multiplication.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L9": {
+  "topic": "C",
+  "title": "Connect visual models and the distributive property to partial products of the standard algorithm without renaming.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L10": {
+  "topic": "C",
+  "title": "Connect area models and the distributive property to partial products of the standard algorithm with renaming.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L11": {
+  "topic": "C",
+  "title": "Connect area models and the distributive property to partial products of the standard algorithm with renaming.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L12": {
+  "topic": "C",
+  "title": "Fluently multiply multi-digit whole numbers using the standard algorithm and using estimation to check for reasonableness of the product.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L13": {
+  "topic": "C",
+  "title": "Fluently multiply multi-digit whole numbers using the standard algorithm to solve multi-step word problems.",
+  "teks": [
+   "5.3A",
+   "5.3B",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L14": {
+  "topic": "D",
+  "title": "Multiply decimal fractions with tenths by multi-digit whole numbers using place value understanding to record partial products.",
+  "teks": [
+   "5.3A",
+   "5.3D",
+   "5.3E",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L15": {
+  "topic": "D",
+  "title": "Multiply decimal fractions by multi-digit whole numbers through conversion to a whole number problem and reasoning about the placement of the decimal.",
+  "teks": [
+   "5.3A",
+   "5.3D",
+   "5.3E",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L16": {
+  "topic": "D",
+  "title": "Reason about the product of a whole number and a decimal with hundredths using place value understanding and estimation.",
+  "teks": [
+   "5.3A",
+   "5.3D",
+   "5.3E",
+   "5.4B",
+   "5.4E",
+   "5.4F"
+  ]
+ },
+ "M2.L17": {
+  "topic": "E",
+  "title": "Use whole number multiplication to express equivalent measurements.",
+  "teks": [
+   "5.3B",
+   "5.3D",
+   "5.3E",
+   "5.7A"
+  ]
+ },
+ "M2.L18": {
+  "topic": "E",
+  "title": "Use decimal multiplication to express equivalent measurements.",
+  "teks": [
+   "5.3B",
+   "5.3D",
+   "5.3E",
+   "5.7A"
+  ]
+ },
+ "M2.L19": {
+  "topic": "E",
+  "title": "Solve two-step word problems involving measurement conversions.",
+  "teks": [
+   "5.3B",
+   "5.3D",
+   "5.3E",
+   "5.7A"
+  ]
+ },
+ "M2.L20": {
+  "topic": "F",
+  "title": "Use divide by 10  patterns for multi-digit whole number division.",
+  "teks": [
+   "5.3A",
+   "5.3C",
+   "5.2A"
+  ]
+ },
+ "M2.L21": {
+  "topic": "F",
+  "title": "Use compatible numbers to approximate quotients with two- digit divisors.",
+  "teks": [
+   "5.3A",
+   "5.3C",
+   "5.2A"
+  ]
+ },
+ "M2.L22": {
+  "topic": "F",
+  "title": "Use compatible numbers to approximate quotients with two- digit divisors.",
+  "teks": [
+   "5.3A",
+   "5.3C",
+   "5.2A"
+  ]
+ },
+ "M2.L23": {
+  "topic": "G",
+  "title": "Divide two- and three-digit dividends by multiples of 10 with single-digit quotients, and make connections to a written method.",
+  "teks": [
+   "5.3C",
+   "5.4B"
+  ]
+ },
+ "M2.L24": {
+  "topic": "G",
+  "title": "Divide two- and three-digit dividends by two-digit divisors with single-digit quotients, and make connections to a written method.",
+  "teks": [
+   "5.3C",
+   "5.4B"
+  ]
+ },
+ "M2.L25": {
+  "topic": "G",
+  "title": "Divide two- and three-digit dividends by two-digit divisors with single-digit quotients, and make connections to a written method.",
+  "teks": [
+   "5.3C",
+   "5.4B"
+  ]
+ },
+ "M2.L26": {
+  "topic": "G",
+  "title": "Divide three- and four-digit dividends by two-digit divisors resulting in two- and three-digit quotients, reasoning about the decomposition of successive remainders in each place value.",
+  "teks": [
+   "5.3C",
+   "5.4B"
+  ]
+ },
+ "M2.L27": {
+  "topic": "G",
+  "title": "Divide three- and four-digit dividends by two-digit divisors resulting in two- and three-digit quotients, reasoning about the decomposition of successive remainders in each place value.",
+  "teks": [
+   "5.3C",
+   "5.4B"
+  ]
+ },
+ "M2.L28": {
+  "topic": "H",
+  "title": "Divide decimal dividends by multiples of 10, reasoning about the placement of the decimal point and making connections to a written method.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.2A",
+   "5.4B"
+  ]
+ },
+ "M2.L29": {
+  "topic": "H",
+  "title": "Use basic facts to approximate decimal quotients with two-digit divisors, reasoning about the placement of the decimal point.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.2A",
+   "5.4B"
+  ]
+ },
+ "M2.L30": {
+  "topic": "H",
+  "title": "Divide decimal dividends by two-digit divisors, estimating quotients, reasoning about the placement of the decimal point, and making connections to a written method.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.2A",
+   "5.4B"
+  ]
+ },
+ "M2.L31": {
+  "topic": "H",
+  "title": "Divide decimal dividends by two-digit divisors, estimating quotients, reasoning about the placement of the decimal point, and making connections to a written method.",
+  "teks": [
+   "5.3F",
+   "5.3G",
+   "5.2A",
+   "5.4B"
+  ]
+ },
+ "M2.L32": {
+  "topic": "I",
+  "title": "Solve division word problems involving multi-digit division with group size unknown and the number of groups unknown.",
+  "teks": [
+   "5.3C",
+   "5.3F",
+   "5.3G",
+   "5.4B"
+  ]
+ },
+ "M2.L33": {
+  "topic": "I",
+  "title": "Solve division word problems involving multi-digit division with group size unknown and the number of groups unknown.",
+  "teks": [
+   "5.3C",
+   "5.3F",
+   "5.3G",
+   "5.4B"
+  ]
+ }
+}

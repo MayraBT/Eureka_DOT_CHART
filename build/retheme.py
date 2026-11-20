@@ -1,4 +1,4 @@
-"""Give a TEKS Lookup page its curriculum's colors.
+"""Give a TEKS Lookup page the shared neutral navy theme (yellow highlights kept).
 
 usage: python3 retheme.py FILE.html carnegie|eureka   (edits in place; safe to rerun)
 Also importable: from retheme import retheme
@@ -12,16 +12,26 @@ Semantic colors (amber highlights, red low scores, purple Dallas ISD bars) are l
 """
 import re, sys
 
-TOKENS = {
-    'carnegie': dict(ink='#231f20', ink2='#58595b', ink3='#808285', paper2='#f5f6f7', line='#d1d3d4',
-                     brand='#007cbb', deep='#005a8c', tint='#d9e9f5', ghost='#eef5fb',
-                     slate='#e6e7e8', slateink='#58595b',
-                     mid='#3495c8', soft='#8dbcdd', pale='#f2f7fb', wash='#e9f1f8', gl='#e6e7e8', k50='#bcbec0'),
-    'eureka':   dict(ink='#251f1a', ink2='#556577', ink3='#8a909c', paper2='#f5f6f8', line='#d8d7d6',
-                     brand='#00739a', deep='#00546f', tint='#d6ebf6', ghost='#eef7fc',
-                     slate='#e4e6ea', slateink='#5f6878',
-                     mid='#2f8fb3', soft='#8cc3dc', pale='#f1f8fc', wash='#e1f1fb', gl='#e6e8ec', k50='#b9c3cc'),
+NAVY = dict(ink='#1c2330', ink2='#4a5568', ink3='#7f8794', paper2='#f4f6f9', line='#d5dae2',
+            brand='#1b365d', deep='#12263f', tint='#dce4f0', ghost='#f0f4f9',
+            slate='#e5e8ee', slateink='#4f5b6b',
+            mid='#3a5a8c', soft='#9fb3d1', pale='#f3f6fa', wash='#e6ecf4', gl='#e6e9ee', k50='#b8c0cc')
+# Both curricula now share one neutral navy theme (the tools belong to the district, not a publisher).
+TOKENS = {'carnegie': NAVY, 'eureka': NAVY, 'navy': NAVY}
+# every color an earlier version used -> the navy role it now plays
+LEGACY = {
+    # original teal theme
+    '#008c84': 'brand', '#00736c': 'deep', '#8fcbc7': 'soft', '#7fb8b4': 'soft', '#f2faf9': 'pale',
+    '#e9f0ef': 'wash', '#e8eeed': 'gl', '#b9c6c5': 'k50', '#eceff0': 'gl', '#0d5f5c': 'deep',
+    # Carnegie and Eureka publisher themes
+    '#007cbb': 'brand', '#005a8c': 'deep', '#d9e9f5': 'tint', '#eef5fb': 'ghost', '#3495c8': 'mid',
+    '#8dbcdd': 'soft', '#f2f7fb': 'pale', '#e9f1f8': 'wash', '#00739a': 'brand', '#00546f': 'deep',
+    '#d6ebf6': 'tint', '#eef7fc': 'ghost', '#2f8fb3': 'mid', '#8cc3dc': 'soft', '#f1f8fc': 'pale',
+    '#e1f1fb': 'wash', '#e6e8ec': 'gl', '#b9c3cc': 'k50',
 }
+# purples (they read as another publisher's palette) -> navy family / gold highlight
+PURPLES = {'#7a5af5': '#c99a22', '#5b3fd1': '#7a5a00', '#7a5ea8': '#4f5b6b', '#b9a6da': '#b8c0cc',
+           '#5b4a80': '#4f5b6b', '#f3f0fa': '#f1f3f6', '#f4f0fa': '#f1f3f6', '#f7f4fb': '#f3f6fa', '#4b3a6e': '#1b365d'}
 
 ROOT = re.compile(r'(:root\s*\{)([^}]*)(\})')
 
@@ -36,18 +46,20 @@ def retheme(s, kind):
             body = re.sub(r'(%s\s*:\s*)#[0-9a-fA-F]{6}' % re.escape(var), r'\g<1>' + t[key], body)
         return m.group(1) + body + m.group(3)
     s = ROOT.sub(root, s, count=1)
-    # hard-coded teal family from the original theme -> curriculum equivalents
-    for old, key in [('#008c84', 'brand'), ('#00736c', 'deep'), ('#8fcbc7', 'soft'), ('#7fb8b4', 'soft'),
-                     ('#f2faf9', 'pale'), ('#e9f0ef', 'wash'), ('#e8eeed', 'gl'), ('#b9c6c5', 'k50'),
-                     ('#eceff0', 'gl')]:
-        s = re.sub(re.escape(old), t[key], s, flags=re.I)
+    for old, key in LEGACY.items():
+        s = re.sub(re.escape(old) + r'(?![0-9a-fA-F])', t[key], s, flags=re.I)
+    for old, new in PURPLES.items():
+        s = re.sub(re.escape(old) + r'(?![0-9a-fA-F])', new, s, flags=re.I)
     # the select-arrow icon is an encoded SVG
-    s = re.sub(r'%23147c78', '%23' + t['brand'][1:], s, flags=re.I)
-    # Eureka: its plum section headings and sage accents, as in the TE
-    if kind == 'eureka' and '/*eureka-accents*/' not in s:
-        extra = ('/*eureka-accents*/ .modlist>details>summary{color:#98204e;border-left:4px solid #98204e}'
-                 ' .modlist>details[open]>summary{border-left-color:#839f68}'
-                 ' .detail details>summary{color:#98204e}')
+    s = re.sub(r'%23(147c78|007cbb|00739a)', '%23' + t['brand'][1:], s, flags=re.I)
+    # drop the old Eureka plum/sage accents
+    s = re.sub(r'/\*eureka-accents\*/[^\n]*\n', '', s)
+    # yellow highlights on the navy: a gold rule under the header and on the selected tab
+    if '/*navy-accents*/' not in s:
+        extra = ('/*navy-accents*/ header{box-shadow:0 3px 0 #f2b705}'
+                 ' .tabs button[aria-selected="true"]{border-left-color:#f2b705}'
+                 ' @media (max-width:820px){.tabs button[aria-selected="true"]{border-bottom-color:#f2b705}}'
+                 ' .hnav button[aria-current="true"]{box-shadow:inset 3px 0 0 #f2b705}')
         s = s.replace('</style>', extra + '\n</style>', 1)
     return s
 
