@@ -13,16 +13,18 @@ for i, p in enumerate(r.pages[:60]):
 txt = '\n'.join(pages)
 teks_re = re.compile(r'^(%s\.\d+[A-Z]?)$' % re.escape(g))
 cur_teks, topic_teks, topic = [], {}, None
-out = {}; last = None
+out = {}; last = None; star = False
 for raw in txt.split('\n'):
     line = raw.strip().replace(' ', ' ')
     if not line: continue
     if teks_re.match(line):
         if topic is not None and topic in topic_teks and last is not None: cur_teks = []
         cur_teks.append(line); topic = None if topic else topic; continue
-    m = re.match(r'^([A-H])\s+(\S.*)$', line)
-    if m and cur_teks and not line.startswith('Lesson'):
-        topic = m.group(1); topic_teks[topic] = cur_teks[:]; cur_teks = []; last = None; continue
+    if re.match(r'^\*(\s|$)', line): star = True; cur_teks = []; continue
+    m = re.match(r'^([A-J])\s+(\S.*)$', line)
+    if m and (cur_teks or star) and not line.startswith('Lesson'):
+        # a topic marked * (spiral review) lists no TEKS of its own
+        topic = m.group(1); topic_teks[topic] = [] if star else cur_teks[:]; cur_teks = []; star = False; last = None; continue
     m = re.match(r'^Lessons? (\d+)(?:[–-](\d+))?:\s*(.*)$', line)
     if m and topic:
         a = int(m.group(1)); b = int(m.group(2) or a)

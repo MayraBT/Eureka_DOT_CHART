@@ -1,0 +1,410 @@
+{
+ "M3.L1": {
+  "topic": "A",
+  "title": "Investigate and use the formulas for area and perimeter of rectangles.",
+  "teks": [
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D",
+   "4.4G"
+  ]
+ },
+ "M3.L2": {
+  "topic": "A",
+  "title": "Solve multiplicative comparison word problems by applying the area and perimeter formulas.",
+  "teks": [
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D",
+   "4.4G"
+  ]
+ },
+ "M3.L3": {
+  "topic": "A",
+  "title": "Demonstrate understanding of area and perimeter formulas by solving multi-step real-world problems.",
+  "teks": [
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D",
+   "4.4G"
+  ]
+ },
+ "M3.L4": {
+  "topic": "B",
+  "title": "Interpret and represent patterns when multiplying by 10,",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L5": {
+  "topic": "B",
+  "title": "Multiply multiples of 10, 100, and 1,000 by single digits, recognizing patterns.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L6": {
+  "topic": "B",
+  "title": "Multiply two-digit multiples of 10 by two-digit multiples of",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L7": {
+  "topic": "C",
+  "title": "Use place value disks to represent two-digit by one-digit multiplication.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L8": {
+  "topic": "C",
+  "title": "Extend the use of place value disks to represent three- and four-digit by one-digit multiplication.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L9": {
+  "topic": "C",
+  "title": "Multiply three- and four-digit numbers by one-digit numbers applying the standard algorithm.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L10": {
+  "topic": "C",
+  "title": "Multiply three- and four-digit numbers by one-digit numbers applying the standard algorithm.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L11": {
+  "topic": "C",
+  "title": "Connect the area model and the partial products method to the standard algorithm.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.2A",
+   "4.4B",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L12": {
+  "topic": "D",
+  "title": "Solve two-step word problems, including multiplicative comparison.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4H",
+   "4.5A",
+   "4.4G"
+  ]
+ },
+ "M3.L13": {
+  "topic": "D",
+  "title": "Use multiplication, addition, or subtraction to solve multi-step word problems.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4H",
+   "4.5A",
+   "4.4G"
+  ]
+ },
+ "M3.L14": {
+  "topic": "E",
+  "title": "Solve division word problems with remainders.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L15": {
+  "topic": "E",
+  "title": "Understand and solve division problems with a remainder using the array and area models.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L16": {
+  "topic": "E",
+  "title": "Understand and solve two-digit dividend division problems with a remainder in the ones place by using place value disks.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L17": {
+  "topic": "E",
+  "title": "Represent and solve division problems requiring decomposing a remainder in the tens.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L18": {
+  "topic": "E",
+  "title": "Find whole number quotients and remainders.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L19": {
+  "topic": "E",
+  "title": "Explain remainders by using place value understanding and models.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L20": {
+  "topic": "E",
+  "title": "Solve division problems without remainders using the area model.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L21": {
+  "topic": "E",
+  "title": "Solve division problems with remainders using the area model.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4G",
+   "4.4H",
+   "4.5A"
+  ]
+ },
+ "M3.L22": {
+  "topic": "F",
+  "title": "Divide multiples of 10, 100, and 1,000 by single-digit numbers.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L23": {
+  "topic": "F",
+  "title": "Represent and solve division problems with up to a three-digit dividend numerically and with place value disks requiring decomposing a remainder in the hundreds place.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L24": {
+  "topic": "F",
+  "title": "Represent and solve three-digit dividend division with divisors of 2, 3, 4, and 5 numerically.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L25": {
+  "topic": "F",
+  "title": "Represent numerically four-digit dividend division with divisors of 2, 3, 4, and 5, decomposing a remainder up to three times.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L26": {
+  "topic": "F",
+  "title": "Solve division problems with a zero in the dividend or with a zero in the quotient.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L27": {
+  "topic": "F",
+  "title": "Interpret division word problems as either number of groups unknown or group size unknown.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L28": {
+  "topic": "F",
+  "title": "Interpret and find whole number quotients and remainders to solve one-step division word problems with larger divisors of 6, 7, 8, and 9.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L29": {
+  "topic": "F",
+  "title": "Explain the connection of the area model of division to the long division algorithm for three- and four-digit dividends.",
+  "teks": [
+   "4.4E",
+   "4.4F",
+   "4.4H",
+   "4.5A",
+   "4.2A",
+   "4.4B",
+   "4.4G"
+  ]
+ },
+ "M3.L30": {
+  "topic": "G",
+  "title": "Multiply two-digit multiples of 10 by two-digit numbers using a place value chart.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4G",
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D"
+  ]
+ },
+ "M3.L31": {
+  "topic": "G",
+  "title": "Multiply two-digit multiples of 10 by two-digit numbers using the area model.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4G",
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D"
+  ]
+ },
+ "M3.L32": {
+  "topic": "G",
+  "title": "Multiply two-digit by two-digit numbers using four partial products.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4G",
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D"
+  ]
+ },
+ "M3.L33": {
+  "topic": "G",
+  "title": "Transition from four partial products to the standard algorithm for two-digit by two-digit multiplication.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4G",
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D"
+  ]
+ },
+ "M3.L34": {
+  "topic": "G",
+  "title": "Transition from four partial products to the standard algorithm for two-digit by two-digit multiplication.",
+  "teks": [
+   "4.4C",
+   "4.4D",
+   "4.4G",
+   "4.4H",
+   "4.5A",
+   "4.5C",
+   "4.5D"
+  ]
+ }
+}

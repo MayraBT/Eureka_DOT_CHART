@@ -1,0 +1,187 @@
+{
+ "M1.L1": {
+  "topic": "A",
+  "title": "Interpret a multiplication equation as a comparison.",
+  "teks": [
+   "4.2A",
+   "4.2B",
+   "4.2C"
+  ]
+ },
+ "M1.L2": {
+  "topic": "A",
+  "title": "Recognize a digit represents 10 times the value of what it represents in the place to its right.",
+  "teks": [
+   "4.2A",
+   "4.2B",
+   "4.2C"
+  ]
+ },
+ "M1.L3": {
+  "topic": "A",
+  "title": "Name numbers within 1 billion by building understanding of the place value chart and placement of commas for naming base thousand units.",
+  "teks": [
+   "4.2A",
+   "4.2B",
+   "4.2C"
+  ]
+ },
+ "M1.L4": {
+  "topic": "A",
+  "title": "Read and write multi-digit numbers using base ten numerals, number names, and expanded notation.",
+  "teks": [
+   "4.2A",
+   "4.2B",
+   "4.2C"
+  ]
+ },
+ "M1.L5": {
+  "topic": "B",
+  "title": "Compare numbers based on meanings of the digits using > , < , or = to record the comparison.",
+  "teks": [
+   "4.2C",
+   "4.2B"
+  ]
+ },
+ "M1.L6": {
+  "topic": "B",
+  "title": "Find 1, 10, and 100 thousand and 1, 10, and 100 million more and less than a given number.",
+  "teks": [
+   "4.2C",
+   "4.2B"
+  ]
+ },
+ "M1.L7": {
+  "topic": "C",
+  "title": "Round multi-digit numbers to the thousands place using the vertical number line.",
+  "teks": [
+   "4.2D",
+   "4.4G"
+  ]
+ },
+ "M1.L8": {
+  "topic": "C",
+  "title": "Round multi-digit numbers to any place using the vertical number line.",
+  "teks": [
+   "4.2D",
+   "4.4G"
+  ]
+ },
+ "M1.L9": {
+  "topic": "C",
+  "title": "Use place value understanding to round multi-digit numbers to any place value.",
+  "teks": [
+   "4.2D",
+   "4.4G"
+  ]
+ },
+ "M1.L10": {
+  "topic": "C",
+  "title": "Use place value understanding to round multi-digit numbers to any place value using real world applications.",
+  "teks": [
+   "4.2D",
+   "4.4G"
+  ]
+ },
+ "M1.L11": {
+  "topic": "D",
+  "title": "Use place value understanding to fluently add multi-digit whole numbers using the standard addition algorithm, and apply the algorithm to solve word problems using strip diagrams.",
+  "teks": [
+   "4.4A",
+   "4.4G",
+   "4.5A",
+   "4.2A",
+   "4.2B",
+   "4.2C"
+  ]
+ },
+ "M1.L12": {
+  "topic": "D",
+  "title": "Solve multi-step word problems using the standard addition algorithm modeled with strip diagrams, and assess the reasonableness of answers using rounding.",
+  "teks": [
+   "4.4A",
+   "4.4G",
+   "4.5A",
+   "4.2A",
+   "4.2B",
+   "4.2C"
+  ]
+ },
+ "M1.L13": {
+  "topic": "E",
+  "title": "Use place value understanding to decompose to smaller units once using the standard subtraction algorithm, and apply the algorithm to solve word problems using strip diagrams.",
+  "teks": [
+   "4.4A",
+   "4.4G",
+   "4.5A",
+   "4.2A",
+   "4.2B"
+  ]
+ },
+ "M1.L14": {
+  "topic": "E",
+  "title": "Use place value understanding to decompose to smaller units up to three times using the standard subtraction algorithm, and apply the algorithm to solve word problems using strip diagrams.",
+  "teks": [
+   "4.4A",
+   "4.4G",
+   "4.5A",
+   "4.2A",
+   "4.2B"
+  ]
+ },
+ "M1.L15": {
+  "topic": "E",
+  "title": "Use place value understanding to fluently decompose to smaller units multiple times in any place using the standard subtraction algorithm, and apply the algorithm to solve word problems using strip diagrams.",
+  "teks": [
+   "4.4A",
+   "4.4G",
+   "4.5A",
+   "4.2A",
+   "4.2B"
+  ]
+ },
+ "M1.L16": {
+  "topic": "E",
+  "title": "Solve two-step word problems using the standard subtraction algorithm fluently modeled with strip diagrams, and assess the reasonableness of answers using rounding.",
+  "teks": [
+   "4.4A",
+   "4.4G",
+   "4.5A",
+   "4.2A",
+   "4.2B"
+  ]
+ },
+ "M1.L17": {
+  "topic": "F",
+  "title": "Solve additive compare word problems modeled with strip diagrams.",
+  "teks": [
+   "4.5A",
+   "4.2A",
+   "4.2B",
+   "4.2C",
+   "4.4A"
+  ]
+ },
+ "M1.L18": {
+  "topic": "F",
+  "title": "Solve multi-step word problems modeled with strip diagrams, and assess the reasonableness of answers using rounding.",
+  "teks": [
+   "4.5A",
+   "4.2A",
+   "4.2B",
+   "4.2C",
+   "4.4A"
+  ]
+ },
+ "M1.L19": {
+  "topic": "F",
+  "title": "Create and solve multi-step word problems from given strip diagrams and equations.",
+  "teks": [
+   "4.5A",
+   "4.2A",
+   "4.2B",
+   "4.2C",
+   "4.4A"
+  ]
+ }
+}

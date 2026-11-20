@@ -156,7 +156,7 @@ for g in GRADES:
                     report.append(f'G{g} {lid}: TEKS filled from the Teacher Edition overview')
                 continue
             if _n in _om.get(_m, set()): continue
-            lessons[lid] = {'lo': X['title'], 'marks': {c: X.get('kind', 'O') for c in _codes}, 'days': [], 'te': True}
+            lessons[lid] = {'lo': X['title'], 'marks': {c: X.get('kind', 'O') for c in _codes}, 'days': [], 'te': True, 'review': not _codes}
             report.append(f'G{g} {lid}: added from the Teacher Edition overview')
     out_lessons = []
     modnames = {m['n']: m for m in mods}
@@ -179,6 +179,9 @@ for g in GRADES:
         lab = str(num) if not sup else f"{num}-{sub}"
         out_lessons.append({'id': lid, 'm': m, 't': t, 'l': lab, 'title': title.rstrip('.') + '.', 'sub': '',
                             'note': ('Supplemental lesson' if sup else '') + (('; ' if sup else '') + ('TEKS from the Eureka Teacher Edition ' + ('Supplement overview' if sup else 'topic overview')) if L.get('te') else '') + (('; ' if sup else '') + 'TEKS from the 2025-26 Q3 weekly IPC (2026-27 not posted yet)' if L.get('prev') else ''), 'prev': bool(L.get('prev')), 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
+    for L in out_lessons:
+        if lessons[L['id']].get('review'):
+            L['note'] = 'Year in Review: spiral review of the grade’s major work; the Teacher Edition lists no TEKS for it'
     used_mods = sorted({L['m'] for L in out_lessons})
     modules = []
     for n in used_mods:

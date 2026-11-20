@@ -1,0 +1,154 @@
+{
+ "M4.L1": {
+  "topic": "A",
+  "title": "Identify and draw points, lines, line segments, rays, and angles. Recognize them in various contexts and familiar figures.",
+  "teks": [
+   "4.6A",
+   "4.6C"
+  ]
+ },
+ "M4.L2": {
+  "topic": "A",
+  "title": "Use right angles to determine whether angles are equal to, greater than, or less than right angles. Draw right, obtuse, and acute angles.",
+  "teks": [
+   "4.6A",
+   "4.6C"
+  ]
+ },
+ "M4.L3": {
+  "topic": "A",
+  "title": "Identify, define, and draw perpendicular lines.",
+  "teks": [
+   "4.6A",
+   "4.6C"
+  ]
+ },
+ "M4.L4": {
+  "topic": "A",
+  "title": "Identify, define, and draw parallel lines.",
+  "teks": [
+   "4.6A",
+   "4.6C"
+  ]
+ },
+ "M4.L5": {
+  "topic": "B",
+  "title": "Use a circular protractor to understand a 1-degree angle as 1 protractor.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L6": {
+  "topic": "B",
+  "title": "Use varied protractors to distinguish angle measure from length measurement.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L7": {
+  "topic": "B",
+  "title": "Measure and draw angles. Sketch given angle measures, and verify with a protractor.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L8": {
+  "topic": "B",
+  "title": "Identify and measure angles as turns and recognize them in various contexts.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L9": {
+  "topic": "B",
+  "title": "Decompose angles using pattern blocks.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L10": {
+  "topic": "B",
+  "title": "Use the addition of adjacent angle measures to solve problems using a letter for the unknown angle measure.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L11": {
+  "topic": "B",
+  "title": "Use the addition of adjacent angle measures to solve problems using a letter for the unknown angle measure.",
+  "teks": [
+   "4.7A",
+   "4.7B",
+   "4.7C",
+   "4.7D"
+  ]
+ },
+ "M4.L12": {
+  "topic": "D",
+  "title": "Recognize lines of symmetry for given two-dimensional figures. Identify line-symmetric figures, and draw lines of symmetry.",
+  "teks": [
+   "4.6A",
+   "4.6B",
+   "4.6C",
+   "4.6D"
+  ]
+ },
+ "M4.L13": {
+  "topic": "D",
+  "title": "Analyze and classify triangles based on angle measure.",
+  "teks": [
+   "4.6A",
+   "4.6B",
+   "4.6C",
+   "4.6D"
+  ]
+ },
+ "M4.L14": {
+  "topic": "D",
+  "title": "Define and construct triangles from given criteria.",
+  "teks": [
+   "4.6A",
+   "4.6B",
+   "4.6C",
+   "4.6D"
+  ]
+ },
+ "M4.L15": {
+  "topic": "D",
+  "title": "Classify quadrilaterals based on parallel and perpendicular lines and the presence or absence of angles of a specified size.",
+  "teks": [
+   "4.6A",
+   "4.6B",
+   "4.6C",
+   "4.6D"
+  ]
+ },
+ "M4.L16": {
+  "topic": "D",
+  "title": "Reason about attributes to construct quadrilaterals on square or triangular grid paper.",
+  "teks": [
+   "4.6A",
+   "4.6B",
+   "4.6C",
+   "4.6D"
+  ]
+ }
+}

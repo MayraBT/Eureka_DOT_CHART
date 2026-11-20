@@ -1,0 +1,241 @@
+{
+ "M6.L1": {
+  "topic": "A",
+  "title": "Use metric measurement to model the decomposition of one whole into tenths.",
+  "teks": [
+   "4.2A",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.4B",
+   "4.8A",
+   "4.8B"
+  ]
+ },
+ "M6.L2": {
+  "topic": "A",
+  "title": "Use metric measurement and area models to represent tenths as fractions greater than 1 and decimal numbers.",
+  "teks": [
+   "4.2A",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.4B",
+   "4.8A",
+   "4.8B"
+  ]
+ },
+ "M6.L3": {
+  "topic": "A",
+  "title": "Represent mixed numbers with units of tens, ones, and tenths with place value disks, on the number line, and in expanded notation.",
+  "teks": [
+   "4.2A",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.4B",
+   "4.8A",
+   "4.8B"
+  ]
+ },
+ "M6.L4": {
+  "topic": "B",
+  "title": "Use meters to model the decomposition of one whole into hundredths. Represent and count hundredths.",
+  "teks": [
+   "4.2B",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C",
+   "4.2A",
+   "4.2F",
+   "4.8B"
+  ]
+ },
+ "M6.L5": {
+  "topic": "B",
+  "title": "Model the equivalence of tenths and hundredths using the area model and place value disks.",
+  "teks": [
+   "4.2B",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C",
+   "4.2A",
+   "4.2F",
+   "4.8B"
+  ]
+ },
+ "M6.L6": {
+  "topic": "B",
+  "title": "Use the area model and number line to represent mixed numbers with units of ones, tenths, and hundredths in fraction and decimal forms.",
+  "teks": [
+   "4.2B",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C",
+   "4.2A",
+   "4.2F",
+   "4.8B"
+  ]
+ },
+ "M6.L7": {
+  "topic": "B",
+  "title": "Model mixed numbers with units of hundreds, tens, ones, tenths, and hundredths in expanded notation and on the place value chart.",
+  "teks": [
+   "4.2B",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C",
+   "4.2A",
+   "4.2F",
+   "4.8B"
+  ]
+ },
+ "M6.L8": {
+  "topic": "B",
+  "title": "Use understanding of fraction equivalence to investigate decimal numbers on the place value chart expressed in different units.",
+  "teks": [
+   "4.2B",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C",
+   "4.2A",
+   "4.2F",
+   "4.8B"
+  ]
+ },
+ "M6.L9": {
+  "topic": "C",
+  "title": "Use the place value chart and metric measurement to compare decimals and answer comparison questions.",
+  "teks": [
+   "4.2F",
+   "4.8C"
+  ]
+ },
+ "M6.L10": {
+  "topic": "C",
+  "title": "Use area models and the number line to compare decimal numbers, and record comparisons using < , > , and = .",
+  "teks": [
+   "4.2F",
+   "4.8C"
+  ]
+ },
+ "M6.L11": {
+  "topic": "C",
+  "title": "Compare and order mixed numbers in various forms.",
+  "teks": [
+   "4.2F",
+   "4.8C"
+  ]
+ },
+ "M6.L12": {
+  "topic": "D",
+  "title": "Apply place value understanding to add tenths and hundredths.",
+  "teks": [
+   "4.2G",
+   "4.4A",
+   "4.2E",
+   "4.2H",
+   "4.3C",
+   "4.3E",
+   "4.8B",
+   "4.8C"
+  ]
+ },
+ "M6.L13": {
+  "topic": "D",
+  "title": "Apply place value understanding to subtract tenths and hundredths.",
+  "teks": [
+   "4.2G",
+   "4.4A",
+   "4.2E",
+   "4.2H",
+   "4.3C",
+   "4.3E",
+   "4.8B",
+   "4.8C"
+  ]
+ },
+ "M6.L14": {
+  "topic": "D",
+  "title": "Solve word problems involving the addition and subtraction of measurements in decimal form.",
+  "teks": [
+   "4.2G",
+   "4.4A",
+   "4.2E",
+   "4.2H",
+   "4.3C",
+   "4.3E",
+   "4.8B",
+   "4.8C"
+  ]
+ },
+ "M6.L15": {
+  "topic": "E",
+  "title": "Express money amounts given in various forms as decimal numbers.",
+  "teks": [
+   "4.8C",
+   "4.10A",
+   "4.10B",
+   "4.10C",
+   "4.10D",
+   "4.10E",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C"
+  ]
+ },
+ "M6.L16": {
+  "topic": "E",
+  "title": "Understand the purpose of financial institutions and advantages and disadvantages of savings options.",
+  "teks": [
+   "4.8C",
+   "4.10A",
+   "4.10B",
+   "4.10C",
+   "4.10D",
+   "4.10E",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C"
+  ]
+ },
+ "M6.L17": {
+  "topic": "E",
+  "title": "Understand the difference between fixed and variable expenses for the purpose of allocating a weekly allowance.",
+  "teks": [
+   "4.8C",
+   "4.10A",
+   "4.10B",
+   "4.10C",
+   "4.10D",
+   "4.10E",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C"
+  ]
+ },
+ "M6.L18": {
+  "topic": "E",
+  "title": "Solve word problems including the calculation of profit.",
+  "teks": [
+   "4.8C",
+   "4.10A",
+   "4.10B",
+   "4.10C",
+   "4.10D",
+   "4.10E",
+   "4.2E",
+   "4.2G",
+   "4.2H",
+   "4.3C"
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "M5.L1": {
+  "topic": "A",
+  "title": "Decompose fractions as a sum of unit fractions using strip diagrams.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3C",
+   "4.3F"
+  ]
+ },
+ "M5.L2": {
+  "topic": "A",
+  "title": "Decompose fractions as a sum of unit fractions using strip diagrams.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3C",
+   "4.3F"
+  ]
+ },
+ "M5.L3": {
+  "topic": "A",
+  "title": "Decompose fractions into sums of smaller unit fractions using strip diagrams.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3C",
+   "4.3F"
+  ]
+ },
+ "M5.L4": {
+  "topic": "A",
+  "title": "Decompose unit fractions using area models to show equivalence.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3C",
+   "4.3F"
+  ]
+ },
+ "M5.L5": {
+  "topic": "A",
+  "title": "Decompose fractions using area models to show equivalence.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3C",
+   "4.3F"
+  ]
+ },
+ "M5.L6": {
+  "topic": "B",
+  "title": "Use the area model and multiplication to show the equivalence of two fractions.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L7": {
+  "topic": "B",
+  "title": "Use the area model and multiplication to show the equivalence of two fractions.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L8": {
+  "topic": "B",
+  "title": "Use the area model and division to show the equivalence of two fractions.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L9": {
+  "topic": "B",
+  "title": "Use the area model and division to show the equivalence of two fractions.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L10": {
+  "topic": "B",
+  "title": "Explain fraction equivalence using a strip diagram and the number line, and relate that to the use of multiplication and division.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L11": {
+  "topic": "B",
+  "title": "Reason using benchmarks to compare two fractions on the number line.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L12": {
+  "topic": "B",
+  "title": "Reason using benchmarks to compare two fractions on the number line.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L13": {
+  "topic": "B",
+  "title": "Find common units or number of units to compare two fractions.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L14": {
+  "topic": "B",
+  "title": "Find common units or number of units to compare two fractions.",
+  "teks": [
+   "4.3C",
+   "4.3B",
+   "4.3G"
+  ]
+ },
+ "M5.L15": {
+  "topic": "D",
+  "title": "Use visual models to add and subtract two fractions with the same units.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.3C"
+  ]
+ },
+ "M5.L16": {
+  "topic": "D",
+  "title": "Use visual models to add and subtract two fractions with the same units, including subtracting from one whole.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.3C"
+  ]
+ },
+ "M5.L17": {
+  "topic": "D",
+  "title": "Add and subtract more than two fractions.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.3C"
+  ]
+ },
+ "M5.L18": {
+  "topic": "D",
+  "title": "Solve word problems involving addition and subtraction of fractions.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.3C"
+  ]
+ },
+ "M5.L19": {
+  "topic": "E",
+  "title": "Add a fraction less than 1 to, or subtract a fraction less than 1 from, a whole number using decomposition and visual models.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3D",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.9A",
+   "4.9B",
+   "4.3C"
+  ]
+ },
+ "M5.L20": {
+  "topic": "E",
+  "title": "Decompose and compose fractions greater than 1 to express them in various forms.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3D",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.9A",
+   "4.9B",
+   "4.3C"
+  ]
+ },
+ "M5.L21": {
+  "topic": "E",
+  "title": "Decompose and compose fractions greater than 1 to express them in various forms.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3D",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.9A",
+   "4.9B",
+   "4.3C"
+  ]
+ },
+ "M5.L22": {
+  "topic": "E",
+  "title": "Compare fractions greater than 1 by reasoning using benchmark fractions.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3D",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.9A",
+   "4.9B",
+   "4.3C"
+  ]
+ },
+ "M5.L23": {
+  "topic": "E",
+  "title": "Compare fractions greater than 1 by creating common numerators or denominators.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3D",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.9A",
+   "4.9B",
+   "4.3C"
+  ]
+ },
+ "M5.L24": {
+  "topic": "E",
+  "title": "Solve word problems with dot plots.",
+  "teks": [
+   "4.3A",
+   "4.3B",
+   "4.3D",
+   "4.3E",
+   "4.3F",
+   "4.3G",
+   "4.9A",
+   "4.9B",
+   "4.3C"
+  ]
+ },
+ "M5.L25": {
+  "topic": "F",
+  "title": "Estimate sums and differences using benchmark numbers.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ },
+ "M5.L26": {
+  "topic": "F",
+  "title": "Add a mixed number and a fraction.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ },
+ "M5.L27": {
+  "topic": "F",
+  "title": "Add mixed numbers.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ },
+ "M5.L28": {
+  "topic": "F",
+  "title": "Subtract a fraction from a mixed number.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ },
+ "M5.L29": {
+  "topic": "F",
+  "title": "Subtract a mixed number from a mixed number.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ },
+ "M5.L30": {
+  "topic": "F",
+  "title": "Subtract mixed numbers.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ },
+ "M5.L31": {
+  "topic": "F",
+  "title": "Solve multiplicative comparison word problems involving fractions.",
+  "teks": [
+   "4.3E",
+   "4.3F"
+  ]
+ }
+}
