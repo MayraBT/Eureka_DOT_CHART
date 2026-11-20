@@ -1,0 +1,195 @@
+{
+ "M8.L1": {
+  "topic": "A",
+  "title": "Describe two-dimensional shapes based on attributes.",
+  "teks": [
+   "2.8A",
+   "2.8B",
+   "2.8C",
+   "2.9A",
+   "2.9B"
+  ]
+ },
+ "M8.L2": {
+  "topic": "A",
+  "title": "Build, identify, and analyze two-dimensional shapes with specified attributes.",
+  "teks": [
+   "2.8A",
+   "2.8B",
+   "2.8C",
+   "2.9A",
+   "2.9B"
+  ]
+ },
+ "M8.L3": {
+  "topic": "A",
+  "title": "Use attributes to draw different polygons including triangles, quadrilaterals, pentagons, and hexagons.",
+  "teks": [
+   "2.8A",
+   "2.8B",
+   "2.8C",
+   "2.9A",
+   "2.9B"
+  ]
+ },
+ "M8.L4": {
+  "topic": "A",
+  "title": "Use attributes to identify and draw different quadrilaterals including rectangles, rhombuses, parallelograms, and trapezoids.",
+  "teks": [
+   "2.8A",
+   "2.8B",
+   "2.8C",
+   "2.9A",
+   "2.9B"
+  ]
+ },
+ "M8.L5": {
+  "topic": "A",
+  "title": "Classify and sort three-dimensional shapes by their attributes.",
+  "teks": [
+   "2.8A",
+   "2.8B",
+   "2.8C",
+   "2.9A",
+   "2.9B"
+  ]
+ },
+ "M8.L6": {
+  "topic": "B",
+  "title": "Combine shapes to create a composite shape; create a new shape from composite shapes.",
+  "teks": [
+   "2.3A",
+   "2.8D",
+   "2.8E",
+   "2.3C",
+   "2.3D",
+   "2.8A",
+   "2.8C"
+  ]
+ },
+ "M8.L7": {
+  "topic": "B",
+  "title": "Interpret equal shares in composite shapes as halves, thirds, and fourths.",
+  "teks": [
+   "2.3A",
+   "2.8D",
+   "2.8E",
+   "2.3C",
+   "2.3D",
+   "2.8A",
+   "2.8C"
+  ]
+ },
+ "M8.L8": {
+  "topic": "B",
+  "title": "Interpret equal shares in composite shapes as halves, thirds, and fourths.",
+  "teks": [
+   "2.3A",
+   "2.8D",
+   "2.8E",
+   "2.3C",
+   "2.3D",
+   "2.8A",
+   "2.8C"
+  ]
+ },
+ "M8.L9": {
+  "topic": "C",
+  "title": "Partition circles and rectangles into equal parts, and describe those parts as halves, thirds, or fourths.",
+  "teks": [
+   "2.3A",
+   "2.3B",
+   "2.3C",
+   "2.3D",
+   "2.8E",
+   "2.8A",
+   "2.8C"
+  ]
+ },
+ "M8.L10": {
+  "topic": "C",
+  "title": "Partition circles and rectangles into equal parts, and describe those parts as halves, fourths, and eighths.",
+  "teks": [
+   "2.3A",
+   "2.3B",
+   "2.3C",
+   "2.3D",
+   "2.8E",
+   "2.8A",
+   "2.8C"
+  ]
+ },
+ "M8.L11": {
+  "topic": "C",
+  "title": "Use concrete models to count fractional parts beyond one whole.",
+  "teks": [
+   "2.3A",
+   "2.3B",
+   "2.3C",
+   "2.3D",
+   "2.8E",
+   "2.8A",
+   "2.8C"
+  ]
+ },
+ "M8.L12": {
+  "topic": "D",
+  "title": "Construct a paper clock by partitioning a circle into halves and quarters, and tell time to the half hour or quarter hour.",
+  "teks": [
+   "2.3A",
+   "2.8E",
+   "2.9G",
+   "2.2C",
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M8.L13": {
+  "topic": "D",
+  "title": "Tell time to the nearest five minutes.",
+  "teks": [
+   "2.3A",
+   "2.8E",
+   "2.9G",
+   "2.2C",
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M8.L14": {
+  "topic": "D",
+  "title": "Tell time to the nearest five minutes; relate a.m. and p.m. to time of day.",
+  "teks": [
+   "2.3A",
+   "2.8E",
+   "2.9G",
+   "2.2C",
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M8.L15": {
+  "topic": "D",
+  "title": "Relate skip counting by fives on the clock and telling time to a continuous measurement model, the number line.",
+  "teks": [
+   "2.3A",
+   "2.8E",
+   "2.9G",
+   "2.2C",
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M8.L16": {
+  "topic": "D",
+  "title": "Count by fives and ones on the number line as a strategy to tell time to the nearest minute on the clock.",
+  "teks": [
+   "2.3A",
+   "2.8E",
+   "2.9G",
+   "2.2C",
+   "2.4A",
+   "2.4B"
+  ]
+ }
+}

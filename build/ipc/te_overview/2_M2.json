@@ -1,0 +1,78 @@
+{
+ "M2.L1": {
+  "topic": "A",
+  "title": "Practice making ten and adding to ten.",
+  "teks": [
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M2.L2": {
+  "topic": "A",
+  "title": "Practice making the next ten and adding to a multiple of ten.",
+  "teks": [
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M2.L3": {
+  "topic": "B",
+  "title": "Add and subtract like units.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.7C"
+  ]
+ },
+ "M2.L4": {
+  "topic": "B",
+  "title": "Make a ten to add within 20.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.7C"
+  ]
+ },
+ "M2.L5": {
+  "topic": "B",
+  "title": "Make a ten to add within 100.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.7C"
+  ]
+ },
+ "M2.L6": {
+  "topic": "B",
+  "title": "Subtract single-digit numbers from multiples of 10 within 100.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.7C"
+  ]
+ },
+ "M2.L7": {
+  "topic": "B",
+  "title": "Take from ten within 20.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.7C"
+  ]
+ },
+ "M2.L8": {
+  "topic": "B",
+  "title": "Take from ten within 100.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.7C"
+  ]
+ }
+}

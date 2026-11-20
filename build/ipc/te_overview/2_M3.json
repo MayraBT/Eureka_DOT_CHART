@@ -1,0 +1,194 @@
+{
+ "M3.L2": {
+  "topic": "B",
+  "title": "Count up and down between 100 and 220 using ones and tens.",
+  "teks": [
+   "2.2C",
+   "2.7C",
+   "2.2A",
+   "2.4C"
+  ]
+ },
+ "M3.L3": {
+  "topic": "B",
+  "title": "Count up and down between 90 and 1,200 using ones, tens, and hundreds.",
+  "teks": [
+   "2.2C",
+   "2.7C",
+   "2.2A",
+   "2.4C"
+  ]
+ },
+ "M3.L4": {
+  "topic": "C",
+  "title": "Write base ten three-digit numbers in unit form; show the value of each digit.",
+  "teks": [
+   "2.2B",
+   "2.2A",
+   "2.2C"
+  ]
+ },
+ "M3.L5": {
+  "topic": "C",
+  "title": "Write base ten numbers in expanded form.",
+  "teks": [
+   "2.2B",
+   "2.2A",
+   "2.2C"
+  ]
+ },
+ "M3.L6": {
+  "topic": "C",
+  "title": "Write, read, and relate base ten numbers in all forms.",
+  "teks": [
+   "2.2B",
+   "2.2A",
+   "2.2C"
+  ]
+ },
+ "M3.L7": {
+  "topic": "D",
+  "title": "Count the total value of $1, $10, and $100 bills up to $1,200.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.7B"
+  ]
+ },
+ "M3.L8": {
+  "topic": "D",
+  "title": "Count from $10 to $1,200 on the place value chart and the empty number line.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.7B"
+  ]
+ },
+ "M3.L9": {
+  "topic": "D",
+  "title": "Explore $1,000. How many $10 bills can we change for a thousand dollar bill? remediation or further applications 1 day)",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.7B"
+  ]
+ },
+ "M3.L10": {
+  "topic": "E",
+  "title": "Count the total value of ones, tens, and hundreds with place value disks.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L11": {
+  "topic": "E",
+  "title": "Change 10 ones for 1 ten, 10 tens for 1 hundred, and",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L12": {
+  "topic": "E",
+  "title": "Read and write numbers up to 1,200 after modeling with place value disks.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L13": {
+  "topic": "E",
+  "title": "Model numbers with more than 9 ones or 9 tens; write in expanded, unit, standard, and word forms.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L14": {
+  "topic": "E",
+  "title": "Explore a situation with more than 9 groups of ten.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L15": {
+  "topic": "F",
+  "title": "Compare numbers to 1,200 with < , > , and = .",
+  "teks": [
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L16": {
+  "topic": "F",
+  "title": "Compare numbers to 1,200 with < , > , and = when there are more than 9 ones, 9 tens, or 9 hundreds.",
+  "teks": [
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L17": {
+  "topic": "F",
+  "title": "Order numbers in different forms. (Optional)",
+  "teks": [
+   "2.2C",
+   "2.2D",
+   "2.2E"
+  ]
+ },
+ "M3.L18": {
+  "topic": "G",
+  "title": "Model and use language to tell about 1 more and 1 less, 10 more and 10 less, and 100 more and 100 less.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.7B",
+   "2.7C"
+  ]
+ },
+ "M3.L19": {
+  "topic": "G",
+  "title": "Model 1 more and 1 less, 10 more and 10 less, and 100 more and 100 less when changing the hundreds place.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.7B",
+   "2.7C"
+  ]
+ },
+ "M3.L20": {
+  "topic": "G",
+  "title": "Complete a pattern counting up and down.",
+  "teks": [
+   "2.2A",
+   "2.2B",
+   "2.2C",
+   "2.7B",
+   "2.7C"
+  ]
+ }
+}

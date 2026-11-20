@@ -1,0 +1,300 @@
+{
+ "M7.L1": {
+  "topic": "A",
+  "title": "Sort and record data into a table using up to four categories; use category counts to solve word problems.",
+  "teks": [
+   "2.10A",
+   "2.10B",
+   "2.10C",
+   "2.10D",
+   "2.2E",
+   "2.2F",
+   "2.9C"
+  ]
+ },
+ "M7.L2": {
+  "topic": "A",
+  "title": "Draw and label a picture graph to represent data with up to four categories.",
+  "teks": [
+   "2.10A",
+   "2.10B",
+   "2.10C",
+   "2.10D",
+   "2.2E",
+   "2.2F",
+   "2.9C"
+  ]
+ },
+ "M7.L3": {
+  "topic": "A",
+  "title": "Draw and label a bar graph to represent data; relate the count scale to the number line.",
+  "teks": [
+   "2.10A",
+   "2.10B",
+   "2.10C",
+   "2.10D",
+   "2.2E",
+   "2.2F",
+   "2.9C"
+  ]
+ },
+ "M7.L4": {
+  "topic": "A",
+  "title": "Draw a bar graph to represent a given data set.",
+  "teks": [
+   "2.10A",
+   "2.10B",
+   "2.10C",
+   "2.10D",
+   "2.2E",
+   "2.2F",
+   "2.9C"
+  ]
+ },
+ "M7.L5": {
+  "topic": "A",
+  "title": "Solve word problems using data presented in a bar graph.",
+  "teks": [
+   "2.10A",
+   "2.10B",
+   "2.10C",
+   "2.10D",
+   "2.2E",
+   "2.2F",
+   "2.9C"
+  ]
+ },
+ "M7.L6": {
+  "topic": "B",
+  "title": "Recognize the value of coins and count up to find their total value.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L7": {
+  "topic": "B",
+  "title": "Solve word problems involving the total value of a group of coins.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L8": {
+  "topic": "B",
+  "title": "Solve word problems involving the total value of a group of bills.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L9": {
+  "topic": "B",
+  "title": "Solve word problems involving different combinations of coins with the same total value.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L10": {
+  "topic": "B",
+  "title": "Use the fewest number of coins to make a given value.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L11": {
+  "topic": "B",
+  "title": "Use different strategies to make $1 or make change from $1.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L12": {
+  "topic": "B",
+  "title": "Solve word problems involving different ways to make change from $1.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L13": {
+  "topic": "B",
+  "title": "Solve two-step word problems involving dollars or cents with totals within $100 or $1.",
+  "teks": [
+   "2.4A",
+   "2.4B",
+   "2.4C",
+   "2.5A",
+   "2.5B",
+   "2.2C"
+  ]
+ },
+ "M7.L14": {
+  "topic": "C",
+  "title": "Solve problems related to saving and spending.",
+  "teks": [
+   "2.11A",
+   "2.11B",
+   "2.11C",
+   "2.11D",
+   "2.11E",
+   "2.11F",
+   "2.4C"
+  ]
+ },
+ "M7.L15": {
+  "topic": "C",
+  "title": "Understand the difference between consumers and producers.",
+  "teks": [
+   "2.11A",
+   "2.11B",
+   "2.11C",
+   "2.11D",
+   "2.11E",
+   "2.11F",
+   "2.4C"
+  ]
+ },
+ "M7.L16": {
+  "topic": "C",
+  "title": "Understand the difference between borrowing and lending.",
+  "teks": [
+   "2.11A",
+   "2.11B",
+   "2.11C",
+   "2.11D",
+   "2.11E",
+   "2.11F",
+   "2.4C"
+  ]
+ },
+ "M7.L17": {
+  "topic": "D",
+  "title": "Connect measurement with physical units by using iteration with an inch tile to measure.",
+  "teks": [
+   "2.9A",
+   "2.9D"
+  ]
+ },
+ "M7.L18": {
+  "topic": "D",
+  "title": "Apply concepts to create inch rulers; measure lengths using inch rulers.",
+  "teks": [
+   "2.9A",
+   "2.9D"
+  ]
+ },
+ "M7.L19": {
+  "topic": "E",
+  "title": "Measure various objects using inch rulers and yardsticks.",
+  "teks": [
+   "2.9A",
+   "2.9B",
+   "2.9D",
+   "2.9E"
+  ]
+ },
+ "M7.L20": {
+  "topic": "E",
+  "title": "Develop estimation strategies by applying prior knowledge of length and using mental benchmarks.",
+  "teks": [
+   "2.9A",
+   "2.9B",
+   "2.9D",
+   "2.9E"
+  ]
+ },
+ "M7.L21": {
+  "topic": "E",
+  "title": "Measure an object twice using different length units and compare; relate measurement to unit size.",
+  "teks": [
+   "2.9A",
+   "2.9B",
+   "2.9D",
+   "2.9E"
+  ]
+ },
+ "M7.L22": {
+  "topic": "E",
+  "title": "Measure to compare the differences in lengths using inches, feet, and yards.",
+  "teks": [
+   "2.9A",
+   "2.9B",
+   "2.9D",
+   "2.9E"
+  ]
+ },
+ "M7.L23": {
+  "topic": "F",
+  "title": "Solve two-digit addition and subtraction word problems involving length by using strip diagrams and writing equations to represent the problem.",
+  "teks": [
+   "2.2E",
+   "2.2F",
+   "2.9C",
+   "2.9E",
+   "2.2C",
+   "2.2D",
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M7.L24": {
+  "topic": "F",
+  "title": "Identify unknown numbers on a number line diagram by using the distance between numbers and reference points.",
+  "teks": [
+   "2.2E",
+   "2.2F",
+   "2.9C",
+   "2.9E",
+   "2.2C",
+   "2.2D",
+   "2.4A",
+   "2.4B"
+  ]
+ },
+ "M7.L25": {
+  "topic": "F",
+  "title": "Represent two-digit sums and differences involving length by using the ruler as a number line.",
+  "teks": [
+   "2.2E",
+   "2.2F",
+   "2.9C",
+   "2.9E",
+   "2.2C",
+   "2.2D",
+   "2.4A",
+   "2.4B"
+  ]
+ }
+}
