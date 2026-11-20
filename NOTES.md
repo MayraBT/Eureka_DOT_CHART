@@ -11,6 +11,7 @@ This is a TEKS chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarte
 | Constant | What it holds | Source |
 |---|---|---|
 | `COURSES.g3/g4/g5.data.lessons[].marks` | ● `F` = the day's **TEKS** line on the weekly IPC, ○ `O` = **Bundled standards** | Weekly IPCs, Q1–Q2 (`build/ipc/g*_w*.json`) |
+| `DOTS` (Grades 3–5) | Lesson-by-lesson dot chart: ● the Exit Ticket assesses the TEKS, ○ students use it in the lesson; a Why line per lesson | Each lesson's Teacher Edition, read lesson by lesson (`build/dot_marks/`), reviewed by the Grade 3–5 coordinators. Same dots as the teacher tool |
 | lesson titles | Eureka lesson objective | Quarterly calendars Q1–Q3 (`build/ipc/cal_g*.json`) |
 | modules, topics, focus/included TEKS, omitted lessons | Scope & Sequence 2026-27 | `cal_g*.json` → `ss`; lesson→topic map in `ipc/topics.json` |
 | `pace`, `cal` | Day-by-day pacing. Q3 comes from the Q3 quarterly calendar | weekly IPCs + Q3 calendar |
@@ -25,7 +26,8 @@ This is a TEKS chart and TEKS lookup for **Eureka Math TEKS Edition, Kindergarte
 1. Put fresh extracts in `build/ipc/`. Weekly IPCs follow `build/ipc/SPEC.md`.
 2. From `build/`, run `python3 build_data.py`. It writes `data.js` and `report.txt`; check the report for unmapped topics or TEKS that aren't in the grade.
 3. Run `python3 assemble.py`. It needs the Carnegie template at `/home/claude/mayrabt/carnegie_dot_chart/index.html` (clone `MayraBT/Carnegie_DOT_CHART`) and writes `out/index.html`.
-4. Run `node test.js` with a local server on port 8765. It checks desktop and phone width, page errors and overflow.
+4. Run `python3 combine.py out/index.html`. For grades with a dot chart (`dot_marks/`), the Full grid shows the lesson's dots with the IPC as cell shading (gold = IPC lesson TEKS, light gold = bundled), outlines cells where they differ (IPC lesson TEKS not assessed on the Exit Ticket, or an Exit Ticket TEKS the IPC doesn't list), and adds an "only lessons where the IPC and the lesson differ" filter; By lesson shows the dot chart and its Why line under the IPC TEKS. Then copy `out/index.html` to the repo root.
+5. Run `node test.js` with a local server on port 8765. It checks desktop and phone width, page errors and overflow.
 
 ## K–2
 

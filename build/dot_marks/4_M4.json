@@ -1,0 +1,18 @@
+{
+ "M4.L1":  {"F": ["4.6A"], "O": [], "why": "Exit Ticket: match words (point, line, segment, ray, angle) to pictures; explain how a line differs from a line segment."},
+ "M4.L2":  {"F": ["4.6A"], "O": ["4.6D"], "why": "Exit Ticket: complete statements with acute, obtuse, right and straight angles compared to a right angle."},
+ "M4.L3":  {"F": ["4.6A"], "O": ["4.6D"], "why": "Exit Ticket: find right angles with a template and name all pairs of perpendicular sides."},
+ "M4.L4":  {"F": ["4.6A"], "O": [], "why": "Exit Ticket: identify pairs of lines as parallel, perpendicular or intersecting."},
+ "M4.L5":  {"F": ["4.7A", "4.7B"], "O": [], "why": "Exit Ticket: right angles in a full turn, measure of a right angle, 1° as 1/360 of a circle, benchmark angles."},
+ "M4.L6":  {"F": ["4.7C"], "O": [], "why": "Exit Ticket: measure four angles with a protractor and record them in degrees."},
+ "M4.L7":  {"F": ["4.7D"], "O": ["4.7C"], "why": "Exit Ticket: construct angles of 75°, 105°, 81° and 99°."},
+ "M4.L8":  {"F": ["4.7B"], "O": ["4.7A"], "why": "Exit Ticket: degrees turned in a handstand; a 90° turn on a bike route sketched on a grid."},
+ "M4.L9":  {"F": ["4.7E"], "O": [], "why": "Exit Ticket: combinations of pattern blocks that make a straight angle, described and sketched."},
+ "M4.L10": {"F": ["4.7E"], "O": [], "why": "Exit Ticket: write an equation and solve for x where adjacent angles form a straight angle."},
+ "M4.L11": {"F": ["4.7E"], "O": [], "why": "Exit Ticket: write equations with variables for unknown adjacent angles and solve."},
+ "M4.L12": {"F": ["4.6B"], "O": [], "why": "Exit Ticket: decide if a line is a line of symmetry; draw all lines of symmetry for a figure."},
+ "M4.L13": {"F": ["4.6C"], "O": [], "why": "Exit Ticket: classify triangles by their angle measures using tools."},
+ "M4.L14": {"F": ["4.6C"], "O": ["4.6D"], "why": "Exit Ticket: draw an obtuse triangle and a right triangle; every triangle has at least __ acute angles."},
+ "M4.L15": {"F": ["4.6D"], "O": ["4.6A"], "why": "Exit Ticket: draw a parallelogram; explain why a rectangle is a special parallelogram."},
+ "M4.L16": {"F": ["4.6D"], "O": [], "why": "Exit Ticket: construct a parallelogram with no right angles on a rectangular grid and a rectangle on a triangular grid."}
+}

@@ -1,0 +1,18 @@
+{
+ "M1.L1":    {"F": ["5.2A"], "O": [], "why": "Exit Ticket: show digit shifts on the place value chart for 6.671 × 100 and 684 ÷ 100; name a digit's value in unit and standard form."},
+ "M1.L2":    {"F": ["5.2A"], "O": [], "why": "Exit Ticket: write decimals from units (3 thousandths and 7 tenths, etc.); write an equation that changes the value of a digit."},
+ "M1.L3":    {"F": ["5.7A"], "O": ["5.2A"], "why": "Exit Ticket: convert meters, centimeters and millimeters with equations; fabric and thumb lengths in other units."},
+ "M1.L4":    {"F": ["5.2A"], "O": [], "why": "Exit Ticket: nine thousandths as a decimal, twenty-nine thousandths as a fraction; 24.357 in words, expanded notation and unit form."},
+ "M1.L5":    {"F": ["5.2B"], "O": ["5.2A"], "why": "Exit Ticket: compare decimals on the place value chart with >, <, =; order four decimals to thousandths."},
+ "M1.L6":    {"F": ["5.2C"], "O": [], "why": "Exit Ticket: round 8.546 to the hundredth (and to the ten) on labeled number lines."},
+ "M1.L7":    {"F": ["5.2C"], "O": [], "why": "Exit Ticket: round 13.989 to the nearest tenth with a number line."},
+ "M1.L8":    {"F": ["5.3K"], "O": ["5.2A"], "why": "Exit Ticket: add thousandths in unit form; 31.4 + 1.809 with the standard algorithm."},
+ "M1.L9":    {"F": ["5.3K"], "O": ["5.2A"], "why": "Exit Ticket: 0.017 − 0.008 in unit form; 84.637 − 28.56 and 7 − 0.355 vertically."},
+ "M1.L10":   {"F": ["5.3D", "5.3E"], "O": ["5.2A"], "why": "Exit Ticket: 4 copies of 3 tenths with disks and an equation; complete an area model for 3 × 9.63."},
+ "M1.L11":   {"F": ["5.3A"], "O": ["5.3E"], "why": "Exit Ticket: use estimation to choose the product (5.1 × 2, 4 × 8.93); estimate 7.13 × 6 and explain."},
+ "M1.S11-1": {"F": ["5.3F"], "O": [], "why": "Exit Ticket: 0.8 ÷ 2, 0.63 ÷ 9 and 1.8 ÷ 3 with hundredths-grid area models."},
+ "M1.L12":   {"F": ["5.3G"], "O": ["5.3F"], "why": "Exit Ticket: 1.8 ÷ 2 and 0.32 ÷ 4 as groups of tenths or hundredths; quotient in unit and standard form."},
+ "M1.L13":   {"F": ["5.3F", "5.3G"], "O": [], "why": "Exit Ticket: 5.36 ÷ 2 with place value disks and the standard algorithm; 0.52 ÷ 4 with the algorithm."},
+ "M1.L14":   {"F": ["5.3F", "5.3G"], "O": [], "why": "Exit Ticket: 0.6 ÷ 4 with disks and the algorithm; 9.8 ÷ 5 with the algorithm (remainders in the smallest unit)."},
+ "M1.L15":   {"F": ["5.3G", "5.3K"], "O": ["5.3E"], "why": "Exit Ticket: write and solve a two-question word problem for a strip diagram (16.23 lb in 3 equal parts and a difference)."}
+}

@@ -1,0 +1,23 @@
+{
+ "M1.L1":  {"F": ["3.4D", "3.4E"], "O": ["3.4F"], "why": "Exit Ticket: write repeated addition and multiplication sentences for 4 groups of 2, draw a picture for 3 + 3 + 3 = 9."},
+ "M1.L2":  {"F": ["3.4D", "3.4E", "3.4K", "3.5B"], "O": ["3.4F"], "why": "Exit Ticket: describe an array with a multiplication equation; draw an array for 3 rows of 6 seashells and write the equation."},
+ "M1.L3":  {"F": ["3.4E"], "O": ["3.4D", "3.4F"], "why": "Exit Ticket: draw an array of 5 rows of 3 and a number bond showing each row (factor as size of group)."},
+ "M1.L4":  {"F": ["3.4H"], "O": ["3.4K"], "why": "Exit Ticket: draw 15 ÷ 3 and find the size of each group. Word problems in the lesson."},
+ "M1.L5":  {"F": ["3.4K"], "O": ["3.4H", "3.4J"], "why": "Exit Ticket: divide 12 into groups of 6; strawberry smoothie problem solved with a count-by (number of groups)."},
+ "M1.L6":  {"F": ["3.4J", "3.4K", "3.5D"], "O": ["3.4H"], "why": "Exit Ticket: array for 12 notecards in rows of 6, 12 ÷ 6 = __ and __ × 6 = 12, explain what the unknown factor and quotient represent."},
+ "M1.L7":  {"F": ["3.4E"], "O": ["3.4D", "3.4F"], "why": "Exit Ticket: agree or disagree that 2 × 5 = 5 × 2 using arrays and skip-counting."},
+ "M1.L8":  {"F": ["3.4D", "3.4E", "3.4K", "3.5B"], "O": ["3.4F"], "why": "Exit Ticket: draw a 3 × 4 sticker array, write and solve a multiplication sentence, label skip-counting, write the commuted sentence."},
+ "M1.L9":  {"F": ["3.4E", "3.4K", "3.5D"], "O": ["3.4D"], "why": "Exit Ticket: 10 rows of 2 cloves; 10 twos − 2 twos, 20 − __ = 16 and __ × 2 = __ to find the cloves used."},
+ "M1.L10": {"F": ["3.4F"], "O": ["3.4E"], "why": "Exit Ticket: 6 × 3 and 7 × 3. The lesson uses arrays and the distributive property (5 × 3) + (2 × 3) to get there."},
+ "M1.L11": {"F": ["3.4K", "3.5B"], "O": ["3.4J", "3.5D"], "why": "Exit Ticket: 18 stickers, 2 per paper, how many papers; model with an array and a labeled strip diagram (division as an unknown factor)."},
+ "M1.L12": {"F": ["3.4K", "3.5B"], "O": ["3.4H", "3.4J"], "why": "Exit Ticket: 14 mints, 2 a day, how many days; draw and label a strip diagram."},
+ "M1.L13": {"F": ["3.4H", "3.4K", "3.5B"], "O": ["3.4J"], "why": "Exit Ticket: 21 slices, 3 per pie, how many pies (strip diagram); 24 players in 3 equal teams, how many on each team."},
+ "M1.L14": {"F": ["3.4K", "3.5B"], "O": ["3.4E", "3.4F"], "why": "Exit Ticket: 4 boxes of 6 chocolates, strip diagram. Problem Set skip-counts by fours."},
+ "M1.L15": {"F": ["3.4E"], "O": ["3.4D", "3.5B"], "why": "Exit Ticket: two strip diagrams to show 4 × 3 = 3 × 4 and explain."},
+ "M1.L16": {"F": ["3.4E"], "O": ["3.4D", "3.4F"], "why": "Exit Ticket: explain how 5 × 4 helps find 7 × 4 using an array (distributive property)."},
+ "M1.L17": {"F": ["3.4J", "3.4K", "3.5B"], "O": ["3.4H"], "why": "Exit Ticket: 16 binders in stacks of 4 with a number bond; 28 avocados in 4 batches, how many in 2 batches, with a strip diagram."},
+ "M1.L18": {"F": ["3.4E"], "O": ["3.4F"], "why": "Exit Ticket: read (5 × 4) + (1 × 4) = 24, write the multiplication problem solved and complete the number bond."},
+ "M1.L19": {"F": ["3.4J"], "O": ["3.4E"], "why": "Exit Ticket: break apart 22 ÷ 2 into easier division to find the quotient."},
+ "M1.L20": {"F": ["3.4H", "3.4K"], "O": ["3.5B"], "why": "Exit Ticket: 32 jelly beans shared by 8 students, how many for 4 students; 50 fruit slices shared by 5 children (two-step)."},
+ "M1.L21": {"F": ["3.4K", "3.5B"], "O": ["3.4H", "3.5A"], "why": "Exit Ticket: 27 books in 3 equal types, poetry shelved first, strip diagram for how many are left (two-step, division and subtraction)."}
+}

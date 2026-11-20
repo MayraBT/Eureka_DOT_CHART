@@ -1,0 +1,290 @@
+{
+ "M6.L1": {
+  "F": [
+   "5.8A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: plot points on a number line by their distance from the origin and find a midpoint (coordinate system on a line)."
+ },
+ "M6.L2": {
+  "F": [
+   "5.8B"
+  ],
+  "O": [
+   "5.8A"
+  ],
+  "why": "Exit Ticket: name the coordinates of shapes and plot shapes at given ordered pairs, including fractional coordinates."
+ },
+ "M6.L3": {
+  "F": [
+   "5.8A"
+  ],
+  "O": [
+   "5.8B"
+  ],
+  "why": "Exit Ticket: construct and label the x- and y-axes through given points, mark a scale and plot points."
+ },
+ "M6.L4": {
+  "F": [
+   "5.8B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: Battleship guesses as ordered pairs; give the coordinates of points near a hit."
+ },
+ "M6.L5": {
+  "F": [
+   "5.8A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: draw a line through two points, name the axis it is parallel and perpendicular to, plot and name more points on it."
+ },
+ "M6.L6": {
+  "F": [
+   "5.8A"
+  ],
+  "O": [
+   "5.8B"
+  ],
+  "why": "Exit Ticket: plot H, draw a line through it parallel to the y-axis and a line where every y-coordinate is 4; distance from the axis."
+ },
+ "M6.L7": {
+  "F": [
+   "5.4C",
+   "5.8C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: complete a table, plot the points, draw the line and write the rule relating x and y."
+ },
+ "M6.L8": {
+  "F": [
+   "5.4C",
+   "5.8C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: table for ‘y is 5 more than x’, plot the points and draw the line."
+ },
+ "M6.L9": {
+  "F": [
+   "5.4C",
+   "5.4D"
+  ],
+  "O": [
+   "5.8C"
+  ],
+  "why": "Exit Ticket: tables and lines for ‘y is 5 more than x’ and ‘y is 5 times x’; write and compare the rules."
+ },
+ "M6.L10": {
+  "F": [
+   "5.4C"
+  ],
+  "O": [
+   "5.4D",
+   "5.8C"
+  ],
+  "why": "Exit Ticket: draw a line parallel to y = x through a point, name 3 points on it and identify its rule."
+ },
+ "M6.L11": {
+  "F": [
+   "5.8C"
+  ],
+  "O": [
+   "5.4C",
+   "5.4D"
+  ],
+  "why": "Exit Ticket: tables and lines for ‘triple x’ and ‘triple x, then add 1’; compare the lines (mixed-operation rules go beyond 5.4C)."
+ },
+ "M6.L12": {
+  "F": [
+   "5.4C"
+  ],
+  "O": [
+   "5.8C"
+  ],
+  "why": "Exit Ticket: write the rule for a line through two fractional points, find more points, write a rule for a parallel line."
+ },
+ "M6.L13": {
+  "F": [
+   "5.8C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: complete a line graph of hot dogs sold at a fair and answer questions from it."
+ },
+ "M6.L14": {
+  "F": [
+   "5.9C"
+  ],
+  "O": [
+   "5.9A"
+  ],
+  "why": "Exit Ticket: answer questions from a dot plot of daily rainfall in centimeters (decimals)."
+ },
+ "M6.L15": {
+  "F": [
+   "5.9C"
+  ],
+  "O": [
+   "5.9A"
+  ],
+  "why": "Exit Ticket: compare two stem-and-leaf plots of tomato plant heights."
+ },
+ "M6.L16": {
+  "F": [
+   "5.9B",
+   "5.9C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: interpret a point on a scatterplot of home runs and RBIs and complete the plot."
+ },
+ "M6.L17": {
+  "F": [
+   "5.9C"
+  ],
+  "O": [
+   "5.9B"
+  ],
+  "why": "Exit Ticket: describe the pattern and answer questions from a scatterplot of oven settings and actual temperatures."
+ },
+ "M6.L18": {
+  "F": [
+   "5.9A",
+   "5.9B"
+  ],
+  "O": [
+   "5.9C"
+  ],
+  "why": "Exit Ticket: match data sets with their dot plots, stem-and-leaf plots and scatterplots."
+ },
+ "M6.L19": {
+  "F": [],
+  "O": [
+   "5.3E",
+   "5.3G",
+   "5.3I",
+   "5.3K",
+   "5.4H"
+  ],
+  "why": "No Exit Ticket: Lessons 19–23 are team problem solving with a shared Problem Set (area and perimeter, fractions of money, decimal costs, taxi fares), then sharing and critiquing solutions."
+ },
+ "M6.L20": {
+  "F": [],
+  "O": [
+   "5.3E",
+   "5.3G",
+   "5.3I",
+   "5.3K",
+   "5.4H"
+  ],
+  "why": "No Exit Ticket: Lessons 19–23 are team problem solving with a shared Problem Set (area and perimeter, fractions of money, decimal costs, taxi fares), then sharing and critiquing solutions."
+ },
+ "M6.L21": {
+  "F": [],
+  "O": [
+   "5.3E",
+   "5.3G",
+   "5.3I",
+   "5.3K",
+   "5.4H"
+  ],
+  "why": "No Exit Ticket: Lessons 19–23 are team problem solving with a shared Problem Set (area and perimeter, fractions of money, decimal costs, taxi fares), then sharing and critiquing solutions."
+ },
+ "M6.L22": {
+  "F": [],
+  "O": [
+   "5.3E",
+   "5.3G",
+   "5.3I",
+   "5.3K",
+   "5.4H"
+  ],
+  "why": "No Exit Ticket: Lessons 19–23 are team problem solving with a shared Problem Set (area and perimeter, fractions of money, decimal costs, taxi fares), then sharing and critiquing solutions."
+ },
+ "M6.L23": {
+  "F": [],
+  "O": [
+   "5.3E",
+   "5.3G",
+   "5.3I",
+   "5.3K",
+   "5.4H"
+  ],
+  "why": "No Exit Ticket: Lessons 19–23 are team problem solving with a shared Problem Set (area and perimeter, fractions of money, decimal costs, taxi fares), then sharing and critiquing solutions."
+ },
+ "M6.L24": {
+  "F": [
+   "5.8C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: decide whether pairs of plotted points are symmetric about the line where y is always 4."
+ },
+ "M6.L25": {
+  "F": [],
+  "O": [
+   "5.8C",
+   "5.9C"
+  ],
+  "why": "Exit Ticket: read a line graph of a creek's water level by week and describe the trend. Line graphs are not named in the Grade 5 TEKS."
+ },
+ "M6.L26": {
+  "F": [],
+  "O": [
+   "5.4E",
+   "5.4F"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: writing and interpreting numerical expressions."
+ },
+ "M6.L27": {
+  "F": [],
+  "O": [
+   "5.4E",
+   "5.4F"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: writing and interpreting numerical expressions."
+ },
+ "M6.L28": {
+  "F": [],
+  "O": [],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: fluency games."
+ },
+ "M6.L29": {
+  "F": [],
+  "O": [
+   "5.5A"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: geometry vocabulary."
+ },
+ "M6.L30": {
+  "F": [],
+  "O": [
+   "5.5A"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: geometry vocabulary."
+ },
+ "M6.L31": {
+  "F": [],
+  "O": [],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: the Fibonacci sequence."
+ },
+ "M6.L32": {
+  "F": [],
+  "O": [
+   "5.4C"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: patterns in saving money."
+ },
+ "M6.L33": {
+  "F": [],
+  "O": [
+   "5.4H",
+   "5.6B"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: designing boxes."
+ },
+ "M6.L34": {
+  "F": [],
+  "O": [
+   "5.4H",
+   "5.6B"
+  ],
+  "why": "No Exit Ticket: year-end review lesson (the Exit Ticket is replaced by a reflection). Content: designing boxes."
+ }
+}

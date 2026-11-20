@@ -1,0 +1,15 @@
+{
+ "M4.L1":  {"F": ["3.6C"], "O": ["3.4F"], "why": "Exit Ticket: label rectangle side lengths and match each rectangle to its area. (TE prints these as Lessons 4–16.)"},
+ "M4.L2":  {"F": ["3.6C"], "O": ["3.4F", "3.4J"], "why": "Exit Ticket: 28 tiles in 7 equal rows; draw the rectangle, label side lengths, write a multiplication sentence for the area."},
+ "M4.L3":  {"F": ["3.6C"], "O": ["3.4F"], "why": "Exit Ticket: find the number of floor tiles, including those under a rug (complete the array)."},
+ "M4.L4":  {"F": ["3.6C"], "O": ["3.4F"], "why": "Exit Ticket: label side lengths, draw the grid and find the area; compare 36 sq cm and 36 sq in."},
+ "M4.L5":  {"F": ["3.6C", "3.5D"], "O": ["3.4F"], "why": "Exit Ticket: multiplication equation for an area; multiplication and division equations to find an unknown side length."},
+ "M4.L6":  {"F": ["3.6C", "3.6D"], "O": ["3.4F"], "why": "Exit Ticket: areas of two rectangles, then the area of the bigger rectangle they make together and how you know."},
+ "M4.L7":  {"F": ["3.6C", "3.6D"], "O": ["3.4E"], "why": "Exit Ticket: label shaded and unshaded parts and add the two areas to find the total (distributive property)."},
+ "M4.L8":  {"F": ["3.6C"], "O": ["3.4F"], "why": "Exit Ticket: find a rectangle's area, then move parentheses to find side lengths of another rectangle with the same area."},
+ "M4.L9":  {"F": ["3.6C", "3.4G"], "O": ["3.5D"], "why": "Exit Ticket: 63 sq in with one side 9 in, find the other side; 4 in by 16 in floor area."},
+ "M4.L10": {"F": ["3.6C", "3.6D"], "O": [], "why": "Exit Ticket: total area of a figure made of 2 rectangles (Area of A + Area of B)."},
+ "M4.L11": {"F": ["3.6C", "3.6D"], "O": [], "why": "Exit Ticket: 8 cm by 6 cm rectangle with a 4 cm square shaded inside; find the unshaded area."},
+ "M4.L12": {"F": ["3.6C"], "O": ["3.6D"], "why": "Exit Ticket: label unknown measurements on a floor plan and find the area of the room and each item."},
+ "M4.L13": {"F": ["3.6C", "3.6D"], "O": [], "why": "Exit Ticket: area of a shaded composite figure, then draw and label a rectangle with the same area."}
+}

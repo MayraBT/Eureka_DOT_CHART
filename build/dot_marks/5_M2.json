@@ -1,0 +1,307 @@
+{
+ "M2.L1": {
+  "F": [
+   "5.4A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: factors of 9, 12 and 19 as multiplication sentences and lists; classify each as prime or composite. (TE prints these as Lessons 22–25.)"
+ },
+ "M2.L2": {
+  "F": [
+   "5.4A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: use division to test whether 2, 3 and 4 are factors; explain a factor rule with the associative property."
+ },
+ "M2.L3": {
+  "F": [],
+  "O": [
+   "5.4A"
+  ],
+  "why": "Exit Ticket: multiples of 11, skip-count by 7, list numbers with a given multiple. Multiples alone are not a Grade 5 TEKS."
+ },
+ "M2.L4": {
+  "F": [
+   "5.4A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: on a calendar, cross off composite numbers and circle primes."
+ },
+ "M2.L5": {
+  "F": [
+   "5.3B"
+  ],
+  "O": [
+   "5.3A"
+  ],
+  "why": "Exit Ticket: 1,900 × 20, 6,000 × 50, 250 × 300 with place value patterns; explain how 50 × 4 gives 500 × 400."
+ },
+ "M2.L6": {
+  "F": [
+   "5.3A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: round factors to estimate four multi-digit products."
+ },
+ "M2.L7": {
+  "F": [
+   "5.4E"
+  ],
+  "O": [
+   "5.4F"
+  ],
+  "why": "Exit Ticket: model and write expressions from words (6 times the sum of 12 and 8); compare two expressions with parentheses."
+ },
+ "M2.S7-1": {
+  "F": [
+   "5.4E",
+   "5.4F"
+  ],
+  "O": [
+   "5.4B"
+  ],
+  "why": "Exit Ticket: books in boxes: strip diagram, an expression with parentheses, and evaluate it."
+ },
+ "M2.S7-2": {
+  "F": [
+   "5.4F"
+  ],
+  "O": [
+   "5.4E"
+  ],
+  "why": "Exit Ticket: evaluate 15 + [3 × (28 ÷ 4)] and [(5 × 8) + (5 × 7)] − 17."
+ },
+ "M2.L8": {
+  "F": [
+   "5.4F"
+  ],
+  "O": [
+   "5.3B"
+  ],
+  "why": "Exit Ticket: 49 × 11 as (50 × 11) − (1 × 11) and 25 × 13 by decomposing, with strip diagrams."
+ },
+ "M2.L9": {
+  "F": [
+   "5.3B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: area models and the standard algorithm for 21 × 23 and 143 × 12 (no renaming)."
+ },
+ "M2.L10": {
+  "F": [
+   "5.3B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 78 × 42 and 783 × 42 with an area model and the algorithm, matching partial products."
+ },
+ "M2.L11": {
+  "F": [
+   "5.3B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 642 × 257 and 642 × 207 with an area model and the algorithm."
+ },
+ "M2.L12": {
+  "F": [
+   "5.3A",
+   "5.3B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: estimate, then multiply 283 × 416 and 2,803 × 406 with the algorithm and check reasonableness."
+ },
+ "M2.L13": {
+  "F": [
+   "5.3E"
+  ],
+  "O": [
+   "5.3B",
+   "5.4B"
+  ],
+  "why": "Exit Ticket: multi-step: 30 bags and 26 bags at $3.45 each, earnings each week and in all."
+ },
+ "M2.L14": {
+  "F": [
+   "5.3D",
+   "5.3E"
+  ],
+  "O": [
+   "5.3A"
+  ],
+  "why": "Exit Ticket: estimate and solve 33.2 × 21 and 1.7 × 55 with an area model and the algorithm; use 485 × 35 to find 485 × 3.5."
+ },
+ "M2.L15": {
+  "F": [
+   "5.3E"
+  ],
+  "O": [
+   "5.3A"
+  ],
+  "why": "Exit Ticket: use 647 × 63 to place the decimal in 6.47 × 63; 6.13 × 14 and 104.35 × 34 with the algorithm."
+ },
+ "M2.L16": {
+  "F": [
+   "5.3A",
+   "5.3E"
+  ],
+  "O": [
+   "5.3D"
+  ],
+  "why": "Exit Ticket: estimate and then solve 3.03 × 402 with the algorithm."
+ },
+ "M2.S16-1": {
+  "F": [
+   "5.3D",
+   "5.3E"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 0.1 × 0.4 and 0.3 × 0.5 shaded on hundredths-grid area models."
+ },
+ "M2.S16-2": {
+  "F": [
+   "5.3D",
+   "5.3E"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 0.7 × 0.5 with a grid; complete an area model for 3.5 × 1.3."
+ },
+ "M2.L17": {
+  "F": [
+   "5.7A"
+  ],
+  "O": [
+   "5.3E"
+  ],
+  "why": "Exit Ticket: convert pounds to ounces and 18.2 kilograms to grams with multiplication."
+ },
+ "M2.L18": {
+  "F": [
+   "5.7A"
+  ],
+  "O": [
+   "5.3E"
+  ],
+  "why": "Exit Ticket: convert 4,567 grams to kilograms by completing number sentences."
+ },
+ "M2.L19": {
+  "F": [
+   "5.3E",
+   "5.7A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: two-step: 0.86 km a day for 3 weeks, total in meters."
+ },
+ "M2.L20": {
+  "F": [
+   "5.3C"
+  ],
+  "O": [
+   "5.2A"
+  ],
+  "why": "Exit Ticket: 17,000 ÷ 100, 59,000 ÷ 1,000, 12,000 ÷ 40, 480,000 ÷ 600 using divide-by-10 patterns."
+ },
+ "M2.L21": {
+  "F": [
+   "5.3A"
+  ],
+  "O": [
+   "5.3C"
+  ],
+  "why": "Exit Ticket: estimate quotients with two-digit divisors using compatible numbers (608 ÷ 23, etc.)."
+ },
+ "M2.L22": {
+  "F": [
+   "5.3A"
+  ],
+  "O": [
+   "5.3C"
+  ],
+  "why": "Exit Ticket: estimate four-digit quotients with compatible numbers (6,523 ÷ 21, etc.)."
+ },
+ "M2.L23": {
+  "F": [
+   "5.3C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 73 ÷ 20 and 291 ÷ 30, checked with multiplication."
+ },
+ "M2.L24": {
+  "F": [
+   "5.3C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 78 ÷ 21 and 89 ÷ 37, checked with multiplication."
+ },
+ "M2.L25": {
+  "F": [
+   "5.3C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 326 ÷ 53 and 192 ÷ 38, checked with multiplication."
+ },
+ "M2.L26": {
+  "F": [
+   "5.3C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 413 ÷ 19 and 708 ÷ 67, checked with multiplication."
+ },
+ "M2.L27": {
+  "F": [
+   "5.3C"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 8,283 ÷ 19 and 1,056 ÷ 37, checked with multiplication."
+ },
+ "M2.L28": {
+  "F": [
+   "5.3G"
+  ],
+  "O": [
+   "5.2A"
+  ],
+  "why": "Exit Ticket: 27.3 ÷ 3, 27.3 ÷ 30, 273 ÷ 300; use 72.9 ÷ 90 to place the decimal in 72.9 ÷ 9."
+ },
+ "M2.L29": {
+  "F": [
+   "5.3A"
+  ],
+  "O": [
+   "5.3G"
+  ],
+  "why": "Exit Ticket: estimate decimal quotients with two-digit divisors (1.64 ÷ 22, etc.)."
+ },
+ "M2.L30": {
+  "F": [
+   "5.3G"
+  ],
+  "O": [
+   "5.3A"
+  ],
+  "why": "Exit Ticket: estimate, then divide 45.15 ÷ 21 and 14.95 ÷ 65 with the algorithm and check."
+ },
+ "M2.L31": {
+  "F": [
+   "5.3G"
+  ],
+  "O": [],
+  "why": "Exit Ticket: 28 ÷ 35 and a second decimal division with a two-digit divisor."
+ },
+ "M2.L32": {
+  "F": [
+   "5.3G"
+  ],
+  "O": [
+   "5.3C",
+   "5.4B"
+  ],
+  "why": "Exit Ticket: multi-step: shirts for 45 people cost $658.35 and visors cost $368; find costs per item."
+ },
+ "M2.L33": {
+  "F": [
+   "5.3C",
+   "5.4B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: multi-step: $1,854 repaid in 18 equal installments; how much is owed after a year."
+ }
+}

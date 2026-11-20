@@ -44,6 +44,12 @@ COURSES = {}; TIG = {}
 # TE_ONLY=1: teacher build that lists every Eureka lesson with the TEKS from its Teacher Edition
 # topic overview (or Supplement overview); no IPC pacing, TEKS or links.
 TE_ONLY = os.environ.get('TE_ONLY') == '1'
+# FOCUS2=1 (TE-only build): ● for TEKS the Module Overview lists under Focus Grade Level Standards, ○ for the rest
+FOCUS2 = {}
+if TE_ONLY and os.environ.get('FOCUS2') == '1':
+    def _norm(c, g):
+        return c if re.search(r'[A-Z]$', c) else c + 'A'
+    FOCUS2 = {g: {m: {_norm(c, g) for c in v} for m, v in mm.items()} for g, mm in json.load(open('ipc/te_focus.json')).items()}
 for g in GRADES:
     cal = json.load(open(f'ipc/cal_g{g}.json'))
     mods = cal['ss']['modules']
@@ -159,7 +165,8 @@ for g in GRADES:
                     report.append(f'G{g} {lid}: TEKS filled from the Teacher Edition overview')
                 continue
             if _n in _om.get(_m, set()) and not TE_ONLY: continue
-            lessons[lid] = {'lo': X['title'], 'marks': {c: ('F' if TE_ONLY else X.get('kind', 'O')) for c in _codes}, 'days': [], 'te': True, 'review': not _codes, 'topic': X.get('topic')}
+            _foc = FOCUS2.get(g, {}).get(f'M{_m}')
+            lessons[lid] = {'lo': X['title'], 'marks': {c: (('F' if (_foc is None or c in _foc) else 'O') if TE_ONLY else X.get('kind', 'O')) for c in _codes}, 'days': [], 'te': True, 'review': not _codes, 'topic': X.get('topic')}
             report.append(f'G{g} {lid}: added from the Teacher Edition overview')
     out_lessons = []
     modnames = {m['n']: m for m in mods}
@@ -186,8 +193,18 @@ for g in GRADES:
                             'note': ('Supplemental lesson' if sup else '') + (('; ' if sup else '') + ('TEKS from the Eureka Teacher Edition ' + ('Supplement overview' if sup else 'topic overview')) if L.get('te') else '') + (('; ' if sup else '') + 'TEKS from the 2025-26 Q3 weekly IPC (2026-27 not posted yet)' if L.get('prev') else ''), 'prev': bool(L.get('prev')), 'marks': [list(x) for x in marks], 'q3': bool(L.get('q3')) and not marks})
     if TE_ONLY:
         for L in out_lessons: L['note'] = 'Supplemental lesson' if '.S' in L['id'] else ''
+        # DOTS=1: lesson-by-lesson dot chart judgments (dot_marks/<g>_M<m>.json) replace the topic lists
+        if os.environ.get('DOTS') == '1':
+            for _f in glob.glob(f'dot_marks/{g}_M*.json'):
+                J = json.load(open(_f))
+                for L in out_lessons:
+                    j = J.get(L['id'])
+                    if not j: continue
+                    mk = [[c, 'F'] for c in j['F']] + [[c, 'O'] for c in j['O']]
+                    L['marks'] = sorted(mk, key=lambda kv: (kv[1] != 'F', int(kv[0].split('.')[1][:-1]), kv[0][-1]))
+                    L['note'] = (L['note'] + '; ' if L['note'] else '') + 'Why: ' + j['why']
     for L in out_lessons:
-        if lessons[L['id']].get('review'):
+        if lessons[L['id']].get('review') and 'Why:' not in L['note']:
             L['note'] = 'Year in Review: spiral review of the grade’s major work; the Teacher Edition lists no TEKS for it'
     used_mods = sorted({L['m'] for L in out_lessons})
     modules = []

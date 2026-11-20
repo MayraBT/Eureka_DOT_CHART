@@ -1,0 +1,178 @@
+{
+ "M5.L1": {
+  "F": [
+   "5.6A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: find the volume of figures built from unit cubes; draw a figure with a volume of 3 cubic units."
+ },
+ "M5.L2": {
+  "F": [
+   "5.6A"
+  ],
+  "O": [
+   "5.6B"
+  ],
+  "why": "Exit Ticket: how many cubes fill a box folded from a net; predict and then find the volume of a box with centimeter cubes."
+ },
+ "M5.L3": {
+  "F": [
+   "5.6B"
+  ],
+  "O": [
+   "5.6A"
+  ],
+  "why": "Exit Ticket: build a prism and record layers, cubes per layer and volume; draw the layers of a 3 × 4 × 2 prism."
+ },
+ "M5.L4": {
+  "F": [
+   "5.4G",
+   "5.6B"
+  ],
+  "O": [],
+  "why": "Exit Ticket: find a prism's volume with a multiplication sentence and units; use the area of a face and the height."
+ },
+ "M5.L5": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.4G"
+  ],
+  "why": "Exit Ticket: find the volume of a prism and shade a beaker to show the liquid that would fill it."
+ },
+ "M5.L6": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.4G"
+  ],
+  "why": "Exit Ticket: total volume of soil in three planters with given dimensions."
+ },
+ "M5.L7": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.4G"
+  ],
+  "why": "Exit Ticket: does doubling a shed's dimensions double its volume; explain with a drawing."
+ },
+ "M5.L8": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.4G"
+  ],
+  "why": "Exit Ticket: sketch and label a rectangular prism with a volume of 36 cubic cm. Optional lesson."
+ },
+ "M5.L9": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.4G"
+  ],
+  "why": "Exit Ticket: find dimensions and volumes of the prisms in a sculpture. Optional lesson."
+ },
+ "M5.L10": {
+  "F": [
+   "5.3I",
+   "5.4H"
+  ],
+  "O": [],
+  "why": "Exit Ticket: fill in the dimensions of a tiled rectangle with a fractional side and multiply to find its area."
+ },
+ "M5.L11": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.3I"
+  ],
+  "why": "Exit Ticket: measure a rectangle to the nearest 1/4 inch and find its area (fraction × fraction goes beyond 5.3I)."
+ },
+ "M5.L12": {
+  "F": [
+   "5.3I",
+   "5.4H"
+  ],
+  "O": [],
+  "why": "Exit Ticket: areas of rectangles with mixed-number side lengths, using an area model if it helps."
+ },
+ "M5.L13": {
+  "F": [
+   "5.3I",
+   "5.4H"
+  ],
+  "O": [],
+  "why": "Exit Ticket: area of a 5 3/4 ft by 9 ft garden."
+ },
+ "M5.L14": {
+  "F": [
+   "5.4H"
+  ],
+  "O": [
+   "5.3I"
+  ],
+  "why": "Exit Ticket: area covered by a 6 × 6 array of 3/4 in by 1 in planters."
+ },
+ "M5.L15": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: label groups of triangles by a shared attribute (acute, right, obtuse, scalene, isosceles, equilateral)."
+ },
+ "M5.L16": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: draw an isosceles triangle and a scalene triangle."
+ },
+ "M5.L17": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: draw a trapezoid; name the attribute a quadrilateral needs to be a trapezoid."
+ },
+ "M5.L18": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: draw a parallelogram; list the attributes all parallelograms share."
+ },
+ "M5.L19": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: draw a rhombus and a rectangle."
+ },
+ "M5.L20": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: the property that makes a rectangle a square; how parallelograms and kites differ."
+ },
+ "M5.L21": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: draw a square and name the attributes it has because it is a kite, a rhombus and a rectangle (hierarchy)."
+ },
+ "M5.L22": {
+  "F": [
+   "5.5A"
+  ],
+  "O": [],
+  "why": "Exit Ticket: complete ‘All __ are __, but not all __ are __’ with squares, parallelograms, kites and rhombuses."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "M3.L1":  {"F": ["5.3H"], "O": ["5.3K"], "why": "Exit Ticket: 1/2 + 1/5 and an addition word problem (2/5 and 1/4 of an hour), each with a rectangular fraction model."},
+ "M3.L2":  {"F": ["5.3H"], "O": ["5.3K"], "why": "Exit Ticket: model 5/6 + 1/4 as a mixed number; 3/4 L + 4/5 L of water."},
+ "M3.L3":  {"F": ["5.3H"], "O": ["5.3K"], "why": "Exit Ticket: subtract fractions with unlike units using a rectangular fraction model (e.g., 1/2 − 1/7)."},
+ "M3.L4":  {"F": ["5.3H"], "O": ["5.3K"], "why": "Exit Ticket: subtract fractions from numbers between 1 and 2 using a rectangular fraction model."},
+ "M3.L5":  {"F": ["5.3K"], "O": ["5.3H"], "why": "Exit Ticket: two-step word problem: who mowed more of the lawn and how much is left (RDW)."},
+ "M3.L6":  {"F": ["5.3K"], "O": ["5.3H"], "why": "Exit Ticket: add fractions to and subtract fractions from whole numbers."},
+ "M3.L7":  {"F": ["5.3K"], "O": ["5.3H"], "why": "Exit Ticket: make like units numerically, then add."},
+ "M3.L8":  {"F": ["5.3K"], "O": [], "why": "Exit Ticket: add mixed numbers with unlike units (sums greater than 2)."},
+ "M3.L9":  {"F": ["5.3K"], "O": ["5.3H"], "why": "Exit Ticket: generate equivalent fractions to get like units, then subtract."},
+ "M3.L10": {"F": ["5.3K"], "O": [], "why": "Exit Ticket: subtract mixed numbers with unlike units."},
+ "M3.L11": {"F": ["5.3A"], "O": ["5.3K"], "why": "Exit Ticket: use benchmarks to decide whether sums and differences are greater or less than 1 or 1/2; complete comparisons."},
+ "M3.L12": {"F": ["5.3K"], "O": [], "why": "Exit Ticket: fill in the missing fraction to make multi-term statements true."},
+ "M3.L13": {"F": ["5.3K"], "O": ["5.3A"], "why": "Exit Ticket: sandwich for $5 1/2 and a $2.60 drink paid with $10; change left, with a reasonableness check (RDW)."},
+ "M3.L14": {"F": [], "O": ["5.3H"], "why": "Exit Ticket: draw the whole ribbon given a piece that is 2/3 or 1/4 of it. Part-to-whole reasoning is not a Grade 5 TEKS."}
+}

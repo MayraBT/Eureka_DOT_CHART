@@ -1,0 +1,17 @@
+{
+ "M6.L1":  {"F": ["3.9A"], "O": [], "why": "Exit Ticket: how time in school affects earnings; choose the likely salary of an eye doctor. (Coin and bill values, 3.4C, appear only in this module's fluency warm-ups.)"},
+ "M6.L2":  {"F": ["3.9B"], "O": [], "why": "Exit Ticket: explain prices of a signed baseball and winter pool toys with supply and demand."},
+ "M6.L3":  {"F": ["3.9E"], "O": ["3.9C"], "why": "Exit Ticket: what happens without saving for planned expenses, and when saving only for planned but not unplanned expenses."},
+ "M6.L4":  {"F": ["3.9D"], "O": [], "why": "Exit Ticket: find the original cost of a car from a loan total with interest; how much Tommy must pay back with interest."},
+ "M6.L5":  {"F": ["3.8B"], "O": ["3.8A"], "why": "Exit Ticket: read a picture graph of favorite sports, how many more, total surveyed."},
+ "M6.L6":  {"F": ["3.8A"], "O": [], "why": "Exit Ticket: draw strip diagrams with a unit of 4 from a frequency table, then vertical strip diagrams (toward a scaled bar graph)."},
+ "M6.L7":  {"F": ["3.8B"], "O": ["3.8A"], "why": "Exit Ticket: use a bar graph's scale to plot each flavor on a number line; number sentence for the total of three flavors."},
+ "M6.L8":  {"F": ["3.8B"], "O": ["3.4C"], "why": "Exit Ticket: one- and two-step questions from a bar graph of library books. The Problem Set includes a coin tally chart."},
+ "M6.L9":  {"F": ["3.7A"], "O": [], "why": "Exit Ticket: label whole and quarter inches on a 4-inch strip; explain why 4 inches = 16 quarter inches."},
+ "M6.L10": {"F": ["3.7E"], "O": ["3.7D"], "why": "Exit Ticket: choose ounces or pounds for a dog, football, apple and lion."},
+ "M6.L11": {"F": ["3.7D", "3.7E"], "O": [], "why": "Exit Ticket: circle the units that measure volume (not weight or length); best capacity unit for a fish tank and a water bottle."},
+ "M6.L12": {"F": ["3.8B"], "O": ["3.7A"], "why": "Exit Ticket: read a dot plot of hand lengths in quarter inches, count students, compare categories."},
+ "M6.L13": {"F": ["3.8A"], "O": ["3.7A"], "why": "Exit Ticket: label the tick marks and record gerbil weights on a dot plot with a title."},
+ "M6.L14": {"F": ["3.8B"], "O": ["3.7A"], "why": "Exit Ticket: most frequent measurements, greatest minus least capacity, how many more tanks at one capacity than another."},
+ "M6.L15": {"F": ["3.8B"], "O": ["3.4A"], "why": "Exit Ticket: two-step comparison from a picture graph of birds; compare with another class's 104 birds."}
+}

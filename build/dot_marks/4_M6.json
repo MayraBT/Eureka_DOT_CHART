@@ -1,0 +1,20 @@
+{
+ "M6.L1":  {"F": ["4.2E", "4.2G"], "O": ["4.8A"], "why": "Exit Ticket: complete sentences in fraction and decimal form (9/10 cm + __ = 1 cm, 0.9 cm + __ = 1.0 cm); match unit, fraction and decimal forms."},
+ "M6.L2":  {"F": ["4.2E", "4.2G"], "O": ["4.8A"], "why": "Exit Ticket: draw a 4.8 cm segment and write it as a mixed number; write amounts in decimal and mixed-number form and shade area models."},
+ "M6.L3":  {"F": ["4.2E", "4.2H"], "O": ["4.2B"], "why": "Exit Ticket: group tenths into ones and write the decimal; complete a chart of points on a number line."},
+ "M6.L4":  {"F": ["4.2E", "4.2G"], "O": [], "why": "Exit Ticket: shade 6/10 m and write the decimal; number bonds pulling tenths out of hundredths (62/100 m)."},
+ "M6.L5":  {"F": ["4.2E", "4.2G"], "O": ["4.3C"], "why": "Exit Ticket: show 7/100 and 34/100 with tenths and hundredths disks, write the decimal and unit form."},
+ "M6.L6":  {"F": ["4.2G", "4.2H"], "O": ["4.3G"], "why": "Exit Ticket: locate fractions on number lines and label them as decimals; write 8 ones 24 hundredths as a fraction and a decimal."},
+ "M6.L7":  {"F": ["4.2B"], "O": ["4.2A"], "why": "Exit Ticket: value of each digit in 827.64 in unit form on the place value chart."},
+ "M6.L8":  {"F": ["4.2B"], "O": ["4.2A", "4.3C"], "why": "Exit Ticket: 3 ones 2 tenths as tenths and as hundredths with disks; decompose 2.6 into tenths."},
+ "M6.L9":  {"F": ["4.2F"], "O": ["4.8C"], "why": "Exit Ticket: compare metric measurements in decimal form (0.4 kg and 0.47 kg)."},
+ "M6.L10": {"F": ["4.2F"], "O": ["4.3C"], "why": "Exit Ticket: decide whether 0.6 or 0.60 is greater with area models; compare 3.9 and 3.09 and other pairs."},
+ "M6.L11": {"F": ["4.2F", "4.2H"], "O": ["4.2G"], "why": "Exit Ticket: plot numbers given in several forms on a number line as decimals; order them from greatest to least."},
+ "M6.L12": {"F": ["4.4A"], "O": ["4.2G", "4.3E"], "why": "Exit Ticket: add tenths and hundredths on the place value chart (13 tenths + 53/100, 1.06 + 4 ones 28 hundredths)."},
+ "M6.L13": {"F": ["4.4A"], "O": ["4.2G"], "why": "Exit Ticket: 6.89 − 3 ones 76 hundredths and 5 24/100 − 1.41, answers in decimal form."},
+ "M6.L14": {"F": ["4.4A", "4.8C"], "O": [], "why": "Exit Ticket: 6.43 km + 5.6 km word problem."},
+ "M6.L15": {"F": ["4.2E", "4.8C"], "O": ["4.2G"], "why": "Exit Ticket: value of coin collections in fraction and decimal form; add two money amounts as decimals."},
+ "M6.L16": {"F": ["4.10C", "4.10E"], "O": [], "why": "Exit Ticket: two purposes of banks; one advantage and one disadvantage of a savings account."},
+ "M6.L17": {"F": ["4.10A"], "O": ["4.10D"], "why": "Exit Ticket: list three fixed and three variable expenses. The lesson allocates a weekly allowance."},
+ "M6.L18": {"F": ["4.10B"], "O": ["4.8C"], "why": "Exit Ticket: calculate Alex's profit from mowing 3 lawns given his costs per lawn."}
+}

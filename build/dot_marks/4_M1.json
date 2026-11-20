@@ -1,0 +1,21 @@
+{
+ "M1.L1":  {"F": ["4.2A"], "O": ["4.2B"], "why": "Exit Ticket: label the place value chart, write the ×10 equation that matches the disks, and write a statement about the 10-times relationship."},
+ "M1.L2":  {"F": ["4.2A"], "O": ["4.2B"], "why": "Exit Ticket: (4 ten thousands 6 hundreds) × 10 and (8 thousands 2 tens) ÷ 10 in standard form; home costs 10 times $39,580."},
+ "M1.L3":  {"F": ["4.2B"], "O": ["4.2A"], "why": "Exit Ticket: write units in standard form with commas (to hundred millions); show 26 thousands 13 hundreds on the chart."},
+ "M1.L4":  {"F": ["4.2B"], "O": [], "why": "Exit Ticket: write a number from expanded notation into the place value chart and in word form; write eight million, four hundred forty-three thousand, eleven in expanded notation."},
+ "M1.L5":  {"F": ["4.2C"], "O": ["4.2B"], "why": "Exit Ticket: order four players' scores in the millions from least to greatest and name the winner; build a number to make a comparison true."},
+ "M1.L6":  {"F": ["4.2B", "4.2C"], "O": ["4.2A"], "why": "Exit Ticket: complete a 1,000-more pattern and explain; add or subtract 1,000, 10,000 and 100,000; compare two city populations."},
+ "M1.L7":  {"F": ["4.2D"], "O": ["4.4G"], "why": "Exit Ticket: round to the nearest thousand on a number line; decide who rounded 39,090 gallons correctly."},
+ "M1.L8":  {"F": ["4.2D", "4.4G"], "O": [], "why": "Exit Ticket: round to the nearest ten thousand and hundred thousand on a number line; estimate a sum by rounding."},
+ "M1.L9":  {"F": ["4.2D"], "O": ["4.4G"], "why": "Exit Ticket: round 765,903 to three places; round 16,850 shops two ways and explain which is more accurate."},
+ "M1.L10": {"F": ["4.2D"], "O": ["4.4G"], "why": "Exit Ticket: round 598,500 to three places and explain why two answers match; round survey counts in context."},
+ "M1.L11": {"F": ["4.4A"], "O": ["4.5A"], "why": "Exit Ticket: three additions with the standard algorithm; total of three kinds of paper clips."},
+ "M1.L12": {"F": ["4.4A", "4.5A"], "O": ["4.4G"], "why": "Exit Ticket: multi-step earnings problem modeled with a strip diagram, answer as a statement, check reasonableness."},
+ "M1.L13": {"F": ["4.4A", "4.5A"], "O": [], "why": "Exit Ticket: subtract with the standard algorithm (decompose once); missing-addend problem modeled with a strip diagram."},
+ "M1.L14": {"F": ["4.4A", "4.5A"], "O": [], "why": "Exit Ticket: subtract decomposing up to three times (32,010 − 2,546); doughnut problem with a strip diagram."},
+ "M1.L15": {"F": ["4.4A", "4.5A"], "O": [], "why": "Exit Ticket: 956,204 − 780,169 and 100,000 − 15,631 stones, each modeled with a strip diagram."},
+ "M1.L16": {"F": ["4.4A", "4.4G"], "O": ["4.5A"], "why": "Exit Ticket: estimate remaining passing yards by rounding to the nearest thousand, then find the exact amount (two-step)."},
+ "M1.L17": {"F": ["4.4A", "4.5A"], "O": [], "why": "Exit Ticket: ‘how much less’ comparison problem with milliliters, modeled with a strip diagram."},
+ "M1.L18": {"F": ["4.4A", "4.5A"], "O": ["4.4G"], "why": "Exit Ticket: multi-step park-area problem with a strip diagram; assess reasonableness."},
+ "M1.L19": {"F": ["4.5A"], "O": ["4.4A"], "why": "Exit Ticket: write word problems for a strip diagram and for 248,798 = 113,205 + A + 99,937, and solve for the letter."}
+}
